@@ -1,0 +1,28 @@
+{
+  "name": "cs-trade-up",
+  "version": "0.0.1",
+  "description": "CSTradeUp",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc --build tsconfig.json",
+    "test": "ts-mocha -p tsconfig.json src/**/*_test.ts",
+    "server": "node .",
+    "start": "tsc-watch -p tsconfig.json --onSuccess 'node .'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/assert": "^1.5.6",
+    "@types/express": "^4.17.17",
+    "@types/mocha": "^5.2.7",
+    "assert": "^2.0.0",
+    "mocha": "^10.1.0",
+    "node-mocks-http": "^1.12.1",
+    "ts-mocha": "^10.0.0",
+    "tsc-watch": "^6.0.4",
+    "typescript": "^4.8.4"
+  }
+}
