@@ -1,0 +1,219 @@
+{
+  "name": "CS:GO Weapon Case 2",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "SSG 08 | Blood in the Water",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "53.35",
+          "Minimal Wear": "34.29",
+          "Field-Tested": "34.42",
+          "StatTrak Factory New": "313.17",
+          "StatTrak Minimal Wear": "131.50",
+          "StatTrak Field-Tested": "134.34"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "P90 | Cold Blooded",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "52.00",
+          "Minimal Wear": "51.54",
+          "StatTrak Factory New": "65.00",
+          "StatTrak Minimal Wear": "61.28"
+        }
+      },
+      {
+        "name": "USP-S | Serum",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.25
+        },
+        "prices": {
+          "Factory New": "50.25",
+          "Minimal Wear": "26.99",
+          "Field-Tested": "27.63",
+          "StatTrak Factory New": "52.42",
+          "StatTrak Minimal Wear": "33.46",
+          "StatTrak Field-Tested": "37.43"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Five-SeveN | Case Hardened",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "14.77",
+          "Minimal Wear": "10.70",
+          "Field-Tested": "8.38",
+          "Well-Worn": "7.39",
+          "Battle-Scarred": "7.36",
+          "StatTrak Factory New": "77.67",
+          "StatTrak Minimal Wear": "30.98",
+          "StatTrak Field-Tested": "16.50",
+          "StatTrak Well-Worn": "14.85",
+          "StatTrak Battle-Scarred": "14.60"
+        }
+      },
+      {
+        "name": "Nova | Graphite",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.12
+        },
+        "prices": {
+          "Factory New": "6.80",
+          "Minimal Wear": "6.15",
+          "StatTrak Factory New": "61.33",
+          "StatTrak Minimal Wear": "14.93"
+        }
+      },
+      {
+        "name": "MP9 | Hypnotic",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "7.51",
+          "Minimal Wear": "10.89",
+          "StatTrak Factory New": "24.87",
+          "StatTrak Minimal Wear": "28.39"
+        }
+      },
+      {
+        "name": "Dual Berettas | Hemoglobin",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "7.10",
+          "Minimal Wear": "6.22",
+          "Field-Tested": "7.22",
+          "StatTrak Factory New": "23.41",
+          "StatTrak Minimal Wear": "13.52",
+          "StatTrak Field-Tested": "12.88"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SCAR-20 | Crimson Web",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "11.82",
+          "Minimal Wear": "4.92",
+          "Field-Tested": "4.32",
+          "Well-Worn": "4.61",
+          "Battle-Scarred": "4.01",
+          "StatTrak Factory New": "41.82",
+          "StatTrak Minimal Wear": "7.16",
+          "StatTrak Field-Tested": "5.09",
+          "StatTrak Well-Worn": "5.00",
+          "StatTrak Battle-Scarred": "4.43"
+        }
+      },
+      {
+        "name": "M4A1-S | Blood Tiger",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "5.39",
+          "Minimal Wear": "4.82",
+          "Field-Tested": "4.32",
+          "StatTrak Factory New": "11.56",
+          "StatTrak Minimal Wear": "7.97",
+          "StatTrak Field-Tested": "8.99"
+        }
+      },
+      {
+        "name": "P250 | Hive",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "5.29",
+          "Minimal Wear": "4.72",
+          "Field-Tested": "4.44",
+          "StatTrak Factory New": "7.61",
+          "StatTrak Minimal Wear": "6.81",
+          "StatTrak Field-Tested": "5.53"
+        }
+      },
+      {
+        "name": "Tec-9 | Blue Titanium",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.04
+        },
+        "prices": {
+          "Factory New": "5.54",
+          "StatTrak Factory New": "8.11"
+        }
+      },
+      {
+        "name": "FAMAS | Hexane",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "4.94",
+          "Minimal Wear": "4.71",
+          "Field-Tested": "4.41",
+          "Well-Worn": "4.97",
+          "StatTrak Factory New": "8.26",
+          "StatTrak Minimal Wear": "5.55",
+          "StatTrak Field-Tested": "5.05",
+          "StatTrak Well-Worn": "6.41"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

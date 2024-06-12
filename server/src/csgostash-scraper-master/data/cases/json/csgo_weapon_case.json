@@ -1,0 +1,162 @@
+{
+  "name": "CS:GO Weapon Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AWP | Lightning Strike",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "479.00",
+          "Minimal Wear": "518.75",
+          "StatTrak Factory New": "745.00",
+          "StatTrak Minimal Wear": "773.30"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Desert Eagle | Hypnotic",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "77.70",
+          "Minimal Wear": "90.48",
+          "StatTrak Factory New": "128.39",
+          "StatTrak Minimal Wear": "251.75"
+        }
+      },
+      {
+        "name": "AK-47 | Case Hardened",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "310.00",
+          "Minimal Wear": "237.13",
+          "Field-Tested": "199.99",
+          "Well-Worn": "159.99",
+          "Battle-Scarred": "150.41",
+          "StatTrak Factory New": "726.33",
+          "StatTrak Minimal Wear": "475.79",
+          "StatTrak Field-Tested": "379.45",
+          "StatTrak Well-Worn": "302.62",
+          "StatTrak Battle-Scarred": "299.05"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M4A1-S | Dark Water",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.26
+        },
+        "prices": {
+          "Minimal Wear": "78.71",
+          "Field-Tested": "69.45",
+          "StatTrak Minimal Wear": "124.90",
+          "StatTrak Field-Tested": "113.17"
+        }
+      },
+      {
+        "name": "USP-S | Dark Water",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.26
+        },
+        "prices": {
+          "Minimal Wear": "71.59",
+          "Field-Tested": "67.86",
+          "StatTrak Minimal Wear": "126.21",
+          "StatTrak Field-Tested": "114.04"
+        }
+      },
+      {
+        "name": "Glock-18 | Dragon Tattoo",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "80.56",
+          "Minimal Wear": "88.59",
+          "StatTrak Factory New": "335.66",
+          "StatTrak Minimal Wear": "210.94"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SG 553 | Ultraviolet",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "31.23",
+          "Minimal Wear": "20.76",
+          "Field-Tested": "20.96",
+          "Well-Worn": "20.64",
+          "Battle-Scarred": "20.00",
+          "StatTrak Factory New": "91.12",
+          "StatTrak Minimal Wear": "21.82",
+          "StatTrak Field-Tested": "19.81",
+          "StatTrak Well-Worn": "20.85",
+          "StatTrak Battle-Scarred": "19.95"
+        }
+      },
+      {
+        "name": "AUG | Wings",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.14
+        },
+        "prices": {
+          "Factory New": "21.59",
+          "Minimal Wear": "21.54",
+          "StatTrak Factory New": "21.54",
+          "StatTrak Minimal Wear": "18.85"
+        }
+      },
+      {
+        "name": "MP7 | Skulls",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.26
+        },
+        "prices": {
+          "Minimal Wear": "22.10",
+          "Field-Tested": "20.91",
+          "StatTrak Minimal Wear": "20.80",
+          "StatTrak Field-Tested": "19.88"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

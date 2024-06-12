@@ -1,0 +1,180 @@
+{
+  "name": "eSports 2013 Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "P90 | Death by Kitty",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.08,
+          "max_wear": 0.32
+        },
+        "prices": {
+          "Minimal Wear": "41.20",
+          "Field-Tested": "27.15",
+          "StatTrak Minimal Wear": "170.00",
+          "StatTrak Field-Tested": "92.34"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AK-47 | Red Laminate",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "314.23",
+          "Minimal Wear": "53.13",
+          "Field-Tested": "36.20",
+          "Well-Worn": "36.29",
+          "Battle-Scarred": "37.61",
+          "StatTrak Factory New": "1,500.00",
+          "StatTrak Minimal Wear": "187.00",
+          "StatTrak Field-Tested": "94.26",
+          "StatTrak Well-Worn": "89.92",
+          "StatTrak Battle-Scarred": "96.61"
+        }
+      },
+      {
+        "name": "AWP | BOOM",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.28
+        },
+        "prices": {
+          "Factory New": "265.00",
+          "Minimal Wear": "79.98",
+          "Field-Tested": "70.02",
+          "StatTrak Factory New": "518.00",
+          "StatTrak Minimal Wear": "168.00",
+          "StatTrak Field-Tested": "122.67"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Galil AR | Orange DDPAT",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "39.09",
+          "Minimal Wear": "18.32",
+          "Field-Tested": "11.65",
+          "Well-Worn": "10.49",
+          "Battle-Scarred": "12.18",
+          "StatTrak Factory New": "264.31",
+          "StatTrak Minimal Wear": "27.05",
+          "StatTrak Field-Tested": "17.33",
+          "StatTrak Well-Worn": "15.64",
+          "StatTrak Battle-Scarred": "17.70"
+        }
+      },
+      {
+        "name": "P250 | Splash",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.18
+        },
+        "prices": {
+          "Factory New": "30.97",
+          "Minimal Wear": "16.47",
+          "Field-Tested": "23.39",
+          "StatTrak Factory New": "74.00",
+          "StatTrak Minimal Wear": "42.18",
+          "StatTrak Field-Tested": "41.22"
+        }
+      },
+      {
+        "name": "Sawed-Off | Orange DDPAT",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "34.92",
+          "Minimal Wear": "14.54",
+          "Field-Tested": "12.35",
+          "Well-Worn": "10.86",
+          "Battle-Scarred": "11.15",
+          "StatTrak Factory New": "98.43",
+          "StatTrak Minimal Wear": "28.00",
+          "StatTrak Field-Tested": "14.21",
+          "StatTrak Well-Worn": "18.71",
+          "StatTrak Battle-Scarred": "17.22"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MAG-7 | Memento",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.02,
+          "max_wear": 0.18
+        },
+        "prices": {
+          "Factory New": "5.24",
+          "Minimal Wear": "4.53",
+          "Field-Tested": "4.80",
+          "StatTrak Factory New": "6.56",
+          "StatTrak Minimal Wear": "4.14",
+          "StatTrak Field-Tested": "4.59"
+        }
+      },
+      {
+        "name": "M4A4 | Faded Zebra",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "19.89",
+          "Minimal Wear": "4.19",
+          "Field-Tested": "3.75",
+          "Well-Worn": "4.46",
+          "Battle-Scarred": "3.77",
+          "StatTrak Factory New": "144.64",
+          "StatTrak Minimal Wear": "5.08",
+          "StatTrak Field-Tested": "3.17",
+          "StatTrak Well-Worn": "2.85",
+          "StatTrak Battle-Scarred": "3.50"
+        }
+      },
+      {
+        "name": "FAMAS | Doomkitty",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.08,
+          "max_wear": 0.22
+        },
+        "prices": {
+          "Minimal Wear": "3.83",
+          "Field-Tested": "4.36",
+          "StatTrak Minimal Wear": "3.62",
+          "StatTrak Field-Tested": "3.72"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

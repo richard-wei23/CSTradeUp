@@ -1,0 +1,316 @@
+{
+  "name": "The Havoc Collection",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AK-47 | X-Ray",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "1,567.85",
+          "Minimal Wear": "984.77",
+          "Field-Tested": "570.00",
+          "Well-Worn": "337.75",
+          "Battle-Scarred": "214.62"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AWP | Silk Tiger",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "218.43",
+          "Minimal Wear": "180.00",
+          "Field-Tested": "107.00",
+          "Well-Worn": "111.00",
+          "Battle-Scarred": "102.71"
+        }
+      },
+      {
+        "name": "MAC-10 | Hot Snakes",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "193.14",
+          "Minimal Wear": "149.15",
+          "Field-Tested": "104.13",
+          "Well-Worn": "112.54",
+          "Battle-Scarred": "98.77"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Glock-18 | Franklin",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "36.35",
+          "Minimal Wear": "35.85",
+          "Field-Tested": "30.98",
+          "Well-Worn": "39.99"
+        }
+      },
+      {
+        "name": "Galil AR | Phoenix Blacklight",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "57.00",
+          "Minimal Wear": "46.00",
+          "Field-Tested": "37.51",
+          "Well-Worn": "56.35",
+          "Battle-Scarred": "37.23"
+        }
+      },
+      {
+        "name": "SG 553 | Hypnotic",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "38.18",
+          "Minimal Wear": "41.50"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Negev | Phoenix Stencil",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.65
+        },
+        "prices": {
+          "Factory New": "13.85",
+          "Minimal Wear": "12.64",
+          "Field-Tested": "11.29",
+          "Well-Worn": "12.24",
+          "Battle-Scarred": "10.42"
+        }
+      },
+      {
+        "name": "P90 | Tiger Pit",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "12.82",
+          "Minimal Wear": "11.90",
+          "Field-Tested": "12.10",
+          "Well-Worn": "15.84",
+          "Battle-Scarred": "11.95"
+        }
+      },
+      {
+        "name": "Desert Eagle | Night Heist",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.65
+        },
+        "prices": {
+          "Factory New": "12.44",
+          "Minimal Wear": "11.20",
+          "Field-Tested": "11.66",
+          "Well-Worn": "12.00",
+          "Battle-Scarred": "11.00"
+        }
+      },
+      {
+        "name": "P250 | Bengal Tiger",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "20.00",
+          "Minimal Wear": "11.92",
+          "Field-Tested": "11.69",
+          "Well-Worn": "10.30",
+          "Battle-Scarred": "10.46"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "MP7 | Vault Heist",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "3.05",
+          "Minimal Wear": "2.68",
+          "Field-Tested": "2.29",
+          "Well-Worn": "2.81",
+          "Battle-Scarred": "2.70"
+        }
+      },
+      {
+        "name": "R8 Revolver | Phoenix Marker",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "3.20",
+          "Minimal Wear": "2.92",
+          "Field-Tested": "2.21",
+          "Well-Worn": "2.76",
+          "Battle-Scarred": "2.99"
+        }
+      },
+      {
+        "name": "UMP-45 | Houndstooth",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "3.40",
+          "Minimal Wear": "2.80",
+          "Field-Tested": "2.35",
+          "Well-Worn": "2.91",
+          "Battle-Scarred": "2.81"
+        }
+      },
+      {
+        "name": "Nova | Rust Coat",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "3.03",
+          "Minimal Wear": "2.68",
+          "Field-Tested": "2.32",
+          "Well-Worn": "2.80",
+          "Battle-Scarred": "2.51"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Sawed-Off | Clay Ambush",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.64",
+          "Minimal Wear": "0.50",
+          "Field-Tested": "0.45",
+          "Well-Worn": "0.45",
+          "Battle-Scarred": "0.41"
+        }
+      },
+      {
+        "name": "Dual Berettas | Heist",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "0.74",
+          "Minimal Wear": "0.54",
+          "Field-Tested": "0.44",
+          "Well-Worn": "0.83",
+          "Battle-Scarred": "0.41"
+        }
+      },
+      {
+        "name": "M249 | Predator",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "1.53",
+          "Minimal Wear": "0.54",
+          "Field-Tested": "0.45",
+          "Well-Worn": "0.41",
+          "Battle-Scarred": "0.39"
+        }
+      },
+      {
+        "name": "Tec-9 | Phoenix Chalk",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.74",
+          "Minimal Wear": "0.54",
+          "Field-Tested": "0.44",
+          "Well-Worn": "0.53",
+          "Battle-Scarred": "0.46"
+        }
+      },
+      {
+        "name": "PP-Bizon | Death Rattle",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.08,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Minimal Wear": "0.62",
+          "Field-Tested": "0.43",
+          "Well-Worn": "0.50",
+          "Battle-Scarred": "0.42"
+        }
+      }
+    ]
+  }
+}

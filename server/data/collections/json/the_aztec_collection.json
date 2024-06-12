@@ -1,0 +1,107 @@
+{
+  "name": "The Aztec Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [],
+    "Mil-Spec Skins": [
+      {
+        "name": "Tec-9 | Ossified",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "1.02",
+          "Minimal Wear": "3.53"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "AK-47 | Jungle Spray",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "101.24",
+          "Minimal Wear": "10.19",
+          "Field-Tested": "3.82",
+          "Well-Worn": "4.76",
+          "Battle-Scarred": "3.65"
+        }
+      },
+      {
+        "name": "M4A4 | Jungle Tiger",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "75.93",
+          "Minimal Wear": "8.07",
+          "Field-Tested": "5.11",
+          "Well-Worn": "5.53",
+          "Battle-Scarred": "6.48"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "SSG 08 | Lichen Dashed",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "28.99",
+          "Minimal Wear": "4.37",
+          "Field-Tested": "1.28",
+          "Well-Worn": "2.69",
+          "Battle-Scarred": "1.30"
+        }
+      },
+      {
+        "name": "Five-SeveN | Jungle",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "22.99",
+          "Minimal Wear": "4.50",
+          "Field-Tested": "1.44",
+          "Well-Worn": "1.00",
+          "Battle-Scarred": "1.33"
+        }
+      },
+      {
+        "name": "Nova | Forest Leaves",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "24.60",
+          "Minimal Wear": "3.64",
+          "Field-Tested": "1.41",
+          "Well-Worn": "1.79",
+          "Battle-Scarred": "1.28"
+        }
+      }
+    ]
+  }
+}

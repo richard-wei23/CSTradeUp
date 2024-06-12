@@ -1,0 +1,410 @@
+{
+  "name": "The 2021 Mirage Collection",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AWP | Desert Hydra",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "2,254.58",
+          "Minimal Wear": "1,811.68",
+          "Field-Tested": "1,394.80",
+          "Well-Worn": "1,348.00",
+          "Battle-Scarred": "1,237.85",
+          "StatTrak Factory New": "2,869.41",
+          "StatTrak Minimal Wear": "1,819.99",
+          "StatTrak Field-Tested": "1,399.93",
+          "StatTrak Well-Worn": "1,188.68",
+          "StatTrak Battle-Scarred": "1,194.00"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Desert Eagle | Fennec Fox",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "347.00",
+          "Minimal Wear": "275.99",
+          "Field-Tested": "230.00",
+          "Well-Worn": "257.52",
+          "Battle-Scarred": "250.00",
+          "StatTrak Factory New": "394.50",
+          "StatTrak Minimal Wear": "220.00",
+          "StatTrak Field-Tested": "150.97",
+          "StatTrak Well-Worn": "129.94",
+          "StatTrak Battle-Scarred": "110.00"
+        }
+      },
+      {
+        "name": "MP5-SD | Oxide Oasis",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "323.29",
+          "Minimal Wear": "280.83",
+          "Field-Tested": "252.89",
+          "Well-Worn": "279.28",
+          "Battle-Scarred": "421.88",
+          "StatTrak Factory New": "21.90",
+          "StatTrak Minimal Wear": "11.36",
+          "StatTrak Field-Tested": "5.49",
+          "StatTrak Well-Worn": "5.24",
+          "StatTrak Battle-Scarred": "5.13"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "AUG | Sand Storm",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "58.00",
+          "Minimal Wear": "53.82",
+          "Field-Tested": "52.35",
+          "Well-Worn": "52.70",
+          "Battle-Scarred": "57.94",
+          "StatTrak Factory New": "4.82",
+          "StatTrak Minimal Wear": "2.65",
+          "StatTrak Field-Tested": "1.87",
+          "StatTrak Well-Worn": "2.03",
+          "StatTrak Battle-Scarred": "2.02"
+        }
+      },
+      {
+        "name": "Glock-18 | Pink DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "65.03",
+          "Minimal Wear": "54.66",
+          "Field-Tested": "48.44",
+          "Well-Worn": "48.45",
+          "Battle-Scarred": "50.60",
+          "StatTrak Factory New": "49.98",
+          "StatTrak Minimal Wear": "5.00",
+          "StatTrak Field-Tested": "1.59",
+          "StatTrak Well-Worn": "1.38",
+          "StatTrak Battle-Scarred": "1.16"
+        }
+      },
+      {
+        "name": "XM1014 | Elegant Vines",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.37
+        },
+        "prices": {
+          "Factory New": "58.97",
+          "Minimal Wear": "59.08",
+          "Field-Tested": "53.28",
+          "StatTrak Factory New": "1.24",
+          "StatTrak Minimal Wear": "0.54",
+          "StatTrak Field-Tested": "0.33"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "USP-S | Purple DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "15.89",
+          "Minimal Wear": "15.02",
+          "Field-Tested": "15.64",
+          "Well-Worn": "16.80",
+          "Battle-Scarred": "14.99",
+          "StatTrak Factory New": "7.52",
+          "StatTrak Minimal Wear": "4.35",
+          "StatTrak Field-Tested": "2.15",
+          "StatTrak Well-Worn": "1.95",
+          "StatTrak Battle-Scarred": "1.27"
+        }
+      },
+      {
+        "name": "SG 553 | Desert Blossom",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.49
+        },
+        "prices": {
+          "Factory New": "15.19",
+          "Minimal Wear": "14.90",
+          "Field-Tested": "15.87",
+          "Well-Worn": "14.84",
+          "Battle-Scarred": "20.06",
+          "StatTrak Factory New": "0.60",
+          "StatTrak Minimal Wear": "0.27",
+          "StatTrak Field-Tested": "0.10",
+          "StatTrak Well-Worn": "0.13",
+          "StatTrak Battle-Scarred": "0.20"
+        }
+      },
+      {
+        "name": "M249 | Humidor",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "15.00",
+          "Minimal Wear": "15.22",
+          "Field-Tested": "14.65",
+          "Well-Worn": "17.55",
+          "Battle-Scarred": "26.85",
+          "StatTrak Factory New": "0.08",
+          "StatTrak Minimal Wear": "0.05",
+          "StatTrak Field-Tested": "0.03",
+          "StatTrak Well-Worn": "0.05",
+          "StatTrak Battle-Scarred": "0.03"
+        }
+      },
+      {
+        "name": "MP9 | Music Box",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "15.51",
+          "Minimal Wear": "14.97",
+          "Field-Tested": "14.07",
+          "Well-Worn": "16.31",
+          "Battle-Scarred": "11.83",
+          "StatTrak Factory New": "0.60",
+          "StatTrak Minimal Wear": "0.23",
+          "StatTrak Field-Tested": "0.04",
+          "StatTrak Well-Worn": "0.14",
+          "StatTrak Battle-Scarred": "0.06"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "CZ75-Auto | Midnight Palm",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "3.50",
+          "Minimal Wear": "3.19",
+          "Field-Tested": "3.24",
+          "Well-Worn": "3.54",
+          "Battle-Scarred": "3.54",
+          "StatTrak Factory New": "0.01",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "Dual Berettas | Drift Wood",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "3.78",
+          "Minimal Wear": "3.28",
+          "Field-Tested": "3.05",
+          "Well-Worn": "3.66",
+          "Battle-Scarred": "3.34",
+          "StatTrak Factory New": "0.03",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.02",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "P90 | Verdant Growth",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.47
+        },
+        "prices": {
+          "Factory New": "3.40",
+          "Minimal Wear": "3.26",
+          "Field-Tested": "3.34",
+          "Well-Worn": "3.53",
+          "Battle-Scarred": "3.61",
+          "StatTrak Factory New": "0.03",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "FAMAS | CaliCamo",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "3.37",
+          "Minimal Wear": "3.22",
+          "Field-Tested": "3.27",
+          "Well-Worn": "3.64",
+          "Battle-Scarred": "3.30",
+          "StatTrak Factory New": "0.04",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.02"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "MAG-7 | Navy Sheen",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "0.55",
+          "Minimal Wear": "0.55",
+          "Field-Tested": "0.44",
+          "Well-Worn": "0.47",
+          "Battle-Scarred": "0.48",
+          "StatTrak Factory New": "0.01",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "PP-Bizon | Anolis",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "0.61",
+          "Minimal Wear": "0.42",
+          "Field-Tested": "0.50",
+          "Well-Worn": "0.56",
+          "Battle-Scarred": "0.51",
+          "StatTrak Factory New": "0.01",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "MAC-10 | Sienna Damask",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.62",
+          "Minimal Wear": "0.49",
+          "Field-Tested": "0.47",
+          "Well-Worn": "0.46",
+          "Battle-Scarred": "0.48",
+          "StatTrak Factory New": "0.01",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "SSG 08 | Prey",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.48
+        },
+        "prices": {
+          "Factory New": "0.61",
+          "Minimal Wear": "0.53",
+          "Field-Tested": "0.51",
+          "Well-Worn": "0.50",
+          "Battle-Scarred": "0.53",
+          "StatTrak Factory New": "0.01",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "P250 | Drought",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.44
+        },
+        "prices": {
+          "Factory New": "0.59",
+          "Minimal Wear": "0.51",
+          "Field-Tested": "0.51",
+          "Well-Worn": "0.49",
+          "StatTrak Factory New": "0.01",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01"
+        }
+      }
+    ]
+  }
+}

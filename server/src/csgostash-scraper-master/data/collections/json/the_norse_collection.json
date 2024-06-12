@@ -1,0 +1,273 @@
+{
+  "name": "The Norse Collection",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AWP | Gungnir",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "11,200.00",
+          "Minimal Wear": "9,946.25",
+          "Field-Tested": "7,899.00",
+          "Well-Worn": "6,737.13",
+          "Battle-Scarred": "5,724.44"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Negev | Mjölnir",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Desert Eagle | Emerald Jörmungandr",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        }
+      },
+      {
+        "name": "P90 | Astral Jörmungandr",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        }
+      },
+      {
+        "name": "AUG | Flame Jörmungandr",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "XM1014 | Frost Borre",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "113.88",
+          "Minimal Wear": "93.66",
+          "Field-Tested": "96.15",
+          "Well-Worn": "84.57",
+          "Battle-Scarred": "145.44"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Emerald Quartz",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "111.59",
+          "Minimal Wear": "102.36",
+          "Field-Tested": "96.57",
+          "Well-Worn": "120.00",
+          "Battle-Scarred": "95.00"
+        }
+      },
+      {
+        "name": "SCAR-20 | Brass",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "110.00",
+          "Minimal Wear": "100.00",
+          "Field-Tested": "89.48",
+          "Well-Worn": "96.88",
+          "Battle-Scarred": "97.34"
+        }
+      },
+      {
+        "name": "MAC-10 | Copper Borre",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "101.79",
+          "Minimal Wear": "91.79",
+          "Field-Tested": "91.29",
+          "Well-Worn": "104.65",
+          "Battle-Scarred": "105.51"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "M4A1-S | Moss Quartz",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "56.86",
+          "Minimal Wear": "39.96",
+          "Field-Tested": "25.00",
+          "Well-Worn": "25.60",
+          "Battle-Scarred": "28.11"
+        }
+      },
+      {
+        "name": "MAG-7 | Chainmail",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.22
+        },
+        "prices": {
+          "Factory New": "26.31",
+          "Minimal Wear": "24.00",
+          "Field-Tested": "22.86"
+        }
+      },
+      {
+        "name": "Dual Berettas | Pyre",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "28.01",
+          "Minimal Wear": "24.12",
+          "Field-Tested": "21.91",
+          "Well-Worn": "24.23",
+          "Battle-Scarred": "23.50"
+        }
+      },
+      {
+        "name": "USP-S | Pathfinder",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.35
+        },
+        "prices": {
+          "Factory New": "27.17",
+          "Minimal Wear": "22.50",
+          "Field-Tested": "24.32"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Galil AR | Tornado",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "13.58",
+          "Minimal Wear": "5.61",
+          "Field-Tested": "5.26",
+          "Well-Worn": "5.31",
+          "Battle-Scarred": "5.20"
+        }
+      },
+      {
+        "name": "SSG 08 | Red Stone",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "15.90",
+          "Minimal Wear": "5.34",
+          "Field-Tested": "4.67",
+          "Well-Worn": "5.59",
+          "Battle-Scarred": "5.45"
+        }
+      },
+      {
+        "name": "MP7 | Scorched",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "8.79",
+          "Minimal Wear": "5.92",
+          "Field-Tested": "4.48",
+          "Well-Worn": "5.49",
+          "Battle-Scarred": "4.65"
+        }
+      },
+      {
+        "name": "FAMAS | Night Borre",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "6.78",
+          "Minimal Wear": "5.56",
+          "Field-Tested": "4.64",
+          "Well-Worn": "5.96",
+          "Battle-Scarred": "5.06"
+        }
+      },
+      {
+        "name": "SG 553 | Barricade",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.65
+        },
+        "prices": {
+          "Factory New": "7.07",
+          "Minimal Wear": "5.39",
+          "Field-Tested": "5.16",
+          "Well-Worn": "5.55",
+          "Battle-Scarred": "5.32"
+        }
+      }
+    ]
+  }
+}

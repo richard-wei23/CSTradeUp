@@ -1,0 +1,314 @@
+{
+  "name": "The Italy Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "AWP | Pit Viper",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.08,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Minimal Wear": "0.38",
+          "Field-Tested": "0.13",
+          "Well-Worn": "0.21",
+          "Battle-Scarred": "0.18",
+          "StatTrak Minimal Wear": "529.44",
+          "StatTrak Field-Tested": "562.37",
+          "StatTrak Well-Worn": "o offers",
+          "StatTrak Battle-Scarred": "o offers"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Glock-18 | Candy Apple",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "0.45",
+          "Minimal Wear": "0.22",
+          "Field-Tested": "0.19",
+          "StatTrak Factory New": "1,065.99",
+          "StatTrak Minimal Wear": "229.18",
+          "StatTrak Field-Tested": "351.33"
+        }
+      },
+      {
+        "name": "MP7 | Anodized Navy",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "0.40",
+          "Minimal Wear": "0.32",
+          "StatTrak Factory New": "76.85",
+          "StatTrak Minimal Wear": "1,000.00"
+        }
+      },
+      {
+        "name": "Sawed-Off | Full Stop",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.38",
+          "Minimal Wear": "0.21",
+          "Field-Tested": "0.12",
+          "Well-Worn": "0.12",
+          "Battle-Scarred": "0.09",
+          "StatTrak Factory New": "400.00",
+          "StatTrak Minimal Wear": "90.00",
+          "StatTrak Field-Tested": "65.00",
+          "StatTrak Well-Worn": "o offers",
+          "StatTrak Battle-Scarred": "220.00"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "UMP-45 | Gunsmoke",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.12",
+          "Minimal Wear": "0.03",
+          "Field-Tested": "0.02",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "63.28",
+          "StatTrak Field-Tested": "30.00",
+          "StatTrak Well-Worn": "43.02",
+          "StatTrak Battle-Scarred": "90.00"
+        }
+      },
+      {
+        "name": "XM1014 | CaliCamo",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.04",
+          "Field-Tested": "0.03",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "66.86",
+          "StatTrak Minimal Wear": "31.67",
+          "StatTrak Field-Tested": "28.26",
+          "StatTrak Well-Worn": "302.34",
+          "StatTrak Battle-Scarred": "302.34"
+        }
+      },
+      {
+        "name": "M4A1-S | Boreal Forest",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "1.18",
+          "Minimal Wear": "0.06",
+          "Field-Tested": "0.03",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "190.52",
+          "StatTrak Field-Tested": "50.00",
+          "StatTrak Well-Worn": "99.00",
+          "StatTrak Battle-Scarred": "150.00"
+        }
+      },
+      {
+        "name": "P2000 | Granite Marbleized",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.14",
+          "Minimal Wear": "0.04",
+          "Field-Tested": "0.02",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "67.03",
+          "StatTrak Field-Tested": "36.45",
+          "StatTrak Well-Worn": "70.30",
+          "StatTrak Battle-Scarred": "124.87"
+        }
+      },
+      {
+        "name": "Nova | Candy Apple",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.03",
+          "Field-Tested": "0.03",
+          "StatTrak Factory New": "172.93",
+          "StatTrak Minimal Wear": "49.49",
+          "StatTrak Field-Tested": "80.10"
+        }
+      },
+      {
+        "name": "Dual Berettas | Stained",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.08",
+          "Minimal Wear": "0.04",
+          "Field-Tested": "0.02",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "54.79",
+          "StatTrak Field-Tested": "35.00",
+          "StatTrak Well-Worn": "79.00",
+          "StatTrak Battle-Scarred": "50.37"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "AUG | Contractor",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "333.00",
+          "StatTrak Minimal Wear": "13.66",
+          "StatTrak Field-Tested": "8.78",
+          "StatTrak Well-Worn": "13.25",
+          "StatTrak Battle-Scarred": "11.61"
+        }
+      },
+      {
+        "name": "PP-Bizon | Sand Dashed",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.04",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "12.32",
+          "StatTrak Field-Tested": "4.71",
+          "StatTrak Well-Worn": "10.60",
+          "StatTrak Battle-Scarred": "24.24"
+        }
+      },
+      {
+        "name": "FAMAS | Colony",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.06",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "592.46",
+          "StatTrak Minimal Wear": "9.43",
+          "StatTrak Field-Tested": "9.22",
+          "StatTrak Well-Worn": "14.98",
+          "StatTrak Battle-Scarred": "14.88"
+        }
+      },
+      {
+        "name": "Tec-9 | Groundwater",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.11",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "482.85",
+          "StatTrak Minimal Wear": "21.54",
+          "StatTrak Field-Tested": "6.55",
+          "StatTrak Well-Worn": "19.21",
+          "StatTrak Battle-Scarred": "9.28"
+        }
+      },
+      {
+        "name": "Nova | Sand Dune",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.06",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "421.88",
+          "StatTrak Minimal Wear": "17.00",
+          "StatTrak Field-Tested": "6.20",
+          "StatTrak Well-Worn": "12.24",
+          "StatTrak Battle-Scarred": "8.66"
+        }
+      }
+    ]
+  }
+}

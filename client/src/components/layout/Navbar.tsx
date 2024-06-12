@@ -1,61 +1,35 @@
 import React from "react";
-// import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import { Link } from 'react-router-dom';
+import { Navbar, Container, Nav } from "react-bootstrap";
+import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
 
-
-const Navbar = (): React.JSX.Element => {
+const NavBar = (): React.JSX.Element => {
     return <>
-        {/* <nav>
-        <ul>
-            <li>
-                <Link to="/">Home</Link>
-            </li>
-            <li>
-                <Link to="/about">About</Link>
-            </li>
-            <li>
-                <Link to="/contact">Contact</Link>
-            </li>
-        </ul>
-    </nav>
-     */}
-        <nav className="navbar navbar-expand-lg bg-body-tertiary">
-            <div className="container-fluid">
-                <a className="navbar-brand" href="#">Navbar</a>
-                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span className="navbar-toggler-icon"></span>
-                </button>
-                <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#">Home</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#">Link</a>
-                        </li>
-                        <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Dropdown
-                            </a>
-                            <ul className="dropdown-menu">
-                                <li><a className="dropdown-item" href="#">Action</a></li>
-                                <li><a className="dropdown-item" href="#">Another action</a></li>
-                                <li><hr className="dropdown-divider" /></li>
-                                <li><a className="dropdown-item" href="#">Something else here</a></li>
-                            </ul>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link disabled" aria-disabled="true">Disabled</a>
-                        </li>
-                    </ul>
-                    <form className="d-flex" role="search">
-                        <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                        <button className="btn btn-outline-success" type="submit">Search</button>
-                    </form>
-                </div>
-            </div>
-        </nav>
+        <Navbar expand="lg" className="bg-body-tertiary" data-bs-theme="dark">
+            <Container>
+                <Navbar.Brand as={Link} to="/"><img
+                    alt=""
+                    src="/logo.svg"
+                    width="50"
+                    height="50"
+                    className="d-inline-block align-top" />
+                </Navbar.Brand>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav">
+                    <Nav className="me-auto container-fluid">
+                        <Nav.Link as={Link} to="/calculator">Trade Up Calculator</Nav.Link>
+                        <Nav.Link as={Link} to="/best">Best Trade Ups</Nav.Link>
+                        {/* <Nav.Link className="ms-auto" as={Link} to="/register">Register</Nav.Link>
+                        <Nav.Link as={Link} to="/login">Login</Nav.Link>
+                        <NavDropdown title="Username" id="basic-nav-dropdown">
+                            <NavDropdown.Item href="#action/3.1">Profile</NavDropdown.Item>
+                            <NavDropdown.Item href="#action/3.2">Settings</NavDropdown.Item>
+                        </NavDropdown> */}
+                    </Nav>
+                </Navbar.Collapse>
+            </Container>
+        </Navbar>
     </>;
 }
 
-export default Navbar;
+export default NavBar;

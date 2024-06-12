@@ -1,0 +1,302 @@
+{
+  "name": "The Canals Collection",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AWP | The Prince",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "3,382.92",
+          "Minimal Wear": "2,532.28",
+          "Field-Tested": "2,155.56",
+          "Well-Worn": "1,835.26",
+          "Battle-Scarred": "1,824.44"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "MAG-7 | Cinquedea",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "625.62",
+          "Minimal Wear": "531.40",
+          "Field-Tested": "518.48",
+          "Well-Worn": "460.00",
+          "Battle-Scarred": "407.83"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MP9 | Stained Glass",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "90.99",
+          "Minimal Wear": "81.81",
+          "Field-Tested": "80.00",
+          "Well-Worn": "107.35",
+          "Battle-Scarred": "404.75"
+        }
+      },
+      {
+        "name": "Nova | Baroque Orange",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "87.46",
+          "Minimal Wear": "84.31",
+          "Field-Tested": "87.50",
+          "Well-Worn": "87.37",
+          "Battle-Scarred": "76.84"
+        }
+      },
+      {
+        "name": "MAC-10 | Red Filigree",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "90.58",
+          "Minimal Wear": "86.11",
+          "Field-Tested": "82.07",
+          "Well-Worn": "86.00",
+          "Battle-Scarred": "104.12"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SSG 08 | Orange Filigree",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "24.79",
+          "Minimal Wear": "25.80",
+          "Field-Tested": "25.55",
+          "Well-Worn": "26.72",
+          "Battle-Scarred": "33.76"
+        }
+      },
+      {
+        "name": "P90 | Baroque Red",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "25.50",
+          "Minimal Wear": "22.70",
+          "Field-Tested": "25.76",
+          "Well-Worn": "25.50",
+          "Battle-Scarred": "61.30"
+        }
+      },
+      {
+        "name": "G3SG1 | Violet Murano",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "26.32",
+          "Minimal Wear": "26.30",
+          "Field-Tested": "23.61",
+          "Well-Worn": "27.15",
+          "Battle-Scarred": "35.45"
+        }
+      },
+      {
+        "name": "Dual Berettas | Emerald",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "25.00",
+          "Minimal Wear": "38.78"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "AK-47 | Baroque Purple",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "13.15",
+          "Minimal Wear": "5.72",
+          "Field-Tested": "5.15",
+          "Well-Worn": "5.29",
+          "Battle-Scarred": "5.17"
+        }
+      },
+      {
+        "name": "P250 | Dark Filigree",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "8.35",
+          "Minimal Wear": "6.59",
+          "Field-Tested": "8.51",
+          "Well-Worn": "5.93",
+          "Battle-Scarred": "6.85"
+        }
+      },
+      {
+        "name": "SG 553 | Candy Apple",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "6.03",
+          "Minimal Wear": "5.97",
+          "Field-Tested": "5.27",
+          "Well-Worn": "7.54",
+          "Battle-Scarred": "5.96"
+        }
+      },
+      {
+        "name": "Tec-9 | Orange Murano",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "7.10",
+          "Minimal Wear": "5.53",
+          "Field-Tested": "5.74",
+          "Well-Worn": "5.27",
+          "Battle-Scarred": "5.69"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Negev | Boroque Sand",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "3.78",
+          "Minimal Wear": "1.91",
+          "Field-Tested": "1.09",
+          "Well-Worn": "1.03",
+          "Battle-Scarred": "1.07"
+        }
+      },
+      {
+        "name": "SCAR-20 | Stone Mosaico",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "3.83",
+          "Minimal Wear": "1.92",
+          "Field-Tested": "1.24",
+          "Well-Worn": "1.34",
+          "Battle-Scarred": "1.07"
+        }
+      },
+      {
+        "name": "R8 Revolver | Canal Spray",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "4.90",
+          "Minimal Wear": "1.64",
+          "Field-Tested": "1.25",
+          "Well-Worn": "1.26",
+          "Battle-Scarred": "1.07"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Indigo",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "3.98",
+          "Minimal Wear": "1.74",
+          "Field-Tested": "1.30",
+          "Well-Worn": "1.13",
+          "Battle-Scarred": "1.12"
+        }
+      },
+      {
+        "name": "AUG | Navy Murano",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "4.39",
+          "Minimal Wear": "1.50",
+          "Field-Tested": "1.08",
+          "Well-Worn": "1.07",
+          "Battle-Scarred": "1.18"
+        }
+      }
+    ]
+  }
+}

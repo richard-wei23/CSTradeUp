@@ -1,0 +1,230 @@
+{
+  "name": "The Gods and Monsters Collection",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AWP | Medusa",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "4,857.60",
+          "Minimal Wear": "2,338.15",
+          "Field-Tested": "1,886.11",
+          "Well-Worn": "1,505.00",
+          "Battle-Scarred": "1,537.72"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "M4A4 | Poseidon",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.33
+        },
+        "prices": {
+          "Factory New": "1,077.78",
+          "Minimal Wear": "787.56",
+          "Field-Tested": "848.95"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M4A1-S | Icarus Fell",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.1
+        },
+        "prices": {
+          "Factory New": "420.00",
+          "Minimal Wear": "441.00"
+        }
+      },
+      {
+        "name": "G3SG1 | Chronos",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "238.96",
+          "Minimal Wear": "225.77",
+          "Field-Tested": "220.11",
+          "Well-Worn": "417.93"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MP9 | Pandora's Box",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "132.18",
+          "Minimal Wear": "125.15",
+          "Field-Tested": "118.57"
+        }
+      },
+      {
+        "name": "UMP-45 | Minotaur's Labyrinth",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.39
+        },
+        "prices": {
+          "Factory New": "110.08",
+          "Minimal Wear": "105.00",
+          "Field-Tested": "100.00",
+          "Well-Worn": "165.01"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P2000 | Pathfinder",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.35
+        },
+        "prices": {
+          "Factory New": "18.72",
+          "Minimal Wear": "18.66",
+          "Field-Tested": "16.28"
+        }
+      },
+      {
+        "name": "M249 | Shipping Forecast",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "19.36",
+          "Minimal Wear": "17.17",
+          "Field-Tested": "16.35",
+          "Well-Worn": "19.26",
+          "Battle-Scarred": "30.99"
+        }
+      },
+      {
+        "name": "Tec-9 | Hades",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "21.08",
+          "Minimal Wear": "17.93",
+          "Field-Tested": "15.48",
+          "Well-Worn": "16.09",
+          "Battle-Scarred": "16.89"
+        }
+      },
+      {
+        "name": "AWP | Sun in Leo",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "32.99",
+          "Minimal Wear": "20.05",
+          "Field-Tested": "16.39",
+          "Well-Worn": "16.45",
+          "Battle-Scarred": "17.15"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Nova | Moon in Libra",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "5.10",
+          "Minimal Wear": "4.30",
+          "Field-Tested": "3.91",
+          "Well-Worn": "4.26",
+          "Battle-Scarred": "4.25"
+        }
+      },
+      {
+        "name": "Dual Berettas | Moon in Libra",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "4.78",
+          "Minimal Wear": "4.10",
+          "Field-Tested": "4.02",
+          "Well-Worn": "3.98",
+          "Battle-Scarred": "3.85"
+        }
+      },
+      {
+        "name": "MP7 | Asterion",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "4.99",
+          "Minimal Wear": "4.18",
+          "Field-Tested": "4.10",
+          "Well-Worn": "4.68",
+          "Battle-Scarred": "4.97"
+        }
+      },
+      {
+        "name": "AUG | Daedalus",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "5.09",
+          "Minimal Wear": "4.34",
+          "Field-Tested": "3.85",
+          "Well-Worn": "4.43",
+          "Battle-Scarred": "4.00"
+        }
+      }
+    ]
+  }
+}

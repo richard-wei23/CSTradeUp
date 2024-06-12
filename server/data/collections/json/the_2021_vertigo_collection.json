@@ -1,0 +1,402 @@
+{
+  "name": "The 2021 Vertigo Collection",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "M4A1-S | Imminent Danger",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "1,588.31",
+          "Minimal Wear": "1,062.59",
+          "Field-Tested": "615.00",
+          "Well-Worn": "540.00",
+          "Battle-Scarred": "565.00",
+          "StatTrak Factory New": "2,899.38",
+          "StatTrak Minimal Wear": "1,104.21",
+          "StatTrak Field-Tested": "611.72",
+          "StatTrak Well-Worn": "641.64",
+          "StatTrak Battle-Scarred": "520.17"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "SG 553 | Hazard Pay",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.48
+        },
+        "prices": {
+          "Factory New": "200.00",
+          "Minimal Wear": "179.81",
+          "Field-Tested": "139.99",
+          "Well-Worn": "200.33",
+          "Battle-Scarred": "444.44",
+          "StatTrak Factory New": "143.42",
+          "StatTrak Minimal Wear": "81.59",
+          "StatTrak Field-Tested": "54.99",
+          "StatTrak Well-Worn": "54.04",
+          "StatTrak Battle-Scarred": "54.04"
+        }
+      },
+      {
+        "name": "Five-SeveN | Fall Hazard",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.01,
+          "max_wear": 0.52
+        },
+        "prices": {
+          "Factory New": "209.95",
+          "Minimal Wear": "177.56",
+          "Field-Tested": "153.11",
+          "Well-Worn": "168.75",
+          "Battle-Scarred": "146.89",
+          "StatTrak Factory New": "86.55",
+          "StatTrak Minimal Wear": "54.14",
+          "StatTrak Field-Tested": "38.33",
+          "StatTrak Well-Worn": "43.58",
+          "StatTrak Battle-Scarred": "35.05"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MAG-7 | Prism Terrace",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.37
+        },
+        "prices": {
+          "Factory New": "40.88",
+          "Minimal Wear": "42.04",
+          "Field-Tested": "42.04",
+          "StatTrak Factory New": "14.15",
+          "StatTrak Minimal Wear": "6.60",
+          "StatTrak Field-Tested": "2.22"
+        }
+      },
+      {
+        "name": "P250 | Digital Architect",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.49
+        },
+        "prices": {
+          "Factory New": "39.20",
+          "Minimal Wear": "34.86",
+          "Field-Tested": "45.34",
+          "Well-Worn": "67.16",
+          "Battle-Scarred": "32.55",
+          "StatTrak Factory New": "15.48",
+          "StatTrak Minimal Wear": "9.78",
+          "StatTrak Field-Tested": "4.98",
+          "StatTrak Well-Worn": "5.65",
+          "StatTrak Battle-Scarred": "13.63"
+        }
+      },
+      {
+        "name": "Galil AR | CAUTION!",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "51.80",
+          "Minimal Wear": "46.68",
+          "Field-Tested": "43.20",
+          "Well-Worn": "41.00",
+          "Battle-Scarred": "53.60",
+          "StatTrak Factory New": "40.50",
+          "StatTrak Minimal Wear": "22.50",
+          "StatTrak Field-Tested": "9.66",
+          "StatTrak Well-Worn": "9.86",
+          "StatTrak Battle-Scarred": "10.46"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "P90 | Schematic",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "13.51",
+          "Minimal Wear": "13.85",
+          "Field-Tested": "12.27",
+          "Well-Worn": "35.81",
+          "Battle-Scarred": "11.79",
+          "StatTrak Factory New": "2.08",
+          "StatTrak Minimal Wear": "1.41",
+          "StatTrak Field-Tested": "0.45",
+          "StatTrak Well-Worn": "1.32",
+          "StatTrak Battle-Scarred": "3.10"
+        }
+      },
+      {
+        "name": "Nova | Interlock",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "13.34",
+          "Minimal Wear": "13.67",
+          "Field-Tested": "12.70",
+          "Well-Worn": "16.11",
+          "Battle-Scarred": "40.07",
+          "StatTrak Factory New": "3.18",
+          "StatTrak Minimal Wear": "2.10",
+          "StatTrak Field-Tested": "0.53",
+          "StatTrak Well-Worn": "2.44",
+          "StatTrak Battle-Scarred": "2.01"
+        }
+      },
+      {
+        "name": "Negev | Infrastructure",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.49
+        },
+        "prices": {
+          "Factory New": "13.34",
+          "Minimal Wear": "12.93",
+          "Field-Tested": "12.36",
+          "Well-Worn": "20.28",
+          "Battle-Scarred": "24.08",
+          "StatTrak Factory New": "1.32",
+          "StatTrak Minimal Wear": "0.72",
+          "StatTrak Field-Tested": "0.36",
+          "StatTrak Well-Worn": "0.80",
+          "StatTrak Battle-Scarred": "2.54"
+        }
+      },
+      {
+        "name": "AK-47 | Green Laminate",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.02,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "18.96",
+          "Minimal Wear": "12.78",
+          "Field-Tested": "12.82",
+          "Well-Worn": "21.15",
+          "StatTrak Factory New": "15.80",
+          "StatTrak Minimal Wear": "10.17",
+          "StatTrak Field-Tested": "8.46",
+          "StatTrak Well-Worn": "22.99"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "UMP-45 | Mechanism",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.49
+        },
+        "prices": {
+          "Factory New": "3.86",
+          "Minimal Wear": "3.44",
+          "Field-Tested": "3.12",
+          "Well-Worn": "3.93",
+          "Battle-Scarred": "4.20",
+          "StatTrak Factory New": "0.12",
+          "StatTrak Minimal Wear": "0.06",
+          "StatTrak Field-Tested": "0.03",
+          "StatTrak Well-Worn": "0.14",
+          "StatTrak Battle-Scarred": "0.49"
+        }
+      },
+      {
+        "name": "PP-Bizon | Breaker Box",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.44
+        },
+        "prices": {
+          "Factory New": "3.69",
+          "Minimal Wear": "3.85",
+          "Field-Tested": "3.59",
+          "Well-Worn": "4.13",
+          "StatTrak Factory New": "0.18",
+          "StatTrak Minimal Wear": "0.09",
+          "StatTrak Field-Tested": "0.04",
+          "StatTrak Well-Worn": "0.29"
+        }
+      },
+      {
+        "name": "SSG 08 | Carbon Fiber",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.12
+        },
+        "prices": {
+          "Factory New": "3.62",
+          "Minimal Wear": "3.72",
+          "StatTrak Factory New": "0.61",
+          "StatTrak Minimal Wear": "0.65"
+        }
+      },
+      {
+        "name": "Glock-18 | Red Tire",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "4.50",
+          "Minimal Wear": "3.67",
+          "Field-Tested": "3.90",
+          "Well-Worn": "4.80",
+          "Battle-Scarred": "3.62",
+          "StatTrak Factory New": "0.88",
+          "StatTrak Minimal Wear": "0.51",
+          "StatTrak Field-Tested": "0.16",
+          "StatTrak Well-Worn": "0.48",
+          "StatTrak Battle-Scarred": "0.32"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "MAC-10 | Strats",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.89",
+          "Minimal Wear": "0.65",
+          "Field-Tested": "0.64",
+          "Well-Worn": "0.64",
+          "Battle-Scarred": "0.68",
+          "StatTrak Factory New": "0.09",
+          "StatTrak Minimal Wear": "0.04",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.05",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "Dual Berettas | Oil Change",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "0.86",
+          "Minimal Wear": "0.64",
+          "Field-Tested": "0.63",
+          "Well-Worn": "0.66",
+          "Battle-Scarred": "0.69",
+          "StatTrak Factory New": "0.03",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.03",
+          "StatTrak Battle-Scarred": "0.02"
+        }
+      },
+      {
+        "name": "FAMAS | Faulty Wiring",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "0.85",
+          "Minimal Wear": "0.68",
+          "Field-Tested": "0.65",
+          "Well-Worn": "0.63",
+          "Battle-Scarred": "0.72",
+          "StatTrak Factory New": "0.17",
+          "StatTrak Minimal Wear": "0.07",
+          "StatTrak Field-Tested": "0.03",
+          "StatTrak Well-Worn": "0.07",
+          "StatTrak Battle-Scarred": "0.08"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Framework",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.95",
+          "Minimal Wear": "0.65",
+          "Field-Tested": "0.61",
+          "Well-Worn": "0.68",
+          "Battle-Scarred": "0.66",
+          "StatTrak Factory New": "0.12",
+          "StatTrak Minimal Wear": "0.02",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.03",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "XM1014 | Blue Tire",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "0.92",
+          "Minimal Wear": "0.69",
+          "Field-Tested": "0.62",
+          "Well-Worn": "0.69",
+          "Battle-Scarred": "0.60",
+          "StatTrak Factory New": "0.09",
+          "StatTrak Minimal Wear": "0.03",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.03",
+          "StatTrak Battle-Scarred": "0.02"
+        }
+      }
+    ]
+  }
+}

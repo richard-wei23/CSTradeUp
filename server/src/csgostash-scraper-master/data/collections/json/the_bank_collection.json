@@ -1,0 +1,259 @@
+{
+  "name": "The Bank Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "P250 | Franklin",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "1.05",
+          "Minimal Wear": "0.57",
+          "Field-Tested": "0.38",
+          "Well-Worn": "0.88"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "AK-47 | Emerald Pinstripe",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "8.47",
+          "Minimal Wear": "3.70",
+          "Field-Tested": "2.38",
+          "Well-Worn": "1.53",
+          "Battle-Scarred": "1.52"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "CZ75-Auto | Tuxedo",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.87",
+          "Minimal Wear": "0.54",
+          "Field-Tested": "0.25",
+          "Well-Worn": "0.24",
+          "Battle-Scarred": "0.18"
+        }
+      },
+      {
+        "name": "Desert Eagle | Meteorite",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.18
+        },
+        "prices": {
+          "Factory New": "0.84",
+          "Minimal Wear": "0.59",
+          "Field-Tested": "0.44"
+        }
+      },
+      {
+        "name": "Galil AR | Tuxedo",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.95",
+          "Minimal Wear": "0.63",
+          "Field-Tested": "0.28",
+          "Well-Worn": "0.23",
+          "Battle-Scarred": "0.19"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "UMP-45 | Carbon Fiber",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.12
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.05"
+        }
+      },
+      {
+        "name": "Glock-18 | Death Rattle",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.08,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Minimal Wear": "0.06",
+          "Field-Tested": "0.04",
+          "Well-Worn": "0.04",
+          "Battle-Scarred": "0.04"
+        }
+      },
+      {
+        "name": "MAC-10 | Silver",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.10"
+        }
+      },
+      {
+        "name": "G3SG1 | Green Apple",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "0.08",
+          "Minimal Wear": "0.07",
+          "Field-Tested": "0.04"
+        }
+      },
+      {
+        "name": "Nova | Caged Steel",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "0.08",
+          "Minimal Wear": "0.07",
+          "Field-Tested": "0.05"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Negev | Army Sheen",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "0.01",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01"
+        }
+      },
+      {
+        "name": "MP7 | Forest DDPAT",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.03",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "SG 553 | Army Sheen",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "0.01",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01"
+        }
+      },
+      {
+        "name": "R8 Revolver | Bone Mask",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.04",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "o offers",
+          "StatTrak Field-Tested": "19,999.99",
+          "StatTrak Well-Worn": "o offers",
+          "StatTrak Battle-Scarred": "o offers"
+        }
+      },
+      {
+        "name": "Sawed-Off | Forest DDPAT",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.02",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "Tec-9 | Urban DDPAT",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01"
+        }
+      }
+    ]
+  }
+}

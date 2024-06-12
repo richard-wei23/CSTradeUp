@@ -1,22 +1,18 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes, } from 'react-router-dom';//Link } from 'react-router-dom';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Home from './pages/Home'
-import Navbar from './components/layout/Navbar'
-
+import { Route, Routes } from 'react-router-dom';//Link } from 'react-router-dom';
+import Home from './pages/Home';
+import Navbar from './components/layout/NavBar';
+import Editor from './pages/Editor';
 
 const App = (): React.JSX.Element => {
-  return (
-    <Router>
-      <div>
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          {/* <Route path="/about" element={<About />} /> */}
-          {/* <Route path="/contact" element={<Contact />} /> */}
-        </Routes>
-      </div>
-    </Router>
+  return (<>
+    <Navbar />
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/editor" element={<Editor />} />
+      {/* <Route path="/contact" element={<Contact />} /> */}
+    </Routes>
+  </>
   );
 };
 

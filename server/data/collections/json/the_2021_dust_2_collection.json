@@ -1,0 +1,392 @@
+{
+  "name": "The 2021 Dust 2 Collection",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AK-47 | Gold Arabesque",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "2,819.31",
+          "Minimal Wear": "2,278.16",
+          "Field-Tested": "1,722.23",
+          "Well-Worn": "1,608.38",
+          "Battle-Scarred": "1,474.65",
+          "StatTrak Factory New": "5,261.52",
+          "StatTrak Minimal Wear": "2,357.75",
+          "StatTrak Field-Tested": "1,800.00",
+          "StatTrak Well-Worn": "1,665.00",
+          "StatTrak Battle-Scarred": "1,447.75"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "UMP-45 | Fade",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "365.00",
+          "Minimal Wear": "425.42",
+          "StatTrak Factory New": "54.09",
+          "StatTrak Minimal Wear": "59.55"
+        }
+      },
+      {
+        "name": "SSG 08 | Death Strike",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "391.55",
+          "Minimal Wear": "345.72",
+          "Field-Tested": "269.99",
+          "Well-Worn": "306.12",
+          "Battle-Scarred": "285.00",
+          "StatTrak Factory New": "239.00",
+          "StatTrak Minimal Wear": "119.50",
+          "StatTrak Field-Tested": "71.11",
+          "StatTrak Well-Worn": "70.27",
+          "StatTrak Battle-Scarred": "50.46"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "USP-S | Orange Anolis",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.37
+        },
+        "prices": {
+          "Factory New": "75.47",
+          "Minimal Wear": "72.20",
+          "Field-Tested": "67.42",
+          "StatTrak Factory New": "12.52",
+          "StatTrak Minimal Wear": "7.69",
+          "StatTrak Field-Tested": "6.86"
+        }
+      },
+      {
+        "name": "MAC-10 | Case Hardened",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "75.93",
+          "Minimal Wear": "73.15",
+          "Field-Tested": "64.02",
+          "Well-Worn": "64.13",
+          "Battle-Scarred": "63.91",
+          "StatTrak Factory New": "56.30",
+          "StatTrak Minimal Wear": "14.16",
+          "StatTrak Field-Tested": "9.13",
+          "StatTrak Well-Worn": "7.21",
+          "StatTrak Battle-Scarred": "7.03"
+        }
+      },
+      {
+        "name": "M4A4 | Red DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "70.00",
+          "Minimal Wear": "72.73",
+          "Field-Tested": "71.74",
+          "Well-Worn": "67.10",
+          "Battle-Scarred": "86.99",
+          "StatTrak Factory New": "15.40",
+          "StatTrak Minimal Wear": "9.00",
+          "StatTrak Field-Tested": "4.23",
+          "StatTrak Well-Worn": "5.45",
+          "StatTrak Battle-Scarred": "10.26"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Nova | Quick Sand",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "21.08",
+          "Minimal Wear": "20.14",
+          "Field-Tested": "19.74",
+          "Well-Worn": "20.02",
+          "Battle-Scarred": "42.06",
+          "StatTrak Factory New": "0.74",
+          "StatTrak Minimal Wear": "0.30",
+          "StatTrak Field-Tested": "0.11",
+          "StatTrak Well-Worn": "0.21",
+          "StatTrak Battle-Scarred": "0.29"
+        }
+      },
+      {
+        "name": "Galil AR | Amber Fade",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "21.22",
+          "Minimal Wear": "20.39",
+          "Field-Tested": "20.37",
+          "Well-Worn": "26.84",
+          "StatTrak Factory New": "4.46",
+          "StatTrak Minimal Wear": "2.75",
+          "StatTrak Field-Tested": "1.92",
+          "StatTrak Well-Worn": "2.13"
+        }
+      },
+      {
+        "name": "G3SG1 | New Roots",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "22.04",
+          "Minimal Wear": "20.97",
+          "Field-Tested": "21.00",
+          "Well-Worn": "24.34",
+          "Battle-Scarred": "27.03",
+          "StatTrak Factory New": "0.28",
+          "StatTrak Minimal Wear": "0.11",
+          "StatTrak Field-Tested": "0.06",
+          "StatTrak Well-Worn": "0.21",
+          "StatTrak Battle-Scarred": "0.08"
+        }
+      },
+      {
+        "name": "P250 | Black & Tan",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Five-SeveN | Withered Vine",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "4.33",
+          "Minimal Wear": "4.25",
+          "Field-Tested": "3.98",
+          "Well-Worn": "4.87",
+          "Battle-Scarred": "4.30",
+          "StatTrak Factory New": "0.20",
+          "StatTrak Minimal Wear": "0.08",
+          "StatTrak Field-Tested": "0.03",
+          "StatTrak Well-Worn": "0.05",
+          "StatTrak Battle-Scarred": "0.05"
+        }
+      },
+      {
+        "name": "M249 | Midnight Palm",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "4.27",
+          "Minimal Wear": "3.87",
+          "Field-Tested": "4.30",
+          "Well-Worn": "4.62",
+          "Battle-Scarred": "4.69",
+          "StatTrak Factory New": "0.02",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.02"
+        }
+      },
+      {
+        "name": "MP9 | Old Roots",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "4.54",
+          "Minimal Wear": "4.44",
+          "Field-Tested": "3.94",
+          "Well-Worn": "4.27",
+          "Battle-Scarred": "4.25",
+          "StatTrak Factory New": "0.20",
+          "StatTrak Minimal Wear": "0.08",
+          "StatTrak Field-Tested": "0.04",
+          "StatTrak Well-Worn": "0.09",
+          "StatTrak Battle-Scarred": "0.08"
+        }
+      },
+      {
+        "name": "AUG | Spalted Wood",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.48
+        },
+        "prices": {
+          "Factory New": "4.38",
+          "Minimal Wear": "4.25",
+          "Field-Tested": "3.03",
+          "Well-Worn": "4.24",
+          "Battle-Scarred": "4.72",
+          "StatTrak Factory New": "0.05",
+          "StatTrak Minimal Wear": "0.03",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.02",
+          "StatTrak Battle-Scarred": "0.12"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "MP7 | Prey",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.48
+        },
+        "prices": {
+          "Factory New": "0.70",
+          "Minimal Wear": "0.63",
+          "Field-Tested": "0.60",
+          "Well-Worn": "0.53",
+          "Battle-Scarred": "0.60",
+          "StatTrak Factory New": "0.01",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.04"
+        }
+      },
+      {
+        "name": "P90 | Desert DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "0.70",
+          "Minimal Wear": "0.67",
+          "Field-Tested": "0.62",
+          "Well-Worn": "0.65",
+          "Battle-Scarred": "0.57",
+          "StatTrak Factory New": "0.01",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "SG 553 | Bleached",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "0.70",
+          "Minimal Wear": "0.66",
+          "Field-Tested": "0.64",
+          "Well-Worn": "0.61",
+          "Battle-Scarred": "0.65",
+          "StatTrak Factory New": "0.04",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.02"
+        }
+      },
+      {
+        "name": "Sawed-Off | Parched",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.49
+        },
+        "prices": {
+          "Factory New": "0.70",
+          "Minimal Wear": "0.64",
+          "Field-Tested": "0.59",
+          "Well-Worn": "0.63",
+          "Battle-Scarred": "0.65",
+          "StatTrak Factory New": "0.01",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.02"
+        }
+      },
+      {
+        "name": "R8 Revolver | Desert Brush",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.71",
+          "Minimal Wear": "0.62",
+          "Field-Tested": "0.61",
+          "Well-Worn": "0.60",
+          "Battle-Scarred": "0.59",
+          "StatTrak Factory New": "0.03",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      }
+    ]
+  }
+}

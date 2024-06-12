@@ -1,0 +1,259 @@
+{
+  "name": "The Rising Sun Collection",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AUG | Akihabara Accept",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "3,625.00",
+          "Minimal Wear": "1,294.27",
+          "Field-Tested": "552.94",
+          "Well-Worn": "326.92",
+          "Battle-Scarred": "262.15"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AK-47 | Hydroponic",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "1,798.17",
+          "Minimal Wear": "1,193.22",
+          "Field-Tested": "779.99",
+          "Well-Worn": "652.67",
+          "Battle-Scarred": "492.05"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Desert Eagle | Sunset Storm 弐",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.75
+        }
+      },
+      {
+        "name": "M4A4 | Daybreak",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "241.67",
+          "Minimal Wear": "245.00",
+          "Field-Tested": "214.72",
+          "Well-Worn": "212.54",
+          "Battle-Scarred": "390.08"
+        }
+      },
+      {
+        "name": "Desert Eagle | Sunset Storm 壱",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.75
+        }
+      },
+      {
+        "name": "Five-SeveN | Neon Kimono",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "257.90",
+          "Minimal Wear": "230.00",
+          "Field-Tested": "233.86",
+          "Well-Worn": "1,150.00",
+          "Battle-Scarred": "218.66"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Tec-9 | Terrace",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "118.03",
+          "Minimal Wear": "102.42",
+          "Field-Tested": "99.84",
+          "Well-Worn": "103.03",
+          "Battle-Scarred": "117.32"
+        }
+      },
+      {
+        "name": "MAG-7 | Counter Terrace",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.65
+        },
+        "prices": {
+          "Factory New": "105.86",
+          "Minimal Wear": "107.36",
+          "Field-Tested": "111.09",
+          "Well-Worn": "108.26",
+          "Battle-Scarred": "99.99"
+        }
+      },
+      {
+        "name": "Galil AR | Aqua Terrace",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "115.99",
+          "Minimal Wear": "115.29",
+          "Field-Tested": "115.11",
+          "Well-Worn": "147.90",
+          "Battle-Scarred": "102.82"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P250 | Crimson Kimono",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "22.31",
+          "Minimal Wear": "20.05",
+          "Field-Tested": "19.32",
+          "Well-Worn": "18.49",
+          "Battle-Scarred": "20.95"
+        }
+      },
+      {
+        "name": "Desert Eagle | Midnight Storm",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.75
+        },
+        "prices": {
+          "Factory New": "23.49",
+          "Minimal Wear": "19.86",
+          "Field-Tested": "18.57",
+          "Well-Worn": "18.59",
+          "Battle-Scarred": "17.39"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Sawed-Off | Bamboo Shadow",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "3.68",
+          "Minimal Wear": "2.81",
+          "Field-Tested": "2.41",
+          "Well-Worn": "2.44",
+          "Battle-Scarred": "2.46"
+        }
+      },
+      {
+        "name": "G3SG1 | Orange Kimono",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "3.99",
+          "Minimal Wear": "2.36",
+          "Field-Tested": "2.38",
+          "Well-Worn": "2.73",
+          "Battle-Scarred": "2.50"
+        }
+      },
+      {
+        "name": "PP-Bizon | Bamboo Print",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "4.74",
+          "Minimal Wear": "3.02",
+          "Field-Tested": "2.46",
+          "Well-Worn": "2.35",
+          "Battle-Scarred": "2.19"
+        }
+      },
+      {
+        "name": "Tec-9 | Bamboo Forest",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "5.79",
+          "Minimal Wear": "3.53",
+          "Field-Tested": "2.50",
+          "Well-Worn": "2.21",
+          "Battle-Scarred": "2.71"
+        }
+      },
+      {
+        "name": "P250 | Mint Kimono",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "4.15",
+          "Minimal Wear": "2.81",
+          "Field-Tested": "2.24",
+          "Well-Worn": "2.55",
+          "Battle-Scarred": "2.35"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "name": "The Lake Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "Dual Berettas | Cobalt Quartz",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "0.13",
+          "Minimal Wear": "0.07",
+          "Field-Tested": "0.05",
+          "Well-Worn": "0.14",
+          "StatTrak Factory New": "1,265.00",
+          "StatTrak Minimal Wear": "999.99",
+          "StatTrak Field-Tested": "267.18",
+          "StatTrak Well-Worn": "o offers"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "P90 | Teardown",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.39",
+          "Minimal Wear": "0.21",
+          "Field-Tested": "0.12",
+          "Well-Worn": "0.11",
+          "Battle-Scarred": "0.11",
+          "StatTrak Factory New": "562.50",
+          "StatTrak Minimal Wear": "200.61",
+          "StatTrak Field-Tested": "99.99",
+          "StatTrak Well-Worn": "o offers",
+          "StatTrak Battle-Scarred": "369.69"
+        }
+      },
+      {
+        "name": "SG 553 | Anodized Navy",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "0.40",
+          "Minimal Wear": "0.30",
+          "StatTrak Factory New": "86.27",
+          "StatTrak Minimal Wear": "407.55"
+        }
+      },
+      {
+        "name": "USP-S | Night Ops",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.40",
+          "Minimal Wear": "0.22",
+          "Field-Tested": "0.14",
+          "Well-Worn": "0.13",
+          "Battle-Scarred": "0.11",
+          "StatTrak Factory New": "950.00",
+          "StatTrak Minimal Wear": "348.00",
+          "StatTrak Field-Tested": "120.00",
+          "StatTrak Well-Worn": "20,000.00",
+          "StatTrak Battle-Scarred": "o offers"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "PP-Bizon | Night Ops",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.03",
+          "Field-Tested": "0.02",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "149.99",
+          "StatTrak Minimal Wear": "37.40",
+          "StatTrak Field-Tested": "29.00",
+          "StatTrak Well-Worn": "150.00",
+          "StatTrak Battle-Scarred": "2,654.95"
+        }
+      },
+      {
+        "name": "AWP | Safari Mesh",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.90",
+          "Minimal Wear": "0.04",
+          "Field-Tested": "0.02",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "2,500.00",
+          "StatTrak Minimal Wear": "253.63",
+          "StatTrak Field-Tested": "106.24",
+          "StatTrak Well-Worn": "480.00",
+          "StatTrak Battle-Scarred": "140.48"
+        }
+      },
+      {
+        "name": "Desert Eagle | Mudder",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.31",
+          "Minimal Wear": "0.04",
+          "Field-Tested": "0.02",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "299.99",
+          "StatTrak Field-Tested": "89.24",
+          "StatTrak Well-Worn": "345.00",
+          "StatTrak Battle-Scarred": "94.99"
+        }
+      },
+      {
+        "name": "XM1014 | Blue Steel",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.10",
+          "Minimal Wear": "0.03",
+          "Field-Tested": "0.02",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "400.00",
+          "StatTrak Minimal Wear": "84.16",
+          "StatTrak Field-Tested": "64.99",
+          "StatTrak Well-Worn": "50.54",
+          "StatTrak Battle-Scarred": "80.00"
+        }
+      },
+      {
+        "name": "FAMAS | Cyanospatter",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.39",
+          "Minimal Wear": "0.03",
+          "Field-Tested": "0.02",
+          "Well-Worn": "0.02",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "52.63",
+          "StatTrak Field-Tested": "32.60",
+          "StatTrak Well-Worn": "60.00",
+          "StatTrak Battle-Scarred": "31.27"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "G3SG1 | Jungle Dashed",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.04",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "1,052.39",
+          "StatTrak Minimal Wear": "6.31",
+          "StatTrak Field-Tested": "5.80",
+          "StatTrak Well-Worn": "6.58",
+          "StatTrak Battle-Scarred": "10.11"
+        }
+      },
+      {
+        "name": "AUG | Storm",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.21",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "407.81",
+          "StatTrak Minimal Wear": "31.48",
+          "StatTrak Field-Tested": "10.25",
+          "StatTrak Well-Worn": "21.76",
+          "StatTrak Battle-Scarred": "15.15"
+        }
+      },
+      {
+        "name": "P250 | Boreal Forest",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.06",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "1,399.99",
+          "StatTrak Minimal Wear": "12.66",
+          "StatTrak Field-Tested": "7.24",
+          "StatTrak Well-Worn": "13.51",
+          "StatTrak Battle-Scarred": "12.41"
+        }
+      },
+      {
+        "name": "XM1014 | Blue Spruce",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "39.37",
+          "StatTrak Field-Tested": "5.62",
+          "StatTrak Well-Worn": "18.94",
+          "StatTrak Battle-Scarred": "12.26"
+        }
+      },
+      {
+        "name": "SG 553 | Waves Perforated",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.04",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "700.00",
+          "StatTrak Minimal Wear": "16.99",
+          "StatTrak Field-Tested": "8.18",
+          "StatTrak Well-Worn": "19.18",
+          "StatTrak Battle-Scarred": "7.72"
+        }
+      },
+      {
+        "name": "Galil AR | Sage Spray",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.07",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "14.97",
+          "StatTrak Field-Tested": "7.65",
+          "StatTrak Well-Worn": "9.53",
+          "StatTrak Battle-Scarred": "8.70"
+        }
+      }
+    ]
+  }
+}

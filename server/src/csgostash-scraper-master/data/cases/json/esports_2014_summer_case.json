@@ -1,0 +1,340 @@
+{
+  "name": "eSports 2014 Summer Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "M4A4 | Bullet Rain",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.02,
+          "max_wear": 0.46
+        },
+        "prices": {
+          "Factory New": "41.99",
+          "Minimal Wear": "12.30",
+          "Field-Tested": "10.65",
+          "Well-Worn": "11.80",
+          "Battle-Scarred": "72.12",
+          "StatTrak Factory New": "126.99",
+          "StatTrak Minimal Wear": "46.82",
+          "StatTrak Field-Tested": "26.41",
+          "StatTrak Well-Worn": "38.99",
+          "StatTrak Battle-Scarred": "978.33"
+        }
+      },
+      {
+        "name": "AK-47 | Jaguar",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "156.00",
+          "Minimal Wear": "64.29",
+          "Field-Tested": "51.08",
+          "Well-Worn": "32.64",
+          "Battle-Scarred": "29.92",
+          "StatTrak Factory New": "404.61",
+          "StatTrak Minimal Wear": "204.87",
+          "StatTrak Field-Tested": "106.00",
+          "StatTrak Well-Worn": "65.00",
+          "StatTrak Battle-Scarred": "67.70"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AUG | Bengal Tiger",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "24.99",
+          "Minimal Wear": "6.20",
+          "Field-Tested": "3.89",
+          "Well-Worn": "4.09",
+          "Battle-Scarred": "4.59",
+          "StatTrak Factory New": "69.99",
+          "StatTrak Minimal Wear": "18.09",
+          "StatTrak Field-Tested": "10.94",
+          "StatTrak Well-Worn": "9.55",
+          "StatTrak Battle-Scarred": "9.41"
+        }
+      },
+      {
+        "name": "Nova | Bloomstick",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "46.68",
+          "Minimal Wear": "13.09",
+          "Field-Tested": "5.15",
+          "Well-Worn": "4.96",
+          "Battle-Scarred": "4.61",
+          "StatTrak Factory New": "154.99",
+          "StatTrak Minimal Wear": "36.00",
+          "StatTrak Field-Tested": "11.01",
+          "StatTrak Well-Worn": "17.46",
+          "StatTrak Battle-Scarred": "49.50"
+        }
+      },
+      {
+        "name": "AWP | Corticera",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "30.98",
+          "Minimal Wear": "10.93",
+          "Field-Tested": "10.55",
+          "StatTrak Factory New": "81.44",
+          "StatTrak Minimal Wear": "30.30",
+          "StatTrak Field-Tested": "25.50"
+        }
+      },
+      {
+        "name": "P2000 | Corticera",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "14.95",
+          "Minimal Wear": "7.01",
+          "Field-Tested": "5.11",
+          "StatTrak Factory New": "42.25",
+          "StatTrak Minimal Wear": "15.74",
+          "StatTrak Field-Tested": "12.02"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MP7 | Ocean Foam",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "2.68",
+          "Minimal Wear": "2.63",
+          "StatTrak Factory New": "8.99",
+          "StatTrak Minimal Wear": "9.70"
+        }
+      },
+      {
+        "name": "PP-Bizon | Blue Streak",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "5.69",
+          "Minimal Wear": "2.67",
+          "Field-Tested": "1.56",
+          "Well-Worn": "1.52",
+          "Battle-Scarred": "1.30",
+          "StatTrak Factory New": "26.27",
+          "StatTrak Minimal Wear": "5.32",
+          "StatTrak Field-Tested": "2.57",
+          "StatTrak Well-Worn": "2.35",
+          "StatTrak Battle-Scarred": "3.28"
+        }
+      },
+      {
+        "name": "P90 | Virus",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "2.67",
+          "Minimal Wear": "1.83",
+          "Field-Tested": "1.23",
+          "Well-Worn": "1.30",
+          "Battle-Scarred": "1.06",
+          "StatTrak Factory New": "20.39",
+          "StatTrak Minimal Wear": "3.97",
+          "StatTrak Field-Tested": "2.31",
+          "StatTrak Well-Worn": "3.05",
+          "StatTrak Battle-Scarred": "3.22"
+        }
+      },
+      {
+        "name": "Desert Eagle | Crimson Web",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "90.00",
+          "Minimal Wear": "23.50",
+          "Field-Tested": "5.64",
+          "Well-Worn": "5.97",
+          "Battle-Scarred": "6.00",
+          "StatTrak Factory New": "328.15",
+          "StatTrak Minimal Wear": "48.44",
+          "StatTrak Field-Tested": "11.00",
+          "StatTrak Well-Worn": "12.78",
+          "StatTrak Battle-Scarred": "10.53"
+        }
+      },
+      {
+        "name": "Glock-18 | Steel Disruption",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "2.84",
+          "Minimal Wear": "2.02",
+          "Field-Tested": "2.21",
+          "StatTrak Factory New": "8.58",
+          "StatTrak Minimal Wear": "7.45",
+          "StatTrak Field-Tested": "7.49"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "CZ75-Auto | Hexane",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "6.12",
+          "Minimal Wear": "2.15",
+          "Field-Tested": "1.47",
+          "Well-Worn": "2.24",
+          "StatTrak Factory New": "8.90",
+          "StatTrak Minimal Wear": "3.09",
+          "StatTrak Field-Tested": "1.82",
+          "StatTrak Well-Worn": "2.66"
+        }
+      },
+      {
+        "name": "Negev | Bratatat",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "6.69",
+          "Minimal Wear": "2.29",
+          "Field-Tested": "1.42",
+          "Well-Worn": "1.13",
+          "Battle-Scarred": "1.23",
+          "StatTrak Factory New": "21.17",
+          "StatTrak Minimal Wear": "3.95",
+          "StatTrak Field-Tested": "1.87",
+          "StatTrak Well-Worn": "1.51",
+          "StatTrak Battle-Scarred": "1.28"
+        }
+      },
+      {
+        "name": "MAC-10 | Ultraviolet",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "23.10",
+          "Minimal Wear": "3.04",
+          "Field-Tested": "1.30",
+          "Well-Worn": "1.41",
+          "Battle-Scarred": "1.17",
+          "StatTrak Factory New": "72.56",
+          "StatTrak Minimal Wear": "5.18",
+          "StatTrak Field-Tested": "1.95",
+          "StatTrak Well-Worn": "1.78",
+          "StatTrak Battle-Scarred": "1.74"
+        }
+      },
+      {
+        "name": "XM1014 | Red Python",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.08,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Minimal Wear": "1.93",
+          "Field-Tested": "1.40",
+          "Well-Worn": "2.06",
+          "Battle-Scarred": "2.11",
+          "StatTrak Minimal Wear": "2.95",
+          "StatTrak Field-Tested": "1.80",
+          "StatTrak Well-Worn": "1.75",
+          "StatTrak Battle-Scarred": "1.54"
+        }
+      },
+      {
+        "name": "SSG 08 | Dark Water",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.26
+        },
+        "prices": {
+          "Minimal Wear": "2.20",
+          "Field-Tested": "1.66",
+          "StatTrak Minimal Wear": "2.89",
+          "StatTrak Field-Tested": "2.00"
+        }
+      },
+      {
+        "name": "USP-S | Blood Tiger",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "6.24",
+          "Minimal Wear": "2.13",
+          "Field-Tested": "2.03",
+          "StatTrak Factory New": "9.47",
+          "StatTrak Minimal Wear": "3.07",
+          "StatTrak Field-Tested": "2.63"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

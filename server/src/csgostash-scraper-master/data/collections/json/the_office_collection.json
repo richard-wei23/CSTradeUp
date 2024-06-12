@@ -1,0 +1,107 @@
+{
+  "name": "The Office Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [],
+    "Mil-Spec Skins": [
+      {
+        "name": "MP7 | Whiteout",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "410.98",
+          "Minimal Wear": "60.00",
+          "Field-Tested": "8.94",
+          "Well-Worn": "10.00",
+          "Battle-Scarred": "8.91"
+        }
+      },
+      {
+        "name": "P2000 | Silver",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "30.93",
+          "Minimal Wear": "46.94"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "G3SG1 | Arctic Camo",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "69.99",
+          "Minimal Wear": "11.90",
+          "Field-Tested": "7.00",
+          "Well-Worn": "5.80",
+          "Battle-Scarred": "5.06"
+        }
+      },
+      {
+        "name": "M249 | Blizzard Marbleized",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "115.00",
+          "Minimal Wear": "13.07",
+          "Field-Tested": "7.12",
+          "Well-Worn": "5.96",
+          "Battle-Scarred": "6.44"
+        }
+      },
+      {
+        "name": "Galil AR | Winter Forest",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "178.52",
+          "Minimal Wear": "21.86",
+          "Field-Tested": "6.73",
+          "Well-Worn": "6.37",
+          "Battle-Scarred": "5.54"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "FAMAS | Contrast Spray",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "46.32",
+          "Minimal Wear": "7.12",
+          "Field-Tested": "4.30",
+          "Well-Worn": "3.28",
+          "Battle-Scarred": "2.94"
+        }
+      }
+    ]
+  }
+}

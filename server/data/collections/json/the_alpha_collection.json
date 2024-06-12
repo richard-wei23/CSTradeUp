@@ -1,0 +1,262 @@
+{
+  "name": "The Alpha Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "FAMAS | Spitfire",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "194.34",
+          "Minimal Wear": "43.87",
+          "Field-Tested": "12.48",
+          "Well-Worn": "10.70",
+          "Battle-Scarred": "7.83"
+        }
+      },
+      {
+        "name": "SCAR-20 | Emerald",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "24.00",
+          "Minimal Wear": "36.76"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "PP-Bizon | Rust Coat",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "23.07",
+          "Minimal Wear": "12.26",
+          "Field-Tested": "10.01",
+          "Well-Worn": "8.15",
+          "Battle-Scarred": "13.65"
+        }
+      },
+      {
+        "name": "MAG-7 | Hazard",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "82.68",
+          "Minimal Wear": "10.96",
+          "Field-Tested": "10.57",
+          "Well-Worn": "10.46",
+          "Battle-Scarred": "9.26"
+        }
+      },
+      {
+        "name": "AUG | Anodized Navy",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "24.97",
+          "Minimal Wear": "44.12"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P250 | Facets",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "27.03",
+          "Minimal Wear": "5.86",
+          "Field-Tested": "4.59",
+          "Well-Worn": "4.73",
+          "Battle-Scarred": "4.39"
+        }
+      },
+      {
+        "name": "Sawed-Off | Mosaico",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "17.86",
+          "Minimal Wear": "5.02",
+          "Field-Tested": "4.48",
+          "Well-Worn": "4.67",
+          "Battle-Scarred": "3.30"
+        }
+      },
+      {
+        "name": "Glock-18 | Sand Dune",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "119.53",
+          "Minimal Wear": "19.15",
+          "Field-Tested": "4.62",
+          "Well-Worn": "5.16",
+          "Battle-Scarred": "4.26"
+        }
+      },
+      {
+        "name": "SSG 08 | Mayan Dreams",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "34.50",
+          "Minimal Wear": "5.30",
+          "Field-Tested": "4.35",
+          "Well-Worn": "4.33",
+          "Battle-Scarred": "4.49"
+        }
+      },
+      {
+        "name": "Negev | Palm",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "54.99",
+          "Minimal Wear": "5.37",
+          "Field-Tested": "3.47",
+          "Well-Worn": "6.10",
+          "Battle-Scarred": "7.14"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Tec-9 | Tornado",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "31.72",
+          "Minimal Wear": "4.37",
+          "Field-Tested": "1.91",
+          "Well-Worn": "1.84",
+          "Battle-Scarred": "2.23"
+        }
+      },
+      {
+        "name": "Five-SeveN | Anodized Gunmetal",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "6.92",
+          "Minimal Wear": "6.66"
+        }
+      },
+      {
+        "name": "M249 | Jungle DDPAT",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "13.67",
+          "Minimal Wear": "2.97",
+          "Field-Tested": "1.90",
+          "Well-Worn": "1.58",
+          "Battle-Scarred": "1.44"
+        }
+      },
+      {
+        "name": "XM1014 | Jungle",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "49.99",
+          "Minimal Wear": "3.60",
+          "Field-Tested": "1.76",
+          "Well-Worn": "4.76",
+          "Battle-Scarred": "1.91"
+        }
+      },
+      {
+        "name": "MP9 | Dry Season",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "28.95",
+          "Minimal Wear": "2.59",
+          "Field-Tested": "1.62",
+          "Well-Worn": "2.01",
+          "Battle-Scarred": "1.76"
+        }
+      },
+      {
+        "name": "MP7 | Groundwater",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "28.12",
+          "Minimal Wear": "3.89",
+          "Field-Tested": "1.93",
+          "Well-Worn": "2.27",
+          "Battle-Scarred": "1.40"
+        }
+      }
+    ]
+  }
+}

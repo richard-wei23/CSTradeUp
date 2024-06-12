@@ -1,0 +1,345 @@
+{
+  "name": "Falchion Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AK-47 | Aquamarine Revenge",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "74.64",
+          "Minimal Wear": "52.69",
+          "Field-Tested": "32.00",
+          "Well-Worn": "18.00",
+          "Battle-Scarred": "12.00",
+          "StatTrak Factory New": "201.45",
+          "StatTrak Minimal Wear": "114.99",
+          "StatTrak Field-Tested": "60.56",
+          "StatTrak Well-Worn": "42.00",
+          "StatTrak Battle-Scarred": "35.38"
+        }
+      },
+      {
+        "name": "AWP | Hyper Beast",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "71.66",
+          "Minimal Wear": "42.89",
+          "Field-Tested": "22.92",
+          "Well-Worn": "16.96",
+          "Battle-Scarred": "14.54",
+          "StatTrak Factory New": "191.37",
+          "StatTrak Minimal Wear": "90.00",
+          "StatTrak Field-Tested": "47.50",
+          "StatTrak Well-Worn": "40.22",
+          "StatTrak Battle-Scarred": "34.86"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "SG 553 | Cyrex",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "11.35",
+          "Minimal Wear": "6.12",
+          "Field-Tested": "3.69",
+          "Well-Worn": "2.72",
+          "Battle-Scarred": "2.35",
+          "StatTrak Factory New": "40.52",
+          "StatTrak Minimal Wear": "12.84",
+          "StatTrak Field-Tested": "6.97",
+          "StatTrak Well-Worn": "6.19",
+          "StatTrak Battle-Scarred": "5.05"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Yellow Jacket",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "12.23",
+          "Minimal Wear": "6.06",
+          "Field-Tested": "3.62",
+          "Well-Worn": "2.91",
+          "Battle-Scarred": "2.33",
+          "StatTrak Factory New": "27.35",
+          "StatTrak Minimal Wear": "11.54",
+          "StatTrak Field-Tested": "7.31",
+          "StatTrak Well-Worn": "5.92",
+          "StatTrak Battle-Scarred": "5.25"
+        }
+      },
+      {
+        "name": "MP7 | Nemesis",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.32
+        },
+        "prices": {
+          "Factory New": "9.37",
+          "Minimal Wear": "5.93",
+          "Field-Tested": "4.44",
+          "StatTrak Factory New": "24.73",
+          "StatTrak Minimal Wear": "10.39",
+          "StatTrak Field-Tested": "7.70"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MP9 | Ruby Poison Dart",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "1.51",
+          "Minimal Wear": "0.82",
+          "Field-Tested": "0.56",
+          "Well-Worn": "0.57",
+          "Battle-Scarred": "0.55",
+          "StatTrak Factory New": "4.86",
+          "StatTrak Minimal Wear": "2.67",
+          "StatTrak Field-Tested": "1.56",
+          "StatTrak Well-Worn": "1.65",
+          "StatTrak Battle-Scarred": "1.67"
+        }
+      },
+      {
+        "name": "FAMAS | Neural Net",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "1.28",
+          "Minimal Wear": "0.82",
+          "Field-Tested": "0.47",
+          "Well-Worn": "0.47",
+          "Battle-Scarred": "0.62",
+          "StatTrak Factory New": "3.70",
+          "StatTrak Minimal Wear": "1.93",
+          "StatTrak Field-Tested": "1.01",
+          "StatTrak Well-Worn": "1.15",
+          "StatTrak Battle-Scarred": "1.05"
+        }
+      },
+      {
+        "name": "M4A4 | Evil Daimyo",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.52
+        },
+        "prices": {
+          "Factory New": "3.74",
+          "Minimal Wear": "1.97",
+          "Field-Tested": "1.21",
+          "Well-Worn": "1.35",
+          "Battle-Scarred": "1.15",
+          "StatTrak Factory New": "12.68",
+          "StatTrak Minimal Wear": "6.23",
+          "StatTrak Field-Tested": "3.05",
+          "StatTrak Well-Worn": "3.44",
+          "StatTrak Battle-Scarred": "4.90"
+        }
+      },
+      {
+        "name": "Negev | Loudmouth",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.14,
+          "max_wear": 0.65
+        },
+        "prices": {
+          "Minimal Wear": "4.45",
+          "Field-Tested": "0.45",
+          "Well-Worn": "0.48",
+          "Battle-Scarred": "0.50",
+          "StatTrak Minimal Wear": "27.99",
+          "StatTrak Field-Tested": "1.12",
+          "StatTrak Well-Worn": "1.41",
+          "StatTrak Battle-Scarred": "0.97"
+        }
+      },
+      {
+        "name": "P2000 | Handgun",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "2.86",
+          "Minimal Wear": "0.76",
+          "Field-Tested": "0.54",
+          "Well-Worn": "0.41",
+          "Battle-Scarred": "0.38",
+          "StatTrak Factory New": "11.79",
+          "StatTrak Minimal Wear": "2.45",
+          "StatTrak Field-Tested": "1.26",
+          "StatTrak Well-Worn": "0.88",
+          "StatTrak Battle-Scarred": "0.79"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Nova | Ranger",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.43",
+          "Minimal Wear": "0.16",
+          "Field-Tested": "0.15",
+          "Well-Worn": "0.13",
+          "Battle-Scarred": "0.12",
+          "StatTrak Factory New": "1.63",
+          "StatTrak Minimal Wear": "0.53",
+          "StatTrak Field-Tested": "0.23",
+          "StatTrak Well-Worn": "0.14",
+          "StatTrak Battle-Scarred": "0.14"
+        }
+      },
+      {
+        "name": "Glock-18 | Bunsen Burner",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "1.00",
+          "Minimal Wear": "0.30",
+          "Field-Tested": "0.19",
+          "Well-Worn": "0.32",
+          "Battle-Scarred": "0.14",
+          "StatTrak Factory New": "5.00",
+          "StatTrak Minimal Wear": "1.26",
+          "StatTrak Field-Tested": "0.48",
+          "StatTrak Well-Worn": "1.86",
+          "StatTrak Battle-Scarred": "0.48"
+        }
+      },
+      {
+        "name": "UMP-45 | Riot",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "0.29",
+          "Minimal Wear": "0.16",
+          "Field-Tested": "0.16",
+          "Well-Worn": "0.18",
+          "Battle-Scarred": "0.16",
+          "StatTrak Factory New": "1.06",
+          "StatTrak Minimal Wear": "0.51",
+          "StatTrak Field-Tested": "0.38",
+          "StatTrak Well-Worn": "0.26",
+          "StatTrak Battle-Scarred": "0.16"
+        }
+      },
+      {
+        "name": "USP-S | Torque",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.46
+        },
+        "prices": {
+          "Factory New": "1.14",
+          "Minimal Wear": "0.87",
+          "Field-Tested": "0.44",
+          "Well-Worn": "0.46",
+          "Battle-Scarred": "1.02",
+          "StatTrak Factory New": "3.42",
+          "StatTrak Minimal Wear": "2.20",
+          "StatTrak Field-Tested": "1.20",
+          "StatTrak Well-Worn": "1.82",
+          "StatTrak Battle-Scarred": "2.03"
+        }
+      },
+      {
+        "name": "P90 | Elite Build",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.76",
+          "Minimal Wear": "0.17",
+          "Field-Tested": "0.16",
+          "Well-Worn": "0.13",
+          "Battle-Scarred": "0.13",
+          "StatTrak Factory New": "3.97",
+          "StatTrak Minimal Wear": "0.56",
+          "StatTrak Field-Tested": "0.23",
+          "StatTrak Well-Worn": "0.13",
+          "StatTrak Battle-Scarred": "0.14"
+        }
+      },
+      {
+        "name": "Galil AR | Rocket Pop",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "5.83",
+          "Minimal Wear": "1.81",
+          "Field-Tested": "0.66",
+          "Well-Worn": "0.37",
+          "Battle-Scarred": "0.21",
+          "StatTrak Factory New": "15.84",
+          "StatTrak Minimal Wear": "3.23",
+          "StatTrak Field-Tested": "1.27",
+          "StatTrak Well-Worn": "0.61",
+          "StatTrak Battle-Scarred": "0.40"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

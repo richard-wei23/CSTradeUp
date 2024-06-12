@@ -1,0 +1,296 @@
+{
+  "name": "Operation Bravo Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AK-47 | Fire Serpent",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.76
+        },
+        "prices": {
+          "Factory New": "2,078.00",
+          "Minimal Wear": "1,063.00",
+          "Field-Tested": "712.33",
+          "Well-Worn": "640.46",
+          "Battle-Scarred": "435.00",
+          "StatTrak Factory New": "4,583.00",
+          "StatTrak Minimal Wear": "2,574.48",
+          "StatTrak Field-Tested": "1,613.52",
+          "StatTrak Well-Worn": "1,305.37",
+          "StatTrak Battle-Scarred": "890.00"
+        }
+      },
+      {
+        "name": "Desert Eagle | Golden Koi",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.12
+        },
+        "prices": {
+          "Factory New": "85.74",
+          "Minimal Wear": "72.47",
+          "StatTrak Factory New": "217.54",
+          "StatTrak Minimal Wear": "164.99"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "P90 | Emerald Dragon",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.52
+        },
+        "prices": {
+          "Factory New": "279.40",
+          "Minimal Wear": "95.99",
+          "Field-Tested": "78.33",
+          "Well-Worn": "83.86",
+          "Battle-Scarred": "84.30",
+          "StatTrak Factory New": "914.07",
+          "StatTrak Minimal Wear": "240.00",
+          "StatTrak Field-Tested": "221.18",
+          "StatTrak Well-Worn": "300.00",
+          "StatTrak Battle-Scarred": "192.04"
+        }
+      },
+      {
+        "name": "P2000 | Ocean Foam",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.12
+        },
+        "prices": {
+          "Factory New": "120.00",
+          "Minimal Wear": "100.00",
+          "StatTrak Factory New": "364.00",
+          "StatTrak Minimal Wear": "328.76"
+        }
+      },
+      {
+        "name": "AWP | Graphite",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.12
+        },
+        "prices": {
+          "Factory New": "118.48",
+          "Minimal Wear": "109.94",
+          "StatTrak Factory New": "318.77",
+          "StatTrak Minimal Wear": "282.87"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MAC-10 | Graven",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "29.22",
+          "Minimal Wear": "23.00",
+          "Field-Tested": "20.93",
+          "Well-Worn": "20.04",
+          "Battle-Scarred": "23.99",
+          "StatTrak Factory New": "108.40",
+          "StatTrak Minimal Wear": "41.82",
+          "StatTrak Field-Tested": "40.74",
+          "StatTrak Well-Worn": "42.18",
+          "StatTrak Battle-Scarred": "39.00"
+        }
+      },
+      {
+        "name": "M4A1-S | Bright Water",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.22
+        },
+        "prices": {
+          "Minimal Wear": "22.46",
+          "Field-Tested": "22.60",
+          "StatTrak Minimal Wear": "49.78",
+          "StatTrak Field-Tested": "41.43"
+        }
+      },
+      {
+        "name": "USP-S | Overgrowth",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "52.00",
+          "Minimal Wear": "23.41",
+          "Field-Tested": "21.08",
+          "Well-Worn": "19.34",
+          "Battle-Scarred": "21.46",
+          "StatTrak Factory New": "246.09",
+          "StatTrak Minimal Wear": "47.07",
+          "StatTrak Field-Tested": "39.99",
+          "StatTrak Well-Worn": "41.79",
+          "StatTrak Battle-Scarred": "38.15"
+        }
+      },
+      {
+        "name": "M4A4 | Zirka",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.42
+        },
+        "prices": {
+          "Factory New": "27.34",
+          "Minimal Wear": "23.59",
+          "Field-Tested": "20.65",
+          "Well-Worn": "23.20",
+          "StatTrak Factory New": "94.39",
+          "StatTrak Minimal Wear": "44.00",
+          "StatTrak Field-Tested": "40.97",
+          "StatTrak Well-Worn": "45.73"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Dual Berettas | Black Limba",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "20.00",
+          "Minimal Wear": "7.30",
+          "Field-Tested": "6.90",
+          "Well-Worn": "7.15",
+          "Battle-Scarred": "7.00",
+          "StatTrak Factory New": "53.82",
+          "StatTrak Minimal Wear": "6.15",
+          "StatTrak Field-Tested": "5.08",
+          "StatTrak Well-Worn": "6.11",
+          "StatTrak Battle-Scarred": "6.13"
+        }
+      },
+      {
+        "name": "SG 553 | Wave Spray",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "12.76",
+          "Minimal Wear": "7.25",
+          "Field-Tested": "7.36",
+          "Well-Worn": "7.49",
+          "Battle-Scarred": "8.07",
+          "StatTrak Factory New": "52.33",
+          "StatTrak Minimal Wear": "6.74",
+          "StatTrak Field-Tested": "5.49",
+          "StatTrak Well-Worn": "5.40",
+          "StatTrak Battle-Scarred": "4.94"
+        }
+      },
+      {
+        "name": "G3SG1 | Demeter",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "13.97",
+          "Minimal Wear": "7.30",
+          "Field-Tested": "7.37",
+          "Well-Worn": "7.96",
+          "Battle-Scarred": "7.77",
+          "StatTrak Factory New": "39.10",
+          "StatTrak Minimal Wear": "7.29",
+          "StatTrak Field-Tested": "5.30",
+          "StatTrak Well-Worn": "5.59",
+          "StatTrak Battle-Scarred": "5.00"
+        }
+      },
+      {
+        "name": "Nova | Tempest",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.22
+        },
+        "prices": {
+          "Factory New": "12.64",
+          "Minimal Wear": "7.07",
+          "Field-Tested": "7.10",
+          "StatTrak Factory New": "22.88",
+          "StatTrak Minimal Wear": "6.07",
+          "StatTrak Field-Tested": "5.56"
+        }
+      },
+      {
+        "name": "Galil AR | Shattered",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "18.89",
+          "Minimal Wear": "7.17",
+          "Field-Tested": "7.29",
+          "Well-Worn": "6.67",
+          "Battle-Scarred": "6.15",
+          "StatTrak Factory New": "69.95",
+          "StatTrak Minimal Wear": "11.43",
+          "StatTrak Field-Tested": "5.41",
+          "StatTrak Well-Worn": "6.99",
+          "StatTrak Battle-Scarred": "6.16"
+        }
+      },
+      {
+        "name": "UMP-45 | Bone Pile",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.34
+        },
+        "prices": {
+          "Factory New": "12.69",
+          "Minimal Wear": "7.67",
+          "Field-Tested": "7.51",
+          "StatTrak Factory New": "23.90",
+          "StatTrak Minimal Wear": "6.23",
+          "StatTrak Field-Tested": "5.68"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

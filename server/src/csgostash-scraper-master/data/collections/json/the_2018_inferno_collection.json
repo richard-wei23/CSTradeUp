@@ -1,0 +1,372 @@
+{
+  "name": "The 2018 Inferno Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "SG 553 | Integrale",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "80.18",
+          "Minimal Wear": "25.34",
+          "Field-Tested": "9.54",
+          "Well-Worn": "4.19",
+          "Battle-Scarred": "2.99",
+          "StatTrak Factory New": "1,375.38",
+          "StatTrak Minimal Wear": "195.00",
+          "StatTrak Field-Tested": "71.46",
+          "StatTrak Well-Worn": "47.55",
+          "StatTrak Battle-Scarred": "43.21"
+        }
+      },
+      {
+        "name": "Dual Berettas | Twin Turbo",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "3.90",
+          "Minimal Wear": "2.64",
+          "Field-Tested": "1.25",
+          "Well-Worn": "0.84",
+          "Battle-Scarred": "0.71",
+          "StatTrak Factory New": "260.12",
+          "StatTrak Minimal Wear": "31.58",
+          "StatTrak Field-Tested": "15.68",
+          "StatTrak Well-Worn": "13.06",
+          "StatTrak Battle-Scarred": "11.56"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "AK-47 | Safety Net",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "5.14",
+          "Minimal Wear": "2.25",
+          "Field-Tested": "1.88",
+          "Well-Worn": "2.40",
+          "Battle-Scarred": "1.85",
+          "StatTrak Factory New": "50.00",
+          "StatTrak Minimal Wear": "16.74",
+          "StatTrak Field-Tested": "9.13",
+          "StatTrak Well-Worn": "18.85",
+          "StatTrak Battle-Scarred": "10.86"
+        }
+      },
+      {
+        "name": "P250 | Vino Primo",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "5.14",
+          "Minimal Wear": "2.93",
+          "Field-Tested": "1.00",
+          "Well-Worn": "0.59",
+          "Battle-Scarred": "0.44",
+          "StatTrak Factory New": "79.98",
+          "StatTrak Minimal Wear": "13.96",
+          "StatTrak Field-Tested": "6.51",
+          "StatTrak Well-Worn": "3.95",
+          "StatTrak Battle-Scarred": "3.95"
+        }
+      },
+      {
+        "name": "MP7 | Fade",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.25
+        },
+        "prices": {
+          "Factory New": "4.81",
+          "Minimal Wear": "3.47",
+          "Field-Tested": "2.84",
+          "StatTrak Factory New": "24.78",
+          "StatTrak Minimal Wear": "15.48",
+          "StatTrak Field-Tested": "15.40"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "USP-S | Check Engine",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.89",
+          "Minimal Wear": "0.52",
+          "Field-Tested": "0.35",
+          "Well-Worn": "0.31",
+          "Battle-Scarred": "0.26",
+          "StatTrak Factory New": "10.96",
+          "StatTrak Minimal Wear": "4.34",
+          "StatTrak Field-Tested": "2.56",
+          "StatTrak Well-Worn": "3.46",
+          "StatTrak Battle-Scarred": "2.50"
+        }
+      },
+      {
+        "name": "Sawed-Off | Brake Light",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "0.54",
+          "Minimal Wear": "0.47",
+          "StatTrak Factory New": "0.33",
+          "StatTrak Minimal Wear": "1.09"
+        }
+      },
+      {
+        "name": "M4A4 | Converter",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "0.54",
+          "Minimal Wear": "0.42",
+          "Field-Tested": "0.31",
+          "Well-Worn": "0.37",
+          "StatTrak Factory New": "5.45",
+          "StatTrak Minimal Wear": "4.26",
+          "StatTrak Field-Tested": "2.45",
+          "StatTrak Well-Worn": "5.70"
+        }
+      },
+      {
+        "name": "SSG 08 | Hand Brake",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.64",
+          "Minimal Wear": "0.46",
+          "Field-Tested": "0.32",
+          "Well-Worn": "0.24",
+          "Battle-Scarred": "0.22",
+          "StatTrak Factory New": "20.96",
+          "StatTrak Minimal Wear": "4.13",
+          "StatTrak Field-Tested": "1.53",
+          "StatTrak Well-Worn": "1.18",
+          "StatTrak Battle-Scarred": "1.21"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "MAC-10 | Calf Skin",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.10",
+          "Minimal Wear": "0.04",
+          "Field-Tested": "0.04",
+          "Well-Worn": "0.03",
+          "Battle-Scarred": "0.03",
+          "StatTrak Factory New": "3.90",
+          "StatTrak Minimal Wear": "0.51",
+          "StatTrak Field-Tested": "0.13",
+          "StatTrak Well-Worn": "0.08",
+          "StatTrak Battle-Scarred": "0.06"
+        }
+      },
+      {
+        "name": "Glock-18 | High Beam",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "0.06",
+          "Minimal Wear": "0.07",
+          "StatTrak Factory New": "1.23",
+          "StatTrak Minimal Wear": "3.02"
+        }
+      },
+      {
+        "name": "PP-Bizon | Candy Apple",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "0.06",
+          "Minimal Wear": "0.05",
+          "Field-Tested": "0.04",
+          "StatTrak Factory New": "1.36",
+          "StatTrak Minimal Wear": "0.63",
+          "StatTrak Field-Tested": "0.51"
+        }
+      },
+      {
+        "name": "R8 Revolver | Nitro",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.18",
+          "Minimal Wear": "0.04",
+          "Field-Tested": "0.03",
+          "Well-Worn": "0.03",
+          "Battle-Scarred": "0.03",
+          "StatTrak Factory New": "5.60",
+          "StatTrak Minimal Wear": "0.23",
+          "StatTrak Field-Tested": "0.05",
+          "StatTrak Well-Worn": "0.12",
+          "StatTrak Battle-Scarred": "0.05"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "AUG | Sweeper",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.01",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "0.09",
+          "StatTrak Minimal Wear": "0.03",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.05",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "MP9 | Slide",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "1.19",
+          "StatTrak Minimal Wear": "0.06",
+          "StatTrak Field-Tested": "0.02",
+          "StatTrak Well-Worn": "0.03",
+          "StatTrak Battle-Scarred": "0.02"
+        }
+      },
+      {
+        "name": "MP5-SD | Dirt Drop",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.03",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "0.97",
+          "StatTrak Minimal Wear": "0.02",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "MAG-7 | Rust Coat",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.03",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "0.14",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.05"
+        }
+      },
+      {
+        "name": "UMP-45 | Mudder",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.03",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "0.53",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      }
+    ]
+  }
+}

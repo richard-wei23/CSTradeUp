@@ -1,0 +1,285 @@
+{
+  "name": "The Cache Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "FAMAS | Styx",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "6.68",
+          "Minimal Wear": "3.94",
+          "Field-Tested": "1.55",
+          "Well-Worn": "2.40",
+          "Battle-Scarred": "1.80",
+          "StatTrak Factory New": "54.00",
+          "StatTrak Minimal Wear": "23.51",
+          "StatTrak Field-Tested": "9.13",
+          "StatTrak Well-Worn": "13.98",
+          "StatTrak Battle-Scarred": "9.82"
+        }
+      },
+      {
+        "name": "Galil AR | Cerberus",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.9
+        },
+        "prices": {
+          "Factory New": "54.00",
+          "Minimal Wear": "36.20",
+          "Field-Tested": "15.63",
+          "Well-Worn": "10.88",
+          "Battle-Scarred": "9.74",
+          "StatTrak Factory New": "421.88",
+          "StatTrak Minimal Wear": "78.94",
+          "StatTrak Field-Tested": "32.49",
+          "StatTrak Well-Worn": "25.69",
+          "StatTrak Battle-Scarred": "21.22"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "XM1014 | Bone Machine",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "7.08",
+          "Minimal Wear": "5.72",
+          "Field-Tested": "4.98",
+          "Well-Worn": "5.61",
+          "Battle-Scarred": "5.17",
+          "StatTrak Factory New": "19.16",
+          "StatTrak Minimal Wear": "7.85",
+          "StatTrak Field-Tested": "3.85",
+          "StatTrak Well-Worn": "4.80",
+          "StatTrak Battle-Scarred": "3.28"
+        }
+      },
+      {
+        "name": "MP9 | Setting Sun",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "8.38",
+          "Minimal Wear": "6.23",
+          "Field-Tested": "4.88",
+          "Well-Worn": "4.54",
+          "Battle-Scarred": "3.58",
+          "StatTrak Factory New": "61.87",
+          "StatTrak Minimal Wear": "12.51",
+          "StatTrak Field-Tested": "5.27",
+          "StatTrak Well-Worn": "3.03",
+          "StatTrak Battle-Scarred": "2.90"
+        }
+      },
+      {
+        "name": "MAC-10 | Nuclear Garden",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "8.10",
+          "Minimal Wear": "6.59",
+          "Field-Tested": "4.99",
+          "Well-Worn": "5.52",
+          "Battle-Scarred": "4.66",
+          "StatTrak Factory New": "33.02",
+          "StatTrak Minimal Wear": "10.90",
+          "StatTrak Field-Tested": "5.22",
+          "StatTrak Well-Worn": "9.99",
+          "StatTrak Battle-Scarred": "2.67"
+        }
+      },
+      {
+        "name": "Tec-9 | Toxic",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "7.17",
+          "Minimal Wear": "6.17",
+          "Field-Tested": "5.44",
+          "Well-Worn": "5.30",
+          "Battle-Scarred": "6.38",
+          "StatTrak Factory New": "47.60",
+          "StatTrak Minimal Wear": "16.35",
+          "StatTrak Field-Tested": "6.46",
+          "StatTrak Well-Worn": "7.66",
+          "StatTrak Battle-Scarred": "6.93"
+        }
+      },
+      {
+        "name": "Glock-18 | Reactor",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "8.00",
+          "Minimal Wear": "5.88",
+          "Field-Tested": "4.80",
+          "Well-Worn": "4.23",
+          "Battle-Scarred": "3.03",
+          "StatTrak Factory New": "97.75",
+          "StatTrak Minimal Wear": "23.69",
+          "StatTrak Field-Tested": "11.16",
+          "StatTrak Well-Worn": "7.70",
+          "StatTrak Battle-Scarred": "6.74"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "SG 553 | Fallout Warning",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "2.48",
+          "Minimal Wear": "2.09",
+          "Field-Tested": "1.74",
+          "Well-Worn": "3.14",
+          "Battle-Scarred": "1.62",
+          "StatTrak Factory New": "7.83",
+          "StatTrak Minimal Wear": "2.31",
+          "StatTrak Field-Tested": "0.90",
+          "StatTrak Well-Worn": "1.93",
+          "StatTrak Battle-Scarred": "1.13"
+        }
+      },
+      {
+        "name": "Negev | Nuclear Waste",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "2.42",
+          "Minimal Wear": "2.19",
+          "Field-Tested": "1.86",
+          "Well-Worn": "2.32",
+          "StatTrak Factory New": "3.65",
+          "StatTrak Minimal Wear": "1.60",
+          "StatTrak Field-Tested": "0.98",
+          "StatTrak Well-Worn": "2.60"
+        }
+      },
+      {
+        "name": "PP-Bizon | Chemical Green",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.9
+        },
+        "prices": {
+          "Factory New": "3.21",
+          "Minimal Wear": "2.03",
+          "Field-Tested": "1.73",
+          "Well-Worn": "2.10",
+          "Battle-Scarred": "1.66",
+          "StatTrak Factory New": "14.43",
+          "StatTrak Minimal Wear": "2.65",
+          "StatTrak Field-Tested": "1.07",
+          "StatTrak Well-Worn": "1.13",
+          "StatTrak Battle-Scarred": "0.65"
+        }
+      },
+      {
+        "name": "AUG | Radiation Hazard",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "2.26",
+          "Minimal Wear": "2.01",
+          "Field-Tested": "1.90",
+          "Well-Worn": "1.79",
+          "Battle-Scarred": "1.50",
+          "StatTrak Factory New": "4.56",
+          "StatTrak Minimal Wear": "2.90",
+          "StatTrak Field-Tested": "1.12",
+          "StatTrak Well-Worn": "1.53",
+          "StatTrak Battle-Scarred": "1.55"
+        }
+      },
+      {
+        "name": "P250 | Contamination",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.83
+        },
+        "prices": {
+          "Factory New": "2.95",
+          "Minimal Wear": "2.20",
+          "Field-Tested": "1.83",
+          "Well-Worn": "3.09",
+          "Battle-Scarred": "1.71",
+          "StatTrak Factory New": "5.55",
+          "StatTrak Minimal Wear": "1.26",
+          "StatTrak Field-Tested": "0.56",
+          "StatTrak Well-Worn": "1.84",
+          "StatTrak Battle-Scarred": "0.51"
+        }
+      },
+      {
+        "name": "Five-SeveN | Hot Shot",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "12.98",
+          "Minimal Wear": "2.47",
+          "Field-Tested": "1.89",
+          "Well-Worn": "1.76",
+          "Battle-Scarred": "1.70",
+          "StatTrak Factory New": "19.47",
+          "StatTrak Minimal Wear": "4.90",
+          "StatTrak Field-Tested": "1.86",
+          "StatTrak Well-Worn": "1.35",
+          "StatTrak Battle-Scarred": "0.98"
+        }
+      }
+    ],
+    "Consumer Grade Skins": []
+  }
+}

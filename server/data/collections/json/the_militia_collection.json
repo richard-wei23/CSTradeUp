@@ -1,0 +1,192 @@
+{
+  "name": "The Militia Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "SCAR-20 | Splash Jam",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "1,656.56",
+          "Minimal Wear": "33.60",
+          "Field-Tested": "5.61",
+          "Well-Worn": "6.09",
+          "Battle-Scarred": "5.41"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M4A4 | Modern Hunter",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "271.41",
+          "Minimal Wear": "57.68",
+          "Field-Tested": "21.55",
+          "Well-Worn": "30.74",
+          "Battle-Scarred": "26.91"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Nova | Blaze Orange",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "240.00",
+          "Minimal Wear": "31.71",
+          "Field-Tested": "11.70",
+          "Well-Worn": "14.68",
+          "Battle-Scarred": "11.95"
+        }
+      },
+      {
+        "name": "XM1014 | Blaze Orange",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "247.23",
+          "Minimal Wear": "42.20",
+          "Field-Tested": "13.34",
+          "Well-Worn": "16.51",
+          "Battle-Scarred": "17.55"
+        }
+      },
+      {
+        "name": "P250 | Modern Hunter",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "310.90",
+          "Minimal Wear": "21.64",
+          "Field-Tested": "10.00",
+          "Well-Worn": "27.36",
+          "Battle-Scarred": "17.04"
+        }
+      },
+      {
+        "name": "Nova | Modern Hunter",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "169.23",
+          "Minimal Wear": "18.98",
+          "Field-Tested": "13.74",
+          "Well-Worn": "26.80",
+          "Battle-Scarred": "21.56"
+        }
+      },
+      {
+        "name": "PP-Bizon | Modern Hunter",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "140.62",
+          "Minimal Wear": "24.75",
+          "Field-Tested": "10.40",
+          "Well-Worn": "14.55",
+          "Battle-Scarred": "8.97"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P2000 | Grassland Leaves",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "200.00",
+          "Minimal Wear": "14.34",
+          "Field-Tested": "9.32",
+          "Well-Worn": "8.17",
+          "Battle-Scarred": "9.35"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "MAC-10 | Tornado",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "23.80",
+          "Minimal Wear": "4.42",
+          "Field-Tested": "1.78",
+          "Well-Worn": "1.86",
+          "Battle-Scarred": "1.61"
+        }
+      },
+      {
+        "name": "XM1014 | Grassland",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "40.28",
+          "Minimal Wear": "3.03",
+          "Field-Tested": "1.83",
+          "Well-Worn": "2.07",
+          "Battle-Scarred": "1.59"
+        }
+      },
+      {
+        "name": "PP-Bizon | Forest Leaves",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "29.25",
+          "Minimal Wear": "2.96",
+          "Field-Tested": "1.82",
+          "Well-Worn": "1.46",
+          "Battle-Scarred": "1.98"
+        }
+      }
+    ]
+  }
+}

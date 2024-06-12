@@ -1,0 +1,249 @@
+{
+  "name": "CS:GO Weapon Case 3",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "CZ75-Auto | Victoria",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.75
+        },
+        "prices": {
+          "Factory New": "8.11",
+          "Minimal Wear": "5.03",
+          "Field-Tested": "3.43",
+          "Well-Worn": "6.64",
+          "Battle-Scarred": "3.22",
+          "StatTrak Factory New": "86.42",
+          "StatTrak Minimal Wear": "38.28",
+          "StatTrak Field-Tested": "18.98",
+          "StatTrak Well-Worn": "44.00",
+          "StatTrak Battle-Scarred": "20.18"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "CZ75-Auto | The Fuschia Is Now",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "45.84",
+          "Minimal Wear": "25.88",
+          "Field-Tested": "16.32",
+          "Well-Worn": "21.19",
+          "StatTrak Factory New": "38.00",
+          "StatTrak Minimal Wear": "29.77",
+          "StatTrak Field-Tested": "16.77",
+          "StatTrak Well-Worn": "34.10"
+        }
+      },
+      {
+        "name": "P250 | Undertow",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "46.99",
+          "Minimal Wear": "28.01",
+          "Field-Tested": "22.99",
+          "StatTrak Factory New": "45.34",
+          "StatTrak Minimal Wear": "37.01",
+          "StatTrak Field-Tested": "33.40"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "CZ75-Auto | Tread Plate",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "5.06",
+          "Minimal Wear": "4.65",
+          "Field-Tested": "4.46",
+          "StatTrak Factory New": "16.17",
+          "StatTrak Minimal Wear": "10.69",
+          "StatTrak Field-Tested": "13.26"
+        }
+      },
+      {
+        "name": "Desert Eagle | Heirloom",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "12.63",
+          "Minimal Wear": "5.91",
+          "Field-Tested": "3.94",
+          "Well-Worn": "4.91",
+          "Battle-Scarred": "3.49",
+          "StatTrak Factory New": "49.40",
+          "StatTrak Minimal Wear": "16.42",
+          "StatTrak Field-Tested": "8.54",
+          "StatTrak Well-Worn": "11.36",
+          "StatTrak Battle-Scarred": "8.39"
+        }
+      },
+      {
+        "name": "Five-SeveN | Copper Galaxy",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "5.70",
+          "Minimal Wear": "4.84",
+          "Field-Tested": "4.84",
+          "StatTrak Factory New": "17.80",
+          "StatTrak Minimal Wear": "16.40",
+          "StatTrak Field-Tested": "15.25"
+        }
+      },
+      {
+        "name": "Tec-9 | Titanium Bit",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "5.35",
+          "Minimal Wear": "4.80",
+          "Field-Tested": "5.10",
+          "StatTrak Factory New": "15.35",
+          "StatTrak Minimal Wear": "9.37",
+          "StatTrak Field-Tested": "9.84"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Glock-18 | Blue Fissure",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.58
+        },
+        "prices": {
+          "Factory New": "13.62",
+          "Minimal Wear": "1.39",
+          "Field-Tested": "1.06",
+          "Well-Worn": "1.18",
+          "Battle-Scarred": "1.00",
+          "StatTrak Factory New": "65.48",
+          "StatTrak Minimal Wear": "5.52",
+          "StatTrak Field-Tested": "2.01",
+          "StatTrak Well-Worn": "3.78",
+          "StatTrak Battle-Scarred": "2.56"
+        }
+      },
+      {
+        "name": "USP-S | Stainless",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "15.63",
+          "Minimal Wear": "6.16",
+          "Field-Tested": "2.99",
+          "Well-Worn": "4.06",
+          "Battle-Scarred": "2.31",
+          "StatTrak Factory New": "63.97",
+          "StatTrak Minimal Wear": "23.61",
+          "StatTrak Field-Tested": "10.75",
+          "StatTrak Well-Worn": "12.66",
+          "StatTrak Battle-Scarred": "9.43"
+        }
+      },
+      {
+        "name": "Dual Berettas | Panther",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.58
+        },
+        "prices": {
+          "Factory New": "1.85",
+          "Minimal Wear": "1.45",
+          "Field-Tested": "1.05",
+          "Well-Worn": "0.95",
+          "Battle-Scarred": "1.02",
+          "StatTrak Factory New": "5.98",
+          "StatTrak Minimal Wear": "3.47",
+          "StatTrak Field-Tested": "1.95",
+          "StatTrak Well-Worn": "2.26",
+          "StatTrak Battle-Scarred": "2.75"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Crimson Web",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "9.59",
+          "Minimal Wear": "1.34",
+          "Field-Tested": "0.89",
+          "Well-Worn": "0.93",
+          "Battle-Scarred": "0.84",
+          "StatTrak Factory New": "47.39",
+          "StatTrak Minimal Wear": "3.44",
+          "StatTrak Field-Tested": "2.58",
+          "StatTrak Well-Worn": "3.50",
+          "StatTrak Battle-Scarred": "3.22"
+        }
+      },
+      {
+        "name": "P2000 | Red FragCam",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "1.89",
+          "Minimal Wear": "1.32",
+          "Field-Tested": "0.93",
+          "Well-Worn": "1.08",
+          "Battle-Scarred": "0.90",
+          "StatTrak Factory New": "4.47",
+          "StatTrak Minimal Wear": "3.32",
+          "StatTrak Field-Tested": "1.93",
+          "StatTrak Well-Worn": "3.85",
+          "StatTrak Battle-Scarred": "2.01"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

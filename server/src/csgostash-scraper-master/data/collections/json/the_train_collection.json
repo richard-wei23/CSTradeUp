@@ -1,0 +1,302 @@
+{
+  "name": "The Train Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "Tec-9 | Red Quartz",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "0.04",
+          "Minimal Wear": "0.05",
+          "Field-Tested": "0.05",
+          "Well-Worn": "0.15",
+          "StatTrak Factory New": "23.29",
+          "StatTrak Minimal Wear": "11.09",
+          "StatTrak Field-Tested": "7.02",
+          "StatTrak Well-Worn": "29.99"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Desert Eagle | Urban Rubble",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "0.41",
+          "Minimal Wear": "0.24",
+          "Field-Tested": "0.11",
+          "Well-Worn": "0.12",
+          "Battle-Scarred": "0.13",
+          "StatTrak Factory New": "15.32",
+          "StatTrak Minimal Wear": "7.54",
+          "StatTrak Field-Tested": "5.46",
+          "StatTrak Well-Worn": "9.75",
+          "StatTrak Battle-Scarred": "12.21"
+        }
+      },
+      {
+        "name": "Sawed-Off | Amber Fade",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "0.39",
+          "Minimal Wear": "0.23",
+          "Field-Tested": "0.14",
+          "Well-Worn": "0.17",
+          "StatTrak Factory New": "2.95",
+          "StatTrak Minimal Wear": "1.24",
+          "StatTrak Field-Tested": "0.78",
+          "StatTrak Well-Worn": "9.42"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "MAC-10 | Candy Apple",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.06",
+          "Field-Tested": "0.05",
+          "StatTrak Factory New": "10.94",
+          "StatTrak Minimal Wear": "5.62",
+          "StatTrak Field-Tested": "4.76"
+        }
+      },
+      {
+        "name": "MAG-7 | Metallic DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.09",
+          "StatTrak Factory New": "1.08",
+          "StatTrak Minimal Wear": "5.00"
+        }
+      },
+      {
+        "name": "P90 | Ash Wood",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.45
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.06",
+          "Field-Tested": "0.04",
+          "Well-Worn": "0.04",
+          "StatTrak Factory New": "2.84",
+          "StatTrak Minimal Wear": "1.54",
+          "StatTrak Field-Tested": "0.57",
+          "StatTrak Well-Worn": "1.77"
+        }
+      },
+      {
+        "name": "M4A4 | Urban DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "2.19",
+          "Minimal Wear": "0.15",
+          "Field-Tested": "0.03",
+          "Well-Worn": "0.04",
+          "Battle-Scarred": "0.04",
+          "StatTrak Factory New": "124.87",
+          "StatTrak Minimal Wear": "12.66",
+          "StatTrak Field-Tested": "3.78",
+          "StatTrak Well-Worn": "4.04",
+          "StatTrak Battle-Scarred": "4.46"
+        }
+      },
+      {
+        "name": "SCAR-20 | Carbon Fiber",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.12
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.05",
+          "StatTrak Factory New": "1.56",
+          "StatTrak Minimal Wear": "1.54"
+        }
+      },
+      {
+        "name": "P250 | Metallic DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "0.08",
+          "Minimal Wear": "0.08",
+          "StatTrak Factory New": "2.48",
+          "StatTrak Minimal Wear": "6.50"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "G3SG1 | Polar Camo",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "16.41",
+          "StatTrak Minimal Wear": "1.60",
+          "StatTrak Field-Tested": "0.27",
+          "StatTrak Well-Worn": "0.82",
+          "StatTrak Battle-Scarred": "0.14"
+        }
+      },
+      {
+        "name": "Dual Berettas | Colony",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "9.00",
+          "StatTrak Minimal Wear": "0.73",
+          "StatTrak Field-Tested": "0.19",
+          "StatTrak Well-Worn": "0.74",
+          "StatTrak Battle-Scarred": "0.20"
+        }
+      },
+      {
+        "name": "UMP-45 | Urban DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "7.73",
+          "StatTrak Minimal Wear": "0.35",
+          "StatTrak Field-Tested": "0.17",
+          "StatTrak Well-Worn": "0.21",
+          "StatTrak Battle-Scarred": "0.11"
+        }
+      },
+      {
+        "name": "Five-SeveN | Forest Night",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "13.34",
+          "StatTrak Minimal Wear": "1.21",
+          "StatTrak Field-Tested": "0.29",
+          "StatTrak Well-Worn": "0.61",
+          "StatTrak Battle-Scarred": "0.44"
+        }
+      },
+      {
+        "name": "Nova | Polar Mesh",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "5.61",
+          "StatTrak Minimal Wear": "0.66",
+          "StatTrak Field-Tested": "0.11",
+          "StatTrak Well-Worn": "0.28",
+          "StatTrak Battle-Scarred": "0.19"
+        }
+      },
+      {
+        "name": "PP-Bizon | Urban Dashed",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.04",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "5.48",
+          "StatTrak Minimal Wear": "0.57",
+          "StatTrak Field-Tested": "0.15",
+          "StatTrak Well-Worn": "0.42",
+          "StatTrak Battle-Scarred": "0.17"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "name": "The Overpass Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "M4A1-S | Master Piece",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "376.74",
+          "Minimal Wear": "218.25",
+          "Field-Tested": "120.96",
+          "Well-Worn": "80.72",
+          "Battle-Scarred": "72.58",
+          "StatTrak Factory New": "929.99",
+          "StatTrak Minimal Wear": "222.71",
+          "StatTrak Field-Tested": "124.74",
+          "StatTrak Well-Worn": "86.50",
+          "StatTrak Battle-Scarred": "72.48"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "AWP | Pink DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "105.92",
+          "Minimal Wear": "37.00",
+          "Field-Tested": "20.41",
+          "Well-Worn": "18.50",
+          "Battle-Scarred": "18.87",
+          "StatTrak Factory New": "540.00",
+          "StatTrak Minimal Wear": "40.64",
+          "StatTrak Field-Tested": "14.00",
+          "StatTrak Well-Worn": "13.00",
+          "StatTrak Battle-Scarred": "12.82"
+        }
+      },
+      {
+        "name": "USP-S | Road Rash",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "52.19",
+          "Minimal Wear": "41.26",
+          "Field-Tested": "23.07",
+          "Well-Worn": "19.37",
+          "Battle-Scarred": "20.79",
+          "StatTrak Factory New": "82.60",
+          "StatTrak Minimal Wear": "20.81",
+          "StatTrak Field-Tested": "12.67",
+          "StatTrak Well-Worn": "10.10",
+          "StatTrak Battle-Scarred": "10.15"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SSG 08 | Detour",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.43
+        },
+        "prices": {
+          "Factory New": "14.15",
+          "Minimal Wear": "9.43",
+          "Field-Tested": "8.85",
+          "Well-Worn": "16.28",
+          "StatTrak Factory New": "9.58",
+          "StatTrak Minimal Wear": "5.25",
+          "StatTrak Field-Tested": "2.67",
+          "StatTrak Well-Worn": "2.62"
+        }
+      },
+      {
+        "name": "XM1014 | VariCamo Blue",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "14.83",
+          "Minimal Wear": "11.25",
+          "Field-Tested": "9.21",
+          "Well-Worn": "9.82",
+          "Battle-Scarred": "11.09",
+          "StatTrak Factory New": "1.53",
+          "StatTrak Minimal Wear": "0.76",
+          "StatTrak Field-Tested": "0.28",
+          "StatTrak Well-Worn": "0.74",
+          "StatTrak Battle-Scarred": "0.62"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Nitro",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "49.00",
+          "Minimal Wear": "9.65",
+          "Field-Tested": "8.60",
+          "Well-Worn": "13.19",
+          "Battle-Scarred": "9.23",
+          "StatTrak Factory New": "14.62",
+          "StatTrak Minimal Wear": "0.87",
+          "StatTrak Field-Tested": "0.21",
+          "StatTrak Well-Worn": "0.32",
+          "StatTrak Battle-Scarred": "0.22"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P2000 | Grassland",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "15.00",
+          "Minimal Wear": "2.76",
+          "Field-Tested": "2.03",
+          "Well-Worn": "2.36",
+          "Battle-Scarred": "2.16",
+          "StatTrak Factory New": "4.40",
+          "StatTrak Minimal Wear": "0.38",
+          "StatTrak Field-Tested": "0.04",
+          "StatTrak Well-Worn": "0.06",
+          "StatTrak Battle-Scarred": "0.04"
+        }
+      },
+      {
+        "name": "Glock-18 | Night",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "42.86",
+          "Minimal Wear": "2.81",
+          "Field-Tested": "2.14",
+          "Well-Worn": "2.11",
+          "Battle-Scarred": "2.49",
+          "StatTrak Factory New": "20.23",
+          "StatTrak Minimal Wear": "1.13",
+          "StatTrak Field-Tested": "0.19",
+          "StatTrak Well-Worn": "0.24",
+          "StatTrak Battle-Scarred": "0.18"
+        }
+      },
+      {
+        "name": "MP7 | Gunsmoke",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "9.84",
+          "Minimal Wear": "2.53",
+          "Field-Tested": "2.23",
+          "Well-Worn": "2.23",
+          "Battle-Scarred": "1.93",
+          "StatTrak Factory New": "4.34",
+          "StatTrak Minimal Wear": "0.38",
+          "StatTrak Field-Tested": "0.05",
+          "StatTrak Well-Worn": "0.16",
+          "StatTrak Battle-Scarred": "0.03"
+        }
+      },
+      {
+        "name": "Desert Eagle | Urban DDPAT",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "13.92",
+          "Minimal Wear": "2.42",
+          "Field-Tested": "2.45",
+          "Well-Worn": "2.12",
+          "Battle-Scarred": "1.90",
+          "StatTrak Factory New": "13.07",
+          "StatTrak Minimal Wear": "1.61",
+          "StatTrak Field-Tested": "0.41",
+          "StatTrak Well-Worn": "0.68",
+          "StatTrak Battle-Scarred": "0.44"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "MAG-7 | Storm",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "11.38",
+          "Minimal Wear": "1.43",
+          "Field-Tested": "0.41",
+          "Well-Worn": "0.45",
+          "Battle-Scarred": "0.38",
+          "StatTrak Factory New": "2.46",
+          "StatTrak Minimal Wear": "0.16",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.02",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "MP9 | Storm",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "23.50",
+          "Minimal Wear": "3.66",
+          "Field-Tested": "0.74",
+          "Well-Worn": "0.66",
+          "Battle-Scarred": "0.42",
+          "StatTrak Factory New": "9.70",
+          "StatTrak Minimal Wear": "1.35",
+          "StatTrak Field-Tested": "0.26",
+          "StatTrak Well-Worn": "0.18",
+          "StatTrak Battle-Scarred": "0.08"
+        }
+      },
+      {
+        "name": "Sawed-Off | Sage Spray",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "8.36",
+          "Minimal Wear": "0.89",
+          "Field-Tested": "0.49",
+          "Well-Worn": "0.38",
+          "Battle-Scarred": "0.35",
+          "StatTrak Factory New": "0.54",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "M249 | Contrast Spray",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "5.28",
+          "Minimal Wear": "1.23",
+          "Field-Tested": "0.39",
+          "Well-Worn": "0.30",
+          "Battle-Scarred": "0.36",
+          "StatTrak Factory New": "0.73",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      },
+      {
+        "name": "UMP-45 | Scorched",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "8.44",
+          "Minimal Wear": "0.91",
+          "Field-Tested": "0.42",
+          "Well-Worn": "0.45",
+          "Battle-Scarred": "0.39",
+          "StatTrak Factory New": "0.44",
+          "StatTrak Minimal Wear": "0.01",
+          "StatTrak Field-Tested": "0.01",
+          "StatTrak Well-Worn": "0.01",
+          "StatTrak Battle-Scarred": "0.01"
+        }
+      }
+    ]
+  }
+}

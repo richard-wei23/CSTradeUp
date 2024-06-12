@@ -1,0 +1,264 @@
+{
+  "name": "Winter Offensive Weapon Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "Sawed-Off | The Kraken",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "4.80",
+          "Minimal Wear": "3.15",
+          "Field-Tested": "2.70",
+          "Well-Worn": "7.77",
+          "StatTrak Factory New": "32.70",
+          "StatTrak Minimal Wear": "15.30",
+          "StatTrak Field-Tested": "10.90",
+          "StatTrak Well-Worn": "1,178.75"
+        }
+      },
+      {
+        "name": "M4A4 | Asiimov",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.18,
+          "max_wear": 1
+        },
+        "prices": {
+          "Field-Tested": "115.00",
+          "Well-Worn": "82.62",
+          "Battle-Scarred": "48.25",
+          "StatTrak Field-Tested": "360.83",
+          "StatTrak Well-Worn": "219.50",
+          "StatTrak Battle-Scarred": "114.98"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "M4A1-S | Guardian",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "22.00",
+          "Minimal Wear": "17.69",
+          "Field-Tested": "15.18",
+          "Well-Worn": "16.00",
+          "Battle-Scarred": "18.21",
+          "StatTrak Factory New": "73.87",
+          "StatTrak Minimal Wear": "51.78",
+          "StatTrak Field-Tested": "39.60",
+          "StatTrak Well-Worn": "42.06",
+          "StatTrak Battle-Scarred": "43.51"
+        }
+      },
+      {
+        "name": "AWP | Redline",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Minimal Wear": "54.01",
+          "Field-Tested": "36.07",
+          "Well-Worn": "39.39",
+          "StatTrak Minimal Wear": "105.22",
+          "StatTrak Field-Tested": "56.99",
+          "StatTrak Well-Worn": "109.99"
+        }
+      },
+      {
+        "name": "P250 | Mehndi",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "15.06",
+          "Minimal Wear": "11.28",
+          "Field-Tested": "10.17",
+          "Well-Worn": "8.42",
+          "Battle-Scarred": "8.87",
+          "StatTrak Factory New": "57.10",
+          "StatTrak Minimal Wear": "28.30",
+          "StatTrak Field-Tested": "22.78",
+          "StatTrak Well-Worn": "18.44",
+          "StatTrak Battle-Scarred": "19.00"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MP9 | Rose Iron",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "5.52",
+          "Minimal Wear": "5.00",
+          "Field-Tested": "4.44",
+          "StatTrak Factory New": "12.53",
+          "StatTrak Minimal Wear": "9.72",
+          "StatTrak Field-Tested": "9.88"
+        }
+      },
+      {
+        "name": "FAMAS | Pulse",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "5.73",
+          "Minimal Wear": "4.86",
+          "Field-Tested": "4.25",
+          "Well-Worn": "5.48",
+          "StatTrak Factory New": "12.23",
+          "StatTrak Minimal Wear": "9.87",
+          "StatTrak Field-Tested": "10.02",
+          "StatTrak Well-Worn": "9.29"
+        }
+      },
+      {
+        "name": "Nova | Rising Skull",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "5.54",
+          "Minimal Wear": "5.48",
+          "Field-Tested": "4.53",
+          "Well-Worn": "6.67",
+          "Battle-Scarred": "4.57",
+          "StatTrak Factory New": "11.58",
+          "StatTrak Minimal Wear": "8.84",
+          "StatTrak Field-Tested": "8.04",
+          "StatTrak Well-Worn": "10.92",
+          "StatTrak Battle-Scarred": "9.27"
+        }
+      },
+      {
+        "name": "Dual Berettas | Marina",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.05,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "12.93",
+          "Minimal Wear": "4.50",
+          "Field-Tested": "4.28",
+          "Well-Worn": "4.30",
+          "Battle-Scarred": "4.29",
+          "StatTrak Factory New": "48.82",
+          "StatTrak Minimal Wear": "10.17",
+          "StatTrak Field-Tested": "7.58",
+          "StatTrak Well-Worn": "7.44",
+          "StatTrak Battle-Scarred": "10.32"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "M249 | Magma",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "1.19",
+          "Minimal Wear": "0.98",
+          "Field-Tested": "0.81",
+          "Well-Worn": "0.77",
+          "Battle-Scarred": "0.95",
+          "StatTrak Factory New": "1.99",
+          "StatTrak Minimal Wear": "1.48",
+          "StatTrak Field-Tested": "1.08",
+          "StatTrak Well-Worn": "1.82",
+          "StatTrak Battle-Scarred": "1.03"
+        }
+      },
+      {
+        "name": "PP-Bizon | Cobalt Halftone",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.05,
+          "max_wear": 0.45
+        },
+        "prices": {
+          "Factory New": "1.69",
+          "Minimal Wear": "0.91",
+          "Field-Tested": "0.80",
+          "Well-Worn": "0.75",
+          "StatTrak Factory New": "3.07",
+          "StatTrak Minimal Wear": "1.36",
+          "StatTrak Field-Tested": "1.19",
+          "StatTrak Well-Worn": "1.26"
+        }
+      },
+      {
+        "name": "Galil AR | Sandstorm",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Minimal Wear": "2.50",
+          "Field-Tested": "0.75",
+          "Well-Worn": "1.05",
+          "Battle-Scarred": "0.80",
+          "StatTrak Minimal Wear": "4.01",
+          "StatTrak Field-Tested": "1.30",
+          "StatTrak Well-Worn": "1.50",
+          "StatTrak Battle-Scarred": "1.27"
+        }
+      },
+      {
+        "name": "Five-SeveN | Kami",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "1.56",
+          "Minimal Wear": "1.01",
+          "Field-Tested": "0.92",
+          "StatTrak Factory New": "2.60",
+          "StatTrak Minimal Wear": "1.87",
+          "StatTrak Field-Tested": "1.82"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

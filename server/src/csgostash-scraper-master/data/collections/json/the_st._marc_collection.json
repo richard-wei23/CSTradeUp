@@ -1,0 +1,305 @@
+{
+  "name": "The St. Marc Collection",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AK-47 | Wild Lotus",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "12,323.51",
+          "Minimal Wear": "9,128.61",
+          "Field-Tested": "6,350.00",
+          "Well-Worn": "4,343.11",
+          "Battle-Scarred": "2,698.40"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "MP9 | Wild Lily",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "2,099.98",
+          "Minimal Wear": "1,974.78",
+          "Field-Tested": "1,769.49",
+          "Well-Worn": "o offers",
+          "Battle-Scarred": "o offers"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "AUG | Midnight Lily",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "268.40",
+          "Minimal Wear": "283.34",
+          "Field-Tested": "246.79",
+          "Well-Worn": "234.00",
+          "Battle-Scarred": "416.48"
+        }
+      },
+      {
+        "name": "Glock-18 | Synth Leaf",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "275.17",
+          "Minimal Wear": "274.48",
+          "Field-Tested": "260.00",
+          "Well-Worn": "261.99",
+          "Battle-Scarred": "285.00"
+        }
+      },
+      {
+        "name": "SSG 08 | Sea Calico",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "295.24",
+          "Minimal Wear": "271.49",
+          "Field-Tested": "239.39",
+          "Well-Worn": "397.00",
+          "Battle-Scarred": "2,500.00"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Five-SeveN | Crimson Blossom",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "94.49",
+          "Minimal Wear": "94.42",
+          "Field-Tested": "88.61",
+          "Well-Worn": "106.14",
+          "Battle-Scarred": "180.00"
+        }
+      },
+      {
+        "name": "UMP-45 | Day Lily",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "99.90",
+          "Minimal Wear": "91.32",
+          "Field-Tested": "99.22",
+          "Well-Worn": "120.37",
+          "Battle-Scarred": "97.88"
+        }
+      },
+      {
+        "name": "MP7 | Teal Blossom",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "99.00",
+          "Minimal Wear": "88.00",
+          "Field-Tested": "88.62",
+          "Well-Worn": "99.00",
+          "Battle-Scarred": "105.51"
+        }
+      },
+      {
+        "name": "FAMAS | Sundown",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "108.00",
+          "Minimal Wear": "96.43",
+          "Field-Tested": "91.25",
+          "Well-Worn": "84.12",
+          "Battle-Scarred": "88.99"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Tec-9 | Rust Leaf",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "22.54",
+          "Minimal Wear": "22.99",
+          "Field-Tested": "22.85",
+          "Well-Worn": "24.52",
+          "Battle-Scarred": "22.70"
+        }
+      },
+      {
+        "name": "M4A4 | Dark Blossom",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "25.00",
+          "Minimal Wear": "24.00",
+          "Field-Tested": "23.74",
+          "Well-Worn": "22.33",
+          "Battle-Scarred": "24.00"
+        }
+      },
+      {
+        "name": "XM1014 | Banana Leaf",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "26.08",
+          "Minimal Wear": "23.59",
+          "Field-Tested": "22.11",
+          "Well-Worn": "22.84",
+          "Battle-Scarred": "24.67"
+        }
+      },
+      {
+        "name": "P90 | Sunset Lily",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "25.01",
+          "Minimal Wear": "21.46",
+          "Field-Tested": "22.67",
+          "Well-Worn": "26.25",
+          "Battle-Scarred": "22.59"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "M249 | Jungle",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "4.72",
+          "Minimal Wear": "3.95",
+          "Field-Tested": "3.80",
+          "Well-Worn": "3.73",
+          "Battle-Scarred": "3.64"
+        }
+      },
+      {
+        "name": "PP-Bizon | Seabird",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "4.62",
+          "Minimal Wear": "3.75",
+          "Field-Tested": "3.55",
+          "Well-Worn": "3.74",
+          "Battle-Scarred": "3.69"
+        }
+      },
+      {
+        "name": "MP5-SD | Bamboo Garden",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "4.17",
+          "Minimal Wear": "3.65",
+          "Field-Tested": "3.54",
+          "Well-Worn": "3.72",
+          "Battle-Scarred": "4.88"
+        }
+      },
+      {
+        "name": "Sawed-Off | Jungle Thicket",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "4.31",
+          "Minimal Wear": "3.91",
+          "Field-Tested": "3.86",
+          "Well-Worn": "4.49",
+          "Battle-Scarred": "4.11"
+        }
+      },
+      {
+        "name": "MAC-10 | Surfwood",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "3.98",
+          "Minimal Wear": "3.83",
+          "Field-Tested": "3.62",
+          "Well-Worn": "4.59",
+          "Battle-Scarred": "4.05"
+        }
+      }
+    ]
+  }
+}

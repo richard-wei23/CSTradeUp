@@ -1,12 +1,13 @@
 import { Request, Response } from "express";
 import { ParamsDictionary } from "express-serve-static-core";
+import { loadData, Data } from './dataHandler';
 
 // Require type checking of request body.
 type SafeRequest = Request<ParamsDictionary, {}, Record<string, unknown>>;
 type SafeResponse = Response;  // only writing, so no need to check
 
 // Keep track of saved trade ups.
-const tradeUpSaves: Map<string, unknown> = new Map<string, unknown>();
+const tradeUpSaves: Map<string, unknown> = loadData();
 
 /** 
  * Handles request for /api/load by sending the contents of the saved file
@@ -80,3 +81,8 @@ const first = (param: unknown): string | undefined => {
     return undefined;
   }
 };
+
+// Returns tradeUpSaves to save as data
+export const getTradeUpSaves = (): Data => {
+  return tradeUpSaves;
+}

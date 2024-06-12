@@ -1,0 +1,149 @@
+{
+  "name": "The Dust Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "Glock-18 | Brass",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "65.42",
+          "Minimal Wear": "29.17",
+          "Field-Tested": "15.88",
+          "Well-Worn": "12.98",
+          "Battle-Scarred": "12.52"
+        }
+      },
+      {
+        "name": "Desert Eagle | Blaze",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "504.88",
+          "Minimal Wear": "559.03"
+        }
+      },
+      {
+        "name": "P2000 | Scorpion",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "4.40",
+          "Minimal Wear": "14.87"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "AWP | Snake Camo",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "214.47",
+          "Minimal Wear": "90.00",
+          "Field-Tested": "92.81",
+          "Well-Worn": "75.00",
+          "Battle-Scarred": "93.93"
+        }
+      },
+      {
+        "name": "Sawed-Off | Copper",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "107.36",
+          "Minimal Wear": "95.28",
+          "Field-Tested": "79.42",
+          "Well-Worn": "95.62",
+          "Battle-Scarred": "123.05"
+        }
+      },
+      {
+        "name": "AUG | Copperhead",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.12,
+          "max_wear": 0.38
+        },
+        "prices": {
+          "Minimal Wear": "98.29",
+          "Field-Tested": "86.80"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "AK-47 | Predator",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "52.00",
+          "Minimal Wear": "16.21",
+          "Field-Tested": "14.77",
+          "Well-Worn": "14.36",
+          "Battle-Scarred": "12.84"
+        }
+      },
+      {
+        "name": "SCAR-20 | Palm",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "41.50",
+          "Minimal Wear": "16.52",
+          "Field-Tested": "13.07",
+          "Well-Worn": "14.77",
+          "Battle-Scarred": "14.90"
+        }
+      },
+      {
+        "name": "M4A4 | Desert Storm",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "32.71",
+          "Minimal Wear": "15.83",
+          "Field-Tested": "15.18",
+          "Well-Worn": "16.00",
+          "Battle-Scarred": "14.25"
+        }
+      }
+    ],
+    "Consumer Grade Skins": []
+  }
+}

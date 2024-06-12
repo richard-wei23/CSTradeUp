@@ -1,0 +1,204 @@
+{
+  "name": "The Nuke Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "P250 | Nuclear Threat",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "376.88",
+          "Minimal Wear": "69.00",
+          "Field-Tested": "22.52",
+          "Well-Worn": "25.60",
+          "Battle-Scarred": "23.16",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "168.61",
+          "StatTrak Field-Tested": "68.21",
+          "StatTrak Well-Worn": "68.36",
+          "StatTrak Battle-Scarred": "49.00"
+        }
+      },
+      {
+        "name": "Tec-9 | Nuclear Threat",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "540.54",
+          "Minimal Wear": "86.88",
+          "Field-Tested": "31.00",
+          "Well-Worn": "35.29",
+          "Battle-Scarred": "30.46",
+          "StatTrak Factory New": "o offers",
+          "StatTrak Minimal Wear": "226.04",
+          "StatTrak Field-Tested": "84.37",
+          "StatTrak Well-Worn": "102.27",
+          "StatTrak Battle-Scarred": "124.87"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "M4A4 | Radiation Hazard",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "545.56",
+          "Minimal Wear": "65.00",
+          "Field-Tested": "21.53",
+          "Well-Worn": "21.25",
+          "Battle-Scarred": "21.04",
+          "StatTrak Factory New": "1,125.32",
+          "StatTrak Minimal Wear": "103.00",
+          "StatTrak Field-Tested": "32.45",
+          "StatTrak Well-Worn": "30.23",
+          "StatTrak Battle-Scarred": "19.99"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "UMP-45 | Fallout Warning",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "74.99",
+          "Minimal Wear": "28.00",
+          "Field-Tested": "6.59",
+          "Well-Worn": "8.44",
+          "Battle-Scarred": "6.73",
+          "StatTrak Factory New": "56.25",
+          "StatTrak Minimal Wear": "7.27",
+          "StatTrak Field-Tested": "2.68",
+          "StatTrak Well-Worn": "2.75",
+          "StatTrak Battle-Scarred": "2.58"
+        }
+      },
+      {
+        "name": "XM1014 | Fallout Warning",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "125.00",
+          "Minimal Wear": "22.93",
+          "Field-Tested": "7.91",
+          "Well-Worn": "6.76",
+          "Battle-Scarred": "6.56",
+          "StatTrak Factory New": "298.23",
+          "StatTrak Minimal Wear": "11.19",
+          "StatTrak Field-Tested": "3.18",
+          "StatTrak Well-Worn": "4.88",
+          "StatTrak Battle-Scarred": "2.91"
+        }
+      },
+      {
+        "name": "P90 | Fallout Warning",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "86.84",
+          "Minimal Wear": "27.09",
+          "Field-Tested": "5.99",
+          "Well-Worn": "7.61",
+          "Battle-Scarred": "6.96",
+          "StatTrak Factory New": "140.55",
+          "StatTrak Minimal Wear": "7.56",
+          "StatTrak Field-Tested": "2.99",
+          "StatTrak Well-Worn": "3.47",
+          "StatTrak Battle-Scarred": "2.62"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "PP-Bizon | Irradiated Alert",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "12.50",
+          "Minimal Wear": "4.50",
+          "Field-Tested": "3.05",
+          "Well-Worn": "3.21",
+          "Battle-Scarred": "2.47",
+          "StatTrak Factory New": "15.61",
+          "StatTrak Minimal Wear": "1.26",
+          "StatTrak Field-Tested": "0.32",
+          "StatTrak Well-Worn": "0.65",
+          "StatTrak Battle-Scarred": "0.38"
+        }
+      },
+      {
+        "name": "MAG-7 | Irradiated Alert",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "18.13",
+          "Minimal Wear": "3.70",
+          "Field-Tested": "2.83",
+          "Well-Worn": "2.87",
+          "Battle-Scarred": "2.13",
+          "StatTrak Factory New": "13.00",
+          "StatTrak Minimal Wear": "0.98",
+          "StatTrak Field-Tested": "0.19",
+          "StatTrak Well-Worn": "0.33",
+          "StatTrak Battle-Scarred": "0.33"
+        }
+      },
+      {
+        "name": "Sawed-Off | Irradiated Alert",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "19.32",
+          "Minimal Wear": "4.22",
+          "Field-Tested": "3.08",
+          "Well-Worn": "3.27",
+          "Battle-Scarred": "2.15",
+          "StatTrak Factory New": "19.00",
+          "StatTrak Minimal Wear": "0.63",
+          "StatTrak Field-Tested": "0.18",
+          "StatTrak Well-Worn": "0.30",
+          "StatTrak Battle-Scarred": "0.30"
+        }
+      }
+    ]
+  }
+}

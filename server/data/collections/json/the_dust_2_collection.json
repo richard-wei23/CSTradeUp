@@ -1,0 +1,348 @@
+{
+  "name": "The Dust 2 Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "R8 Revolver | Amber Fade",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "0.60",
+          "Minimal Wear": "0.40",
+          "Field-Tested": "0.38",
+          "Well-Worn": "0.73",
+          "StatTrak Factory New": "95.80",
+          "StatTrak Minimal Wear": "67.43",
+          "StatTrak Field-Tested": "39.51",
+          "StatTrak Well-Worn": "o offers"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "P2000 | Amber Fade",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "7.55",
+          "Minimal Wear": "3.62",
+          "Field-Tested": "2.14",
+          "Well-Worn": "2.15",
+          "StatTrak Factory New": "26.24",
+          "StatTrak Minimal Wear": "15.33",
+          "StatTrak Field-Tested": "15.34",
+          "StatTrak Well-Worn": "53.43"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "M4A1-S | VariCamo",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.93",
+          "Minimal Wear": "0.82",
+          "Field-Tested": "0.46",
+          "Well-Worn": "0.26",
+          "Battle-Scarred": "0.22",
+          "StatTrak Factory New": "43.59",
+          "StatTrak Minimal Wear": "23.88",
+          "StatTrak Field-Tested": "13.87",
+          "StatTrak Well-Worn": "17.36",
+          "StatTrak Battle-Scarred": "15.48"
+        }
+      },
+      {
+        "name": "SG 553 | Damascus Steel",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "1.04",
+          "Minimal Wear": "0.74",
+          "Field-Tested": "0.40",
+          "Well-Worn": "0.23",
+          "Battle-Scarred": "0.23",
+          "StatTrak Factory New": "54.77",
+          "StatTrak Minimal Wear": "9.81",
+          "StatTrak Field-Tested": "4.21",
+          "StatTrak Well-Worn": "2.79",
+          "StatTrak Battle-Scarred": "4.13"
+        }
+      },
+      {
+        "name": "PP-Bizon | Brass",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "1.19",
+          "Minimal Wear": "0.77",
+          "Field-Tested": "0.39",
+          "Well-Worn": "0.28",
+          "Battle-Scarred": "0.18",
+          "StatTrak Factory New": "96.62",
+          "StatTrak Minimal Wear": "16.06",
+          "StatTrak Field-Tested": "5.89",
+          "StatTrak Well-Worn": "4.22",
+          "StatTrak Battle-Scarred": "5.62"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Sawed-Off | Snake Camo",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.12",
+          "Minimal Wear": "0.06",
+          "Field-Tested": "0.04",
+          "Well-Worn": "0.04",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "25.00",
+          "StatTrak Minimal Wear": "0.68",
+          "StatTrak Field-Tested": "0.21",
+          "StatTrak Well-Worn": "0.49",
+          "StatTrak Battle-Scarred": "0.41"
+        }
+      },
+      {
+        "name": "Five-SeveN | Orange Peel",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.18",
+          "Minimal Wear": "0.07",
+          "Field-Tested": "0.04",
+          "Well-Worn": "0.04",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "40.07",
+          "StatTrak Minimal Wear": "1.88",
+          "StatTrak Field-Tested": "0.67",
+          "StatTrak Well-Worn": "1.45",
+          "StatTrak Battle-Scarred": "1.60"
+        }
+      },
+      {
+        "name": "MAC-10 | Palm",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.13",
+          "Minimal Wear": "0.06",
+          "Field-Tested": "0.04",
+          "Well-Worn": "0.04",
+          "Battle-Scarred": "0.02",
+          "StatTrak Factory New": "16.73",
+          "StatTrak Minimal Wear": "1.53",
+          "StatTrak Field-Tested": "0.40",
+          "StatTrak Well-Worn": "1.19",
+          "StatTrak Battle-Scarred": "0.44"
+        }
+      },
+      {
+        "name": "Tec-9 | VariCamo",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "0.09",
+          "Minimal Wear": "0.07",
+          "Field-Tested": "0.04",
+          "Well-Worn": "0.04",
+          "Battle-Scarred": "0.03",
+          "StatTrak Factory New": "3.90",
+          "StatTrak Minimal Wear": "1.72",
+          "StatTrak Field-Tested": "1.20",
+          "StatTrak Well-Worn": "2.18",
+          "StatTrak Battle-Scarred": "1.40"
+        }
+      },
+      {
+        "name": "AK-47 | Safari Mesh",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "1.47",
+          "Minimal Wear": "0.13",
+          "Field-Tested": "0.05",
+          "Well-Worn": "0.04",
+          "Battle-Scarred": "0.04",
+          "StatTrak Factory New": "168.81",
+          "StatTrak Minimal Wear": "15.40",
+          "StatTrak Field-Tested": "6.64",
+          "StatTrak Well-Worn": "9.26",
+          "StatTrak Battle-Scarred": "8.71"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "P250 | Sand Dune",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.23",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "28.80",
+          "StatTrak Minimal Wear": "2.40",
+          "StatTrak Field-Tested": "0.47",
+          "StatTrak Well-Worn": "1.06",
+          "StatTrak Battle-Scarred": "0.60"
+        }
+      },
+      {
+        "name": "G3SG1 | Desert Storm",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "12.42",
+          "StatTrak Minimal Wear": "0.28",
+          "StatTrak Field-Tested": "0.08",
+          "StatTrak Well-Worn": "0.18",
+          "StatTrak Battle-Scarred": "0.11"
+        }
+      },
+      {
+        "name": "Nova | Predator",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.04",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "8.42",
+          "StatTrak Minimal Wear": "0.25",
+          "StatTrak Field-Tested": "0.08",
+          "StatTrak Well-Worn": "0.19",
+          "StatTrak Battle-Scarred": "0.15"
+        }
+      },
+      {
+        "name": "SCAR-20 | Sand Mesh",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.05",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "5.62",
+          "StatTrak Minimal Wear": "0.24",
+          "StatTrak Field-Tested": "0.08",
+          "StatTrak Well-Worn": "0.14",
+          "StatTrak Battle-Scarred": "0.14"
+        }
+      },
+      {
+        "name": "P90 | Sand Spray",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.04",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "4.37",
+          "StatTrak Minimal Wear": "0.23",
+          "StatTrak Field-Tested": "0.08",
+          "StatTrak Well-Worn": "0.34",
+          "StatTrak Battle-Scarred": "0.12"
+        }
+      },
+      {
+        "name": "MP9 | Sand Dashed",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.04",
+          "Minimal Wear": "0.01",
+          "Field-Tested": "0.01",
+          "Well-Worn": "0.01",
+          "Battle-Scarred": "0.01",
+          "StatTrak Factory New": "6.79",
+          "StatTrak Minimal Wear": "0.49",
+          "StatTrak Field-Tested": "0.10",
+          "StatTrak Well-Worn": "0.29",
+          "StatTrak Battle-Scarred": "0.39"
+        }
+      }
+    ]
+  }
+}

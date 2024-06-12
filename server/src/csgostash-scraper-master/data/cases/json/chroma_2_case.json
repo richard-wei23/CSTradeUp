@@ -1,0 +1,308 @@
+{
+  "name": "Chroma 2 Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "MAC-10 | Neon Rider",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.45
+        },
+        "prices": {
+          "Factory New": "8.14",
+          "Minimal Wear": "5.40",
+          "Field-Tested": "4.50",
+          "Well-Worn": "4.35",
+          "StatTrak Factory New": "32.29",
+          "StatTrak Minimal Wear": "19.69",
+          "StatTrak Field-Tested": "12.23",
+          "StatTrak Well-Worn": "13.41"
+        }
+      },
+      {
+        "name": "M4A1-S | Hyper Beast",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "109.00",
+          "Minimal Wear": "45.54",
+          "Field-Tested": "16.50",
+          "Well-Worn": "11.26",
+          "Battle-Scarred": "9.29",
+          "StatTrak Factory New": "298.00",
+          "StatTrak Minimal Wear": "95.00",
+          "StatTrak Field-Tested": "45.56",
+          "StatTrak Well-Worn": "30.68",
+          "StatTrak Battle-Scarred": "25.94"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "FAMAS | Djinn",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "9.13",
+          "Minimal Wear": "3.94",
+          "Field-Tested": "1.60",
+          "Well-Worn": "1.29",
+          "Battle-Scarred": "1.13",
+          "StatTrak Factory New": "23.26",
+          "StatTrak Minimal Wear": "9.43",
+          "StatTrak Field-Tested": "3.52",
+          "StatTrak Well-Worn": "2.84",
+          "StatTrak Battle-Scarred": "2.62"
+        }
+      },
+      {
+        "name": "Five-SeveN | Monkey Business",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.9
+        },
+        "prices": {
+          "Minimal Wear": "8.69",
+          "Field-Tested": "1.69",
+          "Well-Worn": "1.39",
+          "Battle-Scarred": "1.08",
+          "StatTrak Minimal Wear": "25.29",
+          "StatTrak Field-Tested": "4.61",
+          "StatTrak Well-Worn": "3.41",
+          "StatTrak Battle-Scarred": "2.68"
+        }
+      },
+      {
+        "name": "Galil AR | Eco",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.85
+        },
+        "prices": {
+          "Minimal Wear": "28.99",
+          "Field-Tested": "3.86",
+          "Well-Worn": "2.25",
+          "Battle-Scarred": "1.65",
+          "StatTrak Minimal Wear": "67.12",
+          "StatTrak Field-Tested": "8.60",
+          "StatTrak Well-Worn": "4.94",
+          "StatTrak Battle-Scarred": "3.64"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MAG-7 | Heat",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "2.23",
+          "Minimal Wear": "0.67",
+          "Field-Tested": "0.30",
+          "Well-Worn": "0.21",
+          "Battle-Scarred": "0.24",
+          "StatTrak Factory New": "7.59",
+          "StatTrak Minimal Wear": "1.98",
+          "StatTrak Field-Tested": "0.83",
+          "StatTrak Well-Worn": "0.50",
+          "StatTrak Battle-Scarred": "0.48"
+        }
+      },
+      {
+        "name": "UMP-45 | Grand Prix",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.25,
+          "max_wear": 0.35
+        },
+        "prices": {
+          "Field-Tested": "0.25",
+          "StatTrak Field-Tested": "0.57"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Pole Position",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "1.93",
+          "Minimal Wear": "0.68",
+          "Field-Tested": "0.29",
+          "Well-Worn": "0.31",
+          "Battle-Scarred": "0.25",
+          "StatTrak Factory New": "4.20",
+          "StatTrak Minimal Wear": "1.67",
+          "StatTrak Field-Tested": "0.54",
+          "StatTrak Well-Worn": "0.53",
+          "StatTrak Battle-Scarred": "0.40"
+        }
+      },
+      {
+        "name": "AWP | Worm God",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.45
+        },
+        "prices": {
+          "Factory New": "1.78",
+          "Minimal Wear": "1.19",
+          "Field-Tested": "0.81",
+          "Well-Worn": "0.97",
+          "StatTrak Factory New": "4.64",
+          "StatTrak Minimal Wear": "3.13",
+          "StatTrak Field-Tested": "2.52",
+          "StatTrak Well-Worn": "3.80"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Sawed-Off | Origami",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "0.17",
+          "Minimal Wear": "0.09",
+          "Field-Tested": "0.06",
+          "Well-Worn": "0.06",
+          "Battle-Scarred": "0.06",
+          "StatTrak Factory New": "0.56",
+          "StatTrak Minimal Wear": "0.30",
+          "StatTrak Field-Tested": "0.18",
+          "StatTrak Well-Worn": "0.22",
+          "StatTrak Battle-Scarred": "0.25"
+        }
+      },
+      {
+        "name": "Desert Eagle | Bronze Deco",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.46
+        },
+        "prices": {
+          "Factory New": "0.37",
+          "Minimal Wear": "0.18",
+          "Field-Tested": "0.08",
+          "Well-Worn": "0.12",
+          "Battle-Scarred": "0.46",
+          "StatTrak Factory New": "1.39",
+          "StatTrak Minimal Wear": "0.85",
+          "StatTrak Field-Tested": "0.41",
+          "StatTrak Well-Worn": "0.52",
+          "StatTrak Battle-Scarred": "3.20"
+        }
+      },
+      {
+        "name": "P250 | Valence",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.49",
+          "Minimal Wear": "0.12",
+          "Field-Tested": "0.05",
+          "Well-Worn": "0.09",
+          "Battle-Scarred": "0.06",
+          "StatTrak Factory New": "1.89",
+          "StatTrak Minimal Wear": "0.56",
+          "StatTrak Field-Tested": "0.17",
+          "StatTrak Well-Worn": "0.42",
+          "StatTrak Battle-Scarred": "0.15"
+        }
+      },
+      {
+        "name": "Negev | Man-o-war",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.1,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Minimal Wear": "0.08",
+          "Field-Tested": "0.07",
+          "StatTrak Minimal Wear": "0.35",
+          "StatTrak Field-Tested": "0.19"
+        }
+      },
+      {
+        "name": "MP7 | Armor Core",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "0.18",
+          "Minimal Wear": "0.09",
+          "Field-Tested": "0.05",
+          "Well-Worn": "0.05",
+          "Battle-Scarred": "0.05",
+          "StatTrak Factory New": "0.65",
+          "StatTrak Minimal Wear": "0.25",
+          "StatTrak Field-Tested": "0.15",
+          "StatTrak Well-Worn": "0.15",
+          "StatTrak Battle-Scarred": "0.24"
+        }
+      },
+      {
+        "name": "AK-47 | Elite Build",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "3.80",
+          "Minimal Wear": "1.42",
+          "Field-Tested": "0.90",
+          "Well-Worn": "0.62",
+          "Battle-Scarred": "0.64",
+          "StatTrak Factory New": "19.48",
+          "StatTrak Minimal Wear": "5.28",
+          "StatTrak Field-Tested": "3.00",
+          "StatTrak Well-Worn": "2.19",
+          "StatTrak Battle-Scarred": "2.14"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

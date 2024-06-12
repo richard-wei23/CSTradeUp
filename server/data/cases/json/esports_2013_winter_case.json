@@ -1,0 +1,235 @@
+{
+  "name": "eSports 2013 Winter Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "M4A4 | X-Ray",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "14.50",
+          "Minimal Wear": "9.30",
+          "Field-Tested": "9.15",
+          "StatTrak Factory New": "66.54",
+          "StatTrak Minimal Wear": "36.52",
+          "StatTrak Field-Tested": "34.95"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AWP | Electric Hive",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "49.95",
+          "Minimal Wear": "34.03",
+          "Field-Tested": "23.72",
+          "Well-Worn": "28.12",
+          "StatTrak Factory New": "78.91",
+          "StatTrak Minimal Wear": "52.08",
+          "StatTrak Field-Tested": "36.64",
+          "StatTrak Well-Worn": "82.33"
+        }
+      },
+      {
+        "name": "Desert Eagle | Cobalt Disruption",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "72.99",
+          "Minimal Wear": "55.00",
+          "Field-Tested": "55.57",
+          "StatTrak Factory New": "120.00",
+          "StatTrak Minimal Wear": "85.10",
+          "StatTrak Field-Tested": "87.65"
+        }
+      },
+      {
+        "name": "FAMAS | Afterimage",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.02,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "47.05",
+          "Minimal Wear": "25.68",
+          "Field-Tested": "16.00",
+          "Well-Worn": "36.51",
+          "StatTrak Factory New": "30.13",
+          "StatTrak Minimal Wear": "24.00",
+          "StatTrak Field-Tested": "15.18",
+          "StatTrak Well-Worn": "44.34"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "AK-47 | Blue Laminate",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.02,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "9.75",
+          "Minimal Wear": "8.92",
+          "Field-Tested": "8.23",
+          "Well-Worn": "12.18",
+          "StatTrak Factory New": "31.71",
+          "StatTrak Minimal Wear": "21.45",
+          "StatTrak Field-Tested": "19.80",
+          "StatTrak Well-Worn": "26.27"
+        }
+      },
+      {
+        "name": "P90 | Blind Spot",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "8.86",
+          "Minimal Wear": "8.61",
+          "Field-Tested": "7.20",
+          "Well-Worn": "8.62",
+          "Battle-Scarred": "10.57",
+          "StatTrak Factory New": "15.40",
+          "StatTrak Minimal Wear": "12.07",
+          "StatTrak Field-Tested": "10.42",
+          "StatTrak Well-Worn": "11.29",
+          "StatTrak Battle-Scarred": "12.16"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Nova | Ghost Camo",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "1.79",
+          "Minimal Wear": "1.71",
+          "Field-Tested": "1.47",
+          "Well-Worn": "2.11",
+          "StatTrak Factory New": "5.42",
+          "StatTrak Minimal Wear": "5.50",
+          "StatTrak Field-Tested": "4.83",
+          "StatTrak Well-Worn": "4.34"
+        }
+      },
+      {
+        "name": "Galil AR | Blue Titanium",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.04
+        },
+        "prices": {
+          "Factory New": "2.97",
+          "StatTrak Factory New": "7.89"
+        }
+      },
+      {
+        "name": "Five-SeveN | Nightshade",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "2.00",
+          "Minimal Wear": "1.81",
+          "Field-Tested": "1.68",
+          "Well-Worn": "2.39",
+          "Battle-Scarred": "6.54",
+          "StatTrak Factory New": "6.05",
+          "StatTrak Minimal Wear": "5.27",
+          "StatTrak Field-Tested": "5.15",
+          "StatTrak Well-Worn": "6.40",
+          "StatTrak Battle-Scarred": "4.79"
+        }
+      },
+      {
+        "name": "PP-Bizon | Water Sigil",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "1.92",
+          "Minimal Wear": "1.58",
+          "Field-Tested": "1.55",
+          "Well-Worn": "1.71",
+          "Battle-Scarred": "1.45",
+          "StatTrak Factory New": "5.50",
+          "StatTrak Minimal Wear": "5.05",
+          "StatTrak Field-Tested": "4.84",
+          "StatTrak Well-Worn": "5.62",
+          "StatTrak Battle-Scarred": "4.28"
+        }
+      },
+      {
+        "name": "P250 | Steel Disruption",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "1.69",
+          "Minimal Wear": "1.63",
+          "Field-Tested": "1.97",
+          "StatTrak Factory New": "6.00",
+          "StatTrak Minimal Wear": "5.15",
+          "StatTrak Field-Tested": "4.76"
+        }
+      },
+      {
+        "name": "G3SG1 | Azure Zebra",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.28
+        },
+        "prices": {
+          "Factory New": "1.70",
+          "Minimal Wear": "1.57",
+          "Field-Tested": "1.59",
+          "StatTrak Factory New": "5.18",
+          "StatTrak Minimal Wear": "5.12",
+          "StatTrak Field-Tested": "5.04"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

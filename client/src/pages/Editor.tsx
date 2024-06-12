@@ -1,52 +1,48 @@
-// import { useState } from "react";
-// import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-// import 'bootstrap/dist/css/bootstrap.min.css';
-// import './style.css';
+import { useEffect, useState } from "react";
+import './../style.css';
+import { Contract, Result } from "../types/types";
 
-// function Pokemon({ pokemonId }) {
-//   const [isShiny, setShiny] = useState(false);
-//   const [imageSrc, setImageSrc] = useState("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/MissingNo.svg/329px-MissingNo.svg.png");
-//   const [pokemonName, setPokemonName] = useState("");
-  
-//   fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonId}`).then((res) => {
-//     res.json().then((pokemonData) => {
-//       console.log(isShiny)
-//       setPokemonName(pokemonData.name);
-//       setImageSrc(`https://img.pokemondb.net/sprites/home/${isShiny ? "shiny": "normal"}/${pokemonData.name}.png`);
-//     });
-//   });
+type EditorProps = {
+    /** Contract to load, if any */
+    loadContract: Contract;
 
-//   function onShinyClick() {
-//     setShiny(!isShiny);
-//   }
-  
-//   return <>
-//     <p className="font-weight-bold">{pokemonName}</p>
-//     <img src={imageSrc} onClick={() => onShinyClick()}/>
-//   </>;
-// }
+    /** Result to load, if any */
+    loadResult: Result;
+}
+
+const Editor = ({ loadContract, loadResult }: EditorProps): React.JSX.Element => {
+    const [contract, setContract] = useState<Contract>(loadContract);
+    const [calculation, setCalculation] = useState<Result>(loadResult);
+
+    function onSkinClick(i: MouseEvent) {
+      setContract(contract);
+    }
+
+    // useEffect to recalculate tradeup when skin changes
+    useEffect(() => {
+        const newCalculation = calcTradeUp(contract);
+        setCalculation(newCalculation);
+    }, [contract]);
+    
+    return <>
+        
+    </>;
+}
 
 // function Move({ move, onMoveClick }) {
-//   return <>
-//   </>;
+//     return <>
+//     </>;
 // }
 
-// function MoveList({ pokemonId }) {
-//   return <>
-//   </>;
-// }
+export default Editor;
 
-// function Stats({ pokemonId }) {
-//   return <>
-//   </>;
-// }
 
 // export default function Card() {
 //   const [pokemonId, setPokemonId] = useState(1);
 //   const [moves, setMoves] = useState({});
 
 //   function onArrowClick(i) {
-//     setPokemonId((pokemonId + i + 1024) % 1025 + 1); 
+//     setPokemonId((pokemonId + i + 1024) % 1025 + 1);
 //   }
 
 //   return <>
@@ -59,11 +55,6 @@
 //     <div><button id="rArrow" className="arrow right" onClick={() => onArrowClick(1)} /></div>
 //   </>;
 // }
-
-
-
-
-
 
 // function Square({ val , onSquareClick }) {
 //   return <>

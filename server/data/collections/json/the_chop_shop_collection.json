@@ -1,0 +1,257 @@
+{
+  "name": "The Chop Shop Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "Glock-18 | Twilight Galaxy",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.2
+        },
+        "prices": {
+          "Factory New": "175.80",
+          "Minimal Wear": "145.00",
+          "Field-Tested": "133.40"
+        }
+      },
+      {
+        "name": "M4A1-S | Hot Rod",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "797.35",
+          "Minimal Wear": "866.78"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "SG 553 | Bulldozer",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "137.00",
+          "Minimal Wear": "120.94",
+          "Field-Tested": "130.78",
+          "Well-Worn": "119.84",
+          "Battle-Scarred": "895.41"
+        }
+      },
+      {
+        "name": "Dual Berettas | Duelist",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "137.47",
+          "Minimal Wear": "124.11",
+          "Field-Tested": "121.77",
+          "Well-Worn": "139.49",
+          "Battle-Scarred": "135.48"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MP7 | Full Stop",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "28.82",
+          "Minimal Wear": "27.00",
+          "Field-Tested": "22.98",
+          "Well-Worn": "40.25",
+          "Battle-Scarred": "34.87"
+        }
+      },
+      {
+        "name": "Five-SeveN | Nitro",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "27.15",
+          "Minimal Wear": "26.89",
+          "Field-Tested": "26.00",
+          "Well-Worn": "31.50",
+          "Battle-Scarred": "28.82"
+        }
+      },
+      {
+        "name": "P250 | Whiteout",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "133.10",
+          "Minimal Wear": "31.72",
+          "Field-Tested": "25.90",
+          "Well-Worn": "29.90",
+          "Battle-Scarred": "24.23"
+        }
+      },
+      {
+        "name": "MAC-10 | Fade",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "26.45",
+          "Minimal Wear": "37.53"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Emerald",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "25.50",
+          "Minimal Wear": "28.30"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Galil AR | Urban Rubble",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "15.86",
+          "Minimal Wear": "10.60",
+          "Field-Tested": "9.20",
+          "Well-Worn": "10.82",
+          "Battle-Scarred": "13.34"
+        }
+      },
+      {
+        "name": "Desert Eagle | Night",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "57.37",
+          "Minimal Wear": "11.72",
+          "Field-Tested": "9.29",
+          "Well-Worn": "6.12",
+          "Battle-Scarred": "7.95"
+        }
+      },
+      {
+        "name": "USP-S | Para Green",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "19.46",
+          "Minimal Wear": "10.55",
+          "Field-Tested": "9.45",
+          "Well-Worn": "14.16",
+          "Battle-Scarred": "9.47"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "M249 | Impact Drill",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "4.36",
+          "Minimal Wear": "2.25",
+          "Field-Tested": "1.98",
+          "Well-Worn": "1.98",
+          "Battle-Scarred": "1.61"
+        }
+      },
+      {
+        "name": "MAG-7 | Seabird",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "4.69",
+          "Minimal Wear": "2.42",
+          "Field-Tested": "2.15",
+          "Well-Worn": "1.71",
+          "Battle-Scarred": "1.68"
+        }
+      },
+      {
+        "name": "SCAR-20 | Army Sheen",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "3.51",
+          "Minimal Wear": "2.15",
+          "Field-Tested": "2.30"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Army Sheen",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "3.56",
+          "Minimal Wear": "2.42",
+          "Field-Tested": "1.84"
+        }
+      }
+    ]
+  }
+}

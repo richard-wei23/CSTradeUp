@@ -1,0 +1,370 @@
+{
+  "name": "CS20 Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "FAMAS | Commemoration",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "11.80",
+          "Minimal Wear": "7.50",
+          "Field-Tested": "5.45",
+          "Well-Worn": "5.33",
+          "Battle-Scarred": "5.54",
+          "StatTrak Factory New": "42.91",
+          "StatTrak Minimal Wear": "25.67",
+          "StatTrak Field-Tested": "21.04",
+          "StatTrak Well-Worn": "22.56",
+          "StatTrak Battle-Scarred": "23.85"
+        }
+      },
+      {
+        "name": "AWP | Wildfire",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0.01,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "100.00",
+          "Minimal Wear": "67.00",
+          "Field-Tested": "52.00",
+          "Well-Worn": "41.85",
+          "Battle-Scarred": "26.00",
+          "StatTrak Factory New": "225.00",
+          "StatTrak Minimal Wear": "129.20",
+          "StatTrak Field-Tested": "70.83",
+          "StatTrak Well-Worn": "71.12",
+          "StatTrak Battle-Scarred": "50.34"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "MP9 | Hydra",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "13.99",
+          "Minimal Wear": "6.45",
+          "Field-Tested": "4.29",
+          "Well-Worn": "3.14",
+          "Battle-Scarred": "3.04",
+          "StatTrak Factory New": "41.03",
+          "StatTrak Minimal Wear": "13.59",
+          "StatTrak Field-Tested": "7.71",
+          "StatTrak Well-Worn": "5.85",
+          "StatTrak Battle-Scarred": "5.36"
+        }
+      },
+      {
+        "name": "P90 | Nostalgia",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.57
+        },
+        "prices": {
+          "Factory New": "9.00",
+          "Minimal Wear": "4.94",
+          "Field-Tested": "4.16",
+          "Well-Worn": "3.37",
+          "Battle-Scarred": "3.29",
+          "StatTrak Factory New": "20.06",
+          "StatTrak Minimal Wear": "9.63",
+          "StatTrak Field-Tested": "7.02",
+          "StatTrak Well-Worn": "5.71",
+          "StatTrak Battle-Scarred": "5.15"
+        }
+      },
+      {
+        "name": "AUG | Death by Puppy",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "8.59",
+          "Minimal Wear": "5.15",
+          "Field-Tested": "4.46",
+          "Well-Worn": "3.74",
+          "StatTrak Factory New": "20.00",
+          "StatTrak Minimal Wear": "9.64",
+          "StatTrak Field-Tested": "7.27",
+          "StatTrak Well-Worn": "7.01"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M249 | Aztec",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.75
+        },
+        "prices": {
+          "Factory New": "1.24",
+          "Minimal Wear": "0.73",
+          "Field-Tested": "0.46",
+          "Well-Worn": "0.41",
+          "Battle-Scarred": "0.35",
+          "StatTrak Factory New": "3.57",
+          "StatTrak Minimal Wear": "1.86",
+          "StatTrak Field-Tested": "0.77",
+          "StatTrak Well-Worn": "0.96",
+          "StatTrak Battle-Scarred": "0.68"
+        }
+      },
+      {
+        "name": "UMP-45 | Plastique",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "1.29",
+          "Minimal Wear": "0.79",
+          "Field-Tested": "0.42",
+          "Well-Worn": "0.49",
+          "Battle-Scarred": "0.39",
+          "StatTrak Factory New": "3.76",
+          "StatTrak Minimal Wear": "1.61",
+          "StatTrak Field-Tested": "0.84",
+          "StatTrak Well-Worn": "0.85",
+          "StatTrak Battle-Scarred": "0.62"
+        }
+      },
+      {
+        "name": "P250 | Inferno",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.68
+        },
+        "prices": {
+          "Factory New": "1.29",
+          "Minimal Wear": "0.80",
+          "Field-Tested": "0.47",
+          "Well-Worn": "0.40",
+          "Battle-Scarred": "0.39",
+          "StatTrak Factory New": "3.07",
+          "StatTrak Minimal Wear": "1.75",
+          "StatTrak Field-Tested": "0.82",
+          "StatTrak Well-Worn": "0.98",
+          "StatTrak Battle-Scarred": "0.77"
+        }
+      },
+      {
+        "name": "MP5-SD | Agent",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "2.19",
+          "Minimal Wear": "0.69",
+          "Field-Tested": "0.46",
+          "Well-Worn": "0.41",
+          "Battle-Scarred": "0.39",
+          "StatTrak Factory New": "8.84",
+          "StatTrak Minimal Wear": "1.96",
+          "StatTrak Field-Tested": "0.79",
+          "StatTrak Well-Worn": "0.73",
+          "StatTrak Battle-Scarred": "0.86"
+        }
+      },
+      {
+        "name": "Five-SeveN | Buddy",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "1.24",
+          "Minimal Wear": "0.73",
+          "Field-Tested": "0.50",
+          "Well-Worn": "0.85",
+          "Battle-Scarred": "0.46",
+          "StatTrak Factory New": "3.55",
+          "StatTrak Minimal Wear": "1.87",
+          "StatTrak Field-Tested": "0.83",
+          "StatTrak Well-Worn": "0.93",
+          "StatTrak Battle-Scarred": "0.79"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Glock-18 | Sacrifice",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.66",
+          "Minimal Wear": "0.11",
+          "Field-Tested": "0.09",
+          "Well-Worn": "0.06",
+          "Battle-Scarred": "0.06",
+          "StatTrak Factory New": "4.40",
+          "StatTrak Minimal Wear": "0.67",
+          "StatTrak Field-Tested": "0.26",
+          "StatTrak Well-Worn": "0.18",
+          "StatTrak Battle-Scarred": "0.15"
+        }
+      },
+      {
+        "name": "MAC-10 | Classic Crate",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.27",
+          "Minimal Wear": "0.10",
+          "Field-Tested": "0.09",
+          "Well-Worn": "0.07",
+          "Battle-Scarred": "0.08",
+          "StatTrak Factory New": "1.01",
+          "StatTrak Minimal Wear": "0.24",
+          "StatTrak Field-Tested": "0.09",
+          "StatTrak Well-Worn": "0.07",
+          "StatTrak Battle-Scarred": "0.08"
+        }
+      },
+      {
+        "name": "Dual Berettas | Elite 1.6",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "0.16",
+          "Minimal Wear": "0.10",
+          "Field-Tested": "0.09",
+          "Well-Worn": "0.08",
+          "Battle-Scarred": "0.05",
+          "StatTrak Factory New": "0.75",
+          "StatTrak Minimal Wear": "0.28",
+          "StatTrak Field-Tested": "0.10",
+          "StatTrak Well-Worn": "0.26",
+          "StatTrak Battle-Scarred": "0.12"
+        }
+      },
+      {
+        "name": "MAG-7 | Popdog",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "0.18",
+          "Minimal Wear": "0.10",
+          "Field-Tested": "0.08",
+          "Well-Worn": "1.10",
+          "Battle-Scarred": "0.06",
+          "StatTrak Factory New": "0.65",
+          "StatTrak Minimal Wear": "0.31",
+          "StatTrak Field-Tested": "0.09",
+          "StatTrak Well-Worn": "0.27",
+          "StatTrak Battle-Scarred": "0.08"
+        }
+      },
+      {
+        "name": "Tec-9 | Flash Out",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "0.21",
+          "Minimal Wear": "0.11",
+          "Field-Tested": "0.09",
+          "Well-Worn": "0.09",
+          "Battle-Scarred": "0.07",
+          "StatTrak Factory New": "0.81",
+          "StatTrak Minimal Wear": "0.31",
+          "StatTrak Field-Tested": "0.13",
+          "StatTrak Well-Worn": "0.28",
+          "StatTrak Battle-Scarred": "0.14"
+        }
+      },
+      {
+        "name": "FAMAS | Decommissioned",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.35",
+          "Minimal Wear": "0.10",
+          "Field-Tested": "0.08",
+          "Well-Worn": "0.06",
+          "Battle-Scarred": "0.06",
+          "StatTrak Factory New": "2.03",
+          "StatTrak Minimal Wear": "0.32",
+          "StatTrak Field-Tested": "0.13",
+          "StatTrak Well-Worn": "0.09",
+          "StatTrak Battle-Scarred": "0.09"
+        }
+      },
+      {
+        "name": "SCAR-20 | Assault",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.62
+        },
+        "prices": {
+          "Factory New": "0.17",
+          "Minimal Wear": "0.10",
+          "Field-Tested": "0.10",
+          "Well-Worn": "0.09",
+          "Battle-Scarred": "0.09",
+          "StatTrak Factory New": "0.66",
+          "StatTrak Minimal Wear": "0.25",
+          "StatTrak Field-Tested": "0.09",
+          "StatTrak Well-Worn": "0.20",
+          "StatTrak Battle-Scarred": "0.08"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

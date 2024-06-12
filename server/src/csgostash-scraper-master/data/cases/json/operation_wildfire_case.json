@@ -1,0 +1,347 @@
+{
+  "name": "Operation Wildfire Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "AK-47 | Fuel Injector",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "347.00",
+          "Minimal Wear": "179.97",
+          "Field-Tested": "130.27",
+          "Well-Worn": "97.77",
+          "Battle-Scarred": "80.00",
+          "StatTrak Factory New": "650.00",
+          "StatTrak Minimal Wear": "376.48",
+          "StatTrak Field-Tested": "250.00",
+          "StatTrak Well-Worn": "187.09",
+          "StatTrak Battle-Scarred": "149.00"
+        }
+      },
+      {
+        "name": "M4A4 | The Battlestar",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.64
+        },
+        "prices": {
+          "Factory New": "7.83",
+          "Minimal Wear": "4.00",
+          "Field-Tested": "2.80",
+          "Well-Worn": "4.48",
+          "Battle-Scarred": "2.79",
+          "StatTrak Factory New": "34.36",
+          "StatTrak Minimal Wear": "18.40",
+          "StatTrak Field-Tested": "10.90",
+          "StatTrak Well-Worn": "16.72",
+          "StatTrak Battle-Scarred": "13.03"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Desert Eagle | Kumicho Dragon",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.76
+        },
+        "prices": {
+          "Factory New": "26.66",
+          "Minimal Wear": "18.46",
+          "Field-Tested": "11.75",
+          "Well-Worn": "11.25",
+          "Battle-Scarred": "9.99",
+          "StatTrak Factory New": "68.21",
+          "StatTrak Minimal Wear": "40.00",
+          "StatTrak Field-Tested": "25.35",
+          "StatTrak Well-Worn": "30.95",
+          "StatTrak Battle-Scarred": "21.00"
+        }
+      },
+      {
+        "name": "Nova | Hyper Beast",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.6
+        },
+        "prices": {
+          "Factory New": "25.87",
+          "Minimal Wear": "16.65",
+          "Field-Tested": "11.80",
+          "Well-Worn": "9.68",
+          "Battle-Scarred": "9.73",
+          "StatTrak Factory New": "55.00",
+          "StatTrak Minimal Wear": "32.39",
+          "StatTrak Field-Tested": "21.31",
+          "StatTrak Well-Worn": "19.16",
+          "StatTrak Battle-Scarred": "17.83"
+        }
+      },
+      {
+        "name": "AWP | Elite Build",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "26.98",
+          "Minimal Wear": "16.64",
+          "Field-Tested": "11.41",
+          "Well-Worn": "9.69",
+          "Battle-Scarred": "9.71",
+          "StatTrak Factory New": "53.68",
+          "StatTrak Minimal Wear": "32.63",
+          "StatTrak Field-Tested": "19.30",
+          "StatTrak Well-Worn": "17.24",
+          "StatTrak Battle-Scarred": "17.24"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MP7 | Impire",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.4
+        },
+        "prices": {
+          "Factory New": "3.21",
+          "Minimal Wear": "2.44",
+          "Field-Tested": "1.82",
+          "Well-Worn": "1.81",
+          "StatTrak Factory New": "7.00",
+          "StatTrak Minimal Wear": "4.70",
+          "StatTrak Field-Tested": "3.44",
+          "StatTrak Well-Worn": "5.00"
+        }
+      },
+      {
+        "name": "MAG-7 | Praetorian",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.45
+        },
+        "prices": {
+          "Factory New": "3.18",
+          "Minimal Wear": "2.20",
+          "Field-Tested": "1.69",
+          "Well-Worn": "1.64",
+          "StatTrak Factory New": "6.88",
+          "StatTrak Minimal Wear": "4.85",
+          "StatTrak Field-Tested": "2.58",
+          "StatTrak Well-Worn": "2.90"
+        }
+      },
+      {
+        "name": "FAMAS | Valence",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "4.29",
+          "Minimal Wear": "2.44",
+          "Field-Tested": "1.53",
+          "Well-Worn": "1.64",
+          "Battle-Scarred": "1.34",
+          "StatTrak Factory New": "11.65",
+          "StatTrak Minimal Wear": "5.15",
+          "StatTrak Field-Tested": "3.20",
+          "StatTrak Well-Worn": "3.37",
+          "StatTrak Battle-Scarred": "3.02"
+        }
+      },
+      {
+        "name": "Glock-18 | Royal Legion",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "4.89",
+          "Minimal Wear": "2.50",
+          "Field-Tested": "1.68",
+          "Well-Worn": "1.44",
+          "Battle-Scarred": "1.17",
+          "StatTrak Factory New": "24.05",
+          "StatTrak Minimal Wear": "5.85",
+          "StatTrak Field-Tested": "3.27",
+          "StatTrak Well-Worn": "2.71",
+          "StatTrak Battle-Scarred": "2.63"
+        }
+      },
+      {
+        "name": "Five-SeveN | Triumvirate",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.61
+        },
+        "prices": {
+          "Factory New": "3.20",
+          "Minimal Wear": "2.36",
+          "Field-Tested": "1.70",
+          "Well-Worn": "1.74",
+          "Battle-Scarred": "1.47",
+          "StatTrak Factory New": "7.07",
+          "StatTrak Minimal Wear": "5.09",
+          "StatTrak Field-Tested": "3.19",
+          "StatTrak Well-Worn": "3.18",
+          "StatTrak Battle-Scarred": "2.96"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Tec-9 | Jambiya",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "1.02",
+          "Minimal Wear": "0.57",
+          "Field-Tested": "0.54",
+          "Well-Worn": "0.51",
+          "Battle-Scarred": "0.44",
+          "StatTrak Factory New": "4.07",
+          "StatTrak Minimal Wear": "0.79",
+          "StatTrak Field-Tested": "0.48",
+          "StatTrak Well-Worn": "0.42",
+          "StatTrak Battle-Scarred": "0.50"
+        }
+      },
+      {
+        "name": "PP-Bizon | Photic Zone",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "1.16",
+          "Minimal Wear": "0.46",
+          "Field-Tested": "0.64",
+          "Well-Worn": "0.51",
+          "Battle-Scarred": "0.54",
+          "StatTrak Factory New": "3.58",
+          "StatTrak Minimal Wear": "1.00",
+          "StatTrak Field-Tested": "0.47",
+          "StatTrak Well-Worn": "0.41",
+          "StatTrak Battle-Scarred": "0.29"
+        }
+      },
+      {
+        "name": "MAC-10 | Lapis Gator",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "0.65",
+          "Minimal Wear": "0.54",
+          "Field-Tested": "0.55",
+          "Well-Worn": "0.55",
+          "Battle-Scarred": "0.50",
+          "StatTrak Factory New": "1.75",
+          "StatTrak Minimal Wear": "0.91",
+          "StatTrak Field-Tested": "0.43",
+          "StatTrak Well-Worn": "0.61",
+          "StatTrak Battle-Scarred": "0.48"
+        }
+      },
+      {
+        "name": "USP-S | Lead Conduit",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "3.39",
+          "Minimal Wear": "0.94",
+          "Field-Tested": "0.63",
+          "Well-Worn": "0.49",
+          "Battle-Scarred": "0.55",
+          "StatTrak Factory New": "16.45",
+          "StatTrak Minimal Wear": "3.47",
+          "StatTrak Field-Tested": "2.05",
+          "StatTrak Well-Worn": "1.64",
+          "StatTrak Battle-Scarred": "1.54"
+        }
+      },
+      {
+        "name": "SSG 08 | Necropos",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.93",
+          "Minimal Wear": "0.50",
+          "Field-Tested": "0.63",
+          "Well-Worn": "0.48",
+          "Battle-Scarred": "0.53",
+          "StatTrak Factory New": "4.56",
+          "StatTrak Minimal Wear": "0.78",
+          "StatTrak Field-Tested": "0.50",
+          "StatTrak Well-Worn": "0.41",
+          "StatTrak Battle-Scarred": "0.39"
+        }
+      },
+      {
+        "name": "Dual Berettas | Cartel",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "1.23",
+          "Minimal Wear": "0.57",
+          "Field-Tested": "0.59",
+          "Well-Worn": "0.44",
+          "Battle-Scarred": "0.46",
+          "StatTrak Factory New": "3.57",
+          "StatTrak Minimal Wear": "0.88",
+          "StatTrak Field-Tested": "0.50",
+          "StatTrak Well-Worn": "0.34",
+          "StatTrak Battle-Scarred": "0.38"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

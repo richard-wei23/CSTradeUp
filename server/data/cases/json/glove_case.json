@@ -1,0 +1,364 @@
+{
+  "name": "Glove Case",
+  "content": {
+    "Covert Skins": [
+      {
+        "name": "SSG 08 | Dragonfire",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "17.00",
+          "Minimal Wear": "10.60",
+          "Field-Tested": "8.47",
+          "Well-Worn": "8.11",
+          "Battle-Scarred": "8.10",
+          "StatTrak Factory New": "64.20",
+          "StatTrak Minimal Wear": "38.40",
+          "StatTrak Field-Tested": "25.19",
+          "StatTrak Well-Worn": "28.45",
+          "StatTrak Battle-Scarred": "25.31"
+        }
+      },
+      {
+        "name": "M4A4 | Buzz Kill",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "23.21",
+          "Minimal Wear": "9.90",
+          "Field-Tested": "6.23",
+          "Well-Worn": "6.03",
+          "Battle-Scarred": "4.75",
+          "StatTrak Factory New": "62.69",
+          "StatTrak Minimal Wear": "31.31",
+          "StatTrak Field-Tested": "17.61",
+          "StatTrak Well-Worn": "19.00",
+          "StatTrak Battle-Scarred": "14.02"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "FAMAS | Mecha Industries",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "5.64",
+          "Minimal Wear": "3.31",
+          "Field-Tested": "2.31",
+          "Well-Worn": "2.03",
+          "Battle-Scarred": "2.09",
+          "StatTrak Factory New": "16.38",
+          "StatTrak Minimal Wear": "7.73",
+          "StatTrak Field-Tested": "5.30",
+          "StatTrak Well-Worn": "5.86",
+          "StatTrak Battle-Scarred": "5.80"
+        }
+      },
+      {
+        "name": "P90 | Shallow Grave",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.75
+        },
+        "prices": {
+          "Factory New": "5.37",
+          "Minimal Wear": "2.53",
+          "Field-Tested": "1.10",
+          "Well-Worn": "1.27",
+          "Battle-Scarred": "1.03",
+          "StatTrak Factory New": "14.35",
+          "StatTrak Minimal Wear": "6.27",
+          "StatTrak Field-Tested": "2.85",
+          "StatTrak Well-Worn": "3.99",
+          "StatTrak Battle-Scarred": "2.37"
+        }
+      },
+      {
+        "name": "Sawed-Off | Wasteland Princess",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "5.65",
+          "Minimal Wear": "2.52",
+          "Field-Tested": "1.18",
+          "Well-Worn": "1.32",
+          "Battle-Scarred": "1.23",
+          "StatTrak Factory New": "13.34",
+          "StatTrak Minimal Wear": "5.98",
+          "StatTrak Field-Tested": "3.16",
+          "StatTrak Well-Worn": "2.85",
+          "StatTrak Battle-Scarred": "2.70"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Dual Berettas | Royal Consorts",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "2.05",
+          "Minimal Wear": "0.55",
+          "Field-Tested": "0.23",
+          "Well-Worn": "0.19",
+          "Battle-Scarred": "0.24",
+          "StatTrak Factory New": "6.95",
+          "StatTrak Minimal Wear": "1.90",
+          "StatTrak Field-Tested": "0.59",
+          "StatTrak Well-Worn": "0.45",
+          "StatTrak Battle-Scarred": "0.70"
+        }
+      },
+      {
+        "name": "USP-S | Cyrex",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.55
+        },
+        "prices": {
+          "Factory New": "2.25",
+          "Minimal Wear": "1.29",
+          "Field-Tested": "0.61",
+          "Well-Worn": "0.94",
+          "Battle-Scarred": "0.59",
+          "StatTrak Factory New": "8.28",
+          "StatTrak Minimal Wear": "4.18",
+          "StatTrak Field-Tested": "2.10",
+          "StatTrak Well-Worn": "3.14",
+          "StatTrak Battle-Scarred": "2.16"
+        }
+      },
+      {
+        "name": "M4A1-S | Flashback",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "1.85",
+          "Minimal Wear": "0.59",
+          "Field-Tested": "0.24",
+          "Well-Worn": "0.21",
+          "Battle-Scarred": "0.22",
+          "StatTrak Factory New": "11.30",
+          "StatTrak Minimal Wear": "3.70",
+          "StatTrak Field-Tested": "1.69",
+          "StatTrak Well-Worn": "1.50",
+          "StatTrak Battle-Scarred": "1.73"
+        }
+      },
+      {
+        "name": "Nova | Gila",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.3
+        },
+        "prices": {
+          "Factory New": "0.84",
+          "Minimal Wear": "0.40",
+          "Field-Tested": "0.24",
+          "StatTrak Factory New": "2.12",
+          "StatTrak Minimal Wear": "1.08",
+          "StatTrak Field-Tested": "0.83"
+        }
+      },
+      {
+        "name": "G3SG1 | Stinger",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.7
+        },
+        "prices": {
+          "Factory New": "0.98",
+          "Minimal Wear": "0.46",
+          "Field-Tested": "0.22",
+          "Well-Worn": "0.24",
+          "Battle-Scarred": "0.22",
+          "StatTrak Factory New": "2.57",
+          "StatTrak Minimal Wear": "1.14",
+          "StatTrak Field-Tested": "0.50",
+          "StatTrak Well-Worn": "0.50",
+          "StatTrak Battle-Scarred": "0.51"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "CZ75-Auto | Polymer",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "0.18",
+          "Minimal Wear": "0.09",
+          "Field-Tested": "0.07",
+          "Well-Worn": "0.09",
+          "Battle-Scarred": "0.09",
+          "StatTrak Factory New": "0.77",
+          "StatTrak Minimal Wear": "0.36",
+          "StatTrak Field-Tested": "0.16",
+          "StatTrak Well-Worn": "0.15",
+          "StatTrak Battle-Scarred": "0.16"
+        }
+      },
+      {
+        "name": "P2000 | Turf",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.57",
+          "Minimal Wear": "0.11",
+          "Field-Tested": "0.09",
+          "Well-Worn": "0.06",
+          "Battle-Scarred": "0.07",
+          "StatTrak Factory New": "3.02",
+          "StatTrak Minimal Wear": "0.51",
+          "StatTrak Field-Tested": "0.18",
+          "StatTrak Well-Worn": "0.13",
+          "StatTrak Battle-Scarred": "0.15"
+        }
+      },
+      {
+        "name": "MP9 | Sand Scale",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.45
+        },
+        "prices": {
+          "Factory New": "0.19",
+          "Minimal Wear": "0.09",
+          "Field-Tested": "0.08",
+          "Well-Worn": "0.07",
+          "StatTrak Factory New": "0.77",
+          "StatTrak Minimal Wear": "0.36",
+          "StatTrak Field-Tested": "0.24",
+          "StatTrak Well-Worn": "0.30"
+        }
+      },
+      {
+        "name": "MP7 | Cirrus",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.75
+        },
+        "prices": {
+          "Factory New": "0.36",
+          "Minimal Wear": "0.12",
+          "Field-Tested": "0.07",
+          "Well-Worn": "0.10",
+          "Battle-Scarred": "0.06",
+          "StatTrak Factory New": "1.81",
+          "StatTrak Minimal Wear": "0.52",
+          "StatTrak Field-Tested": "0.20",
+          "StatTrak Well-Worn": "0.59",
+          "StatTrak Battle-Scarred": "0.19"
+        }
+      },
+      {
+        "name": "Galil AR | Black Sand",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.41",
+          "Minimal Wear": "0.10",
+          "Field-Tested": "0.08",
+          "Well-Worn": "0.07",
+          "Battle-Scarred": "0.05",
+          "StatTrak Factory New": "2.10",
+          "StatTrak Minimal Wear": "0.40",
+          "StatTrak Field-Tested": "0.22",
+          "StatTrak Well-Worn": "0.12",
+          "StatTrak Battle-Scarred": "0.17"
+        }
+      },
+      {
+        "name": "MAG-7 | Sonar",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.45
+        },
+        "prices": {
+          "Factory New": "0.15",
+          "Minimal Wear": "0.09",
+          "Field-Tested": "0.07",
+          "Well-Worn": "0.06",
+          "StatTrak Factory New": "0.80",
+          "StatTrak Minimal Wear": "0.33",
+          "StatTrak Field-Tested": "0.16",
+          "StatTrak Well-Worn": "0.15"
+        }
+      },
+      {
+        "name": "Glock-18 | Ironwork",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "0.94",
+          "Minimal Wear": "0.13",
+          "Field-Tested": "0.06",
+          "Well-Worn": "0.06",
+          "Battle-Scarred": "0.06",
+          "StatTrak Factory New": "5.30",
+          "StatTrak Minimal Wear": "0.78",
+          "StatTrak Field-Tested": "0.24",
+          "StatTrak Well-Worn": "0.15",
+          "StatTrak Battle-Scarred": "0.16"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

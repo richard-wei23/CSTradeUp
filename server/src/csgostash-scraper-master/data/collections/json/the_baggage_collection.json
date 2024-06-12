@@ -1,0 +1,256 @@
+{
+  "name": "The Baggage Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "AK-47 | Jet Set",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "735.00",
+          "Minimal Wear": "349.94",
+          "Field-Tested": "257.79",
+          "Well-Worn": "223.31",
+          "Battle-Scarred": "209.00"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Desert Eagle | Pilot",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "131.72",
+          "Minimal Wear": "87.04",
+          "Field-Tested": "68.76",
+          "Well-Worn": "62.46",
+          "Battle-Scarred": "70.83"
+        }
+      },
+      {
+        "name": "AK-47 | First Class",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "140.48",
+          "Minimal Wear": "101.00",
+          "Field-Tested": "70.00",
+          "Well-Worn": "64.22",
+          "Battle-Scarred": "62.55"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "USP-S | Business Class",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "46.69",
+          "Minimal Wear": "29.14",
+          "Field-Tested": "27.91",
+          "Well-Worn": "25.56",
+          "Battle-Scarred": "24.23"
+        }
+      },
+      {
+        "name": "Sawed-Off | First Class",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.5
+        },
+        "prices": {
+          "Factory New": "39.37",
+          "Minimal Wear": "38.97",
+          "Field-Tested": "28.13",
+          "Well-Worn": "38.36",
+          "Battle-Scarred": "53.84"
+        }
+      },
+      {
+        "name": "XM1014 | Red Leather",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.56
+        },
+        "prices": {
+          "Factory New": "42.07",
+          "Minimal Wear": "32.00",
+          "Field-Tested": "37.21",
+          "Well-Worn": "44.02",
+          "Battle-Scarred": "42.92"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "MAC-10 | Commuter",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "23.80",
+          "Minimal Wear": "9.87",
+          "Field-Tested": "8.44",
+          "Well-Worn": "7.90",
+          "Battle-Scarred": "12.20"
+        }
+      },
+      {
+        "name": "P90 | Leather",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "16.31",
+          "Minimal Wear": "9.47",
+          "Field-Tested": "7.95",
+          "Well-Worn": "8.05",
+          "Battle-Scarred": "7.27"
+        }
+      },
+      {
+        "name": "SG 553 | Traveler",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "15.57",
+          "Minimal Wear": "9.98",
+          "Field-Tested": "8.36",
+          "Well-Worn": "7.99",
+          "Battle-Scarred": "8.19"
+        }
+      },
+      {
+        "name": "P2000 | Coach Class",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "19.19",
+          "Minimal Wear": "9.64",
+          "Field-Tested": "9.66",
+          "Well-Worn": "10.72",
+          "Battle-Scarred": "10.72"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "MP9 | Green Plaid",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.58
+        },
+        "prices": {
+          "Factory New": "4.43",
+          "Minimal Wear": "4.74",
+          "Field-Tested": "2.80",
+          "Well-Worn": "7.19",
+          "Battle-Scarred": "3.23"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Green Plaid",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.58
+        },
+        "prices": {
+          "Factory New": "3.77",
+          "Minimal Wear": "3.50",
+          "Field-Tested": "2.35",
+          "Well-Worn": "3.65",
+          "Battle-Scarred": "2.42"
+        }
+      },
+      {
+        "name": "MP7 | Olive Plaid",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.58
+        },
+        "prices": {
+          "Factory New": "4.04",
+          "Minimal Wear": "3.29",
+          "Field-Tested": "2.38",
+          "Well-Worn": "5.53",
+          "Battle-Scarred": "6.62"
+        }
+      },
+      {
+        "name": "G3SG1 | Contractor",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "8.20",
+          "Minimal Wear": "3.00",
+          "Field-Tested": "2.60",
+          "Well-Worn": "2.42",
+          "Battle-Scarred": "3.00"
+        }
+      },
+      {
+        "name": "SSG 08 | Sand Dune",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "70.34",
+          "Minimal Wear": "9.02",
+          "Field-Tested": "2.76",
+          "Well-Worn": "2.92",
+          "Battle-Scarred": "2.48"
+        }
+      }
+    ]
+  }
+}

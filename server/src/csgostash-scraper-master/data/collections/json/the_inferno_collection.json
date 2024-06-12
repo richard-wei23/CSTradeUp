@@ -1,0 +1,134 @@
+{
+  "name": "The Inferno Collection",
+  "content": {
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [],
+    "Mil-Spec Skins": [
+      {
+        "name": "Dual Berettas | Anodized Navy",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 0.08
+        },
+        "prices": {
+          "Factory New": "1.86",
+          "Minimal Wear": "5.70",
+          "StatTrak Factory New": "6.51",
+          "StatTrak Minimal Wear": "17.50"
+        }
+      },
+      {
+        "name": "Tec-9 | Brass",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0,
+          "max_wear": 1
+        },
+        "prices": {
+          "Factory New": "45.00",
+          "Minimal Wear": "9.74",
+          "Field-Tested": "2.48",
+          "Well-Worn": "1.88",
+          "Battle-Scarred": "1.91",
+          "StatTrak Factory New": "119.00",
+          "StatTrak Minimal Wear": "26.50",
+          "StatTrak Field-Tested": "13.35",
+          "StatTrak Well-Worn": "8.64",
+          "StatTrak Battle-Scarred": "8.82"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P250 | Gunsmoke",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "28.70",
+          "Minimal Wear": "3.58",
+          "Field-Tested": "2.55",
+          "Well-Worn": "2.89",
+          "Battle-Scarred": "2.33",
+          "StatTrak Factory New": "45.00",
+          "StatTrak Minimal Wear": "5.00",
+          "StatTrak Field-Tested": "1.09",
+          "StatTrak Well-Worn": "1.39",
+          "StatTrak Battle-Scarred": "0.92"
+        }
+      },
+      {
+        "name": "M4A4 | Tornado",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "150.40",
+          "Minimal Wear": "15.46",
+          "Field-Tested": "4.09",
+          "Well-Worn": "3.75",
+          "Battle-Scarred": "3.79",
+          "StatTrak Factory New": "125.86",
+          "StatTrak Minimal Wear": "24.03",
+          "StatTrak Field-Tested": "6.65",
+          "StatTrak Well-Worn": "7.75",
+          "StatTrak Battle-Scarred": "5.80"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Nova | Walnut",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "14.26",
+          "Minimal Wear": "4.00",
+          "Field-Tested": "1.71",
+          "Well-Worn": "1.55",
+          "Battle-Scarred": "1.28",
+          "StatTrak Factory New": "10.69",
+          "StatTrak Minimal Wear": "1.66",
+          "StatTrak Field-Tested": "0.44",
+          "StatTrak Well-Worn": "0.62",
+          "StatTrak Battle-Scarred": "0.51"
+        }
+      },
+      {
+        "name": "MAG-7 | Sand Dune",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.06,
+          "max_wear": 0.8
+        },
+        "prices": {
+          "Factory New": "19.99",
+          "Minimal Wear": "3.33",
+          "Field-Tested": "1.65",
+          "Well-Worn": "1.50",
+          "Battle-Scarred": "1.45",
+          "StatTrak Factory New": "9.48",
+          "StatTrak Minimal Wear": "0.95",
+          "StatTrak Field-Tested": "0.19",
+          "StatTrak Well-Worn": "0.16",
+          "StatTrak Battle-Scarred": "0.17"
+        }
+      }
+    ]
+  }
+}
