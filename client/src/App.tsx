@@ -2,14 +2,14 @@ import React from "react";
 import { Route, Routes } from 'react-router-dom';//Link } from 'react-router-dom';
 import Home from './pages/Home';
 import Navbar from './components/layout/NavBar';
-import Editor from './pages/Editor';
+// import TradeUpEditor from './pages/TradeUp/TradeUp';
 
 const App = (): React.JSX.Element => {
   return (<>
     <Navbar />
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/editor" element={<Editor />} />
+      {/* <Route path="/trade-up" element={<TradeUpEditor loadContract={} />} /> */}
       {/* <Route path="/contact" element={<Contact />} /> */}
     </Routes>
   </>

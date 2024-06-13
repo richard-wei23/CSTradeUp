@@ -7,8 +7,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLGeDBH092jk7-HnvD8J_WGkG0Iu50p0u-Z8N-m21bm_EA5YTv7cY_GdgA6YQmCqFS4xLi7gcC-ot2XnqyeIlZC/512fx384f"
         },
         "prices": {
           "Factory New": "3,625.00",
@@ -25,8 +26,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhh3szKcDBA49OJnpWFkPvxDLfYkWNFpsYhi7rFrNimilKy80doa2j6LYKRIwZrYw7W_QC7lenvgp_p7prKz3d9-n51eq1qbu8/512fx384f"
         },
         "prices": {
           "Factory New": "1,798.17",
@@ -39,21 +41,23 @@
     ],
     "Restricted Skins": [
       {
-        "name": "Desert Eagle | Sunset Storm 弐",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "min_wear": 0,
-          "max_wear": 0.75
-        }
-      },
-      {
         "name": "M4A4 | Daybreak",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTdn2xZ_It0iLyUodun2wzm8hY9a277JdKXcQc3MguCrAXrk-rugMXtv5-bzSdlpGB8snYi5lZt/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Sunset Storm 弐",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "min_wear": 0.0,
+          "max_wear": 0.75,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWdY781lxLrE89zxi1HhqUtqZTzyLdSWIVI3NAnV-FC3x7rogcTqtJzOzSFk73M8pSGKMT3MxkA/512fx384f"
         },
         "prices": {
           "Factory New": "241.67",
@@ -68,8 +72,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.75
+          "min_wear": 0.0,
+          "max_wear": 0.75,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqPX4PLTVqWdY781lxL2VoIn3iQWxqEM_ZWn1cteRIAM-aQ6BqQDvx-nu05W47ZScyyZg6SE8pSGK0Q-05Ps/512fx384f"
         }
       },
       {
@@ -77,8 +82,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09e_mY-FmMjwOrrcmWVV-_p9g-7J4cLziQOw_0doZz-idtSXJAI3YFrS8lbql-m9hp_p75zNwSZg6XVz5HzegVXp1oAzVLLk/512fx384f"
         },
         "prices": {
           "Factory New": "257.90",
@@ -95,8 +101,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszPdDJP6ciknYO0hOPxI6juj25d5MpmteXI8oThxg3j_hBvZWmgLdKUdA9tNwrTqFPole3rhZC5tZqaznI1uCcitHzYlkSpwUYb-QikhTM/512fx384f"
         },
         "prices": {
           "Factory New": "118.03",
@@ -111,8 +118,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.65
+          "min_wear": 0.0,
+          "max_wear": 0.65,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszPdDJP6ciknYO0hOPxI6jukXlU7ctOhuDG_Zi7i1ft8hVoYzz6co7BcwJoZ1yD-Ae6xO7qgpPpuZnAzHthvnR2t3-OnAv3309RB95Iog/512fx384f"
         },
         "prices": {
           "Factory New": "105.86",
@@ -127,8 +135,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJfAJF6dO7kZSZnvTLIK_Uhnhu5Mx2gv2Prdj00AXh_0Y-Mjr6cYWUelc_ZA2C_Vm4wOrtg8S96Z_BzyExsyMl5GGdwUKtHdD6IA/512fx384f"
         },
         "prices": {
           "Factory New": "115.99",
@@ -145,8 +154,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18l4jeHVu9Wh3lbl-UM9NT_wI4eRcgA6Mw7XqVm3wOu8jJPovpnOznpg7CUi4nzD30vgl0qPQwY/512fx384f"
         },
         "prices": {
           "Factory New": "22.31",
@@ -161,8 +171,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.75
+          "min_wear": 0.0,
+          "max_wear": 0.75,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqPv9NLPF2D0I7MFz2biQ9t-kjAzm-EpsZm2iJoKccQJraA3W_QS3yLi81p7ovpzXiSw0P9SiW7s/512fx384f"
         },
         "prices": {
           "Factory New": "23.49",
@@ -175,12 +186,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Sawed-Off | Bamboo Shadow",
+        "name": "PP-Bizon | Bamboo Print",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czxP7tO5q4qemfD4NoTYmGBu5Mx2gv2P8I2g0Abj_hc_Mj_1cNKUJ1A8ZFmG_FXvybi8jZ-86MicnHMwv3Er4mGdwUJstpxZ7Q/512fx384f"
         },
         "prices": {
           "Factory New": "3.68",
@@ -191,12 +203,13 @@
         }
       },
       {
-        "name": "G3SG1 | Orange Kimono",
+        "name": "Tec-9 | Bamboo Forest",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLfYkWNFpsNz2ejE8Yms2AfsrRZuMW_2d46XcgM4MArY-QLtl-vt0JG87p3NmHF9-n51kxdyftE/512fx384f"
         },
         "prices": {
           "Factory New": "3.99",
@@ -207,12 +220,13 @@
         }
       },
       {
-        "name": "PP-Bizon | Bamboo Print",
+        "name": "Sawed-Off | Bamboo Shadow",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR97t27lo-EqP3hPbzdk1RT5MRygdbN_Iv9nBrm_xVpZmqlJIORJAdoNwyGrFK4lb_m0ZPv7sidzSdjvHZ2t3fayUG_n1gSOcfomeu9/512fx384f"
         },
         "prices": {
           "Factory New": "4.74",
@@ -223,12 +237,13 @@
         }
       },
       {
-        "name": "Tec-9 | Bamboo Forest",
+        "name": "G3SG1 | Orange Kimono",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bN_Iv9nBqx_RJpNm71co7Ec1JtZFDZrlG5wOru0ZDtusvImnBqviQktnnenUS_n1gSORgsepQP/512fx384f"
         },
         "prices": {
           "Factory New": "5.79",
@@ -243,8 +258,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jummJW4NE_3LnDrImniVHkrxVrZGqnJY6UIwVqMgyFr1Towem7gpW67Z_MySAyvz5iuyiJIa_F4Q/512fx384f"
         },
         "prices": {
           "Factory New": "4.15",

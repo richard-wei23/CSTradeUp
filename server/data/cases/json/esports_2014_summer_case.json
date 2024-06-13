@@ -8,7 +8,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.02,
-          "max_wear": 0.46
+          "max_wear": 0.46,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszKZDFO6ciJhoGCmcj5Z7qAqWdY781lxLqV9t-i2VXirxE5YG-mIoHGdlI-NFrWq1O7wr3vhsDq7ZrNnHdi6Ck8pSGKHpUcEv8/512fx384f"
         },
         "prices": {
           "Factory New": "41.99",
@@ -28,8 +29,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYcDNW5Nmkq4GAw6DLP7LWnn8fup0gj7uX8dqhiwG3-hA_Y2H0II_AdFdqaQ7W81G3xua9hpO_7svLymwj5HdB90Yz-w/512fx384f"
         },
         "prices": {
           "Factory New": "156.00",
@@ -47,12 +49,13 @@
     ],
     "Classified Skins": [
       {
-        "name": "AUG | Bengal Tiger",
+        "name": "AWP | Corticera",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PXJZzhO7eO3g5C0m_7zO6-fzmlUsZEh07zEpoj00FHj8hdlNmD1Io-TdgE6Z1qFqwO3le-6g57q7YOJlyUHODsUBQ/512fx384f"
         },
         "prices": {
           "Factory New": "24.99",
@@ -73,7 +76,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszbYS9L4tuJmo-dlsj4OrzZgiUIsJUii-rDpNqn21ax-UY9Yj_zJdWddgA9YF3T_gLtwurvhsO-uMjJ1zI97c5KgPIA/512fx384f"
         },
         "prices": {
           "Factory New": "46.68",
@@ -89,12 +93,13 @@
         }
       },
       {
-        "name": "AWP | Corticera",
+        "name": "AUG | Bengal Tiger",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.3
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957OfBdjhQ09C_k4if2a_3Nu-FxDMHu5Yj3OzC9I323g21rxdoYTj2d4XAc1I3N1nQ-VW-yO_xxcjrdN4F_Bk/512fx384f"
         },
         "prices": {
           "Factory New": "30.98",
@@ -111,7 +116,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.3
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJE7cqzmIG0h6WkY-vummJW4NE_3u2Yo9z00QHh-xJrYWqnIoWVelA_ZFvQ8gO7leju05TvvprMn3Rk6D5iuyjsUPMT_w/512fx384f"
         },
         "prices": {
           "Factory New": "14.95",
@@ -129,8 +135,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PzbYjRE9eO0mJWOqPv9NLPF2D0G6sQl2--V9Num2gLi_UBkMT3xLYWQclc4aA6FrgXoxu_mgcS16s_XiSw0yiWEIkA/512fx384f"
         },
         "prices": {
           "Factory New": "2.68",
@@ -140,12 +147,13 @@
         }
       },
       {
-        "name": "PP-Bizon | Blue Streak",
+        "name": "Desert Eagle | Crimson Web",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTipH7s-JkIGZnPLmDLfYkWNFppApjL-Rodym3QaxqRFsYzvzJ4acdAFrZVyGrwK9lLjmgMK-vZ_AwCd9-n51Ff2g-Bw/512fx384f"
         },
         "prices": {
           "Factory New": "5.69",
@@ -161,12 +169,13 @@
         }
       },
       {
-        "name": "P90 | Virus",
+        "name": "Glock-18 | Steel Disruption",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73dTlS7ciykY6YksjnOrfHk3lu5Mx2gv2Ppo_x0APj8kFtMTv0d9DGJgQ-YwyB_AO7wObngpTquZ7NnyFguyghsWGdwULaU0m0ag/512fx384f"
         },
         "prices": {
           "Factory New": "2.67",
@@ -182,12 +191,13 @@
         }
       },
       {
-        "name": "Desert Eagle | Crimson Web",
+        "name": "PP-Bizon | Blue Streak",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3Yi1O7ciikZK0m_7zO6-fwTtUuJcn2OuUrd3xjgDj-UU9amjwcY-cdgc6aFqG_gS5x-7o18Tuv4OJlyUXs4JOhw/512fx384f"
         },
         "prices": {
           "Factory New": "90.00",
@@ -203,12 +213,13 @@
         }
       },
       {
-        "name": "Glock-18 | Steel Disruption",
+        "name": "P90 | Virus",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.2
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957OnHfD9L6eO6nYeDg7mjMb-GwzIFuMMk2rmUodSmjFfh_xdkZ27zcoCcdQY2YQnW-1K9wurrm9bi63XPc6ri/512fx384f"
         },
         "prices": {
           "Factory New": "2.84",
@@ -226,8 +237,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.4
+          "min_wear": 0.0,
+          "max_wear": 0.4,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3czFX6dSzjL-HnvD8J_WAlW8DsMFw3r-SrYqn2Va3_0tsYj3yLdOQdwVoNVyEqFW7ybq7hpS-ot2XnnASnGEo/512fx384f"
         },
         "prices": {
           "Factory New": "6.12",
@@ -241,12 +253,13 @@
         }
       },
       {
-        "name": "Negev | Bratatat",
+        "name": "USP-S | Blood Tiger",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq5KOk-P9NL7DqWdY781lxO-Z9Nul2wLm-UNuNTr3dtWXdAFvYg2F_Ae2wrq9gpXquszLmHQ36yM8pSGKO4Vc8KU/512fx384f"
         },
         "prices": {
           "Factory New": "6.69",
@@ -262,12 +275,13 @@
         }
       },
       {
-        "name": "MAC-10 | Ultraviolet",
+        "name": "SSG 08 | Dark Water",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.1,
+          "max_wear": 0.26,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0v73azhA_t2JkIGZnMj4OrzZgiUCuZIh37CW89zxjAzj_0VrMGz1LIXDIAU-YVnT_Fbqwbzr1Je4vZma1zI97TW2zcpJ/512fx384f"
         },
         "prices": {
           "Factory New": "23.10",
@@ -283,12 +297,13 @@
         }
       },
       {
-        "name": "XM1014 | Red Python",
+        "name": "Negev | Bratatat",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.08,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3cy9D-N2ilZS0mfLzNq3ummJW4NE_2-rApNSt3lawqEpsNm72cdOSdQ9oMlDU81jsk---hZDuvpXOwHZgsz5iuyhwrNVKQQ/512fx384f"
         },
         "prices": {
           "Minimal Wear": "1.93",
@@ -302,12 +317,13 @@
         }
       },
       {
-        "name": "SSG 08 | Dark Water",
+        "name": "XM1014 | Red Python",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.1,
-          "max_wear": 0.26
+          "min_wear": 0.08,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTi5M7dezh4uCmcjmNr_ummJW4NE_2b6RrdykigDnrUo5ajv1coaWIwI4MA7U8gPqkunp1Me06J-azyYyuj5iuyhFR3qt8w/512fx384f"
         },
         "prices": {
           "Minimal Wear": "2.20",
@@ -317,12 +333,13 @@
         }
       },
       {
-        "name": "USP-S | Blood Tiger",
+        "name": "MAC-10 | Ultraviolet",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3YShQ_NCzq4yCkP_gfeyEl28Dvp1w2-uZ8NqmiQDkqkBlMGmnIdeRcFdvYVjU8gW2w7zng5ei_MOeCgpJ2SM/512fx384f"
         },
         "prices": {
           "Factory New": "6.24",

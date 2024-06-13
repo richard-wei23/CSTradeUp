@@ -8,7 +8,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.08,
-          "max_wear": 0.32
+          "max_wear": 0.32,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PDJZS5J-dC6h7-bzqfLP7LWnn8fu8Ek2bmUpIqn0Qy1_0U5NWqlcoGWJwQ7NAzT-VHtkL3u057quM7Oy2wj5HelK5nxRg/512fx384f"
         },
         "prices": {
           "Minimal Wear": "41.20",
@@ -25,7 +26,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4yCkP_gfb3Xzm8CuJFw0rmQodT02AC2rhJqZTz7ddeQcQVqMwvQ_FK8l7q-gZCi_MOek7sL__I/512fx384f"
         },
         "prices": {
           "Factory New": "314.23",
@@ -46,7 +48,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.28
+          "max_wear": 0.28,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PHEcDB9_9W7hIyOqPv9NLPF2GkGvcN037GU89vw0AO1-0JkazrwcNCQewU4ZF6B-Fe8x72515a4tcjXiSw0rqtFJtw/512fx384f"
         },
         "prices": {
           "Factory New": "265.00",
@@ -65,7 +68,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJG6My3gL-Ehfb6NL7ummJW4NE_07uQodTz2w3t_BZra2GmJ4XDdQZsYgqB_1W9lOq9hZ656p2fwCBk6z5iuyjf9tkcZA/512fx384f"
         },
         "prices": {
           "Factory New": "39.09",
@@ -81,12 +85,13 @@
         }
       },
       {
-        "name": "P250 | Splash",
+        "name": "Sawed-Off | Orange DDPAT",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.18
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0mOX1PbzUqWdY781lxLqQ8Njw3QC2-kU4MWz0ddKTJAQ3Z1jWqVXtwObo08Lp7s-amHpi7HQ8pSGKUztObEA/512fx384f"
         },
         "prices": {
           "Factory New": "30.97",
@@ -98,12 +103,13 @@
         }
       },
       {
-        "name": "Sawed-Off | Orange DDPAT",
+        "name": "P250 | Splash",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.18,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zbYTFD_9SJhNLex8j4OrzZgiUIsJZyj7GXo9qm2gbjqBI5ajvyItORdVJqMF3WqwPqlbu-hpa0tZzL1zI97f96YcIY/512fx384f"
         },
         "prices": {
           "Factory New": "34.92",
@@ -121,12 +127,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "MAG-7 | Memento",
+        "name": "M4A4 | Faded Zebra",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.02,
-          "max_wear": 0.18
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zSdD9Q7d-3mb-JgMj4OrzZgiUD7Jx1jOrA99n2jADm-UdoMDiidoLDJgA5MlrV_APsyO6615Xo6pnK1zI97VoEw5kQ/512fx384f"
         },
         "prices": {
           "Factory New": "5.24",
@@ -138,12 +145,13 @@
         }
       },
       {
-        "name": "M4A4 | Faded Zebra",
+        "name": "MAG-7 | Memento",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.02,
+          "max_wear": 0.18,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszBcjJR7dSzkJKEmcj4OrzZgiVQvp112ruVpNqk3FKw8hdkN2jyIY_EcwI4aFGF-APskOnvjJHtusjA1zI97fEIz3Nv/512fx384f"
         },
         "prices": {
           "Factory New": "19.89",
@@ -164,7 +172,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.08,
-          "max_wear": 0.22
+          "max_wear": 0.22,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3dTJN4de_gJSSqPv9NLPF2GgCvZYh3LDF8Y-siVKx_EplYDilJISdJgVvNVzR-lC5xOy5jJS5uZ3XiSw0IGjZSII/512fx384f"
         },
         "prices": {
           "Minimal Wear": "3.83",

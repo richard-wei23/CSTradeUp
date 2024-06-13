@@ -10,8 +10,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szHYi5L6sWJmImMn-O6armExWhUsZwgj-vCoIrw3wG3qktvN2nzIIeTJANtMl7Xq1a4w-vu0Yj84sogWr_54w/512fx384f"
         },
         "prices": {
           "Factory New": "1.02",
@@ -26,7 +27,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zbYS9D9eO8gY6Mm_LLP7LWnn8f68Z03r_C8d_32Vey-0tvMjynINXDJwc3Ml3S-VS6le-8gMe4up3JmGwj5HdHC5azHw/512fx384f"
         },
         "prices": {
           "Factory New": "101.24",
@@ -42,7 +44,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszeTilL69mkq4yCkP_gfeyAzjtUvJR1i-uQrN_z2Qztrkc-NWylI9CddlI5ZAqB-1XoyOju1MOi_MOeT2ngjVc/512fx384f"
         },
         "prices": {
           "Factory New": "75.93",
@@ -55,12 +58,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "SSG 08 | Lichen Dashed",
+        "name": "Five-SeveN | Jungle",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N09ajmoeHksj4OrzZgiUE7JAmib6S9tWh2Qft80BuMD3zJ4CRJlQ8NVHW-lDox-bv0ZW7tJXM1zI97axXwetg/512fx384f"
         },
         "prices": {
           "Factory New": "28.99",
@@ -71,12 +75,13 @@
         }
       },
       {
-        "name": "Five-SeveN | Jungle",
+        "name": "SSG 08 | Lichen Dashed",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YjVN_siJgIGbksj4OrzZgiUFvsB02OiY8I6tig3h-UA-a2GiIY7GelM4Z1iB_VW4wLrrhMK6vZ6f1zI97ThFjwXW/512fx384f"
         },
         "prices": {
           "Factory New": "22.99",
@@ -92,7 +97,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zEdDxU6c-JmImMn-O6ZrrVxWoF7pYj2rqQotWj0Afi_UBqNzz2IITAJw89MgyGqQXowejrjIj84srlSXin5A/512fx384f"
         },
         "prices": {
           "Factory New": "24.60",

@@ -10,7 +10,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.08,
-          "max_wear": 0.5
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957ODGcDZH_9e_mr-HnvD8J_WEwD1VvZVwibjHo96hiw2w_RBvNjjxcY-UI1c8NAnT81Dsk-67hsO8ot2XnntkeF4i/512fx384f"
         },
         "prices": {
           "Minimal Wear": "0.38",
@@ -26,12 +27,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "Glock-18 | Candy Apple",
+        "name": "Sawed-Off | Full Stop",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR9-t2knYOKmvjLIb7VqWdY781lxLmQ9N7wigTh_0Q5Nz_6doKUcVA6MF-E_gTtwObpjMO9vsyfyiBrviE8pSGKa_8NP20/512fx384f"
         },
         "prices": {
           "Factory New": "0.45",
@@ -47,8 +49,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZu7P3JZyR94NWxnJTFz_X3auzXzm8Fv5Ak2-3D99_x0VGxqUpvMT_3ItecegA4YQzX-VG9xPCv28GoKA5JvQ/512fx384f"
         },
         "prices": {
           "Factory New": "0.40",
@@ -58,12 +61,13 @@
         }
       },
       {
-        "name": "Sawed-Off | Full Stop",
+        "name": "Glock-18 | Candy Apple",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YzhG09C_k4if2aOlMr7QwTJTuJxy3ejAo9732FfgrhFpaziiI4eQIQY3YAnY_VPtx-7xxcjrPzfKOas/512fx384f"
         },
         "prices": {
           "Factory New": "0.38",
@@ -81,12 +85,13 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "UMP-45 | Gunsmoke",
+        "name": "P2000 | Granite Marbleized",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPv9NLPF2DtTusEk2-yX8dih2AOy8xJtZm-iIdSQJAFqNwuE_QS5yLu5hpLuvs7XiSw0800sPEQ/512fx384f"
         },
         "prices": {
           "Factory New": "0.12",
@@ -102,12 +107,13 @@
         }
       },
       {
-        "name": "XM1014 | CaliCamo",
+        "name": "Nova | Candy Apple",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzadDl94NWxnJTFwPPwN7nVwDhU7J13i7DA996t3Ffg-0s-YTv7d4CWcAZvM1HTrwO4yPCv28HyhscZRw/512fx384f"
         },
         "prices": {
           "Factory New": "0.05",
@@ -123,12 +129,13 @@
         }
       },
       {
-        "name": "M4A1-S | Boreal Forest",
+        "name": "Dual Berettas | Stained",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4yCkP_gfe-Fkj8Eu5wn0-yZ99-h3ALmqUQ9YW_zd9XEIQNtaFCB-VS_kObsg8ei_MOe-yn9l4Y/512fx384f"
         },
         "prices": {
           "Factory New": "1.18",
@@ -144,12 +151,13 @@
         }
       },
       {
-        "name": "P2000 | Granite Marbleized",
+        "name": "UMP-45 | Gunsmoke",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3djhO_Nm4q4yCkP_gfb2DxjxUsMAi3bmUpdvw0QO3rUc-NWumLISQJg46ZV7R_lHtwOvugcei_MOeyaaHA2U/512fx384f"
         },
         "prices": {
           "Factory New": "0.14",
@@ -165,12 +173,13 @@
         }
       },
       {
-        "name": "Nova | Candy Apple",
+        "name": "XM1014 | CaliCamo",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTitD_tW1lY2EqPPxIL7DglRd4cJ5nqfH9o732QO1-EQ5NWDzcNWQIQE2Ml_U-VLsk-nqh8e6vcvNzCdlvygh-z-DyACXC11Q/512fx384f"
         },
         "prices": {
           "Factory New": "0.05",
@@ -182,12 +191,13 @@
         }
       },
       {
-        "name": "Dual Berettas | Stained",
+        "name": "M4A1-S | Boreal Forest",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-NmOXxIK_ulGRD7cR9teXI8oThxgK1-UtrNmvxddTBIAFsMl6Cq1W2wuro15S-usvPnHth7nYr4nfeyhOpwUYbVX-JImI/512fx384f"
         },
         "prices": {
           "Factory New": "0.08",
@@ -205,12 +215,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "AUG | Contractor",
+        "name": "FAMAS | Colony",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwPz3Yi1D79mJmYGZnvnxDLfYkWNFppQg3b6Zo9Xw2QLk-ERlNmH3I4LBcAM-MgzWqwPvkr3s0J6_upXLzXp9-n51fTJDcq4/512fx384f"
         },
         "prices": {
           "Factory New": "0.05",
@@ -231,7 +242,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jnMrXVqWdY781lxLGZrN6m0VG1r0ZuNjrzcYDGc1c6ZgrS-Fi7wufp1MO1vpqfy3QxuSU8pSGK_K_vSu0/512fx384f"
         },
         "prices": {
           "Factory New": "0.04",
@@ -247,12 +259,13 @@
         }
       },
       {
-        "name": "FAMAS | Colony",
+        "name": "Tec-9 | Groundwater",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO6nYeDg7mgY-rUxTsEsJQgibvD946kjQO1rkI5ZWCnI4ade1I6YA3WrgTvx7u5m9bi6_QHZrbw/512fx384f"
         },
         "prices": {
           "Factory New": "0.06",
@@ -268,12 +281,13 @@
         }
       },
       {
-        "name": "Tec-9 | Groundwater",
+        "name": "Nova | Sand Dune",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzbcDNG09C_k4if2aWkN7mGlzoBv5Mp2ezFrdT03Afl_kZrazulcISWJ1I8N13QqFW_x7_xxcjrIGlqPrY/512fx384f"
         },
         "prices": {
           "Factory New": "0.11",
@@ -289,12 +303,13 @@
         }
       },
       {
-        "name": "Nova | Sand Dune",
+        "name": "AUG | Contractor",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJO5du-gM6JkfL2MeuJkz4GvpAl3--RrIqi0APl_0U5Yjv3JYKUcwVrMAyDrwK_366x0qSHpP6l/512fx384f"
         },
         "prices": {
           "Factory New": "0.06",

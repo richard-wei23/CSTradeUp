@@ -7,8 +7,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdShR7eO3g5C0m_7zO6-fxmhV7JIh2--Y9oqgi1Dl_RA_ZGDzLYfAcgY6Z12F8wfswee9gZDv7YOJlyXhUFhJjA/512fx384f"
         },
         "prices": {
           "Factory New": "4,857.60",
@@ -25,8 +26,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.33
+          "min_wear": 0.0,
+          "max_wear": 0.33,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszYfi5H5di5mr-HnvD8J_XTwm4F7JYg0uqRpd6m2wfmqUttYm-nd4GRcQE_NwnX8gC3wL-608Doot2XnnmMd3ys/512fx384f"
         },
         "prices": {
           "Factory New": "1,077.78",
@@ -37,12 +39,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "M4A1-S | Icarus Fell",
+        "name": "G3SG1 | Chronos",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.1
+          "min_wear": 0.0,
+          "max_wear": 0.4,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf0Ob3cjVQ49K5h7-MxOTzYoTdn2xZ_Iso2OqRrdyn2wK3-kJqNWClIIKQJAZoYw3Y-lC-yLvv1pO975WYzHdhpGB8su2jndp9/512fx384f"
         },
         "prices": {
           "Factory New": "420.00",
@@ -50,12 +53,13 @@
         }
       },
       {
-        "name": "G3SG1 | Chronos",
+        "name": "M4A1-S | Icarus Fell",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.4
+          "min_wear": 0.0,
+          "max_wear": 0.1,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-ClPbmJqjummJW4NE_0uiV99zwjA3j-EpoZW3zJ9KUJ1c6Y1rZrgXqwebphpPv7s-cm3Y36D5iuyjUCbMLPg/512fx384f"
         },
         "prices": {
           "Factory New": "238.96",
@@ -71,8 +75,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZh7OPJfzlN_t2JmImMn-O6au-BwjtT7pEn3L-YpN_z2gXn-ENoZmqgLYDGIQFsaV7U_wLqyejugIj84sriSTs0tw/512fx384f"
         },
         "prices": {
           "Factory New": "132.18",
@@ -85,8 +90,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.39
+          "min_wear": 0.0,
+          "max_wear": 0.39,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3fTxA9c6_mpSDqPv9NLPF2DlQ65EpjLzFrYmnjAGy_EQ6aj_2JITBJAc5ZQzRr1Ttk73v05O_v5_XiSw08jX65KI/512fx384f"
         },
         "prices": {
           "Factory New": "110.08",
@@ -98,12 +104,13 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "P2000 | Pathfinder",
+        "name": "AWP | Sun in Leo",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.35
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OnHdTRD746JmImMn-O6Yr7VlThUu8F3jLvFp9_33lXg_EQ9amDwI4-VJANqZgrXqQDsl-7sjIj84spc5ywyww/512fx384f"
         },
         "prices": {
           "Factory New": "18.72",
@@ -112,12 +119,13 @@
         }
       },
       {
-        "name": "M249 | Shipping Forecast",
+        "name": "Tec-9 | Hades",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszAcDlH_-O6nYeDg7mtZL-DwjMF7cYk3OiSp9zzjlew8hFsYWzwcdOXclRqMw3U-wPrybvqm9bi65dXY9Hd/512fx384f"
         },
         "prices": {
           "Factory New": "19.36",
@@ -128,12 +136,13 @@
         }
       },
       {
-        "name": "Tec-9 | Hades",
+        "name": "P2000 | Pathfinder",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.35,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbYQJO7d6vhomFg_-mDLfYkWNFpsZyierCrNmk0QTi-EVqMWD7cYKUcwM4NVDWrwW-krrng56078zJyXF9-n51AbTGqdo/512fx384f"
         },
         "prices": {
           "Factory New": "21.08",
@@ -144,12 +153,13 @@
         }
       },
       {
-        "name": "AWP | Sun in Leo",
+        "name": "M249 | Shipping Forecast",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszSfjlL7d_lq4yCkP_gfbiHxz4DvZcl2e-Uotj22Q2xrRJvY22hdoCVdAU9aVyFqwW-yOrthcOi_MOeKhcyiCU/512fx384f"
         },
         "prices": {
           "Factory New": "32.99",
@@ -162,12 +172,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Nova | Moon in Libra",
+        "name": "AUG | Daedalus",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P_JcyRQ5dKinNO0m_7zO6-fzz9U7Jwl27zEpdSs2gzl-EBpN2n3J4_BIA43YluDqFbolL3mhZa1v4OJlyVxnDPyow/512fx384f"
         },
         "prices": {
           "Factory New": "5.10",
@@ -178,12 +189,13 @@
         }
       },
       {
-        "name": "Dual Berettas | Moon in Libra",
+        "name": "MP7 | Asterion",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7P_JcyRQ5dKinL-HnvD8J_WAwDII7JAo3b3H89_x3Vft_hU-Ymn3ItedIFdoZlyEq1LqkO_rjZC4ot2XntFvGQ5H/512fx384f"
         },
         "prices": {
           "Factory New": "4.78",
@@ -194,12 +206,13 @@
         }
       },
       {
-        "name": "MP7 | Asterion",
+        "name": "Dual Berettas | Moon in Libra",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf2-r3azJG5d21xb-HnvD8J_WBkjII7pxz0--TrNmmiwPkqEJkYGzydobBewdrM1HVqAfvw7q8h8O1ot2XnuRrPHpw/512fx384f"
         },
         "prices": {
           "Factory New": "4.99",
@@ -210,12 +223,13 @@
         }
       },
       {
-        "name": "AUG | Daedalus",
+        "name": "Nova | Moon in Libra",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszSfjlL7d_nq4yCkP_gfb-IlztXsJcmiLHD99XxjVey-RdoY2qmINCWeg9rZF7X_wS7yLy-1JOi_MOeEVnd8vc/512fx384f"
         },
         "prices": {
           "Factory New": "5.09",

@@ -8,8 +8,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszfdDFO08iklZaOm_LwDLrawjxu5Mx2gv2P89-t3QawqUA9a27ycIaUd1c-ZQnZ_gXvlO3t0cW_tcjKyCZiviF34WGdwUImW-gq6g/512fx384f"
         },
         "prices": {
           "Factory New": "735.00",
@@ -26,8 +27,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTi1L4NOiq4SOlvD4NoTdn2xZ_Itzju-VrN7x2FHi_xJsZmv3JtSWJANrMF7T_wS4lb3t05W8vZ-bn3YypGB8sgFn0NKC/512fx384f"
         },
         "prices": {
           "Factory New": "131.72",
@@ -42,8 +44,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszPYzhH4uO6kYGfn_LmDLrawjxu5Mx2gv2Pp46j2AK2-EppZDygddKSIwA3MlmG_gLowebshcO9tMjMy3Q263Nz7GGdwUIP0OjKkg/512fx384f"
         },
         "prices": {
           "Factory New": "140.48",
@@ -56,12 +59,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "USP-S | Business Class",
+        "name": "Sawed-Off | First Class",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9686zkY60m_L1J7PUhFRC6dJ0jubH87P5gVO8v11lMT3xIIOWdwRrZl3U-AW5xevs0cC8upnKzHBjsiMi4SrenhXjgBBJcKUx0kCSvPxv/512fx384f"
         },
         "prices": {
           "Factory New": "46.69",
@@ -72,12 +76,13 @@
         }
       },
       {
-        "name": "Sawed-Off | First Class",
+        "name": "XM1014 | Red Leather",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.56,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTjFH7ci-kZK0j_qlY-qFqWdY781lxLuYoNytjlXl_UdoZGvyLYOUe1NrZgnR-gO2xe7v0J_pvMzMn3Y26CA8pSGKhO2gULk/512fx384f"
         },
         "prices": {
           "Factory New": "39.37",
@@ -88,12 +93,13 @@
         }
       },
       {
-        "name": "XM1014 | Red Leather",
+        "name": "USP-S | Business Class",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.56
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq4yekPD1NL7ug3hBpdZOhuDG_Zi73lC3rxBkZDj2IdOcIwJoYw3YqFe6x7_v18e078-dnHI26ygk4nqOywv3309uvuwuEw/512fx384f"
         },
         "prices": {
           "Factory New": "42.07",
@@ -106,12 +112,13 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "MAC-10 | Commuter",
+        "name": "P90 | Leather",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PHafipM09CzlZSDkuXLI-KBqWdY781lxL3D94_wjgXi-0Q4Nm6lJNLDIARqYAzWqVK_kubs15-06p_JnHYwvSI8pSGK12D7Ycc/512fx384f"
         },
         "prices": {
           "Factory New": "23.80",
@@ -122,12 +129,13 @@
         }
       },
       {
-        "name": "P90 | Leather",
+        "name": "P2000 | Coach Class",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJO-duxlYeOqOemY-uBqWdY781lxO_F9N6tjALm_BBlNmz6d4HEcQc9Zg7VrFbowezp15e56pWbyndkunE8pSGK4KaEQZw/512fx384f"
         },
         "prices": {
           "Factory New": "16.31",
@@ -142,8 +150,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3fShF692xkb-YkKKhYITdn2xZ_Isj2byQ9trziwa18hBvamCgJYfHJgE8Zl-C-VTtkubsjZG-7p7ImiQypGB8slRazFxu/512fx384f"
         },
         "prices": {
           "Factory New": "15.57",
@@ -154,12 +163,13 @@
         }
       },
       {
-        "name": "P2000 | Coach Class",
+        "name": "MAC-10 | Commuter",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fShF692xkb-GlvSlY4Tdn2xZ_It13evC8dyljgXs8hJqZ2rwd9THIA45aVDU8wPol7u51sO475TLyCA3pGB8stMEoYj0/512fx384f"
         },
         "prices": {
           "Factory New": "19.19",
@@ -176,8 +186,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.58
+          "min_wear": 0.0,
+          "max_wear": 0.58,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957OPEcDRGvuO6nYeDg7mga73UwzwCuJIgiL2QpYj32Azl-UJsazyiI4aTJAVsYl3X_1i4wb_om9bi6yxo4GIr/512fx384f"
         },
         "prices": {
           "Factory New": "4.43",
@@ -188,12 +199,13 @@
         }
       },
       {
-        "name": "CZ75-Auto | Green Plaid",
+        "name": "G3SG1 | Contractor",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.58
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwPz3YTBB09C_k4if2aL2ZuiAxzxU6ZAkiL2To46m31Hi-xdoMDz0cYKXegQ6ZFHS_Fm-yejxxcjrsPOD_60/512fx384f"
         },
         "prices": {
           "Factory New": "3.77",
@@ -204,12 +216,13 @@
         }
       },
       {
-        "name": "MP7 | Olive Plaid",
+        "name": "CZ75-Auto | Green Plaid",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.58
+          "min_wear": 0.0,
+          "max_wear": 0.58,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3YTFD5djkq4yCkP_gfbiGxzIF7ZYk3bCQot_33Afir0Q4Yj36ddfGe1I6MFDUrlm3w-ro0J6i_MOePp5lLEM/512fx384f"
         },
         "prices": {
           "Factory New": "4.04",
@@ -220,12 +233,13 @@
         }
       },
       {
-        "name": "G3SG1 | Contractor",
+        "name": "SSG 08 | Sand Dune",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YjxM6OO6nYeDg7mmarnSlDpTucQo07DD9NSi2FWw80c9Nm-mctOUcFRrZ17XrAW_le68m9bi6-cXr9jZ/512fx384f"
         },
         "prices": {
           "Factory New": "8.20",
@@ -236,12 +250,13 @@
         }
       },
       {
-        "name": "SSG 08 | Sand Dune",
+        "name": "MP7 | Olive Plaid",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.58,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957OPEcDRGveO6nYeDg7mtauzQlW5Qu8Fw272Q8Nuijgax_Eo-Nz3xIIGUJ1Q4MlnSqQe9yO7pm9bi60tVrBiQ/512fx384f"
         },
         "prices": {
           "Factory New": "70.34",

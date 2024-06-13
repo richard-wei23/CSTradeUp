@@ -10,8 +10,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33fzxU9eO6nYeDg7mtZ-qJk2pXv5Ilj7GQ8Iqk3AXtqktkYWGgIdfHcw49NwzQ_1a9xOvmm9bi6798-T6t/512fx384f"
         },
         "prices": {
           "Factory New": "1.86",
@@ -25,8 +26,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhhwszKYzxR_-O6nYeDg7n1ML3UxG9Vu5xz3LiTpd2sjQKw_kU9YG72dYCQc1BvMwzY_FnolOnqm9bi64S3j0XC/512fx384f"
         },
         "prices": {
           "Factory New": "45.00",
@@ -49,7 +51,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszPdDFS6dKJmImMn-O6MeuCk29XsMEk372W8Nyt2VCy-0A_NW_wcYSVdwM2MF7YqVXsw-rt1oj84sqOtTXCcQ/512fx384f"
         },
         "prices": {
           "Factory New": "28.70",
@@ -70,7 +73,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz3Mzcfi9M7di5q4yCkP_gfbrXzz0FvsQm2uvDrdSmiVXiqkttYmyhco6Xd1I9ZV6FqQC8wey-jZei_MOewMrDujY/512fx384f"
         },
         "prices": {
           "Factory New": "150.40",
@@ -88,12 +92,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Nova | Walnut",
+        "name": "MAG-7 | Sand Dune",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09C_k4if2fX3Zr2JxWoIu5AgiLjD9tug3AXmqRFtMj3ycofAdVBrZQnWrlW-xLvxxcjrROACMYo/512fx384f"
         },
         "prices": {
           "Factory New": "14.26",
@@ -109,12 +114,13 @@
         }
       },
       {
-        "name": "MAG-7 | Sand Dune",
+        "name": "Nova | Walnut",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZgiVQsMYj2bmZrI330Qy2-0Y_ajzwI4Kcdw9qMl2GqwW6kOq71p-4vZXA1zI97X73VbtW/512fx384f"
         },
         "prices": {
           "Factory New": "19.99",

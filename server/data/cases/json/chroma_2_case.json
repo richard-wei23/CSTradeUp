@@ -7,8 +7,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.45
+          "min_wear": 0.0,
+          "max_wear": 0.45,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJmoWEmeX9N77DqWdY781lxL7Ao4ij0QGxrhVqMjzyJYHHdgFqYAmG_VS6kLi60cW1u8vNm3JivyY8pSGKRtki6Po/512fx384f"
         },
         "prices": {
           "Factory New": "8.14",
@@ -26,8 +27,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alDLPIhm5D18d0i_rVyoD8j1yg5UJrNjrwd4SUcQZsZFnR_we3xr3t1pC-uZXMznM37nIr4imMlkOxiRlSLrs4LxeSr5E/512fx384f"
         },
         "prices": {
           "Factory New": "109.00",
@@ -45,12 +47,13 @@
     ],
     "Classified Skins": [
       {
-        "name": "FAMAS | Djinn",
+        "name": "Five-SeveN | Monkey Business",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.1,
+          "max_wear": 0.9,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTTl2VQ5sROhuDG_Zi70Azm-xBtazugJ9OcIQFtaVqG_gXokLvnh5bqupnNn3o36HYl433UmQv3309Ce7FdPA/512fx384f"
         },
         "prices": {
           "Factory New": "9.13",
@@ -66,12 +69,13 @@
         }
       },
       {
-        "name": "Five-SeveN | Monkey Business",
+        "name": "Galil AR | Eco",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.1,
-          "max_wear": 0.9
+          "max_wear": 0.85,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-OlPjLP7LWnn8f6pAg3buWrN7z2gXm_0BqZjqlcIGVIANtYF7T_Vm9wu3p0MO8uZ7JzGwj5Hd0pQL-vQ/512fx384f"
         },
         "prices": {
           "Minimal Wear": "8.69",
@@ -85,12 +89,13 @@
         }
       },
       {
-        "name": "Galil AR | Eco",
+        "name": "FAMAS | Djinn",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.1,
-          "max_wear": 0.85
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0uL3dzxP7c-JnomFmcj4OrzZgiUEupN307_E8Nuj0QLj8kRkN271JdKcI1Q7MlGF-Vjqx7u9h57tu56d1zI97Ye_tFkj/512fx384f"
         },
         "prices": {
           "Minimal Wear": "28.99",
@@ -106,12 +111,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "MAG-7 | Heat",
+        "name": "AWP | Worm God",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.45,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZx7PLfYQJW-9W4kb-HnvD8J_XUlzwFuZMgjLjCrIik3wS1_kpvZ2uhLY_AdwRqZlrS8we3k7_vgZa0ot2XntSQs7PA/512fx384f"
         },
         "prices": {
           "Factory New": "2.23",
@@ -132,7 +138,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.25,
-          "max_wear": 0.35
+          "max_wear": 0.35,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0v73ZDBS0863l4WZqPrxN7LEmyVQuJUh3LmVpdz32gPt_EFlMjz7dYXEdAA3NFDRqFHowO-6gp_vvJzI1zI97e2SvreF/512fx384f"
         },
         "prices": {
           "Field-Tested": "0.25",
@@ -140,12 +147,13 @@
         }
       },
       {
-        "name": "CZ75-Auto | Pole Position",
+        "name": "MAG-7 | Heat",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV086zkIiEg8j4OrzZgiUGvJx3ibGRrY302QHm-EE9Nm6mIobAdQA7NFrU_lfowO3r0ZPp7ZrN1zI97WCv9AX1/512fx384f"
         },
         "prices": {
           "Factory New": "1.93",
@@ -161,12 +169,13 @@
         }
       },
       {
-        "name": "AWP | Worm God",
+        "name": "CZ75-Auto | Pole Position",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.45
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueOmhoWInuT9PLXummJW4NE_37iYrduj0QbirhdlN26hItWRdwM8MF_QrAO2xOrn0cK0u52dynoy6z5iuyhg2SGaZQ/512fx384f"
         },
         "prices": {
           "Factory New": "1.78",
@@ -182,12 +191,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "Sawed-Off | Origami",
+        "name": "MP7 | Armor Core",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZx7P7YJgJX4MiklY2Ek_LmPYTdn2xZ_It03bHEotv23VW3-BdvN2n2IY-WJlA7ZAnZq1Dvku_o0Jftv5-dnHowpGB8sk-YR3U_/512fx384f"
         },
         "prices": {
           "Factory New": "0.17",
@@ -203,12 +213,13 @@
         }
       },
       {
-        "name": "Desert Eagle | Bronze Deco",
+        "name": "Negev | Man-o'-war",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.46
+          "min_wear": 0.1,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v73fzhF6cqJk4yEhe7LP7LWnn8fucB02r2XoNyl3Vbm_UBlZm_7JY_HJw8-YFmBqVbvxey9hZfvvs7Nzmwj5HftqNqkcA/512fx384f"
         },
         "prices": {
           "Factory New": "0.37",
@@ -224,12 +235,13 @@
         }
       },
       {
-        "name": "P250 | Valence",
+        "name": "Sawed-Off | Origami",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLPKnYkWpc4fp9g-7J4cLx3Fa1_kc6MDr1d4LHe1VoaFzUrlC2w7u-hZC76pXMwXBr7yhw7SmJgVXp1qmZPn1A/512fx384f"
         },
         "prices": {
           "Factory New": "0.49",
@@ -245,12 +257,13 @@
         }
       },
       {
-        "name": "Negev | Man-o-war",
+        "name": "AK-47 | Elite Build",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.1,
-          "max_wear": 0.2
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09G3h5SOhe7LP7LWnn8f7ZJz376Uo9ii2gC18xI9MWn2cYTDIVM5ZArS_AO8le271JO-7pTImGwj5HfnCE0Peg/512fx384f"
         },
         "prices": {
           "Minimal Wear": "0.08",
@@ -260,12 +273,13 @@
         }
       },
       {
-        "name": "MP7 | Armor Core",
+        "name": "P250 | Valence",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhhwszYI2gS09-5mpSEguXLP7LWnn8fuZEg2LnF84qs0QWw-kdvZ2H6cYGSIAVrZljTrFjolLrphJe_6pvNnWwj5HenfXtLAw/512fx384f"
         },
         "prices": {
           "Factory New": "0.18",
@@ -281,12 +295,13 @@
         }
       },
       {
-        "name": "AK-47 | Elite Build",
+        "name": "Desert Eagle | Bronze Deco",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.46,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTj9Q49Kskb-Yh_bmOLfUqWdY781lxLnArd-g3FDk_xdsMDjwLILBIVVsYl3TqFG3ye3t1pLvvsibyyFmuiU8pSGKebQWDVI/512fx384f"
         },
         "prices": {
           "Factory New": "3.80",

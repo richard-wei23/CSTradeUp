@@ -1,41 +1,41 @@
-import { useEffect, useState } from "react";
-import './../style.css';
-import { Contract, Result } from "../types/types";
+import React, { useState } from "react";
+import { Contract, Outcome } from "../../types/types";
+import TradeUpCalculator from "./TradeUpCalculator";
+import TradeUpSearch from "./TradeUpSearch";
 
-type EditorProps = {
+export type TradeUpProps = {
     /** Contract to load, if any */
     loadContract: Contract;
 
-    /** Result to load, if any */
-    loadResult: Result;
+    /** Outcome to load, if any */
+    loadOutcome?: Outcome;
 }
 
-const Editor = ({ loadContract, loadResult }: EditorProps): React.JSX.Element => {
-    const [contract, setContract] = useState<Contract>(loadContract);
-    const [calculation, setCalculation] = useState<Result>(loadResult);
 
-    function onSkinClick(i: MouseEvent) {
-      setContract(contract);
+const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.Element => {
+    const [loading, setLoading] = useState(false);
+    const [error, setError] = useState("");
+
+    /**
+     * Adds error message and clears it after 5 seconds
+     * @param {string} error - Error to be shown
+     */
+    function onError(error: string) {
+        setError(error);
+
+        // Clears error
+        setTimeout(() => {
+            setError("");
+        }, 5000);
     }
 
-    // useEffect to recalculate tradeup when skin changes
-    useEffect(() => {
-        const newCalculation = calcTradeUp(contract);
-        setCalculation(newCalculation);
-    }, [contract]);
-    
     return <>
-        
+        <TradeUpSearch />
+        <TradeUpCalculator loadContract={loadContract} loadOutcome={loadOutcome} />
     </>;
 }
 
-// function Move({ move, onMoveClick }) {
-//     return <>
-//     </>;
-// }
-
-export default Editor;
-
+export default TradeUpEditor;
 
 // export default function Card() {
 //   const [pokemonId, setPokemonId] = useState(1);

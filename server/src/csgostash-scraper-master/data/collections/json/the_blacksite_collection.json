@@ -9,8 +9,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.35
+          "min_wear": 0.0,
+          "max_wear": 0.35,
+          "img": "https://csgostash.com/img/items/missing/skin.png"
         },
         "prices": {
           "Factory New": "o offers",

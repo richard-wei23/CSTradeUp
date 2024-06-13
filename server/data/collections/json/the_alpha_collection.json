@@ -10,7 +10,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1L-Nq_hoW0kfb5MqjulHlQ_spOhuDG_Zi70Fbk8kpoNmunLYeUcwI2M1HQ81e-lb_vjZS-usvKzCM17icj7CzVlwv330-dRCOXoA/512fx384f"
         },
         "prices": {
           "Factory New": "194.34",
@@ -25,8 +26,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLGTjhP6c63mIS0leX1JbTummJW4NE_jL-X89_32w3hrkBlYG-lIIWWew49aQzUrgLrx7i-hcO8uJvJwHYw6z5iuyhJ8yJUxg/512fx384f"
         },
         "prices": {
           "Factory New": "24.00",
@@ -36,12 +38,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "PP-Bizon | Rust Coat",
+        "name": "MAG-7 | Hazard",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhzw8zAcCdD_tiJlpKKgfjLP7LWnn8fvpVzierHrIililGxr0RvY2DwJYKdcFNqNVCC_Fe5l-q-08TtvJnAnGwj5Hc15yoqWQ/512fx384f"
         },
         "prices": {
           "Factory New": "23.07",
@@ -52,12 +55,13 @@
         }
       },
       {
-        "name": "MAG-7 | Hazard",
+        "name": "PP-Bizon | Rust Coat",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3YilH6dCJlpKKgfjLP7LWnn8fvJUj2biVoN2s3ATsr0NqZT2iJoKcIAc2Y1CF81G7xevnhZTou56YnGwj5HeHVCJH5w/512fx384f"
         },
         "prices": {
           "Factory New": "82.68",
@@ -72,8 +76,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7P3JZyR97s63go-0m_7zO6-fz24Bu5Iji-rFodmm3Qzjr0o-Nz_xddLEdVU7ZA7Q_1W_xbu51JDptYOJlyWB_uSARA/512fx384f"
         },
         "prices": {
           "Factory New": "24.97",
@@ -83,12 +88,13 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "P250 | Facets",
+        "name": "SSG 08 | Mayan Dreams",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3fDxb7dKJkJKOlvrnDLnDl31e18l4jeHVu9yj2wLj_BI9a2v1IIKVcldqM1vV_VS_we_qgcO76J-azCZgsydw7S7D30vgBs7niUU/512fx384f"
         },
         "prices": {
           "Factory New": "27.03",
@@ -99,12 +105,13 @@
         }
       },
       {
-        "name": "Sawed-Off | Mosaico",
+        "name": "Negev | Palm",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3YTxO4eO0hoGdmMj4OrzZgiUJu8Eh3L-XoI_3jQfkr0tlYTymLdCRJFA7Mw7Z_QK6wL-8gsDu6cjI1zI97eAMNzx1/512fx384f"
         },
         "prices": {
           "Factory New": "17.86",
@@ -115,12 +122,13 @@
         }
       },
       {
-        "name": "Glock-18 | Sand Dune",
+        "name": "P250 | Facets",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszLYyhP_NCzq4SKhfzLManQgGRu5Mx2gv2P892mjQbt_BdkMG_1I46cJlU7MAyG81fsxubqhpe1uZ6awXFhuiUi7GGdwUI1KbA-tQ/512fx384f"
         },
         "prices": {
           "Factory New": "119.53",
@@ -131,12 +139,13 @@
         }
       },
       {
-        "name": "SSG 08 | Mayan Dreams",
+        "name": "Sawed-Off | Mosaico",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR97dC_q5SCm_LLManQgGRu5Mx2gv2PoI6m2QLkqkY6MG6nddLEIQM2Mg3R8wPvwby8hMK17cmcyiMyvykn52GdwUIXGZ2Cug/512fx384f"
         },
         "prices": {
           "Factory New": "34.50",
@@ -147,12 +156,13 @@
         }
       },
       {
-        "name": "Negev | Palm",
+        "name": "Glock-18 | Sand Dune",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3YjxM6OO0hoGdmMj4OrzZgiVXu5Aij7qYrd7zi1e2qEc_Ymj6LdeRdVA8YgyC_1i9w-bsjZe-tJ3K1zI97b4BbtRE/512fx384f"
         },
         "prices": {
           "Factory New": "54.99",
@@ -165,12 +175,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Tec-9 | Tornado",
+        "name": "XM1014 | Jungle",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjdX4tu6kb-JhfbiPITdn2xZ_Isgj7zFoYii3wfsqEdpNTunItKVdAc9MF7V_gfokObs18Tv6cvPySBhpGB8sg1GFRWM/512fx384f"
         },
         "prices": {
           "Factory New": "31.72",
@@ -181,12 +192,13 @@
         }
       },
       {
-        "name": "Five-SeveN | Anodized Gunmetal",
+        "name": "Tec-9 | Tornado",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3Mzcfi9M7di5q4KZluH7DLfYkWNFppMojLuU94-l3wbh8ks9ZTz7INCQcg88M1jZ-Qe7wLvqg560u57AyyZ9-n51aB0it1Y/512fx384f"
         },
         "prices": {
           "Factory New": "6.92",
@@ -194,12 +206,13 @@
         }
       },
       {
-        "name": "M249 | Jungle DDPAT",
+        "name": "Five-SeveN | Anodized Gunmetal",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxM09ujmo2Og_b4DLnDl31e18l4jeHVu92hjlLl_xFsZTynLdSUegZvYAzV_VO5lbvug5G17snAznE3uCYksCvD30vgRJr6MrM/512fx384f"
         },
         "prices": {
           "Factory New": "13.67",
@@ -210,12 +223,13 @@
         }
       },
       {
-        "name": "XM1014 | Jungle",
+        "name": "MP9 | Dry Season",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh96NOih7-JhfbiPITdn2xZ_IsoiLmZoNz33VLl_hdpMmmmd9KQIAE9NFrT_FS3w7vph5-1uZiYzXZqpGB8sjLDGa8r/512fx384f"
         },
         "prices": {
           "Factory New": "49.99",
@@ -226,12 +240,13 @@
         }
       },
       {
-        "name": "MP9 | Dry Season",
+        "name": "MP7 | Groundwater",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7PzEeCtH096klZaEqPv9NLPF2G0GvJQl0r2Spdj23gay_EBvamiiJdTBIwJoMwrW-AC7k-zrhpXq7ZrXiSw0Zw9iBYk/512fx384f"
         },
         "prices": {
           "Factory New": "28.95",
@@ -242,12 +257,13 @@
         }
       },
       {
-        "name": "MP7 | Groundwater",
+        "name": "M249 | Jungle DDPAT",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszMdS1D-OO8gY6Mm_LLManQgGRu5Mx2gv2Pp46g21W1-kJqNWHydoKTIARrM1CE_wO9lOe-hJfp78nIzScwsiQm5WGdwUJMVDJ8PQ/512fx384f"
         },
         "prices": {
           "Factory New": "28.12",

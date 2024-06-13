@@ -7,8 +7,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP5gVO8v11qa2n6dtOcIQVoMFHUqwC9wei7jcO5vZ3AzSQ1vCMls3fayxKyhh1McKUx0sfzkVMr/512fx384f"
         },
         "prices": {
           "Factory New": "355.00",
@@ -28,8 +29,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJmo-Chcj4OrzZgiUEvJJz3ujEoomijAHg8kI_N2mgI4HBIVc7ZVzX-FW6wujsg5fptJ_J1zI97WjKBCQa/512fx384f"
         },
         "prices": {
           "Factory New": "42.99",
@@ -47,12 +49,13 @@
     ],
     "Classified Skins": [
       {
-        "name": "USP-S | Monster Mashup",
+        "name": "Five-SeveN | Fairy Tale",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.02,
+          "max_wear": 0.9,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goW0hPLiNrXukmJQ-txOhuDG_Zi73AOw-EA_Yz_xcYXDJw82Z17S81jqxr3nh5Pu6J_NmiQ27yJw43zdzgv3308BmqIoDA/512fx384f"
         },
         "prices": {
           "Factory New": "36.58",
@@ -68,12 +71,13 @@
         }
       },
       {
-        "name": "M4A4 | Cyber Security",
+        "name": "USP-S | Monster Mashup",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.98
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j_IbTamXhu5Mx2gv2PoIn03wziqUFqNzryd46dJARsaVnR8lPtxuq-h5K475yfmCAxvCkq7WGdwULJL1ALPg/512fx384f"
         },
         "prices": {
           "Factory New": "37.85",
@@ -89,12 +93,13 @@
         }
       },
       {
-        "name": "Five-SeveN | Fairy Tale",
+        "name": "M4A4 | Cyber Security",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.02,
-          "max_wear": 0.9
+          "min_wear": 0.0,
+          "max_wear": 0.98,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09-vloWZh-L6OITdn2xZ_Itz072So9yl2Afj-EduZjjzJdOQdg42MgnR-FTskrzuhsXvtMiaznBqpGB8srlAKkKU/512fx384f"
         },
         "prices": {
           "Factory New": "41.90",
@@ -112,12 +117,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "Nova | Clear Polymer",
+        "name": "AWP | Exoskeleton",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJH9NOln4WHkuP7PYTdn2xZ_Isli73A9I-n2wbk-kptZGDydtPAcQM4ZgnXr1G9wu7o0ZK-6pqby3tqpGB8si-uzZjZ/512fx384f"
         },
         "prices": {
           "Factory New": "5.17",
@@ -137,8 +143,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLN77Ll3hF-sBOhuDG_Zi7iQbl8hduNT3zJ9eVe1Q8ZlGF-1Htku7r05PvupScwSNhuHFw4Hbcmgv33098L4JXbQ/512fx384f"
         },
         "prices": {
           "Factory New": "5.31",
@@ -158,8 +165,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRd4cJ5nqeWrNiljgPiqkA-N2ymJdOSdAc7ZFyD-VS9l-rnhZ6-7p_LnSM2snJx-z-DyNjjuure/512fx384f"
         },
         "prices": {
           "Factory New": "5.13",
@@ -175,12 +183,13 @@
         }
       },
       {
-        "name": "SSG 08 | Parallax",
+        "name": "Nova | Clear Polymer",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD08y5mJmGkuXLP7LWnn8f6pYo0-yZ9I722VDj-kpkYW2mcYeXJwM3YgqDqFPskLrphcS-vsjOmGwj5HeIEkc2vw/512fx384f"
         },
         "prices": {
           "Factory New": "4.82",
@@ -196,12 +205,13 @@
         }
       },
       {
-        "name": "AWP | Exoskeleton",
+        "name": "SSG 08 | Parallax",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWdY781lxL6S8Iqh0FDm8hVtNWmid4OXdA8-Z1CF_VK4wuy5jJO_6MvMyHVquyk8pSGKeqs6Ueg/512fx384f"
         },
         "prices": {
           "Factory New": "6.09",
@@ -223,8 +233,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tdn2xZ_IsgjLiT8d2l21WxrhVlYDqiJYWXdwY5Y1rT-ge6lbzn0cXtvsmdwXRmpGB8spCWwXP2/512fx384f"
         },
         "prices": {
           "Factory New": "0.99",
@@ -240,12 +251,13 @@
         }
       },
       {
-        "name": "P90 | Cocoa Rampage",
+        "name": "MP5-SD | Condition Zero",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09-5moSCg_77PaHUhGRu5Mx2gv2PoNmnjlflrkFvMmqiLYbBIQI3YgnTqQW-lO_shpa4v52YmHBr7CVx5WGdwUJO7bwW9w/512fx384f"
         },
         "prices": {
           "Factory New": "0.54",
@@ -261,12 +273,13 @@
         }
       },
       {
-        "name": "Galil AR | Vandal",
+        "name": "P250 | Contaminant",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j4OrzZgiUJ7JUn07jErIn221XtqhY-Z22nLI6RJgFsYVHTr1m6kry7h5Dpup3P1zI97XS_BPWx/512fx384f"
         },
         "prices": {
           "Factory New": "1.34",
@@ -286,8 +299,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWdY781lxL7ApNr22wfj_BVtZzv2cIGdcg43MFvX_VC7l7_ug5e5vc_Im3oy7iM8pSGKnu4KG0g/512fx384f"
         },
         "prices": {
           "Factory New": "1.03",
@@ -303,12 +317,13 @@
         }
       },
       {
-        "name": "P250 | Contaminant",
+        "name": "P90 | Cocoa Rampage",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957OORIQJG5dK5q5KKmuf1NL7ummJW4NE_iL2UpNigjAfhrkBrZTr0IYSTe1A_Mw3VqFi3krvv18Xp7s7PnHs3uD5iuyi7yxslNQ/512fx384f"
         },
         "prices": {
           "Factory New": "0.91",
@@ -328,8 +343,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3cicVueOgkY6PkuPgMoTdn2xZ_Isi3-uU9NWi21fk8hVsMWzzIdOVJ1RoZF3S-1fryens08Xvv5nJzXVipGB8suk8cOG3/512fx384f"
         },
         "prices": {
           "Factory New": "1.13",
@@ -345,12 +361,13 @@
         }
       },
       {
-        "name": "MP5-SD | Condition Zero",
+        "name": "Galil AR | Vandal",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mL-dlvnwMrfummJW4NE_jriQpdWn3AHt-xJtYGyhdYSUcgA5ZVDV-VLvw73r05Dq75TJmCRquz5iuyizKHt3QA/512fx384f"
         },
         "prices": {
           "Factory New": "1.06",

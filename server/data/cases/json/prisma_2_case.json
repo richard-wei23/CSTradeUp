@@ -7,8 +7,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79fnzL-cluX5MrLVk2Vu5Mx2gv2PoN-tiQDk_kc_Y2v3JIXAcwI2ZFuE-Fe7xevn05Lq7cucn3Uw7ycr7WGdwUJCFh0RVw/512fx384f"
         },
         "prices": {
           "Factory New": "34.00",
@@ -28,8 +29,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.84
+          "min_wear": 0.0,
+          "max_wear": 0.84,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITShWxeupUl0tbN_Iv9nBqxrUA9MWmhINKUIFU9N1rT_AK3lbjnjcLo6ZuazXA1u3R34yzdzha_n1gSORVcLpnc/512fx384f"
         },
         "prices": {
           "Factory New": "76.85",
@@ -51,8 +53,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09ajh5SClPLLP7LWnn8fucEn2rHFpt6mjgPi_RdpYmzwdoTDdlA8aF2E-Fbokufm1pa_uc7Jzmwj5Hedv1mWdQ/512fx384f"
         },
         "prices": {
           "Factory New": "7.85",
@@ -68,12 +71,13 @@
         }
       },
       {
-        "name": "AK-47 | Phantom Disruptor",
+        "name": "MAC-10 | Disco Tech",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.65
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJmoGIhfLLP7LWnn8fsMFy3riTot_3igft_UM4ajj6coOVdlRrYl-CqAK8w7260J677s6bwWwj5HePhOsuTQ/512fx384f"
         },
         "prices": {
           "Factory New": "7.76",
@@ -89,12 +93,13 @@
         }
       },
       {
-        "name": "MAC-10 | Disco Tech",
+        "name": "AK-47 | Phantom Disruptor",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.65,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJenAWu-OmnIGFg_j5DL_YhXlE-NF-mNbN_Iv9nBrl_0Bpamr0JdSdcg9rNAmB-QS5krzu0MDpvJXJySA3vXEis3nYzEe1n1gSObO8jf4G/512fx384f"
         },
         "prices": {
           "Factory New": "10.06",
@@ -112,12 +117,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "Sawed-Off | Apocalypto",
+        "name": "SSG 08 | Fever Dream",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.72,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkoWdkuXLN6nUl2Zu5Mx2gv2Po4_z21Hm8kI5NmnzJteUJwJtZQ3TrlK3kL_n15C76JvAm3I37iBw5GGdwULIo9c5SQ/512fx384f"
         },
         "prices": {
           "Factory New": "1.20",
@@ -137,8 +143,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJYAJSvozmxL-KlP7wDLjdmX1U-vp9g-7J4cKj0FHh-Uo6MGr6J46Wcg85Zg2D8we9wOjngJ_u7picyXRnv3IitHzVgVXp1idKuhgm/512fx384f"
         },
         "prices": {
           "Factory New": "1.52",
@@ -158,8 +165,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JkIGZnOD9PbzummJW4NE_27rCpo6n3QC1_kc6ZW31ItSQewM6MFuGrwDtkLjthJ_v7p3MnXFqsz5iuyigvJplYA/512fx384f"
         },
         "prices": {
           "Factory New": "1.42",
@@ -179,8 +187,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-OmfH7IbjUhFRd4cJ5nqfF9Inw3wO1-RA6Nzz6I4LDdVRsMw7V-AW3lefq0J7t7svPm3BiviFx-z-DyJBF3MU6/512fx384f"
         },
         "prices": {
           "Factory New": "1.23",
@@ -196,12 +205,13 @@
         }
       },
       {
-        "name": "SSG 08 | Fever Dream",
+        "name": "Sawed-Off | Apocalypto",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.72
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLMqvelWpd8dVlhdbN_Iv9nBrkqUA9ZW2lJNOVIwJrYV6C_1a-wum805S06ZWcn3Uw7iBw5nmMnRy3n1gSOYdFKB81/512fx384f"
         },
         "prices": {
           "Factory New": "1.81",
@@ -219,12 +229,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "R8 Revolver | Bone Forged",
+        "name": "AUG | Tom Cat",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFABz7PLddgJW5Mm4kIWZhOP7IbbummJW4NE_i76Wodin3VDl-EdkZ27xctWSIAFqNV6B81i8lbq7gMe575rPwXtkvj5iuyidRld6Yg/512fx384f"
         },
         "prices": {
           "Factory New": "0.18",
@@ -240,12 +251,13 @@
         }
       },
       {
-        "name": "AUG | Tom Cat",
+        "name": "CZ75-Auto | Distressed",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cicVueO1kZKKnPjgNoTdn2xZ_IsjjOvA99Wmiwyy80Rrazz7IdPDegA2YgzVq1jqwO3pgpO9upqdyHQypGB8sgPmJ9t5/512fx384f"
         },
         "prices": {
           "Factory New": "0.20",
@@ -261,12 +273,13 @@
         }
       },
       {
-        "name": "CZ75-Auto | Distressed",
+        "name": "AWP | Capillary",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.05,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJU6dW4q4yCkP_gfeqBxjlSvcdy3rqYpNiljlbj8kBqY2ClI9WTJwQ6Mw3RqwXvye-8hJCi_MOe2fFa6EA/512fx384f"
         },
         "prices": {
           "Factory New": "0.19",
@@ -286,8 +299,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWdY781lxOjArdSg0VXl80tqY27xJIeSIwE-NVGF_1Xowbu9g5ftuM7JzXdnuSI8pSGKOCoVgHE/512fx384f"
         },
         "prices": {
           "Factory New": "1.19",
@@ -303,12 +317,13 @@
         }
       },
       {
-        "name": "Negev | Prototype",
+        "name": "MP5-SD | Desert Strike",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0Ob3fC0X09izh4WZg8jnJ6nYnW5u5Mx2gv2PpNv22wHt8xdoNmnxdYeWcQ5rYV-E81TqwLrtjZDttJrMm3c3vSl2sGGdwUIOeVaEmA/512fx384f"
         },
         "prices": {
           "Factory New": "0.18",
@@ -324,12 +339,13 @@
         }
       },
       {
-        "name": "MP5-SD | Desert Strike",
+        "name": "Negev | Prototype",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJhJKEg_jgKqvUqWdY781lxLDH89-h0QXkqEZvMmHxI9TAJwM6NVyE_QK-ku65g8K5uZWfwCFqvHU8pSGKCDCgbpQ/512fx384f"
         },
         "prices": {
           "Factory New": "0.18",
@@ -345,12 +361,13 @@
         }
       },
       {
-        "name": "AWP | Capillary",
+        "name": "R8 Revolver | Bone Forged",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.05,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_oSJmIWdnvbgO7rfqWdY781lxLzF9N-g2Aey_kRtMW7wd9KTJlU5YQvY-lC6kL_sjZTu6Z3JzXJruXY8pSGKt9a0Ej8/512fx384f"
         },
         "prices": {
           "Factory New": "1.52",

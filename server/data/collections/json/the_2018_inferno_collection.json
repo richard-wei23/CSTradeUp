@@ -8,8 +8,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JhoGHm-7LP7LWnn8f7ZIp2LiR89ui3Afm_BVkYzqncYOVewdoYlCG8gLsk-_t1MDv6M6dwWwj5HdDmtPQLw/512fx384f"
         },
         "prices": {
           "Factory New": "80.18",
@@ -29,8 +30,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dShD4OOzmImfkuTLIbrdmnJu5Mx2gv2P99yhjVG2rUFrNjzyd4THdwQ5MlCF81DqxLvshJDuuZXPzSBr7HYl5WGdwUKd65N41w/512fx384f"
         },
         "prices": {
           "Factory New": "3.90",
@@ -48,12 +50,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "AK-47 | Safety Net",
+        "name": "P250 | Vino Primo",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS09--kYOAkuXLP7LWnn8f6ZVz3LCRot-g2we2qRBpNWqgLNScIw42ZAnX_Qe9le3o1pK675_InGwj5HfUbn7PUA/512fx384f"
         },
         "prices": {
           "Factory New": "5.14",
@@ -69,12 +72,13 @@
         }
       },
       {
-        "name": "P250 | Vino Primo",
+        "name": "MP7 | Fade",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.25,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZh7PXJdTh94czhq4yCkP_gfe-ExDNVsJ1y2rDC99_zi1LjqUVtYGD1JICdJwdtYFHZ-le5kuzrhJCi_MOeD-m-BeA/512fx384f"
         },
         "prices": {
           "Factory New": "5.14",
@@ -90,12 +94,13 @@
         }
       },
       {
-        "name": "MP7 | Fade",
+        "name": "AK-47 | Safety Net",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.25
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszFdC5K08-3koWfjvjmMrXWk1Rd4cJ5nqeRod733AK3qUVvZjjzLYKRJFQ6ZgyGrge3weju05-1upqcz3Fmv3El-z-DyNeqTnB9/512fx384f"
         },
         "prices": {
           "Factory New": "4.81",
@@ -113,8 +118,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq42OhP_LILrXk39I-sB1teXI8oThxlax_UBsZD_3ItTGdVVtM1qD-1O9we-81pfquprJzyRnunIq5nuOzUepwUYbavHYHkU/512fx384f"
         },
         "prices": {
           "Factory New": "0.89",
@@ -130,12 +136,13 @@
         }
       },
       {
-        "name": "Sawed-Off | Brake Light",
+        "name": "SSG 08 | Hand Brake",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJl4iOlPzxIYTdn2xZ_It33e3Apo6s0VXirhI_NWj2JYTGcwRqZlHX8gXtwOjphse_vpufz3tjpGB8sg-an8cd/512fx384f"
         },
         "prices": {
           "Factory New": "0.54",
@@ -145,12 +152,13 @@
         }
       },
       {
-        "name": "M4A4 | Converter",
+        "name": "Sawed-Off | Brake Light",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.4
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cDx9-tmkgImMmMjmNr_ummJW4NE_jr_Dod2m0ASw-0U_YW30JNKce1Q2ZFzSqAfrxe29hpS7tMnKwHM3sz5iuygN8K7X1Q/512fx384f"
         },
         "prices": {
           "Factory New": "0.54",
@@ -164,12 +172,13 @@
         }
       },
       {
-        "name": "SSG 08 | Hand Brake",
+        "name": "M4A4 | Converter",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.4,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszadDl95Nmuq4yCkP_gfePQzjIJuZQk3u3H8Nz0jA2180I_MT32cY-RJAM6YwnWrFfsle28hsSi_MOeKhRDpLE/512fx384f"
         },
         "prices": {
           "Factory New": "0.64",
@@ -191,8 +200,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJl4iOlPzxIYTdn2xZ_Itz2-uZpoim3AHsrxc4ZjrzJIScJAQ6ZVmGqFC4xOjogcLo7ZjNnSRlpGB8srMi7WXy/512fx384f"
         },
         "prices": {
           "Factory New": "0.10",
@@ -208,12 +218,13 @@
         }
       },
       {
-        "name": "Glock-18 | High Beam",
+        "name": "R8 Revolver | Nitro",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94863moeOqPb3ML7fgngC18l4jeHVu9j3iVe3_0duazr0cdeUdgY4Y1zW-Fi3xrrt15K8us_BzXNnv3Um5i7D30vg4Dy-JQ8/512fx384f"
         },
         "prices": {
           "Factory New": "0.06",
@@ -227,8 +238,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3YzhG09C_k4if2a73Me2CxW5Sup1wj7HEptun31G280U6MWHydobBJA8-ZlnQ_QPryb_xxcjrlO1CYf0/512fx384f"
         },
         "prices": {
           "Factory New": "0.06",
@@ -240,12 +252,13 @@
         }
       },
       {
-        "name": "R8 Revolver | Nitro",
+        "name": "Glock-18 | High Beam",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3ZzhQ-NWxm7-Jm-LxDLfYkWNFpp0i3-2XoIijjAGyr0JlYW_1ddSQcVM-M1vQrFTqle6815W5uJqfmnV9-n51CHrduKk/512fx384f"
         },
         "prices": {
           "Factory New": "0.18",
@@ -263,12 +276,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "AUG | Sweeper",
+        "name": "MP5-SD | Dirt Drop",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANfwOP3ZTxS6eOlnI-Zg8jmMrfdj1Rd4cJ5nqeTo9-g2Qe2rxJsZjiidYGRdAdsNQ7S-FHrwLy618W4u5-azyAy7iAk-z-DyO2tyiJN/512fx384f"
         },
         "prices": {
           "Factory New": "0.01",
@@ -284,12 +298,13 @@
         }
       },
       {
-        "name": "MP9 | Slide",
+        "name": "UMP-45 | Mudder",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3fDJW-NCzkL-YlvnwDLfYkWNFppEo2OuW9o2hilWwqRBtZmv7LdCUe1Q4N1HSrFXrxui60Za46ZubyiN9-n51RBCOqGI/512fx384f"
         },
         "prices": {
           "Factory New": "0.05",
@@ -305,12 +320,13 @@
         }
       },
       {
-        "name": "MP5-SD | Dirt Drop",
+        "name": "MP9 | Slide",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957ODYfTxW-Nmkx7-HnvD8J_WIxWkCupYj37-V9omt3AKyrUM_MmumLIadcwZraQvTqFa-lO_tjMK-ot2Xni7s7JiL/512fx384f"
         },
         "prices": {
           "Factory New": "0.03",
@@ -330,8 +346,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhhwszbZThH4OO_moaOhfn7DLfYkWNFpsAl3u-QoYnwjAzl-kM6YD31d4WQdw43YlmGrAe2wbvqhJPuvMnBnXZ9-n5104igUS8/512fx384f"
         },
         "prices": {
           "Factory New": "0.03",
@@ -347,12 +364,13 @@
         }
       },
       {
-        "name": "UMP-45 | Mudder",
+        "name": "AUG | Sweeper",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV9_92wkZSSlfv1MLDummJW4NE_3-qZptSkjQDm-UZpZGj6LdKTJwJqMFnQqAC6krrsgZa075vKnHIx6D5iuyjdXuBdhQ/512fx384f"
         },
         "prices": {
           "Factory New": "0.03",

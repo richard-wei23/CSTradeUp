@@ -3,12 +3,13 @@
   "content": {
     "Covert Skins": [
       {
-        "name": "M4A1-S | Cyrex",
+        "name": "P90 | Asiimov",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.92,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIXBD_9W_mY-dqPv9NLPF2GlQucF0iejH8dj2iQDtqUI-a2ilcY_Ge1RtM1mG8lG3xLq815e0uJ3XiSw0ptcExpY/512fx384f"
         },
         "prices": {
           "Factory New": "33.49",
@@ -24,12 +25,13 @@
         }
       },
       {
-        "name": "P90 | Asiimov",
+        "name": "M4A1-S | Cyrex",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.92
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITSj3lU8Pp9g-7J4cKkige2_kBuY2igLYPEegRsMFzQ-gC_x-bsh5Dvup_KzyNq6CQk4SuLgVXp1tdVuiuK/512fx384f"
         },
         "prices": {
           "Factory New": "28.87",
@@ -47,12 +49,13 @@
     ],
     "Classified Skins": [
       {
-        "name": "Desert Eagle | Conspiracy",
+        "name": "Glock-18 | Water Elemental",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79f7mImagvLnML7fglRd4cJ5nqfEpdzz2Abg_BU-NW_1cNeRcQA4M1nW-AW6xOzogpPu6pTAnXplvHFw-z-DyEmuPIPI/512fx384f"
         },
         "prices": {
           "Factory New": "6.75",
@@ -64,12 +67,13 @@
         }
       },
       {
-        "name": "Glock-18 | Water Elemental",
+        "name": "Five-SeveN | Fowl Play",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxT04nhq4aOluP8NqnCqWdY781lxOyTpdWt2gfs-EVlZmD6cNWQdwc9M1DR-VC5l--9g5Xo7szJmHMxvnI8pSGKFwDiXoQ/512fx384f"
         },
         "prices": {
           "Factory New": "9.13",
@@ -85,12 +89,13 @@
         }
       },
       {
-        "name": "Five-SeveN | Fowl Play",
+        "name": "Desert Eagle | Conspiracy",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-KguXxJqjummJW4NE_ibuYoo2j2Vbg_BA6Mm_xJoOQJldtY1mD-lW4w7jvh5a_7ZiYyCBq6T5iuyiyQWuzXg/512fx384f"
         },
         "prices": {
           "Factory New": "5.85",
@@ -108,12 +113,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "PP-Bizon | Osiris",
+        "name": "Nova | Koi",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09e5nb-HnvD8J_WAlTxT7JQmieiTotjz0AXn_BI-YGyhJYGSdVNqNF6GqATsl--6hZS5ot2Xno52_bE9/512fx384f"
         },
         "prices": {
           "Factory New": "0.98",
@@ -129,12 +135,13 @@
         }
       },
       {
-        "name": "P250 | Supernova",
+        "name": "PP-Bizon | Osiris",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.4
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49L7m5OChf7nDLfYkWNFppUg3LDE8dn32lXnrUFtZDr2d4eVcQc2NFCB-1O7x-zrgZPutJjInCN9-n51f6OV_es/512fx384f"
         },
         "prices": {
           "Factory New": "1.10",
@@ -148,12 +155,13 @@
         }
       },
       {
-        "name": "Nova | Koi",
+        "name": "P250 | Supernova",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.0,
+          "max_wear": 0.4,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszKeClW6c6lg4WOg8j4OrzZgiUEvpIi3uqVptn031W3rhFsNWrwIIOdcwA2NFrSrADswebsg8fu7ZnA1zI97UJHZHM2/512fx384f"
         },
         "prices": {
           "Factory New": "1.10",
@@ -169,8 +177,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cmoX7ZGinYeOhcj4OrzZgiVTucco2L-UpI_z2wbirkRlNjj1cYbHJgBqNArUqFm_lOvn0MTtvcnK1zI97aANvPLx/512fx384f"
         },
         "prices": {
           "Factory New": "1.25",
@@ -188,12 +197,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "UMP-45 | Labyrinth",
+        "name": "Negev | Desert-Strike",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.4
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJgImflvnnJ7TDm1Rd4cJ5nqeVpNn33Fbg-hZkMG3xcoOWe1RsNViE-Fe9wevujZO0tMnNyCMw73Ij-z-DyCbG0v4G/512fx384f"
         },
         "prices": {
           "Factory New": "0.17",
@@ -207,12 +217,13 @@
         }
       },
       {
-        "name": "P2000 | Ivory",
+        "name": "UMP-45 | Labyrinth",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.4,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3fTRM6c-Jm5KKmfDxDLfYkWNFppF33LuZrNqh2ACy-0Zqamz7cIPDclI3YVuF8gTsxe26gJK0786cz3Z9-n51jyA0bdI/512fx384f"
         },
         "prices": {
           "Factory New": "0.46",
@@ -228,12 +239,13 @@
         }
       },
       {
-        "name": "Negev | Desert-Strike",
+        "name": "MP7 | Urban Hazard",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJnBB49G7lY6PkuXLP7LWnn8fu5ckiLuYrNuiilbtqURsYG6ldtCSJg45Yw6B-lm7xuq90ZbtvZibymwj5Hc4SvEqRQ/512fx384f"
         },
         "prices": {
           "Factory New": "0.16",
@@ -249,12 +261,13 @@
         }
       },
       {
-        "name": "MP7 | Urban Hazard",
+        "name": "P2000 | Ivory",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvozmxL-CgfjmKoTdn2xZ_Iskj-iRrdmk2Abt-Rdsa2n1LI-TIQc4NQ7Y-Ae8xue5jZW1uMmbmic3pGB8sguW_Hlm/512fx384f"
         },
         "prices": {
           "Factory New": "0.15",
@@ -274,8 +287,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0uL3fThU5d2inIGFqPv9NLPF2DsHuJwh37vHoN7wjFK38ks9Z2mlJdSdclNoNQ7Z_QK4x73mh8W1vZzXiSw02gYholY/512fx384f"
         },
         "prices": {
           "Factory New": "2.33",

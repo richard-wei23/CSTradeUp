@@ -5,12 +5,13 @@
     "Classified Skins": [],
     "Restricted Skins": [
       {
-        "name": "Glock-18 | Brass",
+        "name": "Desert Eagle | Blaze",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLJTjtO7dGzh7-HnvD8J_XSwGkG65d1juqZp4rz3VLhrhc_azqhJtORdgM4YFvR-1C5wry5gpHqot2XnpVn5DmP/512fx384f"
         },
         "prices": {
           "Factory New": "65.42",
@@ -21,12 +22,13 @@
         }
       },
       {
-        "name": "Desert Eagle | Blaze",
+        "name": "P2000 | Scorpion",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJR79OkhImEmcjkYeuBxlRd4cJ5nqfD9o6m3wbk_0NsNmqiJ4SdewJqYwuG8lbowObrgZTpusycmnpruShz-z-DyGvbm2Uv/512fx384f"
         },
         "prices": {
           "Factory New": "504.88",
@@ -34,12 +36,13 @@
         }
       },
       {
-        "name": "P2000 | Scorpion",
+        "name": "Glock-18 | Brass",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3cy9D_8-JmImMn-O6a-zXwDpSuJwg3O_FooisjlC2rUQ4amv7d9fHdAdvaQqE_le3kLy904j84sqETbuM9Q/512fx384f"
         },
         "prices": {
           "Factory New": "4.40",
@@ -54,7 +57,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7ODGcDZH09C_k4if2fOnMbqJwzkA6sMj0-iW9N723AexqhJrMmr6IIfBcwA_YQ7V81jrlLzxxcjrtWn6J3g/512fx384f"
         },
         "prices": {
           "Factory New": "214.47",
@@ -65,12 +69,13 @@
         }
       },
       {
-        "name": "Sawed-Off | Copper",
+        "name": "AUG | Copperhead",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.12,
+          "max_wear": 0.38,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957PDHYS1H_tSzlYS0m_7zO6-fl2hTvcMk3b_Ap9yg2QDjqBdsZmmid4DEewY_ZgvS-VLsxr_pgMLttYOJlyV7LtwYfQ/512fx384f"
         },
         "prices": {
           "Factory New": "107.36",
@@ -81,12 +86,13 @@
         }
       },
       {
-        "name": "AUG | Copperhead",
+        "name": "Sawed-Off | Copper",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.12,
-          "max_wear": 0.38
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPv9NLPF2DpSucMg2OiVo4qkiwGyr0NlZGCiJYeVdQQ7ZF7Q_1S-wurog5Lv6MvXiSw0Sm0K7gk/512fx384f"
         },
         "prices": {
           "Minimal Wear": "98.29",
@@ -96,12 +102,13 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "AK-47 | Predator",
+        "name": "M4A4 | Desert Storm",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszMdC5H_siJmImMn-O6MuiFzjJX7MAkj7_F8NWnjgDt-hE-Nmv2dY-Wewc4Y1GE-VW7l7vtgoj84soCfIke1g/512fx384f"
         },
         "prices": {
           "Factory New": "52.00",
@@ -112,12 +119,13 @@
         }
       },
       {
-        "name": "SCAR-20 | Palm",
+        "name": "AK-47 | Predator",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-HnvD8J_XTzzMA7JYk27-Tpdqt3lW1_xI-az3zItCRdFdoMF_R8gXok-rvgMO-ot2XnjwxNBNA/512fx384f"
         },
         "prices": {
           "Factory New": "41.50",
@@ -128,12 +136,13 @@
         }
       },
       {
-        "name": "M4A4 | Desert Storm",
+        "name": "SCAR-20 | Palm",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi1D4NGJmImMn-O6YOLTwD9T6sQk2eyS9NiiiQG3-kJlNW37Jo6Ud1c-MljZ_QO8xOnugoj84spB3TtT6A/512fx384f"
         },
         "prices": {
           "Factory New": "32.71",

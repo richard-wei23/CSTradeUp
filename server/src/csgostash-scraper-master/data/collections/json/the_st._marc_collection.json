@@ -7,8 +7,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJL_9C3moS0kfv7IbrdqWdY781lxOrH9tyl2APj_RFkYm6ncISWdw42ZwvX8wfoku3s15Tu6czKySZgu3U8pSGKi-NSbdE/512fx384f"
         },
         "prices": {
           "Factory New": "12,323.51",
@@ -25,8 +26,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJL_9C3moS0kfv7IbrdqWdY781lxLuX99nz2AW1r0o-YmqlLdXHcQJsZF7X8we4wuvqhMW8tJTPy3djunQ8pSGKEli0QAg/512fx384f"
         },
         "prices": {
           "Factory New": "2,099.98",
@@ -39,12 +41,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "AUG | Midnight Lily",
+        "name": "Glock-18 | Synth Leaf",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqPv9NLPF2D4D6ZNyjL2VoNjz3Vfm-UJlZWrxdYSXd1Q_MF_R_AO_xObvh8Tu7c7XiSw0XxPCdIg/512fx384f"
         },
         "prices": {
           "Factory New": "268.40",
@@ -55,12 +58,13 @@
         }
       },
       {
-        "name": "Glock-18 | Synth Leaf",
+        "name": "AUG | Midnight Lily",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PHEfjJP0966gYW0m_7zO6-fwTIIsMQjibGX8Nyi2Ay1_UU9a2ihJILAdFM2NAvRrlTqkL3phsS0uYOJlyXXgont6A/512fx384f"
         },
         "prices": {
           "Factory New": "275.17",
@@ -75,8 +79,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3dzFN-9mkh7-Yg_r1IbjummJW4NE_iL7H9I2t2g22-UZoZTrydYfAew9oYljWrlHtye-91Ja6uM-fyyA26D5iuyhUQhYKXw/512fx384f"
         },
         "prices": {
           "Factory New": "295.24",
@@ -89,12 +94,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "Five-SeveN | Crimson Blossom",
+        "name": "FAMAS | Sundown",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3YTxO4eOlgY6YkuPLP7LWnn8fsJwojOuWodqg2VXnrkNuNmj3JYWQdwVtZF3R_wTtwue5hpLq7c7KyGwj5Hfjx9ownQ/512fx384f"
         },
         "prices": {
           "Factory New": "94.49",
@@ -105,12 +111,13 @@
         }
       },
       {
-        "name": "UMP-45 | Day Lily",
+        "name": "MP7 | Teal Blossom",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7PHddQJF_tmzmr-HnvD8J_XQz2oI7pwh3uuYot2niwOw80I6ZGuncY6QdQQ4MlHQqFTqyO_o0Jbuot2XnoU3s8qV/512fx384f"
         },
         "prices": {
           "Factory New": "99.90",
@@ -121,12 +128,13 @@
         }
       },
       {
-        "name": "MP7 | Teal Blossom",
+        "name": "UMP-45 | Day Lily",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFN49GJhoWPqPv9NLPF2DwIvZQl07yZ9tv23QO38xI9MG7ycoKdIQQ3Ml3YrgK3yLzugZLuuZTXiSw0tsA0tcg/512fx384f"
         },
         "prices": {
           "Factory New": "99.00",
@@ -137,12 +145,13 @@
         }
       },
       {
-        "name": "FAMAS | Sundown",
+        "name": "Five-SeveN | Crimson Blossom",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLP7LWnn8f68Ai2LGWoYqt2lax-kdqam36JoWXIQY4M13U81a3wOa608S96J_Pn2wj5HeN-6PVaA/512fx384f"
         },
         "prices": {
           "Factory New": "108.00",
@@ -155,12 +164,13 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "Tec-9 | Rust Leaf",
+        "name": "P90 | Sunset Lily",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PHEfjJP09OklY6Mksj4OrzZgiUFv8d10ryQoI6niQDtr0VtNz_3coeQcQVvNQvY8we6x7_mhJfqusnK1zI97X9q2BXe/512fx384f"
         },
         "prices": {
           "Factory New": "22.54",
@@ -171,12 +181,13 @@
         }
       },
       {
-        "name": "M4A4 | Dark Blossom",
+        "name": "XM1014 | Banana Leaf",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLP7LWnn8f7J113OvHpdug2AKx8hZrNzymdoOVe1I2MwrW-1C6wbjrhJC6u5-cmGwj5Hd_UyrLBA/512fx384f"
         },
         "prices": {
           "Factory New": "25.00",
@@ -187,12 +198,13 @@
         }
       },
       {
-        "name": "XM1014 | Banana Leaf",
+        "name": "Tec-9 | Rust Leaf",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zEdDxE09OklY6Mksj4OrzZgiUBupUg3ryZoo-n3VLj80dqYG_7LNKWJg8_MwrT-gW3l7zu1JG0tJ-f1zI97SanBFh3/512fx384f"
         },
         "prices": {
           "Factory New": "26.08",
@@ -203,12 +215,13 @@
         }
       },
       {
-        "name": "P90 | Sunset Lily",
+        "name": "M4A4 | Dark Blossom",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-HnvD8J_WGk25VsJ113eyUpd320A3jqkY_N26gLYeccQc9Zw3UqAO9yb28jcTqot2XnmsoJL5o/512fx384f"
         },
         "prices": {
           "Factory New": "25.01",
@@ -221,12 +234,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "M249 | Jungle",
+        "name": "MP5-SD | Bamboo Garden",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITdn2xZ_IshibyQpt-l3ATi_UJsYDj2JoDEcAc2ZlvT8gXtkLzu1Me5tc6az3oypGB8su7XzQt3/512fx384f"
         },
         "prices": {
           "Factory New": "4.72",
@@ -237,12 +251,13 @@
         }
       },
       {
-        "name": "PP-Bizon | Seabird",
+        "name": "Sawed-Off | Jungle Thicket",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_N26mb-MhfLxPYTdn2xZ_It03uzC8YmkjgPjrURqa2D2dtCddw5vY1nT_AK8lOvp1JfouJXJzHtipGB8soxyrbFx/512fx384f"
         },
         "prices": {
           "Factory New": "4.62",
@@ -253,12 +268,13 @@
         }
       },
       {
-        "name": "MP5-SD | Bamboo Garden",
+        "name": "MAC-10 | Surfwood",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3ZSpL68-JloWKlP_LP7LWnn8f65Mmi-qX9o-n2VXgrRA5Mmqid9DDelQ3N13Wrle9wOrpgZC6vMmdyWwj5Hdqpg6QwQ/512fx384f"
         },
         "prices": {
           "Factory New": "4.17",
@@ -269,12 +285,13 @@
         }
       },
       {
-        "name": "Sawed-Off | Jungle Thicket",
+        "name": "PP-Bizon | Seabird",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3cCxX7eOlgI2KhfTLP7LWnn8f6pZ007CZ94r0iwPi_kI5YW2gJoLDIQRsNA7Q-1e-w-i6hsS7uZrPmmwj5HefQ2TxRw/512fx384f"
         },
         "prices": {
           "Factory New": "4.31",
@@ -285,12 +302,13 @@
         }
       },
       {
-        "name": "MAC-10 | Surfwood",
+        "name": "M249 | Jungle",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmImMn-O6Mr6Cx28Bu8ciiezCp4qsilfkrhdqZmj3LIDAe1U_M17U_QK3wOjmhoj84sqYnWh5cA/512fx384f"
         },
         "prices": {
           "Factory New": "3.98",

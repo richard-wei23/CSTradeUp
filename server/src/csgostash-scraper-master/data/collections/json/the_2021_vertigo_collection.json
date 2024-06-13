@@ -7,8 +7,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alDK3UhH9Y78pOhuDG_Zi72Ae3-Utoamnxd9OXdw47NwnZ-QK4xeu81Ja16JrNySQ2vCUqtHqOnwv330-uE15PDQ/512fx384f"
         },
         "prices": {
           "Factory New": "1,588.31",
@@ -30,8 +31,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.48
+          "min_wear": 0.0,
+          "max_wear": 0.48,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-Jl4Geg_77PYTdn2xZ_Isojr2Xp9Wmiwbi_UFvNT3wIYCXdVU4Yg2C-Vi4l72-h5S9u5TIzHBkpGB8svyynYs9/512fx384f"
         },
         "prices": {
           "Factory New": "200.00",
@@ -52,7 +54,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.01,
-          "max_wear": 0.52
+          "max_wear": 0.52,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X08qzhpSCkPjLNbLHk3hU_sB_teXI8oThxlew_EBkNj_7J4CddwVtaVCG8gLtlLjtgMPu6pSdyXtisnFz7SuOmECpwUYbtXvPcQA/512fx384f"
         },
         "prices": {
           "Factory New": "209.95",
@@ -70,12 +73,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "MAG-7 | Prism Terrace",
+        "name": "P250 | Digital Architect",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.37
+          "min_wear": 0.0,
+          "max_wear": 0.49,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh0szedC9W5du5k4WEqPnxPLXummJW4NE_ibiZoIigilGwqhBpMmHwJdTBJgI7M1jT8lS2x73s0ZDou5vKynQ27D5iuyg-pEj9vA/512fx384f"
         },
         "prices": {
           "Factory New": "40.88",
@@ -87,12 +91,13 @@
         }
       },
       {
-        "name": "P250 | Digital Architect",
+        "name": "MAG-7 | Prism Terrace",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.49
+          "min_wear": 0.0,
+          "max_wear": 0.37,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszPdDJP6ciknYO0hOPxI6juhm5Q-slOhuDG_Zi72gTiqkFqNWGmJoPBdgRqaFjX_Va2k-bp15_p78nOznFkvyV05y3VzAv3308GcXlzOA/512fx384f"
         },
         "prices": {
           "Factory New": "39.20",
@@ -112,8 +117,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJF7dC_mL-IluLgOrTfqWdY781lxOiVoNTw0VXk-kY-ZGjwd4WQJAU2Y17T8li_webpgZO4uJ7Jmyc1u3Q8pSGK73r8Y-I/512fx384f"
         },
         "prices": {
           "Factory New": "51.80",
@@ -135,8 +141,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957OXNYylL69OxkY-0m_7zO6-fwjkCuJJ00uqZ89n22gfg8ks-Nj-hcNeUcAY6M16B-Fftx-e7jZW-vYOJlyXmg2r_jw/512fx384f"
         },
         "prices": {
           "Factory New": "13.51",
@@ -156,8 +163,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszedC9W5du5nYyHguT9PLXuj25d5MpmteXI8oThxgDs_xJkMm6lcIeVJlU4Yw2C_wK8lLzohJW1tZjJzCZhsyV243nZmB2pwUYbggvnkZ8/512fx384f"
         },
         "prices": {
           "Factory New": "13.34",
@@ -177,8 +185,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.49
+          "min_wear": 0.0,
+          "max_wear": 0.49,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzhQ-NWxm5ObhfbtDLfYkWNFpp0j3biRoY-j2wC3_kY6Mm_ydoCcdQRsMwuF_VS8xe-7gJ7v6JSfnyR9-n51ZrINJrw/512fx384f"
         },
         "prices": {
           "Factory New": "13.34",
@@ -199,7 +208,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.02,
-          "max_wear": 0.4
+          "max_wear": 0.4,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4eZkvL6DLfYkWNFppUkjruV8d7x21ftrkdlYDrzI9SSc1c2YwvZq1O5yLzogpC0vcydyid9-n514sUGeb4/512fx384f"
         },
         "prices": {
           "Factory New": "18.96",
@@ -215,12 +225,13 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "UMP-45 | Mechanism",
+        "name": "SSG 08 | Carbon Fiber",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.49
+          "min_wear": 0.0,
+          "max_wear": 0.12,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0v73cjxQ7tO4q4aClfLmDLfYkWNFpsEj37qXpd_20QPn-0Q9N2-mcICVIQE8Z1CDqVS-xu-7gp-87Z3OmCR9-n51uesqoPA/512fx384f"
         },
         "prices": {
           "Factory New": "3.86",
@@ -236,12 +247,13 @@
         }
       },
       {
-        "name": "PP-Bizon | Breaker Box",
+        "name": "Glock-18 | Red Tire",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.44
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwOP3ZTRQ6eOihoWKk8jmNr_ummJW4NE_2L-Qoo_3iwfh_UdrZGyid47AcVNrYFHXr1G-xbzr05-4vM7MnHox7j5iuyhnRnmnbw/512fx384f"
         },
         "prices": {
           "Factory New": "3.69",
@@ -255,12 +267,13 @@
         }
       },
       {
-        "name": "SSG 08 | Carbon Fiber",
+        "name": "UMP-45 | Mechanism",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.12
+          "min_wear": 0.0,
+          "max_wear": 0.49,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0vL3dDNF5dKzq5COhfH7IbbQmGhU18l4jeHVu9T32g3m-UNuZ2H1IdXBJFNsaVCCrlfok-i7hZe1uJ7AyXpj73Jw5irD30vgD4Rir90/512fx384f"
         },
         "prices": {
           "Factory New": "3.62",
@@ -270,12 +283,13 @@
         }
       },
       {
-        "name": "Glock-18 | Red Tire",
+        "name": "PP-Bizon | Breaker Box",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.44,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0vL3ZjRQ5dKxq4yCkP_gfezXwW0Dup0l2r2Woo2t2wCyrxBqMmvyd4GSIAE-NVDU-1Xqwe67h5Oi_MOey7B_DsU/512fx384f"
         },
         "prices": {
           "Factory New": "4.50",
@@ -293,12 +307,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "MAC-10 | Strats",
+        "name": "CZ75-Auto | Framework",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3ZzhQ-NWxm4mHm-LnOrTfqWdY781lxLuWoIn32Fe1_0s-aj-hJtCddA9vNwzTqQW4xuq5h5a-vJXByCMwsyc8pSGKWjlAJhI/512fx384f"
         },
         "prices": {
           "Factory New": "0.89",
@@ -314,12 +329,13 @@
         }
       },
       {
-        "name": "Dual Berettas | Oil Change",
+        "name": "XM1014 | Blue Tire",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODYTilL_tmJgJKOlvPLMbfEk1Rd4cJ5nqfCpd-jigCx-Eo9YWynddDAJlU3Z12C_lG9kry81JbutZXPnXNmsiNx-z-DyKQPkOk8/512fx384f"
         },
         "prices": {
           "Factory New": "0.86",
@@ -335,12 +351,13 @@
         }
       },
       {
-        "name": "FAMAS | Faulty Wiring",
+        "name": "MAC-10 | Strats",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf2-r3ZzhQ-NWxm5ObhfbtDLndg25u5Mx2gv2Po47x2VLj-UY9Zj-hLI7DdgQ_NAvV_wK7kufv1sTo7pnKz3c1vyl0tmGdwULJCWGedQ/512fx384f"
         },
         "prices": {
           "Factory New": "0.85",
@@ -356,12 +373,13 @@
         }
       },
       {
-        "name": "CZ75-Auto | Framework",
+        "name": "FAMAS | Faulty Wiring",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0vL3ZjRQ5dKxq5mOm_v7JITdn2xZ_Isl3b6X8dTxjVfmqRdtMWuhJoeXdQE5ZFzY8wO9yLzuhpbpu8vLwHAwpGB8sktKMq5Y/512fx384f"
         },
         "prices": {
           "Factory New": "0.95",
@@ -377,12 +395,13 @@
         }
       },
       {
-        "name": "XM1014 | Blue Tire",
+        "name": "Dual Berettas | Oil Change",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwOP3dDNF5dKzq4SChePtDLfYkWNFppcn3O3H94mijgfh-UA5YWnzLICReg4-N1uB-lG6yerugJG-v57NynN9-n51rKiOfMw/512fx384f"
         },
         "prices": {
           "Factory New": "0.92",

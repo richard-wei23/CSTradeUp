@@ -10,7 +10,10 @@ const collectionsPath = path.join(__dirname, './csgostash-scraper-master/data/co
 // URL to scrape
 const url = 'https://csgoskins.gg/items/';
 
-// Saves prices from csgoskins of all skins from files in a given jsonDirectoryPath
+/**
+ * Saves prices from csgoskins of all skins from files in a given jsonDirectoryPath
+ * @param {string} jsonDirectoryPath - directory that contains potential Json files with cs skins
+ */
 const parseFiles = (jsonDirectoryPath) => {
     // Read the directory
     fs.readdir(jsonDirectoryPath, (err, files) => {
@@ -43,7 +46,7 @@ const parseFiles = (jsonDirectoryPath) => {
                         for (const skin of jsonData.content[category]) {
                             // Delay processing each skin by 2 seconds * skin index
                             setTimeout(() => {
-                                console.log(`Parsed JSON data of ${skin.name}`);
+                                console.log(`Retrieving: ${skin.name}`);
                                 findWriteSkinPrice(skin.name, filePath, jsonData, skin);
                             }, (index * 4000));
                             index++;
@@ -57,13 +60,16 @@ const parseFiles = (jsonDirectoryPath) => {
     });
 }
 
-// Finds the skin price and writes it
-// @param skin name in format: gunName | skinName
-const findWriteSkinPrice = (skinName, filePath, jsonData, skin) => {
-
+/**
+ * Finds the skin price and writes to the file from the given filePath
+ * @param {string} skinName - skin name in format: gunName | skinName
+ * @param {object} skin - skin object from Json
+ * @param {string} filePath - file path for file to save to
+ * @param {object} jsonData - data from Json file
+ */
+const findWriteSkinPrice = (skinName, skin, filePath, jsonData) => {
     // Processes skin url
     let skinUrl = url + skinName.replace(" |", "").replace(/[^\w\s-]/g, '').toLowerCase().split(" ").join("-");
-    console.log(skinUrl)
 
     let skinPrices = {}
     axios.get(skinUrl)
@@ -90,16 +96,11 @@ const findWriteSkinPrice = (skinName, filePath, jsonData, skin) => {
                     grade = $(spans[1]).text().trim();
                     cost = $(spans[2]).text().trim().slice(1); // Find cost by bold class
                 }
-                // // Convert to cents
-                // cost = +cost.replace(".", "");
-                
-                // console.log('Grade:', stattrak + grade);
-                // console.log('Cost:', cost);
                 
                 skinPrices[stattrak + grade] = cost;
             });
 
-            // Adding skin prices
+            // Adds skin prices
             skin.prices = skinPrices;
                         
             // Write the modified data back to the same file or another file
@@ -108,7 +109,7 @@ const findWriteSkinPrice = (skinName, filePath, jsonData, skin) => {
                     console.error(`Error writing to the file ${file}:`, writeErr);
                     return;
                 }
-                console.log(`Successfully wrote to ${skin.name} to ${filePath}\n`);
+                console.log(`Successfully wrote ${skin.name} prices to ${filePath}\n`);
             });
         })
         .catch(error => {

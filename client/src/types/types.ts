@@ -1,32 +1,34 @@
 import Decimal from "decimal.js-light";
 
-
 export type Contract = {
     skins: Skin[];
+    cost: number;
 }
 
-export type Result = {
-    skins: Skin[];
-    cost: number;
-    profit: number;
-    var: number;
+export type Outcome = {
+    skinOutcomes: Map<Skin, number>;
+    expectedValue: number;
+    variance: number;
 }
 
 export type Skin = {
     readonly name: string;
-    readonly rarity: Rarity;
+    readonly quality: Quality;
+    readonly collection: string;
+    readonly img: string;
+    stattrak: boolean;
     float: Decimal;
     price: number;
 }
 
-export type Rarity =
+type Quality =
     { kind: "consumer-grade" } |
     { kind: "industrial-grade" } |
     { kind: "mil-spec" } |
     { kind: "restricted" } |
     { kind: "classified" }
 
-export type FloatCategory =
+type FloatCategory =
     { kind: "factory-new" } |
     { kind: "minimal-wear" } |
     { kind: "field-tested" } |

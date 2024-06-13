@@ -7,8 +7,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJF-dKxmomZqPv9NLPF2DoAvJ0l2euWrdii3Fblr0toMGGnIYOTIFVtM1_U_Va7xuq7jJfoucnXiSw00w0Iywk/512fx384f"
         },
         "prices": {
           "Factory New": "11,200.00",
@@ -25,8 +26,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf1OD3fzhF6cqJgIiEhcj4OrzZgiUIupV3j7GQ9I_w2gC2_kBpYjqiI9OdcgY_MAmG-1m3kO68h5Hv7s-c1zI97SoNTC0Z/512fx384f"
         }
       }
     ],
@@ -36,8 +38,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjdN_tGJk5KOkvnLP7LWnn8fsZxy2OqU9tqg2lDl-kFsZWnzIIWUewY3Zg7X-wC4l-bqg8C77s7Ln2wj5Hf3Ceh02w/512fx384f"
         }
       },
       {
@@ -45,8 +48,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZt7PnHYzB97tCjkb-HnvD8J_WCkjJUuZImi7qZo96g2lWw_xA5Y2HxcNCTdAFqZwyErlDolO29hMPpot2Xng0DaMek/512fx384f"
         }
       },
       {
@@ -54,19 +58,21 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPv9NLPF2GoGu8Yl37mRp9322VHs-kU-N2D3cYHBJFM7MlHZ_AO8xLzv1sC0u5_XiSw09ugrMAc/512fx384f"
         }
       }
     ],
     "Mil-Spec Skins": [
       {
-        "name": "XM1014 | Frost Borre",
+        "name": "MAC-10 | Copper Borre",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73ejNN-M-JlpKEgPnLP7LWnn8f6ZBwjOuV8Nml2Ay3qUc-ZWvwJo6TelVtYFrQ_lK4l7vvgcO7tJzIzWwj5HdXEQCeEQ/512fx384f"
         },
         "prices": {
           "Factory New": "113.88",
@@ -81,8 +87,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18l4jeHVu96i3lfh-xE_ZD2nctWRIw5sY1zT_we_ku3n18Tv7pjPnyZh6yEl4CnD30vgZRRNrZ4/512fx384f"
         },
         "prices": {
           "Factory New": "111.59",
@@ -97,8 +104,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq4yCkP_gfeyDzzsEvpwgjLCZptWg2APn_BY5ZWv3LYKSJlM4YAvT8gK5lOu508Oi_MOeZlLKEo8/512fx384f"
         },
         "prices": {
           "Factory New": "110.00",
@@ -109,12 +117,13 @@
         }
       },
       {
-        "name": "MAC-10 | Copper Borre",
+        "name": "XM1014 | Frost Borre",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTjZM48ilq5OCm-HxIYTdn2xZ_Isp2b-R89WhjVW3qkBpZzv2LI6VIQE_aFrU-lK8ybvr1sK07pWbzXA2pGB8spLYy1EV/512fx384f"
         },
         "prices": {
           "Factory New": "101.79",
@@ -131,8 +140,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwwOj6rYJjBIQU-aVCErlPtwee71pa1tZrNwHZmuHMj5H7clxS2gRtEPLNuhf3MVxzAUJfTvzmW/512fx384f"
         },
         "prices": {
           "Factory New": "56.86",
@@ -143,12 +153,13 @@
         }
       },
       {
-        "name": "MAG-7 | Chainmail",
+        "name": "USP-S | Pathfinder",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.22
+          "min_wear": 0.0,
+          "max_wear": 0.35,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yKle7mOrXFnjlu5Mx2gv2PoNrz2FHk_0Y4ZGmgddSVewc2MF6FrFHtyb-9hp-8vpvLmHdgvich7WGdwUIw88yfpw/512fx384f"
         },
         "prices": {
           "Factory New": "26.31",
@@ -157,12 +168,13 @@
         }
       },
       {
-        "name": "Dual Berettas | Pyre",
+        "name": "MAG-7 | Chainmail",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.22,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szLeTxL4tG3nYy0m_7zO6-fkjkBsJUp2LqUrN322Vfm_BBrZGygJIOWI1BsMwzR_FK-xe3ngpO56IOJlyXEHfagZg/512fx384f"
         },
         "prices": {
           "Factory New": "28.01",
@@ -173,12 +185,13 @@
         }
       },
       {
-        "name": "USP-S | Pathfinder",
+        "name": "Dual Berettas | Pyre",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.35
+          "min_wear": 0.06,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf2-r3djhO_Nm4q4SKhfzLP7LWnn8fup0jiLqRrd_wiQLnrhFtNmGmJICWe1I6Yg3R-AK8lO7r18W0752YmGwj5HcFfYhkmQ/512fx384f"
         },
         "prices": {
           "Factory New": "27.17",
@@ -189,12 +202,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Galil AR | Tornado",
+        "name": "SSG 08 | Red Stone",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YyhM6eOlgI-Fksj4OrzZgiUHu8N127-S8Nrx2Aa1-UdtYGv7LNKSJAE_Mg3WrFfqku251pe8uc_A1zI97RG537Uj/512fx384f"
         },
         "prices": {
           "Factory New": "13.58",
@@ -205,12 +219,13 @@
         }
       },
       {
-        "name": "SSG 08 | Red Stone",
+        "name": "SG 553 | Barricade",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.65,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLP7LWnn8f7pdwiOvA94mgjlW2_BFtNWv3JoDAelI2aVzY8wW_lOrm0JC8vM7LmGwj5Hf1Z7e_QA/512fx384f"
         },
         "prices": {
           "Factory New": "15.90",
@@ -221,12 +236,13 @@
         }
       },
       {
-        "name": "MP7 | Scorched",
+        "name": "Galil AR | Tornado",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPv9NLPF2DwJ6ZAn3-iSp92g3wDl-kJsNj2lJYKQewdrYlDS-VW_kui60MO7u8jXiSw0ssnpY1c/512fx384f"
         },
         "prices": {
           "Factory New": "8.79",
@@ -237,12 +253,13 @@
         }
       },
       {
-        "name": "FAMAS | Night Borre",
+        "name": "MP7 | Scorched",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7PfJYS1O6eO6nYeDg7mjariHwD0CupIiiOuQpNijige3-BE-Yzj2cdCXelA4NA3Q-wW9l-q6m9bi6zl3AGqy/512fx384f"
         },
         "prices": {
           "Factory New": "6.78",
@@ -253,12 +270,13 @@
         }
       },
       {
-        "name": "SG 553 | Barricade",
+        "name": "FAMAS | Night Borre",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.65
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3ejNN-M-Jloyeksj4OrzZgiUJsJQp0-vD9Nmiig3k-RBuYz3zddOWdwM4ZgvZ_QPtxejrjJa4vJTA1zI97TFp-vZC/512fx384f"
         },
         "prices": {
           "Factory New": "7.07",

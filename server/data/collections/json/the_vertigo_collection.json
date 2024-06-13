@@ -10,7 +10,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.26,
-          "max_wear": 0.6
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3ZTxM69mknY6OqPrxN7LEmyVSusAp0-uZod3w3wHg-0FoNjrwIdDDewNvZVmDq1W7ye250Ja0vp2b1zI97UP2NpAl/512fx384f"
         },
         "prices": {
           "Field-Tested": "8.07",
@@ -24,12 +25,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "P90 | Glacier Mesh",
+        "name": "AK-47 | Black Laminate",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KcqPv9NLPF2D4EuMZy2OvA8Njz2lW2qEBqMTqmdo-WcAQ_ZlHW_wK2wubthpbqus_XiSw0wRDCk4E/512fx384f"
         },
         "prices": {
           "Factory New": "16.82",
@@ -45,12 +47,13 @@
         }
       },
       {
-        "name": "AK-47 | Black Laminate",
+        "name": "P90 | Glacier Mesh",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV969C3l4mOhcj4OrzZgiUFucAo3uqU84_x3we3qkA5MD3yddPDdgRvZF_U-lW6xOztjcTu7cic1zI97QmJWMo3/512fx384f"
         },
         "prices": {
           "Factory New": "136.33",
@@ -72,8 +75,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.12
+          "min_wear": 0.0,
+          "max_wear": 0.12,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0v73cjxQ7tO4q4aClfLmDLfYkWNFppwp37GQ8I6jiVDs-0tkNW6ldo-UI1JoN1DVrgK-xOi8jMXttZvNzHB9-n51ZQDHY_Y/512fx384f"
         },
         "prices": {
           "Factory New": "11.20",
@@ -85,12 +89,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "XM1014 | Urban Perforated",
+        "name": "MAC-10 | Urban DDPAT",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf2-r3dTlS7ciJgZKJqPv9NLPF2D0BvpJ007ySp4_z2lHn-EU4MGylco6QelBvZ1CGrwe-w-fngsK9tczXiSw0622AGKA/512fx384f"
         },
         "prices": {
           "Factory New": "10.76",
@@ -106,12 +111,13 @@
         }
       },
       {
-        "name": "MAC-10 | Urban DDPAT",
+        "name": "XM1014 | Urban Perforated",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODYTilD_NmJkI-fhMjhIbnQmFRd4cJ5nqeWoYqh0VXk-Bc9NjjzJ9CRdFA8NFDZ-FbryLvp0J_o7szMnCQwsyB3-z-DyIPtcex6/512fx384f"
         },
         "prices": {
           "Factory New": "23.36",

@@ -9,7 +9,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTjVX4sizhr-Jm_buNoTBn2Va18l4jeHVu4_zi1LlrhA-YWunIdLGcAU_M12CqwXsk-jsgp646ZWdyXplsiB24SvD30vg6644oLc/512fx384f"
         },
         "prices": {
           "Factory New": "1,656.56",
@@ -27,7 +28,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszAZDNW6c6JmY-PkuX6DLfYkWNFppUk2eyQ847x3QLm_0M9MmqgcoXEdQRtZVnSqFi9wbq50JK9uJScyyZ9-n51loe3z7E/512fx384f"
         },
         "prices": {
           "Factory New": "271.41",
@@ -45,7 +47,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JloyKjfLLPKnQmGxU18l4jeHVu9mhilfhrkE9NT32dofHc1RvN1CEr1W2wu_vhZS8uZzKmnQ27yYm4HfD30vg4RjJ1Uc/512fx384f"
         },
         "prices": {
           "Factory New": "240.00",
@@ -61,7 +64,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjVX4sizhr-Jm_buNoTehGpf78BOhuDG_Zi73AC3-UA6MmnzLYGTIwVtMFnVq1fqkL3mgcW_up_On3JisiIktyrezgv330-bOBZxrQ/512fx384f"
         },
         "prices": {
           "Factory New": "247.23",
@@ -72,12 +76,13 @@
         }
       },
       {
-        "name": "P250 | Modern Hunter",
+        "name": "PP-Bizon | Modern Hunter",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTdn2xZ_IspiLCWpdjzjVWxqUBkZTz7JNSWelM9ZV_T_1W_w7i5jJO5v5SfnXJhpGB8smsBpcV3/512fx384f"
         },
         "prices": {
           "Factory New": "310.90",
@@ -88,12 +93,13 @@
         }
       },
       {
-        "name": "Nova | Modern Hunter",
+        "name": "P250 | Modern Hunter",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLfYkWNFpsYp073H9I6k3Qzg_ENsamChIIPEIwE7MFCD_VW3wOm-08Pu7pTNy3t9-n5174LjqLI/512fx384f"
         },
         "prices": {
           "Factory New": "169.23",
@@ -104,12 +110,13 @@
         }
       },
       {
-        "name": "PP-Bizon | Modern Hunter",
+        "name": "Nova | Modern Hunter",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLfYkWNFppYj0ryY8Nyg3wTh_UprZm3wIILBdQE9aVqC-wC_xrzsgZa06MzJn3Z9-n51AA8qcSQ/512fx384f"
         },
         "prices": {
           "Factory New": "140.62",
@@ -127,7 +134,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbYQJO6d2gkZO0kOX1IKjdl2VV18l4jeHVu9r0igC1-UJrN2yicI-UcVM5MF3Y_FW6lb-908O66pScmHZi7nIh4yrD30vg6w5FLrw/512fx384f"
         },
         "prices": {
           "Factory New": "200.00",
@@ -140,12 +148,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "MAC-10 | Tornado",
+        "name": "PP-Bizon | Forest Leaves",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq4yCkP_gfe6FwTpXu8F10-2V8NWnilayqRBrNW_7JYOSewQ4aVyEqQTrxeq705Wi_MOeCWUTv8A/512fx384f"
         },
         "prices": {
           "Factory New": "23.80",
@@ -161,7 +170,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjpQ7c-lmIGFk8j4OrzZgiUC7sd3jLyW843w2QDj-RdvYzjyd4WdegBtMl_V-1jtxeu8gpS6uZ-d1zI97UhHuSU_/512fx384f"
         },
         "prices": {
           "Factory New": "40.28",
@@ -172,12 +182,13 @@
         }
       },
       {
-        "name": "PP-Bizon | Forest Leaves",
+        "name": "MAC-10 | Tornado",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3ZTJQ4t2ym7-HnvD8J_WIxDsF7cN0jrGXoIms0A2xrUM_Y2r7cYaXdQQ7N1vW_VnqyO3nhJTqot2XnkMaVZgu/512fx384f"
         },
         "prices": {
           "Factory New": "29.25",

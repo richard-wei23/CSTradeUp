@@ -3,12 +3,13 @@
   "content": {
     "Covert Skins": [
       {
-        "name": "AWP | Man-o'-war",
+        "name": "Galil AR | Chatterbox",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.1,
-          "max_wear": 0.2
+          "min_wear": 0.35,
+          "max_wear": 0.85,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJF7dC_mL-KleX1ILLemFRc7cF4n-SPp4rzigy1qEo6ZGzyJY6QcFRqaQ7Z_lHoxuzrjJDvuc_OnydmvnFx4mGdwULsM5Pj8Q/512fx384f"
         },
         "prices": {
           "Minimal Wear": "28.75",
@@ -18,12 +19,13 @@
         }
       },
       {
-        "name": "Galil AR | Chatterbox",
+        "name": "AWP | Man-o'-war",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.35,
-          "max_wear": 0.85
+          "min_wear": 0.1,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_XTxjkJ7JZ00u2U8Yr33wfiqEprYG3zIICVIFBtMg7Q_we_wOfvgcW_ot2Xng0w4MfF/512fx384f"
         },
         "prices": {
           "Field-Tested": "55.57",
@@ -37,12 +39,13 @@
     ],
     "Classified Skins": [
       {
-        "name": "AK-47 | Cartel",
+        "name": "P250 | Muertos",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.75
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09G3moSKm_bLP7LWnn8f7sZy2OiRpI6nigXk-EBuYj_6JIOcelQ7NQzV_lW6lenngcW975nNm2wj5HfE49Q86w/512fx384f"
         },
         "prices": {
           "Factory New": "21.70",
@@ -58,12 +61,13 @@
         }
       },
       {
-        "name": "M4A4 | Dragon King",
+        "name": "M4A4 | 龍王 (Dragon King)",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.75
+          "min_wear": 0.0,
+          "max_wear": 0.75,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW0924l4WYg-X1P4Tdn2xZ_Isg2bGV8NSsjQTirkVpa2H0I9KTIVNraVnT81W_yb3rjcO9vs-dnXVlpGB8sk3xsBD4/512fx384f"
         },
         "prices": {
           "Factory New": "20.39",
@@ -79,12 +83,13 @@
         }
       },
       {
-        "name": "P250 | Muertos",
+        "name": "AK-47 | Cartel",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.75,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszJemkV09-3hpSOm8j4OrzZgiVT6ZIn3e-RrdSkjAzh80s_YWvzIYbHdwJrZQmG_wO7wenug5Ho78ib1zI97dq5Qskr/512fx384f"
         },
         "prices": {
           "Factory New": "6.22",
@@ -106,8 +111,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73fDxBvYyJmYGHlvT8Oq_UqWdY781lxO2SpNX22lKwqRc-amv7Io6cIFI9MwnV8we3x7i80ZPq6snKwXphunY8pSGKE3MyC_0/512fx384f"
         },
         "prices": {
           "Factory New": "2.39",
@@ -127,8 +133,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.47
+          "min_wear": 0.0,
+          "max_wear": 0.47,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dDFL-Nmlq5WZlfb6IK_ehGZu5Mx2gv2PoNr02Abn_Uo9YGj2J4Kcegc9NAvV_le_yeq60JG9tcuaznNjviIh52GdwUIFUEJ8MQ/512fx384f"
         },
         "prices": {
           "Factory New": "2.40",
@@ -144,12 +151,13 @@
         }
       },
       {
-        "name": "Desert Eagle | Naga",
+        "name": "Sawed-Off | Serenity",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLN77Hl1Rd4cJ5nqeR89ShiwTtqUtvZGz0J4HBdwM2Mg3WqQe6lObmg5K_7p7MnXQ2uXYi-z-DyNpOvRkF/512fx384f"
         },
         "prices": {
           "Factory New": "4.82",
@@ -165,12 +173,13 @@
         }
       },
       {
-        "name": "Sawed-Off | Serenity",
+        "name": "Desert Eagle | Naga",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjlH7du6kb-FlvD1DLfYkWNFppwg2bDEpo3zjVex-hE-YmD3d9DBcQZtMgvQ8wPqwr-7gJ7t6pzMwXp9-n51Wbo8dtg/512fx384f"
         },
         "prices": {
           "Factory New": "2.46",
@@ -188,12 +197,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "M249 | System Lock",
+        "name": "MP9 | Deadly Poison",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJG6d2ymJm0h_j9ILTfqWdY781lxOiRpd2tiQzkqBJta2qiJoOSIFBraArZ_VDvl7270cTptc_KyHVm7yk8pSGKgCi6IL0/512fx384f"
         },
         "prices": {
           "Factory New": "0.39",
@@ -209,12 +219,13 @@
         }
       },
       {
-        "name": "SCAR-20 | Grotto",
+        "name": "M249 | System Lock",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb08-zn5SEhcj4OrzZgiUEupwn27-UrInziQHt8kNpZmuhIoecI1dqZw3Q-lG2kL26hMO_up7P1zI97UeOvhm1/512fx384f"
         },
         "prices": {
           "Factory New": "0.36",
@@ -234,8 +245,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVPvYznwL-YnvD4MoTdn2xZ_IsmieqYp9322lWyqkJsamvwIYWWdAJvZ1iEr1K5lby-05S6v5WczXdhpGB8sqtCdfr3/512fx384f"
         },
         "prices": {
           "Factory New": "0.34",
@@ -251,12 +263,13 @@
         }
       },
       {
-        "name": "Glock-18 | Catacombs",
+        "name": "SCAR-20 | Grotto",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTi5B7c7kxL-Hkvb_DLfYkWNFpp133LGX9o2mjVHmqUU-N2Ghd4WWcFdqaQnV8lC9ybzuhZ-5tcnAz3d9-n51z0AeyDY/512fx384f"
         },
         "prices": {
           "Factory New": "0.35",
@@ -272,12 +285,13 @@
         }
       },
       {
-        "name": "MP9 | Deadly Poison",
+        "name": "Glock-18 | Catacombs",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJkIWKg__gPLfdqWdY781lxO-Z89r2jQKx_Ec5Yz2idoLDcQE2NVvRq1XtxOa6h5K4vMufm3RgsiA8pSGKAyhbjx0/512fx384f"
         },
         "prices": {
           "Factory New": "1.28",

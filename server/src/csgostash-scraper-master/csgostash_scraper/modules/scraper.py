@@ -256,25 +256,27 @@ class RetrieveWeaponSkin(RetrieveObject):
         except IndexError:
             raise ItemHasNoWear()
 
-        # wear_img = []
-        # for url in self.parsed_page.find_all("a"):
-        #     if url.get('data-hoverimg') != None:
-        #         wear_img.append(url.get('data-hoverimg'))
-
-        # # Define possible wears
+        wear_img = []
+        for url in self.parsed_page.find_all("a"):
+            if url.get('data-hoverimg') != None:
+                wear_img.append(url.get('data-hoverimg'))
+                
+        # Define possible wears
         # if min_wear < 0.07 and max_wear > 0.00:
         #     possible_wears.append("Factory New")
-        # if min_wear < 0.15 and max_wear > 0.07:
+        # elif min_wear < 0.15 and max_wear > 0.07:
         #     possible_wears.append("Minimal Wear")
-        # if min_wear < 0.38 and max_wear > 0.15:
+        # elif min_wear < 0.38 and max_wear > 0.15:
         #     possible_wears.append("Field-Tested")
-        # if min_wear < 0.45 and max_wear > 0.38:
+        # elif min_wear < 0.45 and max_wear > 0.38:
         #     possible_wears.append("Well-Worn")
-        # if min_wear < 1 and max_wear > 0.45:
+        # else:
         #     possible_wears.append("Battle-Scarred")
+        possible_wears = {"img": wear_img[0], "min_wear" : min_wear, "max_wear": max_wear}
 
         # possible_wears = dict(zip(possible_wears, wear_img))
-        possible_wears = {"min_wear": min_wear, "max_wear": max_wear}
+        # possible_wears["min_wear"] = min_wear
+        # possible_wears["max_wear"] = max_wear
 
         return possible_wears
 
@@ -291,6 +293,7 @@ class RetrieveCollection(RetrieveObject):
 
         for url in dropdown_items:
             yield url
+        
 
     def get_title(self):
         """Returns item title"""

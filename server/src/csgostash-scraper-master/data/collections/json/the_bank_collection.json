@@ -8,8 +8,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.4
+          "min_wear": 0.0,
+          "max_wear": 0.4,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszFfjNH9eO6nYeDg7mnZL-IkjMIu5cp3r-WptStiVG3qBFla27wLNXGIVM3N17YqADvxO7rm9bi6-wO2R-D/512fx384f"
         },
         "prices": {
           "Factory New": "1.05",
@@ -25,8 +26,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszYeDNR-M6_hIW0lvygZITdn2xZ_Isn07mR8Ynxiw3gqUU9ajqgJoXGIwU8ZA7Z-FK2l725jMS1uMnKz3dipGB8squ02F3X/512fx384f"
         },
         "prices": {
           "Factory New": "8.47",
@@ -39,12 +41,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "CZ75-Auto | Tuxedo",
+        "name": "Galil AR | Tuxedo",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJN_t-3q4yCkP_gfe_TlTwI7cAh37mUptmh3QTm80BuZmmnJ9eSeg84aV2FrFe_wOjphJ6i_MOe--1D0ao/512fx384f"
         },
         "prices": {
           "Factory New": "0.87",
@@ -59,8 +62,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.18
+          "min_wear": 0.0,
+          "max_wear": 0.18,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTj5Q9c-ilYyHnu3xN4TVl3la18l4jeHVu96l21Xir0ZkZWr1I9KSIwVtZ12Cq1jvxefmjZ607s_MnSQ263Qi4C3D30vgdkp7sm4/512fx384f"
         },
         "prices": {
           "Factory New": "0.84",
@@ -69,12 +73,13 @@
         }
       },
       {
-        "name": "Galil AR | Tuxedo",
+        "name": "CZ75-Auto | Tuxedo",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwPz3fi9B7eO6nYeDg7mjNuPXwj0I7JwgjLrDpdv3iw3kr0RsZz_0I9fBcQBvZlrV_wLtkr3pm9bi6xlS4tez/512fx384f"
         },
         "prices": {
           "Factory New": "0.95",
@@ -87,12 +92,13 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "UMP-45 | Carbon Fiber",
+        "name": "MAC-10 | Silver",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.12
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v33YjRO-tmkq4yCkP_gfejVz28F6pIpjuqQotSg2VG3rhVqMmyhcNWcIwY4YgvVr1W-xOrmjZOi_MOeO2Q8EWA/512fx384f"
         },
         "prices": {
           "Factory New": "0.09",
@@ -105,7 +111,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.08,
-          "max_wear": 0.5
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fzhQ49i_lb-HnvD8J_WHwzoE7Jx3i76X84qt2Qyyr0Y9YzqlJNfGc1I4Nw2C_wO9xevvgJC5ot2XnvEDfXat/512fx384f"
         },
         "prices": {
           "Minimal Wear": "0.06",
@@ -115,12 +122,13 @@
         }
       },
       {
-        "name": "MAC-10 | Silver",
+        "name": "G3SG1 | Green Apple",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwPz3di9H6dKJmImMn-O6NriIx20I7Z10juuX8Y-j3AO380dpYjr0cdKTd1A_ZFjVq1i7k-ju14j84sqVYxUadw/512fx384f"
         },
         "prices": {
           "Factory New": "0.09",
@@ -128,12 +136,13 @@
         }
       },
       {
-        "name": "G3SG1 | Green Apple",
+        "name": "Nova | Caged Steel",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.0,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szHZzxO09SzjL-HnvD8J_WGwDJS6ZQo2-iWodih2QzgrkdqZ2CmIIfEelNrYFCDq1i2kL3vhsfoot2Xnu1dMzIh/512fx384f"
         },
         "prices": {
           "Factory New": "0.08",
@@ -142,12 +151,13 @@
         }
       },
       {
-        "name": "Nova | Caged Steel",
+        "name": "UMP-45 | Carbon Fiber",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.2
+          "min_wear": 0.0,
+          "max_wear": 0.12,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0v73cjxQ7tO4q4aClfLmDLfYkWNFpsZz3bmY9tr331e3rRFoa2Hwd9KcJ1I_ZAnW8la9lOe91JC0u5jJzyB9-n51oKGBmcU/512fx384f"
         },
         "prices": {
           "Factory New": "0.08",
@@ -158,12 +168,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Negev | Army Sheen",
+        "name": "Sawed-Off | Forest DDPAT",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR96NimlZS0m_7zO6-fzmoJ6ZYniLGQrNys0Fbt_kVsamnxJNLDIAA4ZF7S-Fnqx7_n1MO0uIOJlyVs9ea9DA/512fx384f"
         },
         "prices": {
           "Factory New": "0.01",
@@ -172,12 +183,13 @@
         }
       },
       {
-        "name": "MP7 | Forest DDPAT",
+        "name": "Tec-9 | Urban DDPAT",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszMdS1D-OOjhoK0m_7zO6-fwjhVuZIgjL2R842g21e3qEBpNj_6IY-UI1JoNFqC-QDqxujuhZS16YOJlyVgu9XFkA/512fx384f"
         },
         "prices": {
           "Factory New": "0.03",
@@ -188,12 +200,13 @@
         }
       },
       {
-        "name": "SG 553 | Army Sheen",
+        "name": "MP7 | Forest DDPAT",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957PfMYTxW09C_k4if2aWlNerTlz4I7Zdy3LuXod33jlbg_BVkYTrzJNWcJlM5MF3V8lW7yO3xxcjrMjny_34/512fx384f"
         },
         "prices": {
           "Factory New": "0.01",
@@ -207,7 +220,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3Yi19-N2mkb-HnvD8J_WDkjkHupJz2OuUp42g2gy180VoY2z2I4fBIwNtMw2Dq1TsxO7rgJboot2XnjUOAUDr/512fx384f"
         },
         "prices": {
           "Factory New": "0.04",
@@ -223,12 +237,13 @@
         }
       },
       {
-        "name": "Sawed-Off | Forest DDPAT",
+        "name": "Negev | Army Sheen",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v73cC9P9eOlnImFksj4OrzZgiUCucN0ibHD9N_23AXtqkFtZmigddCWcQI2MF7ZrwK5w7y8h5G87p3J1zI97WZjcPfn/512fx384f"
         },
         "prices": {
           "Factory New": "0.02",
@@ -239,12 +254,13 @@
         }
       },
       {
-        "name": "Tec-9 | Urban DDPAT",
+        "name": "SG 553 | Army Sheen",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0v73cC9P9eOlnImFksj4OrzZgiVVsZR0jLjFo96giQ3t_UJrazr2INSWIQJvZ17Z_Ve8kuq-hpbo6Jmf1zI97f6CtMPI/512fx384f"
         },
         "prices": {
           "Factory New": "0.09",

@@ -7,8 +7,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJl5WZhPLLP7LWnn8fv50hj-rHo4jz3QCxrUJrN2CgcYeQJwY-ZQrZ_gS7lbznh8e86pTNmmwj5HcFnTvXag/512fx384f"
         },
         "prices": {
           "Factory New": "7.04",
@@ -28,8 +29,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.99
+          "min_wear": 0.0,
+          "max_wear": 0.99,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITCmX5d_MR6j_v--YXygED6qUo4Y2jydoGUJg48YQqB-lS3wru618e06pSbzno1uSZ27S3cnBKz0gYMMLK9MDo_5A/512fx384f"
         },
         "prices": {
           "Factory New": "92.36",
@@ -52,7 +54,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.1,
-          "max_wear": 1
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS092lnYmGmOHLP7LWnn8fuZdy2u-W9I3x0Qzk8kBpN2rzJoXBcQ83YVyEr1jrwe6-hJPv7p7Lymwj5HdG3-QCng/512fx384f"
         },
         "prices": {
           "Minimal Wear": "13.02",
@@ -66,12 +69,13 @@
         }
       },
       {
-        "name": "UMP-45 | Primal Saber",
+        "name": "AUG | Fleet Flock",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.77
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLddgJR-926mI-chMj4OrzZgiUBvZMn272Ypdit2gW2_0o6ZW-nIoWSJwE3NQ2G_FG3l7q6g5btvcjB1zI97dZtLW_g/512fx384f"
         },
         "prices": {
           "Factory New": "7.88",
@@ -87,12 +91,13 @@
         }
       },
       {
-        "name": "AUG | Fleet Flock",
+        "name": "UMP-45 | Primal Saber",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.77,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJhJKCmvb4ILrTk3lu5Mx2gv2PoYn0jVHm8hBlYm6gIoDEewM7MlnZrgfok-fvg5G_vZjMyCAy6HQjtmGdwUJ5uEiCvw/512fx384f"
         },
         "prices": {
           "Factory New": "8.54",
@@ -110,12 +115,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "SSG 08 | Ghost Crusader",
+        "name": "Galil AR | Firefight",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mIGZqP76ML7fk3lQ_MpjteXI8oThxg3gqEo4Y22lIYaUdwY3Yw3R-gO5l-i615W87p3KwCFk6CNz43_VzRWpwUYbPluRbnk/512fx384f"
         },
         "prices": {
           "Factory New": "2.77",
@@ -131,12 +137,13 @@
         }
       },
       {
-        "name": "Tec-9 | Re-Entry",
+        "name": "XM1014 | Black Tie",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.43
+          "min_wear": 0.0,
+          "max_wear": 0.75,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-Yh_L3J6nEm1Rd4cJ5nqeVrI3xiwPk-UZoZT2nJ4-RJAU8YAyD-Qe4k7_v0Ze0upTAynY273Ei-z-DyA6tXaf1/512fx384f"
         },
         "prices": {
           "Factory New": "1.01",
@@ -150,12 +157,13 @@
         }
       },
       {
-        "name": "XM1014 | Black Tie",
+        "name": "Tec-9 | Re-Entry",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.75
+          "min_wear": 0.0,
+          "max_wear": 0.43,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szcdD4b086zkIKHluTgDLfYkWNFpsYm07jDoIj23ASw_RJrY276IdWScQY_Y1jRqFLolOvq1JK578ibyXN9-n51LxUvEdQ/512fx384f"
         },
         "prices": {
           "Factory New": "1.73",
@@ -171,12 +179,13 @@
         }
       },
       {
-        "name": "Galil AR | Firefight",
+        "name": "CZ75-Auto | Red Astor",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3cicVud2JhoWPluTgPKnummJW4NE_jL7DrNTwigaxqko_amCgIIHGd1A2NwvV_wDqyO291pG9ucvBy3owuz5iuygHLQuPIQ/512fx384f"
         },
         "prices": {
           "Factory New": "1.73",
@@ -192,12 +201,13 @@
         }
       },
       {
-        "name": "CZ75-Auto | Red Astor",
+        "name": "SSG 08 | Ghost Crusader",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlZKGlvT7Ib7ummJW4NE_0rDFoNvz0AbnqUNva2DzI4aUcAU9ZVjVr1W8kOns15a_up_Pm3Vruj5iuyjNAdbncQ/512fx384f"
         },
         "prices": {
           "Factory New": "1.07",
@@ -215,12 +225,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "Sawed-Off | Fubar",
+        "name": "P2000 | Oceanic",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.4,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJSvozmxL-ElPL1PbLummJW4NE_3-iX9tiljFC3_ERoN2iicI_AIwZvMlmD-gO5wbvtgp68tc_Bn3U26z5iuyh_P3QOTg/512fx384f"
         },
         "prices": {
           "Well-Worn": "0.04",
@@ -230,12 +241,13 @@
         }
       },
       {
-        "name": "G3SG1 | Orange Crash",
+        "name": "Dual Berettas | Ventilators",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.52
+          "min_wear": 0.0,
+          "max_wear": 0.45,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4N6zhoWfg_bnDK3UmH9Y5MRlhfvSyoD8j1yg5UM5Mm6idoKddFI-NAzT-lDvyLrm0JDv75zJmHtivCAk5CuIykHj1xhSLrs4WhDHiRA/512fx384f"
         },
         "prices": {
           "Factory New": "0.17",
@@ -251,12 +263,13 @@
         }
       },
       {
-        "name": "Dual Berettas | Ventilators",
+        "name": "Sawed-Off | Fubar",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.45
+          "min_wear": 0.4,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3di59_92hkYSEkfHLNa7Tl3lu5cB1g_zMu46njALnr0I_MGH6d9Wcew8-YFzWr1fslbi8gsfttJrOmHA26yJ35CzD30vgf_Rtz2E/512fx384f"
         },
         "prices": {
           "Factory New": "0.17",
@@ -270,12 +283,13 @@
         }
       },
       {
-        "name": "P2000 | Oceanic",
+        "name": "MP9 | Bioleak",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJA5dO6kYGAqPv9NLPF2DlQ7JZ0i7qY9o3z2Afj_0A-YDqnLdKQc1NsN1zY_VPvxb3phMO1uJjXiSw0NNdyPwc/512fx384f"
         },
         "prices": {
           "Factory New": "0.18",
@@ -295,8 +309,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.81
+          "min_wear": 0.0,
+          "max_wear": 0.81,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0Ob3YjoXuY-JlZSHluTLP7LWnn8fu8N30u_FrYn02lDh_BVra2j1ddKcJ1I_M1zT_Ve3l7zrg8W86pvJn2wj5Hd8P8m2Lg/512fx384f"
         },
         "prices": {
           "Factory New": "0.19",
@@ -312,12 +327,13 @@
         }
       },
       {
-        "name": "MP9 | Bioleak",
+        "name": "M249 | Spectre",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb08-mkYOfhfLLP7LWnn8fsZIl3LjDpt-li1Lj8hc9az-mcYGWcFc4MgmD-1DowbrojMW_vp7PnGwj5HdNEtKLaA/512fx384f"
         },
         "prices": {
           "Factory New": "0.19",
@@ -333,12 +349,13 @@
         }
       },
       {
-        "name": "M249 | Spectre",
+        "name": "G3SG1 | Orange Crash",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.52,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3dm5R642JmYmHnuP9MrTDl2VW7fp9g-7J4cLxjlWy8ktvZ2D3IIbDc1A8MwnT-FfolbrsgcK1uMyfwSRq7igg5XeIgVXp1qYq7DOk/512fx384f"
         },
         "prices": {
           "Factory New": "0.16",

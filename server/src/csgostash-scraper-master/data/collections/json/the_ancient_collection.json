@@ -7,8 +7,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alDKjfl2BU18l4jeHVu9vw0Vfnqks9ZDz2dtCQdwI8MlrZ_AS7xrzpjcC6tJ3MyXBjuiUq5y7D30vgmmQTww0/512fx384f"
         },
         "prices": {
           "Factory New": "2,014.00",
@@ -30,8 +31,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJI7dujlZK0m_7zO6-fk21X7ZAp273DoNXz2wfiqBdtZmnzI47GJABsNFHV-1Lskurrh8O5voOJlyVD-NChGw/512fx384f"
         },
         "prices": {
           "Factory New": "259.50",
@@ -51,8 +53,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PnJdihD_uOmzdC0m_7zO6-fxjsG6sQni-_Doo6n0Qy1-RVpZ2v7JIOWd1A9aF7V_wTvk7_vgZG67oOJlyUZfOUbWw/512fx384f"
         },
         "prices": {
           "Factory New": "250.00",
@@ -74,8 +77,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.45
+          "min_wear": 0.0,
+          "max_wear": 0.45,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4GFlP7xPa_ulHlY781lteXI8oThxg3n_hVqN22icI-VcQE2NArVqAK_yerqhcfquZzOn3NkunMn533elxKpwUYb4Ry-6Uk/512fx384f"
         },
         "prices": {
           "Factory New": "44.51",
@@ -93,8 +97,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73djJO6OO0homInMj4OrzZgiUF65J12rzAodX22QK2-hY-Nzz0INXGJFQ2Z1GE8wW5krvmg8Lt6MnB1zI97QZQYG0C/512fx384f"
         },
         "prices": {
           "Factory New": "54.98",
@@ -114,8 +119,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTjxM79WzmpS0gPbmPoTdn2xZ_IsiibGS8d7w3Azg_0FuYGqhdYbDJAVsYFjS_AfrwOy91Ja1tc_Az3Y3pGB8so8FPv1B/512fx384f"
         },
         "prices": {
           "Factory New": "45.65",
@@ -133,12 +139,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "AUG | Carved Jade",
+        "name": "Galil AR | Dusk Ruins",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.2
+          "min_wear": 0.0,
+          "max_wear": 0.6,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJQ-dW4h7-ZkvPLP7LWnn8fvMR1iLmSrYj32gTtrUdsYG-iIIGdcwdoZAqGqVjvwr-7g5-_6pvKzmwj5HdNZ6bMAg/512fx384f"
         },
         "prices": {
           "Factory New": "13.85",
@@ -150,12 +157,13 @@
         }
       },
       {
-        "name": "Tec-9 | Blast From the Past",
+        "name": "FAMAS | Dark Water",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.65
+          "min_wear": 0.1,
+          "max_wear": 0.26,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73azhA_t2JkIGZnMj4OrzZgiVU68Eni-jArY-i21e1-0Rka2_wIIWRIQ5tZ1zT-FC7xbu9hJ7v6szI1zI97RPQ2G5w/512fx384f"
         },
         "prices": {
           "Factory New": "13.27",
@@ -171,12 +179,13 @@
         }
       },
       {
-        "name": "Galil AR | Dusk Ruins",
+        "name": "AUG | Carved Jade",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.6
+          "min_wear": 0.0,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnJdTh94NWxnJTFkaajN72CxmkCvpBw0-qQ9tWl0QWw80tqYmn1JILGIwM5YVvQrFnvxfCv28ES3MsYNQ/512fx384f"
         },
         "prices": {
           "Factory New": "13.93",
@@ -192,12 +201,13 @@
         }
       },
       {
-        "name": "FAMAS | Dark Water",
+        "name": "Tec-9 | Blast From the Past",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.1,
-          "max_wear": 0.26
+          "min_wear": 0.0,
+          "max_wear": 0.65,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszJfz5L6dKiq5SCm_LnDKvUl2hZ18l4jeHVu43w2FLsr0RlMD3zd4CScVc4aV7XrlTsx7y5gsK4ucnIwSEx6SlzsCrD30vgfKn8FWE/512fx384f"
         },
         "prices": {
           "Minimal Wear": "12.21",
@@ -209,12 +219,13 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "G3SG1 | Ancient Ritual",
+        "name": "CZ75-Auto | Silver",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.76
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33YjRO-tmkq4yCkP_gfeyHxj4GvJAp07DHod2k2gXsqBJtam6nLIXGcAM_NVnS-la-w-zo1Jai_MOek3lrnv4/512fx384f"
         },
         "prices": {
           "Factory New": "3.49",
@@ -234,8 +245,9 @@
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.65
+          "min_wear": 0.0,
+          "max_wear": 0.65,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957PfaaCpN49iJk5KOkvnLP7LWnn8fsJd13LjFoNX231Lj8xBkYm32LYOXIQVoYF3R_1Pqk--81JO875jLnWwj5HdgPvg_ww/512fx384f"
         },
         "prices": {
           "Factory New": "3.60",
@@ -251,12 +263,13 @@
         }
       },
       {
-        "name": "CZ75-Auto | Silver",
+        "name": "P2000 | Panther Camo",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJA4N21n7-blvngO77DqWdY781lxL2R942i3gHnqBdkYGj6I46ScVM-aV-F-FS4xbjr05LouJ3Byns2uSU8pSGKaNa1c7w/512fx384f"
         },
         "prices": {
           "Factory New": "3.16",
@@ -266,12 +279,13 @@
         }
       },
       {
-        "name": "P2000 | Panther Camo",
+        "name": "G3SG1 | Ancient Ritual",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.76,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf0v73cDNB5dm4gL-cnvnxDLfYkWNFppwi3-uUotyt2lDg-Uo_YzygdY6XJ1BtaF7Z_ge9k7rnjZPv6Z7LySd9-n51kqszs0k/512fx384f"
         },
         "prices": {
           "Factory New": "3.41",
@@ -289,12 +303,13 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "SG 553 | Lush Ruins",
+        "name": "Nova | Army Sheen",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szJYzBb08--nY6OqPv9NLPF2D0D7pQlie3D89-l2VHh8kJoamzwLYaTcQNrZw2BrAK8l7rq18K-tJTXiSw058dCyOE/512fx384f"
         },
         "prices": {
           "Factory New": "0.77",
@@ -315,7 +330,8 @@
         "can_be_stattrak": false,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3YjJ94tWxnJS0m_7zO6-flzxQv8Mnie-Q8IihiwS1r0VtMGGgJYGTIQE3MwrX-Fnsw-zrhsLt7YOJlyWaioCocA/512fx384f"
         },
         "prices": {
           "Factory New": "4.07",
@@ -331,12 +347,13 @@
         }
       },
       {
-        "name": "P90 | Ancient Earth",
+        "name": "SG 553 | Lush Ruins",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.5
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3YyhL4s-Jk5KOkvnLP7LWnn8fvcEiju_AotX32AbtqBdoNWH3LNeWIVNrNAyB_1jrkO26h5fovZWfmGwj5Hd8cr4JbQ/512fx384f"
         },
         "prices": {
           "Factory New": "0.63",
@@ -352,12 +369,13 @@
         }
       },
       {
-        "name": "Nova | Army Sheen",
+        "name": "SSG 08 | Jungle Dashed",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5Mx2gv2PpNml2Afk-xBpamunJICXdFM2aFDVrFG6xOrv0ZXpupnNmHtluigh7WGdwULf_MWlNw/512fx384f"
         },
         "prices": {
           "Factory New": "0.61",
@@ -369,12 +387,13 @@
         }
       },
       {
-        "name": "SSG 08 | Jungle Dashed",
+        "name": "P90 | Ancient Earth",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.5,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZh7PLGcjRH4siJlpKEgPnLP7LWnn8f7sR12urA99Wh3wDn-hY4NmD1J4-VcFI8Mw6C-lLtwrvv1sTqv5ycymwj5HdgzOhcBQ/512fx384f"
         },
         "prices": {
           "Factory New": "4.92",

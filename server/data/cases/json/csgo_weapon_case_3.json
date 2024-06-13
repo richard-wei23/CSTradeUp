@@ -7,8 +7,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.75
+          "min_wear": 0.0,
+          "max_wear": 0.75,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0uL3dClB5Nmyq4ORwKLLP7LWnn8fv8Mij7-Wp4_33Qbl8xE6Zjr2I9OVIFQ2Y1yErFi6wu69gpHuv53Bzmwj5HcpPBVcrQ/512fx384f"
         },
         "prices": {
           "Factory New": "8.11",
@@ -26,12 +27,13 @@
     ],
     "Classified Skins": [
       {
-        "name": "CZ75-Auto | The Fuschia Is Now",
+        "name": "P250 | Undertow",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.4
+          "min_wear": 0.0,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szYI2gS096zlYSOk8jkMrLfglRd4cJ5nqeRrdrx3wy1-kM4NzuiJNWUclc4aVnQqQW6xOntgZ61up3JzCEyuSh2-z-DyMvx2fL3/512fx384f"
         },
         "prices": {
           "Factory New": "45.84",
@@ -45,12 +47,13 @@
         }
       },
       {
-        "name": "P250 | Undertow",
+        "name": "CZ75-Auto | The Fuschia Is Now",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.2
+          "min_wear": 0.0,
+          "max_wear": 0.4,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73dyhR79S_lb-HnvD8J_XTwW4HusZ0j7rDoYrz2lGyrhU4a2HxI9fHd1U6ZFDQrgS7yObrgpO9ot2XnqwuLJjG/512fx384f"
         },
         "prices": {
           "Factory New": "46.99",
@@ -64,12 +67,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "CZ75-Auto | Tread Plate",
+        "name": "Desert Eagle | Heirloom",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.2
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjhM6863goWPqPPxMrzdk1Rd4cJ5nqeRrNqt0Qzk8hY5NTrzcNCWIFRvaF7QrALtxO_tgZa96s7Bn3VisyUi-z-DyJziBZ6m/512fx384f"
         },
         "prices": {
           "Factory New": "5.06",
@@ -81,12 +85,13 @@
         }
       },
       {
-        "name": "Desert Eagle | Heirloom",
+        "name": "CZ75-Auto | Tread Plate",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73dTRD4dO4kL-bm_bgNoTdn2xZ_Isl0rGT8dunjAXi_EVsa2ymcNCdJAc3aA3S_1bryernjZa_6snJmHFhpGB8shg40qsW/512fx384f"
         },
         "prices": {
           "Factory New": "12.63",
@@ -106,8 +111,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.2
+          "min_wear": 0.0,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxP09-5hJCOhcjyP77SnXhu5Mx2gv2P8IqliwTkqBZrMG6gJ4DHJFQ9NwrYqVXsx-_v0MLtu8zIznFhvicg52GdwUKXV5jhqA/512fx384f"
         },
         "prices": {
           "Factory New": "5.70",
@@ -123,8 +129,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.2
+          "min_wear": 0.0,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3szOfShW6diJgIWIzsj4OrzZgiVQ7JMki7GW99umi1Ky-kFsMjimJo-TcA5oaV_T_AXoyb_o1sTotZic1zI97eDkybWf/512fx384f"
         },
         "prices": {
           "Factory New": "5.35",
@@ -138,12 +145,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "Glock-18 | Blue Fissure",
+        "name": "USP-S | Stainless",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.58
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ092nq5WYh8jnJ7rYmGdU-9ZOhuDG_Zi72wXk-UY_MmqmdoTBd1NoYFjW81m-yO3ujJe1tJrNyiNk6SB04imInQv330-aV_ujeQ/512fx384f"
         },
         "prices": {
           "Factory New": "13.62",
@@ -159,12 +167,13 @@
         }
       },
       {
-        "name": "USP-S | Stainless",
+        "name": "Dual Berettas | Panther",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.58,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3YTxM-NSzhr-HnvD8J_XQx25X7MFw0-rApInwjgfsqkY6YWHzJIaWJFU7MgqF_lbvle3r1Me8ot2Xnk7JCUDK/512fx384f"
         },
         "prices": {
           "Factory New": "15.63",
@@ -180,12 +189,13 @@
         }
       },
       {
-        "name": "Dual Berettas | Panther",
+        "name": "P2000 | Red FragCam",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.58
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJS49Cvq4OKmvjLP7LWnn8fvsF3i72VoN6g31LmrUZkZj-gJ4PBJ1NoMF3VrFe3xebm18C978jKwWwj5HfFCk822g/512fx384f"
         },
         "prices": {
           "Factory New": "1.85",
@@ -201,12 +211,13 @@
         }
       },
       {
-        "name": "CZ75-Auto | Crimson Web",
+        "name": "Glock-18 | Blue Fissure",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.8
+          "max_wear": 0.58,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3ci9D_cmzmJWZksj4OrzZgiVUuZYm2L-R8YijiQfsqkU5Z2ilIdKQc1I8aF3SqQK2xLzshsW_uM7N1zI97eN_N2VO/512fx384f"
         },
         "prices": {
           "Factory New": "9.59",
@@ -222,12 +233,13 @@
         }
       },
       {
-        "name": "P2000 | Red FragCam",
+        "name": "CZ75-Auto | Crimson Web",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf2-r3ZjhA_-O6nYeDg7n3a-jVkzsJ7Zcg0-qZoN_0i1DsqhVuZ2uhcYSUdQQ-MwzV_AO-wLvum9bi647NHLbz/512fx384f"
         },
         "prices": {
           "Factory New": "1.89",

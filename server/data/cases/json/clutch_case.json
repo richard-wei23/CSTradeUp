@@ -3,12 +3,13 @@
   "content": {
     "Covert Skins": [
       {
-        "name": "M4A4 | Neo-Noir",
+        "name": "MP7 | Bloodsport",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.9
+          "min_wear": 0.0,
+          "max_wear": 0.65,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFABz7P7YJgJA4NO5kJObmOXgDLfYkWNFpsd3ibuRod2k2FXlqRdrZm7yIoCdJgFqaVmG-gS5wu7ohZC775XPzyN9-n51pI6vYmA/512fx384f"
         },
         "prices": {
           "Factory New": "26.39",
@@ -24,12 +25,13 @@
         }
       },
       {
-        "name": "MP7 | Bloodsport",
+        "name": "M4A4 | Neo-Noir",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.65
+          "min_wear": 0.0,
+          "max_wear": 0.9,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09Kzm7-FmP7mDLfYkWNFppAh2LmXotij3lfkrRdvNzj1IdfEdQ87YQqC_VDtkuvn0ZK8tcjAyiN9-n51awZHgH8/512fx384f"
         },
         "prices": {
           "Factory New": "2.80",
@@ -47,12 +49,13 @@
     ],
     "Classified Skins": [
       {
-        "name": "AWP | Mortis",
+        "name": "USP-S | Cortex",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.64
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j3Jq_ummJW4NE_3rqSoI2njQSwr0Y6Yj3xIdKXI1c3YVDU_lHvwOnngMXtv5jPziZn6z5iuyi8MxH2DQ/512fx384f"
         },
         "prices": {
           "Factory New": "4.97",
@@ -68,12 +71,13 @@
         }
       },
       {
-        "name": "AUG | Stymphalian",
+        "name": "AWP | Mortis",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.63
+          "min_wear": 0.0,
+          "max_wear": 0.64,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-HnvD8J_WDkjpT65Fwj-iZ9IqjjVK2_ktvYW32I4WdIQc_Zw7Yq1LoxOq6jZ66ot2XnlWA3I1y/512fx384f"
         },
         "prices": {
           "Factory New": "5.21",
@@ -89,12 +93,13 @@
         }
       },
       {
-        "name": "USP-S | Cortex",
+        "name": "AUG | Stymphalian",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.63,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFABz7PLddgJR-MW7hIiKm_71PYTTn3lV-_p9g-7J4cL2iwfl-xVlZWz6dY-Tdw43Z1CF-ALtwOvojZDvvZ7MnCY26HIj5H3dgVXp1sgTxRlp/512fx384f"
         },
         "prices": {
           "Factory New": "7.55",
@@ -116,8 +121,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJg4iCg_LLNbrfkVRd4cJ5nqeU9tv02FK3rkppNmD7LYCReg84Yl_RqVO5xLzrjcS9vMnOzSFksiF2-z-DyLGNX1bO/512fx384f"
         },
         "prices": {
           "Factory New": "0.94",
@@ -133,12 +139,13 @@
         }
       },
       {
-        "name": "MAG-7 | SWAG-7",
+        "name": "Nova | Wild Six",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.92
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD0924l4iEhf7gNoTdn2xZ_Isn07jFpNr0jlXn80M4am_zJ9THd1JtMAzV_VS6lb3pgpC56JqbwXowpGB8sk7yiU0w/512fx384f"
         },
         "prices": {
           "Factory New": "0.93",
@@ -154,12 +161,13 @@
         }
       },
       {
-        "name": "Glock-18 | Moonrise",
+        "name": "MAG-7 | SWAG-7",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.65
+          "min_wear": 0.0,
+          "max_wear": 0.92,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhhwszFcDoV08-hlYfcqPv9NLPF2DpSusN03O3Hodr3jQPtqBc-ZDjyIdSTIQE_Y1uG8li5l-3qgZK66MzXiSw0OxJQbNE/512fx384f"
         },
         "prices": {
           "Factory New": "1.05",
@@ -175,12 +183,13 @@
         }
       },
       {
-        "name": "Negev | Lionfish",
+        "name": "Glock-18 | Moonrise",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 0.65,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3djFN79eJxdi0guX2MrXum2Re5vp3j__E57P5gVO8v11pMD_yJteTdAI7NVjV_Fboxum80cPt78-dnXpmsnJxsy7cyRey1BkecKUx0mzUGeJe/512fx384f"
         },
         "prices": {
           "Factory New": "0.86",
@@ -196,12 +205,13 @@
         }
       },
       {
-        "name": "Nova | Wild Six",
+        "name": "Negev | Lionfish",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3fzhF6cqJmImEmfH9ILPummJW4NE_3LGZp9r0iVfsqkBpam3ydofBdgU_YV7R8li-wb291sC9tZ3Bnydhvj5iuyhKiNKkPA/512fx384f"
         },
         "prices": {
           "Factory New": "0.92",
@@ -219,12 +229,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "SG 553 | Aloha",
+        "name": "MP9 | Black Sand",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.55
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJA4N21n7-YlvnwDLfYkWNFppd3jr6Z84mmiwLlrhU_Nmv7JI-ccARvZQ2Brljqkr--gsS-vZ2amHt9-n51neWh0bs/512fx384f"
         },
         "prices": {
           "Factory New": "0.14",
@@ -240,12 +251,13 @@
         }
       },
       {
-        "name": "P2000 | Urban Hazard",
+        "name": "PP-Bizon | Night Riot",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJhomEg8j4OrzZgiUC6p0oj-uYptmt0Qbt-kFoNz_6LYDEdVM3Nw7U_1HskOrs0J_u753L1zI97RTB3cuC/512fx384f"
         },
         "prices": {
           "Factory New": "0.16",
@@ -261,12 +273,13 @@
         }
       },
       {
-        "name": "PP-Bizon | Night Riot",
+        "name": "SG 553 | Aloha",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.55,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3YjoXv4-JlYyEn_bLP7LWnn8fuJQi3L-TooqmjQzm_EQ5NTv0ctTGIQ46ZQuC_wO3l-i5gcC-u8ifzGwj5Hf4HQKc2g/512fx384f"
         },
         "prices": {
           "Factory New": "0.14",
@@ -282,12 +295,13 @@
         }
       },
       {
-        "name": "R8 Revolver | Grip",
+        "name": "P2000 | Urban Hazard",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvozmxL-ehfX1PYTZl3FQ-sFOhuDG_Zi73VDmqRJkY2qnIY-QdwNsN1iFqwC-kr3vgZK86p_LnSFjviIi4HfUnwv330_lkuUPiA/512fx384f"
         },
         "prices": {
           "Factory New": "0.22",
@@ -303,12 +317,13 @@
         }
       },
       {
-        "name": "MP9 | Black Sand",
+        "name": "Five-SeveN | Flame Test",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.65,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjpR09q_goWYkuHxPYTZmX9u-sp1tf_I-oDwnGu4ohQ0J3f6IdeXIAQ-ZlyC-1O5yenp0cDvus7MnHtj6SAi4izcnxe10EwdOOFsm7XAHlW9yVON/512fx384f"
         },
         "prices": {
           "Factory New": "0.15",
@@ -328,8 +343,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.7
+          "min_wear": 0.0,
+          "max_wear": 0.7,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-Ej_7wNoTTmmpL7fp9g-7J4cKl3FLjrxU6a27ydYXBIwVoZg3T81TvyLvqjcC1v5ScwSZlvSYi7XrZgVXp1lMGWGTR/512fx384f"
         },
         "prices": {
           "Factory New": "0.13",
@@ -345,12 +361,13 @@
         }
       },
       {
-        "name": "Five-SeveN | Flame Test",
+        "name": "R8 Revolver | Grip",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.65
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLJ6nUl29u5Mx2gv2Po9Sl0FHg-kE5ZDv2JIWXdwBvYlnZ_1Hvk-rohMW4vJTPzCMxsnNx7WGdwUJm16m2XA/512fx384f"
         },
         "prices": {
           "Factory New": "0.14",

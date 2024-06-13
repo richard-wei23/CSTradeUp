@@ -8,7 +8,8 @@
         "can_be_stattrak": true,
         "wears": {
           "min_wear": 0.06,
-          "max_wear": 0.2
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3YjVD_teJmImMn-O6Y7qBkjIIucYpiLzCpNjw3Vfm-UU9Nz-icdPEewY4Nw7X8lm4kr-614j84sojlk7Ong/512fx384f"
         },
         "prices": {
           "Factory New": "53.35",
@@ -26,8 +27,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZt7ODEeClK6c6JhNnbqPv9NLPF2G5TscB30rySodWhjQTm_0o_YDz3LdOTcA48ZViF81O6yO69g5Pp7pjXiSw0UhaRfoI/512fx384f"
         },
         "prices": {
           "Factory New": "52.00",
@@ -41,8 +43,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.25
+          "min_wear": 0.0,
+          "max_wear": 0.25,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ0927q4WHkvTgIbLSqXlU7Pp9g-7J4cL3iVLk-xZrMWmgLI6ScQNoMAnXrFDowufm08PqusidnSNnvyZx5C6OgVXp1qXPS3yN/512fx384f"
         },
         "prices": {
           "Factory New": "50.25",
@@ -56,12 +59,13 @@
     ],
     "Restricted Skins": [
       {
-        "name": "Five-SeveN | Case Hardened",
+        "name": "MP9 | Hypnotic",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 1
+          "min_wear": 0.0,
+          "max_wear": 0.08,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZh7OXNYylL69OJmImMn-O6a76GwWkB7ZIo3r3Erdqm3FeyqkA-YjigcYWdc1I8YlDT8lPvl-u714j84spzvdbEfQ/512fx384f"
         },
         "prices": {
           "Factory New": "14.77",
@@ -77,12 +81,13 @@
         }
       },
       {
-        "name": "Nova | Graphite",
+        "name": "Five-SeveN | Case Hardened",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.12
+          "min_wear": 0.0,
+          "max_wear": 1.0,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxT09O_mIWPqPv9NLPF2DsI7sF3j7jE8NXw3ADnrhY_NTqnJdSTdlM8NQzV-1e2k-_nhJfp6szXiSw0_UHaeRU/512fx384f"
         },
         "prices": {
           "Factory New": "6.80",
@@ -92,12 +97,13 @@
         }
       },
       {
-        "name": "MP9 | Hypnotic",
+        "name": "Dual Berettas | Hemoglobin",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.08
+          "min_wear": 0.0,
+          "max_wear": 0.2,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v73fi5R5dqvq5KOk8j4OrzZgiVQuJQki7iZ99vx0AOw_RA6MWz7JdSXcwY6YwyD_lTow7q905W7vs6f1zI97cR6kGPX/512fx384f"
         },
         "prices": {
           "Factory New": "7.51",
@@ -107,12 +113,13 @@
         }
       },
       {
-        "name": "Dual Berettas | Hemoglobin",
+        "name": "Nova | Graphite",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.2
+          "min_wear": 0.0,
+          "max_wear": 0.12,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szLYyhP_NCzq4yCkP_gfb7QxmlQvJci3uzFodnxiwDi-EtlYjjxIdLBcwM7Z1nR_FbswLu7gJSi_MOe50rfWHI/512fx384f"
         },
         "prices": {
           "Factory New": "7.10",
@@ -126,12 +133,13 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "SCAR-20 | Crimson Web",
+        "name": "FAMAS | Hexane",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0.06,
-          "max_wear": 0.8
+          "min_wear": 0.0,
+          "max_wear": 0.4,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3czFX6dSzjL-HnvD8J_XXlzIH7ZB02bqZp4rwiwCy_UJvZG7yJYCde1NtaVvWqAK4weq51JW4ot2Xni4H79h_/512fx384f"
         },
         "prices": {
           "Factory New": "11.82",
@@ -151,8 +159,9 @@
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-ZkvPgOrzUhFRd4cJ5nqeZpo-j2Azs-kFkYG_7cYKRdQI3Ml6C_1a6xea-hJG9vJSamHBgvSYr-z-DyIHgiEdl/512fx384f"
         },
         "prices": {
           "Factory New": "5.39",
@@ -164,12 +173,13 @@
         }
       },
       {
-        "name": "P250 | Hive",
+        "name": "Tec-9 | Blue Titanium",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.3
+          "min_wear": 0.0,
+          "max_wear": 0.04,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhh3czceClD4tWjmdPbgcj4OrzZgiUBucB007CXo9imiQ3krhdoYWnwJ4OScVM9N17Wq1Dqyefrh57uvcuc1zI97RKl-TLO/512fx384f"
         },
         "prices": {
           "Factory New": "5.29",
@@ -181,12 +191,13 @@
         }
       },
       {
-        "name": "Tec-9 | Blue Titanium",
+        "name": "SCAR-20 | Crimson Web",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.04
+          "min_wear": 0.06,
+          "max_wear": 0.8,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTipH7s-JkIGZnPLmDLfYkWNFpsQgjOqW8dmj2VHm-0ZuYm2lddOXdQQ6aVvR_1W5x-3sgpO6tcnNn3B9-n51clmsWW4/512fx384f"
         },
         "prices": {
           "Factory New": "5.54",
@@ -194,12 +205,13 @@
         }
       },
       {
-        "name": "FAMAS | Hexane",
+        "name": "P250 | Hive",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "min_wear": 0,
-          "max_wear": 0.4
+          "min_wear": 0.0,
+          "max_wear": 0.3,
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszadDlK6cSJmImMn-O6a-OJkjIE7pV32-zH8Nj22VbirRduajzxJo-XIFM7M12F8lPvwbrshYj84soirXEn0w/512fx384f"
         },
         "prices": {
           "Factory New": "4.94",
