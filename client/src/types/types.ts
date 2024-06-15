@@ -1,51 +1,51 @@
 import Decimal from "decimal.js-light";
 
 export type Contract = {
-    skins: Skin[];
+    skins: SkinData[];
     cost: number;
 }
 
 export type Outcome = {
-    skinOutcomes: Map<Skin, number>;
+    skinOutcomes: Map<SkinData, number>;
     expectedValue: number;
     variance: number;
 }
 
-export type Skin = {
+export type SkinData = {
     readonly name: string;
     readonly quality: Quality;
     readonly collection: string;
     readonly img: string;
     stattrak: boolean;
-    float: Decimal;
-    price: number;
+    wears: {
+        min_wear: number;
+        max_wear: number;
+    };
+    prices: {
+        [float: string]: string;
+    };
+    floatInput: Decimal;
+    priceInput: number;
 }
 
 type Quality =
-    { kind: "consumer-grade" } |
-    { kind: "industrial-grade" } |
-    { kind: "mil-spec" } |
-    { kind: "restricted" } |
-    { kind: "classified" }
+    "Covert" |
+    "Classified" |
+    "Restricted" |
+    "Mil-Spec" |
+    "Industrial Grade" |
+    "Consumer Grade"
 
-type FloatCategory =
-    { kind: "factory-new" } |
-    { kind: "minimal-wear" } |
-    { kind: "field-tested" } |
-    { kind: "well-worn" } |
-    { kind: "battle-scarred" }
-
-
-export const toFloatCategory = (float: Decimal): FloatCategory => {
+export const toFloatCategory = (float: Decimal): string => {
     if (float.lte(0.7)) {
-        return { kind: "factory-new" };
+        return "Factory New";
     } else if (float.lte(0.15)) {
-        return { kind: "minimal-wear" };
+        return "Minimal Wear";
     } else if (float.lte(0.37)) {
-        return { kind: "field-tested" };
+        return "Field-Tested";
     } else if (float.lte(0.44)) {
-        return { kind: "well-worn" };
+        return "Well-Worn";
     } else {
-        return { kind: "battle-scarred" };
+        return "Battle-Scarred";
     }
 }

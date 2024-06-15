@@ -1,7 +1,9 @@
+// import React, { ChangeEvent, useState } from "react";
 import React, { useState } from "react";
-import { Contract, Outcome } from "../../types/types";
-import TradeUpCalculator from "./TradeUpCalculator";
+import { Contract, Outcome, SkinData } from "../../types/types";
+// import TradeUpCalculator from "./TradeUpCalculator";
 import TradeUpSearch from "./TradeUpSearch";
+import { Container, Row, Col } from "react-bootstrap";
 
 export type TradeUpProps = {
     /** Contract to load, if any */
@@ -13,14 +15,39 @@ export type TradeUpProps = {
 
 
 const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.Element => {
-    const [loading, setLoading] = useState(false);
+    // const [loading, setLoading] = useState(false);
     const [error, setError] = useState("");
+    const [contract, setContract] = useState<Contract>(loadContract);
+    const [outcome, setOutcome] = useState<Outcome | undefined>(loadOutcome);
+
+    // function doSkinChange(skinIndex: number) {
+
+    // }
+
+    function handleSkinClick(skin: SkinData): void {
+        if(contract.skins.length < 10) {
+            const newContract = contract;
+            newContract.skins.push(skin);
+            setContract(newContract);
+            console.log(contract)
+            calculateOutcome();
+        } else {
+            doAddError("Cannot add more than 10 skins!");
+        }
+    }
+
+    // function handleSkinPriceFloatChange(evt: ChangeEvent): void {
+    //     const newContract = contract;
+    //     setContract(newContract);
+    //     calculateOutcome(newContract);
+    // }
+
 
     /**
      * Adds error message and clears it after 5 seconds
      * @param {string} error - Error to be shown
      */
-    function onError(error: string) {
+    function doAddError(error: string): void {
         setError(error);
 
         // Clears error
@@ -29,9 +56,59 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
         }, 5000);
     }
 
+    /**
+     * Calculates contract outcome if there are enough skins inputted
+     * @param {Contract} newContract - Contract to calculate the outcome of
+     * @returns {Outcome | undefined} - returns Outcome if enough skins are inputted, otherwise undefined
+     */
+    function calculateOutcome(): void {
+        if (contract.skins.length !== 10) {
+            setOutcome(undefined);
+        } else {
+            let skinOutcomes: Map<SkinData, number> = new Map<SkinData, number>();
+            for (const skin of contract.skins) {
+                // Finds skin outcomes from collection of skin
+                console.log(skin)
+
+                // Sets price and probability of skin outcomes
+            }
+
+            let expectedValue: number = 0;
+            let variance: number = 0;
+            for (const entry of skinOutcomes.entries()) {
+                expectedValue += entry[0].priceInput * entry[1];
+                variance += (entry[0].priceInput ** 2) * entry[1];
+            }
+            variance -= (expectedValue ** 2);
+
+            setOutcome({
+                skinOutcomes,
+                expectedValue,
+                variance
+            });
+            console.log(outcome)
+        }
+    }
+
+
     return <>
-        <TradeUpSearch />
-        <TradeUpCalculator loadContract={loadContract} loadOutcome={loadOutcome} />
+        <Container fluid >
+            <Row>
+                <Col>
+                    <Container className="colored-container my-3 rounded-3" fluid>
+                        <Row className="justify-content-center align-items-center" style={{ minHeight: '85vh' }}>
+                            <Col xs={12} md={8} style={{ backgroundColor: '#f0f0f0', padding: '20px', color: "black" }}>
+                                Contract Here
+                            </Col>
+                        </Row>
+                    </Container>
+                </Col>
+                <Col>
+                    <TradeUpSearch onSkinClick={(skin: SkinData) => handleSkinClick(skin)}/>
+                </Col>
+            </Row>
+        </Container>
+        <p>{error}</p>
     </>;
 }
 

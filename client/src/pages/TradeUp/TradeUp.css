@@ -1,0 +1,39 @@
+.colored-container {
+  background-color: rgb(125, 56, 201, 70%);
+  padding: 0.5rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+@property --covertColor {
+  syntax: "<color>";
+  initial-value: rgb(235, 75, 75, 50%);
+  inherits: false;
+}
+
+.skin-card {
+  color: white;
+  background-color: rgba(254, 252, 253, 25%);
+  background-image: linear-gradient(transparent 10%, var(--covertColor));
+  padding: 0.5rem;
+  filter: drop-shadow(0.1rem 0.1rem 0.1rem #000);
+  transition: --covertColor 0.4s;
+
+  /* The important part to remove the overflow/leak: */
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+}
+
+.skin-card:hover {
+  --covertColor: rgb(235, 75, 75);
+}
+
+.skins-row {
+  margin: 1rem;
+}
+
+.card-header {
+  background-color: transparent;
+}
+
