@@ -14,9 +14,9 @@ export function saveData(data: Data): void {
 
 // Function to load data from a file
 export function loadData(): Data {
-  if (fs.existsSync(filePath)) {
-    const rawData = fs.readFileSync(filePath, 'utf-8');
-    return JSON.parse(rawData) as Data;
-  }
+  // if (fs.existsSync(filePath)) {
+  //   const rawData = fs.readFileSync(filePath, 'utf-8');
+  //   return JSON.parse(rawData) as Data;
+  // }
   return new Map<string, unknown>();
 }

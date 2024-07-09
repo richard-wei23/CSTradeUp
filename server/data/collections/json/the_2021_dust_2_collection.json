@@ -202,6 +202,12 @@
           "min_wear": 0.0,
           "max_wear": 0.4,
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJcAJE7dizq42Og_b4P7LSqWdY781lxL2X9o2m2QGyqko9N2umJoKQJAE-M1DSrwW2kOa9jcW17Z7Jy3YyuSc8pSGKfUF7hxk/512fx384f"
+        },
+        "prices": {
+          "Factory New": "18.85",
+          "Minimal Wear": "18.00",
+          "Field-Tested": "19.70",
+          "Well-Worn": "26.79"
         }
       }
     ],

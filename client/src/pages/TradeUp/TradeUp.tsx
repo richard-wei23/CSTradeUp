@@ -1,9 +1,9 @@
-// import React, { ChangeEvent, useState } from "react";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Contract, Outcome, SkinData } from "../../types/types";
 // import TradeUpCalculator from "./TradeUpCalculator";
 import TradeUpSearch from "./TradeUpSearch";
 import { Container, Row, Col } from "react-bootstrap";
+import { Quality } from "../../types/types"
 
 export type TradeUpProps = {
     /** Contract to load, if any */
@@ -16,16 +16,70 @@ export type TradeUpProps = {
 
 const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.Element => {
     // const [loading, setLoading] = useState(false);
-    const [error, setError] = useState("");
+    const [error, setError] = useState<string>("");
+    const [skinsData, setSkinsData] = useState<Map<string, Map<Quality, SkinData[]>>>(new Map<string, Map<Quality, SkinData[]>>);
     const [contract, setContract] = useState<Contract>(loadContract);
     const [outcome, setOutcome] = useState<Outcome | undefined>(loadOutcome);
 
-    // function doSkinChange(skinIndex: number) {
+    /**
+     * Gets the skins from the server
+     */
+    function getSkins(): void {
+        fetch("/api/skins")
+            .then(doSkinsResp)
+            .catch(() => console.error("failed to connect to server"));
+    };
 
-    // }
+    /**
+     * Handles response after requesting the list of existing decks
+     * @param res The response object received from the server
+     */
+    function doSkinsResp(res: Response): void {
+        if (res.status === 200) {
+            res.json()
+                .then(doSkinsJson)
+                .catch(() => {
+                    doSkinsError("200 response is not JSON")
+                });
+        } else {
+            doSkinsError(`bad status code from /api/skins: ${res.status}`);
+        }
+    };
+
+    /**
+     * Processes the JSON response from the server
+     * @param data The JSON object received from the server
+     */
+    //TODO: type check
+    function doSkinsJson(data: unknown) {
+        // console.log(data)
+        // setSkinsData(data.skinsData);
+        if (typeof data === 'object' && data !== null && 'skinsData' in data) {
+            const rawData: Map<string, Map<Quality, SkinData[]>> = new Map(Object.entries((data as { skinsData: Map<string, Map<Quality, SkinData[]>> }).skinsData));
+        
+            setSkinsData(rawData);
+        } else {
+            console.error("Data does not have the expected structure");
+        }
+    };
+
+    /**
+     * Handles errors that occur during the request
+     * @param errorMessage The error message
+     */
+    function doSkinsError(errorMessage: string): void {
+        setError(errorMessage);
+    };
+
+    /**
+     * Use useEffect to call getSkins when the component mounts
+     */
+    useEffect(() => {
+        getSkins();
+    }, []);
 
     function handleSkinClick(skin: SkinData): void {
-        if(contract.skins.length < 10) {
+        if (contract.skins.length < 10) {
             const newContract = contract;
             newContract.skins.push(skin);
             setContract(newContract);
@@ -104,7 +158,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
                     </Container>
                 </Col>
                 <Col>
-                    <TradeUpSearch onSkinClick={(skin: SkinData) => handleSkinClick(skin)}/>
+                    <TradeUpSearch skinsData={skinsData} onSkinClick={(skin: SkinData) => handleSkinClick(skin)} />
                 </Col>
             </Row>
         </Container>

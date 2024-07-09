@@ -1,6 +1,7 @@
 import { Request, Response } from "express";
 import { ParamsDictionary } from "express-serve-static-core";
 import { loadData, Data } from './dataHandler';
+import { skinsData } from "./scheduleScrapeUpdateSkins";
 
 // Require type checking of request body.
 type SafeRequest = Request<ParamsDictionary, {}, Record<string, unknown>>;
@@ -35,7 +36,7 @@ export const load = (req: SafeRequest, res: SafeResponse): void => {
  * Responds with the names of all files currently saved.
  */
 export const list = (_req: SafeRequest, res: SafeResponse): void => {
-  res.send({ values: Array.from(tradeUpSaves.keys()) });
+  res.send({ value: Array.from(tradeUpSaves.keys()) });
 };
 
 /** 
@@ -62,6 +63,11 @@ export const save = (req: SafeRequest, res: SafeResponse): void => {
 
   tradeUpSaves.set(name, value);
   res.send({ success: true });
+};
+
+export const skins = (_req: SafeRequest, res: SafeResponse): void => {
+  console.log("Sent skinsData");
+  res.send({ skinsData: JSON.stringify([...skinsData.entries()]) });
 };
 
 /** Used in tests to set the tradeUpSaves map back to empty. */

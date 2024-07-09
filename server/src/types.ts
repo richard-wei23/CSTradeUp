@@ -1,4 +1,4 @@
-const Decimal = require('decimal.js-light');
+import { Decimal } from 'decimal.js-light';
 
 export type Contract = {
     skins: SkinData[];

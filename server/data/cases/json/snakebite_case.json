@@ -212,6 +212,18 @@
           "min_wear": 0.0,
           "max_wear": 0.97,
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7duJgJKCkPDxIYTVn3hS4dV9g-fEyoD8j1yg5UY_ZjuhcI-RegNvZFqF-Fnqxu28jcK57pWaz3VrunFw5X2OzBSxgxxSLrs4V57hwhU/512fx384f"
+        },
+        "prices": {
+          "Factory New": "2.14",
+          "Minimal Wear": "0.92",
+          "Field-Tested": "0.35",
+          "Well-Worn": "0.23",
+          "Battle-Scarred": "0.21",
+          "StatTrak Factory New": "7.50",
+          "StatTrak Minimal Wear": "3.30",
+          "StatTrak Field-Tested": "1.28",
+          "StatTrak Well-Worn": "0.99",
+          "StatTrak Battle-Scarred": "0.81"
         }
       }
     ],

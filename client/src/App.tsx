@@ -15,7 +15,7 @@ const App = (): React.JSX.Element => {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/trade-up" element={<TradeUp loadContract={tempContract} />} />
-      {/* <Route path="/contact" element={<Contact />} /> */}
+      {/* <Route path="/api/list" /> */}
     </Routes>
   </>
   );

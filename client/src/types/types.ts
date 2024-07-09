@@ -28,7 +28,7 @@ export type SkinData = {
     priceInput: number;
 }
 
-type Quality =
+export type Quality =
     "Covert" |
     "Classified" |
     "Restricted" |
