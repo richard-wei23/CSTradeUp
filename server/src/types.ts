@@ -1,5 +1,12 @@
 import { Decimal } from 'decimal.js-light';
 
+// Old Type: Map<string, Map<Quality, SkinData[]>>
+export type SkinsData = {
+    [collection: string]: {
+        [quality in Quality]: SkinData[];
+    }
+}
+
 export type Contract = {
     skins: SkinData[];
     cost: number;
@@ -27,13 +34,6 @@ export type SkinData = {
     floatInput: Decimal;
     priceInput: number;
 }
-
-export type SkinsJson = {
-    readonly name: string;
-    readonly content: {
-        [quality: string]: SkinData[];
-    };
-};
 
 export type Quality =
     "Covert" |

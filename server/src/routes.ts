@@ -67,7 +67,7 @@ export const save = (req: SafeRequest, res: SafeResponse): void => {
 
 export const skins = (_req: SafeRequest, res: SafeResponse): void => {
   console.log("Sent skinsData");
-  res.send({ skinsData: JSON.stringify([...skinsData.entries()]) });
+  res.send({ skinsData: skinsData });
 };
 
 /** Used in tests to set the tradeUpSaves map back to empty. */

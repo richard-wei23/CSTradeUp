@@ -5,7 +5,7 @@ const casesPath = path.join(__dirname, '../data/cases/json');
 const collectionsPath = path.join(__dirname, '../data/collections/json');
 
 // Map of all collections and their respective skins
-let skins = new Map();
+let skins = {};
 const parseFiles = async (jsonDirectoryPath) => {
     try {
         const files = await fs.readdir(jsonDirectoryPath);
@@ -15,8 +15,8 @@ const parseFiles = async (jsonDirectoryPath) => {
             const data = await fs.readFile(filePath, 'utf8');
             try {
                 const jsonData = JSON.parse(data);
-                // Create k, v pair for collection / case
-                skins.set(jsonData.name, new Map());
+
+                let fileSkins = {};
                 for (const category in jsonData.content) {
                     const skinsInCategory = jsonData.content[category].map(skin => ({
                         name: skin.name,
@@ -32,9 +32,11 @@ const parseFiles = async (jsonDirectoryPath) => {
                         floatInput: 0.001,
                         priceInput: +Object.values(skin.prices)[0].replace(".", ""),
                     }));
-                    // Create inner map of qualities and skins
-                    skins.get(jsonData.name).set(category, skinsInCategory);
+ 
+                    fileSkins[category] = skinsInCategory;
                 }
+
+                skins[jsonData.name] = fileSkins;
             }
             catch (err) {
                 console.error(`Error parsing JSON data from ${filePath}:`, err);

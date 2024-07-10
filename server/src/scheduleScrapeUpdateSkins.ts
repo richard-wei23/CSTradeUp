@@ -1,8 +1,9 @@
 import cron from 'node-cron';
 import skinJsonToSkinData from './skinJsonToSkinData';
+import { SkinsData } from './types';
 // import scrapeSavePrices from './skinPricesScraper';
 
-let skinsData : Map<string, unknown>= new Map();
+let skinsData : SkinsData =  {};
 
 const updateSkinsData = async (): Promise<void> => {
     console.log('Running task to update skins data');
@@ -11,7 +12,8 @@ const updateSkinsData = async (): Promise<void> => {
         // await scrapeSavePrices();
 
         // Updates skin data to new prices
-        skinsData = await skinJsonToSkinData();
+        // TODO: Change to ts instead so no need to cast
+        skinsData = (await skinJsonToSkinData() as SkinsData);
         // console.log(skinsData);
         console.log('Skins data updated successfully');
     } catch (err) {
