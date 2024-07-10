@@ -5,28 +5,16 @@
   overflow-y: auto;
 }
 
-@property --covertColor {
-  syntax: "<color>";
-  initial-value: rgb(235, 75, 75, 50%);
-  inherits: false;
-}
-
 .skin-card {
   color: white;
   background-color: rgba(254, 252, 253, 25%);
-  background-image: linear-gradient(transparent 10%, var(--covertColor));
   padding: 0.5rem;
   filter: drop-shadow(0.1rem 0.1rem 0.1rem #000);
-  transition: --covertColor 0.4s;
 
   /* The important part to remove the overflow/leak: */
   -webkit-background-clip: padding-box;
   -moz-background-clip: padding;
   background-clip: padding-box;
-}
-
-.skin-card:hover {
-  --covertColor: rgb(235, 75, 75);
 }
 
 .skins-row {
@@ -37,3 +25,106 @@
   background-color: transparent;
 }
 
+/* Colors for skin grades */
+
+/* Covert */
+@property --covertColor {
+  syntax: "<color>";
+  initial-value: rgb(235, 75, 75, 50%);
+  inherits: false;
+}
+
+.covert {
+  background-image: linear-gradient(transparent 10%, var(--covertColor));
+  transition: --covertColor 0.3s;
+}
+
+.covert:hover {
+  --covertColor: rgb(235, 75, 75);
+}
+
+/* Classified */
+@property --classifiedColor {
+  syntax: "<color>";
+  initial-value: rgb(215, 62, 232, 50%);
+  inherits: false;
+}
+
+.classified {
+  background-image: linear-gradient(transparent 10%, var(--classifiedColor));
+  transition: --classifiedColor 0.3s;
+}
+
+.classified:hover {
+  --classifiedColor: rgb(215, 62, 232);
+}
+
+/* Restricted */
+@property --restrictedColor {
+  syntax: "<color>";
+  initial-value: rgba(89, 0, 255, 50%);
+  inherits: false;
+}
+
+.restricted {
+  background-image: linear-gradient(transparent 10%, var(--restrictedColor));
+  transition: --restrictedColor 0.3s;
+}
+
+.restricted:hover {
+  --restrictedColor: rgba(89, 0, 255);
+}
+
+/* Mil-Spec */
+@property --mil-specColor {
+  syntax: "<color>";
+  initial-value: rgb(63, 97, 250, 50%);
+  inherits: false;
+}
+
+.mil-spec {
+  background-image: linear-gradient(transparent 10%, var(--mil-specColor));
+  transition: --mil-specColor 0.3s;
+}
+
+.mil-spec:hover {
+  --mil-specColor: rgb(63, 97, 250);
+}
+
+/* Industrial-Grade */
+@property --industrial-gradeColor {
+  syntax: "<color>";
+  initial-value: rgb(94, 152, 217, 50%);
+  inherits: false;
+}
+
+.industrial-grade {
+  background-image: linear-gradient(
+    transparent 10%,
+    var(--industrial-gradeColor)
+  );
+  transition: --industrial-gradeColor 0.3s;
+}
+
+.industrial-grade:hover {
+  --industrial-gradeColor: rgb(94, 152, 217)  ;
+}
+
+/* Consumer-Grade */
+@property --consumer-gradeColor {
+  syntax: "<color>";
+  initial-value: rgb(160, 152, 140, 50%);
+  inherits: false;
+}
+
+.consumer-grade {
+  background-image: linear-gradient(
+    transparent 10%,
+    var(--consumer-gradeColor)
+  );
+  transition: --consumer-gradeColor 0.3s;
+}
+
+.consumer-grade:hover {
+  --consumer-gradeColor: rgb(160, 152, 140);
+}

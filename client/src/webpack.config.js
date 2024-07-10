@@ -76,7 +76,7 @@ const config = {
   plugins: [
     new ProgressBarPlugin({ width: 80 }),
     new CleanWebpackPlugin(),
-    new CopyWebpackPlugin(["public/img/*"]),
+    new CopyWebpackPlugin(["public/*"]),
     new MiniCssExtractPlugin({ filename: '[contenthash].css' }),
     new HtmlWebpackPlugin({
       filename: 'index.html',

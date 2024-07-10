@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from "react";
-import { Contract, Outcome, SkinData } from "../../types/types";
+import { Contract, Outcome, SkinData, SkinsData } from "../../types/types";
 // import TradeUpCalculator from "./TradeUpCalculator";
 import TradeUpSearch from "./TradeUpSearch";
 import { Container, Row, Col } from "react-bootstrap";
-import { Quality } from "../../types/types"
 
 export type TradeUpProps = {
     /** Contract to load, if any */
@@ -17,7 +16,7 @@ export type TradeUpProps = {
 const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.Element => {
     // const [loading, setLoading] = useState(false);
     const [error, setError] = useState<string>("");
-    const [skinsData, setSkinsData] = useState<Map<string, Map<Quality, SkinData[]>>>(new Map<string, Map<Quality, SkinData[]>>);
+    const [skinsData, setSkinsData] = useState<SkinsData | null>(null);
     const [contract, setContract] = useState<Contract>(loadContract);
     const [outcome, setOutcome] = useState<Outcome | undefined>(loadOutcome);
 
@@ -55,7 +54,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
         // console.log(data)
         // setSkinsData(data.skinsData);
         if (typeof data === 'object' && data !== null && 'skinsData' in data) {
-            const rawData: Map<string, Map<Quality, SkinData[]>> = new Map(Object.entries((data as { skinsData: Map<string, Map<Quality, SkinData[]>> }).skinsData));
+            const rawData: SkinsData = (data as { skinsData: SkinsData }).skinsData;
         
             setSkinsData(rawData);
         } else {

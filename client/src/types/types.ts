@@ -1,5 +1,11 @@
 import Decimal from "decimal.js-light";
 
+export type SkinsData = {
+    [collection: string]: {
+        [grade in Grade]: SkinData[];
+    }
+}
+
 export type Contract = {
     skins: SkinData[];
     cost: number;
@@ -13,7 +19,7 @@ export type Outcome = {
 
 export type SkinData = {
     readonly name: string;
-    readonly quality: Quality;
+    readonly grade: Grade;
     readonly collection: string;
     readonly img: string;
     stattrak: boolean;
@@ -28,7 +34,7 @@ export type SkinData = {
     priceInput: number;
 }
 
-export type Quality =
+export type Grade =
     "Covert" |
     "Classified" |
     "Restricted" |

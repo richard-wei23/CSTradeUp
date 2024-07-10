@@ -20,9 +20,9 @@ const parseFiles = async (jsonDirectoryPath) => {
                 for (const category in jsonData.content) {
                     const skinsInCategory = jsonData.content[category].map(skin => ({
                         name: skin.name,
-                        quality: category.replace(" Skins", ""),
+                        grade: category.replace(" Skins", ""),
                         collection: jsonData.name,
-                        img: skin.img,
+                        img: skin.wears.img,
                         stattrak: skin.can_be_stattrak,
                         wears: {
                             "min_wear": skin.wears.min_wear,

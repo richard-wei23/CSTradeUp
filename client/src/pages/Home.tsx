@@ -6,7 +6,7 @@ const Home = (): React.JSX.Element => {
         <Container fluid>
             <img
                 alt=""
-                src="/logo.svg"
+                src="./logo"
                 width="200"
                 height="200"
                 className="d-inline-block align-top" />

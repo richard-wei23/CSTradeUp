@@ -2,11 +2,11 @@
 import React from "react";
 import { Col, Container, Row, Card } from "react-bootstrap";
 import "./TradeUp.css"
-import { Quality, SkinData } from "../../types/types";
+import { SkinData, SkinsData } from "../../types/types";
 // import Decimal from "decimal.js-light";
 
 type TradeUpSearchProps = {
-    skinsData: Map<string, Map<Quality, SkinData[]>> | null;
+    skinsData: SkinsData | null;
     onSkinClick: (skin: SkinData) => void;
 }
 
@@ -26,23 +26,26 @@ const TradeUpSearch = ({ skinsData, onSkinClick }: TradeUpSearchProps): React.JS
             const skinsRows: JSX.Element[] = [];
             let skinChunk: SkinData[] = [];
             let i: number = 0;
-            skinsData.forEach((qualityMap) => {
-                qualityMap.forEach((skinDataArr) => {
-                    skinDataArr.forEach((skin) => {
+
+            Object.keys(skinsData).forEach(category => {
+                const qualities = skinsData[category];
+                for (const [_grade, skinDataArr] of Object.entries(qualities)) {
+                    for(const skin of skinDataArr) {
                         skinChunk.push(skin);
                         if (skinChunk.length === itemsPerRow) {
                             skinsRows.push(
-                                <SkinsRow key={i} skins={skinChunk} onSkinClick={onSkinClick} />
+                                <SkinsRow key={i} skinsDisplay={skinChunk} onSkinClick={onSkinClick} />
                             )
                             skinChunk = [];
                             i++;
                         }
-                    });
-                });
+                    }
+                }
             });
+
             if (skinChunk.length > 0) {
                 skinsRows.push(
-                    <SkinsRow key={i} skins={skinChunk} onSkinClick={onSkinClick} />
+                    <SkinsRow key={i} skinsDisplay={skinChunk} onSkinClick={onSkinClick} />
                 )
             }
             return <>{skinsRows}</>;
@@ -52,59 +55,27 @@ const TradeUpSearch = ({ skinsData, onSkinClick }: TradeUpSearchProps): React.JS
     return <>
         <Container className="colored-container my-3 rounded-3" fluid>
             {renderSkins()}
-            {/* <SkinsRow skins={[]} onSkinClick={onSkinClick} /> */}
-            {/* <SkinsRow skins={[tempSkin, tempSkin, tempSkin, tempSkin, tempSkin]} onSkinClick={onSkinClick} />
-            <SkinsRow skins={[tempSkin, tempSkin, tempSkin, tempSkin, tempSkin]} onSkinClick={onSkinClick} />
-            <SkinsRow skins={[tempSkin, tempSkin, tempSkin, tempSkin, tempSkin]} onSkinClick={onSkinClick} />
-            <SkinsRow skins={[tempSkin, tempSkin, tempSkin, tempSkin, tempSkin]} onSkinClick={onSkinClick} />
-            <SkinsRow skins={[tempSkin, tempSkin, tempSkin, tempSkin, tempSkin]} onSkinClick={onSkinClick} /> */}
         </Container>
     </>;
 }
 
 export default TradeUpSearch;
 
-// const tempSkin: SkinData = {
-//     name: "M4A4 | Eye of Horus",
-//     quality: "Covert",
-//     collection: "Anubis Collection Package",
-//     img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW0863q4yCkP_gfeLVxjsIvMd13-_A89SgjlHm_EpkYmj1LYXGIwE9YAzUrwDox7_q08Si_MOel8T8omw/512fx384f",
-//     stattrak: false,
-//     wears: {
-//         min_wear: 0.0,
-//         max_wear: 0.7
-//     },
-//     prices: {
-//         "Factory New": "561.21",
-//         "Minimal Wear": "348.00",
-//         "Field-Tested": "185.28",
-//         "Well-Worn": "153.28",
-//         "Battle-Scarred": "100.92",
-//         "StatTrak Factory New": "1,953.03",
-//         "StatTrak Minimal Wear": "1,012.09",
-//         "StatTrak Field-Tested": "406.13",
-//         "StatTrak Well-Worn": "320.45",
-//         "StatTrak Battle-Scarred": "206.43"
-//     },
-//     floatInput: new Decimal(0.4),
-//     priceInput: 561.21,
-// }
-
 type SkinsRowProps = {
-    skins: SkinData[];
+    skinsDisplay: SkinData[];
     onSkinClick: (skin: SkinData) => void;
 }
 
-const SkinsRow = ({ skins, onSkinClick }: SkinsRowProps): React.JSX.Element => {
+const SkinsRow = ({ skinsDisplay, onSkinClick }: SkinsRowProps): React.JSX.Element => {
     // Calculate the number of items per row based on the column size
-    const numSkins = skins.length;
+    const numSkins = skinsDisplay.length;
     const numEmptySkins = (itemsPerRow - (numSkins % itemsPerRow)) % itemsPerRow;
 
     return <>
         <Row className="skins-row">
-            {skins.map((skin, index) => (
+            {skinsDisplay.map((skinDisplay, index) => (
                 <Col key={index} xs={12} sm={6} md={4} lg={3}>
-                    <Skin skin={skin} onSkinClick={() => onSkinClick(skin)} />
+                    <Skin skinDisplay={skinDisplay} onSkinClick={() => onSkinClick(skinDisplay)} />
                 </Col>
             ))}
             {Array.from({ length: numEmptySkins }).map((_, index) => (
@@ -119,18 +90,18 @@ const SkinsRow = ({ skins, onSkinClick }: SkinsRowProps): React.JSX.Element => {
 
 
 type SkinProps = {
-    skin: SkinData
+    skinDisplay: SkinData
     onSkinClick: (skin: SkinData) => void;
 }
 
-const Skin = ({ skin, onSkinClick }: SkinProps): React.JSX.Element => {
+const Skin = ({ skinDisplay, onSkinClick }: SkinProps): React.JSX.Element => {
     return <>
-        <Card className="skin-card square-card" onClick={() => onSkinClick(skin)}>
-            <Card.Header>{skin.name}</Card.Header>
-            <Card.Img src={skin.img} alt="Card image" />
+        <Card className={"skin-card square-card " + skinDisplay.grade.split(" ").join("-").toLowerCase()} onClick={() => onSkinClick(skinDisplay)}>
+            <Card.Header>{skinDisplay.name}</Card.Header>
+            <Card.Img src={skinDisplay.img} alt="Card image" />
             <Card.Body>
                 <Card.Text className="text-center">
-                    $0 - ${skin.priceInput}
+                    $0 - ${skinDisplay.priceInput / 100}
                     <br />
                     Min Float:
                     <br />
