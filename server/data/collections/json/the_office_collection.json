@@ -10,16 +10,13 @@
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "min_wear": 0.0,
+          "min_wear": 0,
           "max_wear": 0.08,
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6-fwGoHvJchj7DEp4il3lK1_kRtMG2ncdXDe1drZw3S_QfqkOq5g8C4uYOJlyUyB87NuA/512fx384f"
         },
         "prices": {
-          "Factory New": "410.98",
-          "Minimal Wear": "60.00",
-          "Field-Tested": "8.94",
-          "Well-Worn": "10.00",
-          "Battle-Scarred": "8.91"
+          "Factory New": "27.47",
+          "Minimal Wear": "40.19"
         }
       },
       {
@@ -32,8 +29,11 @@
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq4yCkP_gfb7VwjpSvZckjLqZrd2s3Ffl8xVtY2mmcoXBJgM5aV3V_lnrwLvthZai_MOeyfNQY_Y/512fx384f"
         },
         "prices": {
-          "Factory New": "30.93",
-          "Minimal Wear": "46.94"
+          "Factory New": "472.50",
+          "Minimal Wear": "52.74",
+          "Field-Tested": "7.79",
+          "Well-Worn": "9.72",
+          "Battle-Scarred": "8.48"
         }
       }
     ],
@@ -48,11 +48,11 @@
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3cC9B-NW1q4yCkP_gfbiAkzNU6p0l3bzC8Y6ji1fg_EplamCidoGSIA44ZFDW8gO9w7-705Oi_MOeuUgivok/512fx384f"
         },
         "prices": {
-          "Factory New": "69.99",
-          "Minimal Wear": "11.90",
+          "Factory New": "69.90",
+          "Minimal Wear": "10.56",
           "Field-Tested": "7.00",
-          "Well-Worn": "5.80",
-          "Battle-Scarred": "5.06"
+          "Well-Worn": "5.95",
+          "Battle-Scarred": "8.97"
         }
       },
       {
@@ -65,11 +65,11 @@
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJE486zh5S0gP76J77DqWdY781lxLiSpt2k0Q3krhA-YGD2IoeUewE-YV6Frge2yL3qhZPq6pzLmnMyvSI8pSGKJRXrHuo/512fx384f"
         },
         "prices": {
-          "Factory New": "115.00",
-          "Minimal Wear": "13.07",
-          "Field-Tested": "7.12",
-          "Well-Worn": "5.96",
-          "Battle-Scarred": "6.44"
+          "Factory New": "206.16",
+          "Minimal Wear": "22.97",
+          "Field-Tested": "5.49",
+          "Well-Worn": "8.13",
+          "Battle-Scarred": "6.82"
         }
       },
       {
@@ -82,11 +82,11 @@
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-HnvD8J_WCzzMIvZxw2LuYo9Si3VXh8xVsZTvzcoaRelM3Z1iFrFW4k-ro05Luot2XngnYj6fx/512fx384f"
         },
         "prices": {
-          "Factory New": "178.52",
-          "Minimal Wear": "21.86",
-          "Field-Tested": "6.73",
-          "Well-Worn": "6.37",
-          "Battle-Scarred": "5.54"
+          "Factory New": "117.23",
+          "Minimal Wear": "13.96",
+          "Field-Tested": "6.60",
+          "Well-Worn": "5.13",
+          "Battle-Scarred": "4.80"
         }
       }
     ],
@@ -101,11 +101,11 @@
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3Yi1Q7cWJmImMn-O6N7rSwWgA65Uh07jCrYr0iQ3s-ERtYWimLIaTelU8MArR-wTswurthIj84soBtJxcrA/512fx384f"
         },
         "prices": {
-          "Factory New": "46.32",
-          "Minimal Wear": "7.12",
-          "Field-Tested": "4.30",
-          "Well-Worn": "3.28",
-          "Battle-Scarred": "2.94"
+          "Factory New": "46.14",
+          "Minimal Wear": "7.69",
+          "Field-Tested": "2.75",
+          "Well-Worn": "2.42",
+          "Battle-Scarred": "2.58"
         }
       }
     ]
