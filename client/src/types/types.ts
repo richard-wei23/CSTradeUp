@@ -2,7 +2,7 @@ import Decimal from "decimal.js-light";
 
 export type SkinsData = {
     [collection: string]: {
-        [grade in Grade]: SkinData[];
+        [quality in Quality]: SkinData[];
     }
 }
 
@@ -12,14 +12,14 @@ export type Contract = {
 }
 
 export type Outcome = {
-    skinOutcomes: Map<SkinData, number>;
+    contractOutcomes: Map<SkinData, number>;
     expectedValue: number;
     variance: number;
 }
 
 export type SkinData = {
     readonly name: string;
-    readonly grade: Grade;
+    readonly quality: Quality;
     readonly collection: string;
     readonly img: string;
     stattrak: boolean;
@@ -34,13 +34,30 @@ export type SkinData = {
     priceInput: number;
 }
 
-export type Grade =
+export type Quality =
     "Covert" |
     "Classified" |
     "Restricted" |
     "Mil-Spec" |
     "Industrial Grade" |
     "Consumer Grade"
+
+export const tohigherQuality = (quality: Quality) : Quality | null => {
+    if (quality == "Consumer Grade") {
+        return "Industrial Grade";
+    } else if (quality == "Industrial Grade") {
+        return "Mil-Spec";
+    } else if (quality == "Mil-Spec") {
+        return "Restricted";
+    } else if (quality == "Restricted") {
+        return "Classified";
+    } else if (quality == "Classified") {
+        return "Covert";
+    } else {
+        console.error("Invalid Quality");
+        return null;
+    }
+}
 
 export const toFloatCategory = (float: Decimal): string => {
     if (float.lte(0.7)) {

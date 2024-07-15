@@ -16,7 +16,7 @@ const parseFiles = async (jsonDirectoryPath) => {
             try {
                 const jsonData = JSON.parse(data);
 
-                let fileSkins = {};
+                let collectionSkins = {};
                 for (const category in jsonData.content) {
                     const skinsInCategory = jsonData.content[category].map(skin => ({
                         name: skin.name,
@@ -33,10 +33,10 @@ const parseFiles = async (jsonDirectoryPath) => {
                         priceInput: +Object.values(skin.prices)[0].replace(".", ""),
                     }));
  
-                    fileSkins[category] = skinsInCategory;
+                    collectionSkins[category] = skinsInCategory;
                 }
 
-                skins[jsonData.name] = fileSkins;
+                skins[jsonData.name] = collectionSkins;
             }
             catch (err) {
                 console.error(`Error parsing JSON data from ${filePath}:`, err);

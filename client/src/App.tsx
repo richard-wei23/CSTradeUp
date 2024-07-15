@@ -14,7 +14,7 @@ const App = (): React.JSX.Element => {
     <Navbar />
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/trade-up" element={<TradeUp loadContract={tempContract} />} />
+      <Route path="/trade-up" element={<TradeUp loadContract={tempContract} loadOutcome={null} />} />
       {/* <Route path="/api/list" /> */}
     </Routes>
   </>

@@ -1,9 +1,8 @@
 import { Decimal } from 'decimal.js-light';
 
-// Old Type: Map<string, Map<Grade, SkinData[]>>
 export type SkinsData = {
     [collection: string]: {
-        [grade in Grade]: SkinData[];
+        [quality in Quality]: SkinData[];
     }
 }
 
@@ -20,7 +19,7 @@ export type Outcome = {
 
 export type SkinData = {
     readonly name: string;
-    readonly grade: Grade;
+    readonly quality: Quality;
     readonly collection: string;
     readonly img: string;
     stattrak: boolean;
@@ -35,7 +34,7 @@ export type SkinData = {
     priceInput: number;
 }
 
-export type Grade =
+export type Quality =
     "Covert" |
     "Classified" |
     "Restricted" |
@@ -43,20 +42,20 @@ export type Grade =
     "Industrial Grade" |
     "Consumer Grade"
 
-export const toGrade = (grade: string): Grade => {
-    if (grade.includes("Covert")) {
+export const toQuality = (quality: string): Quality => {
+    if (quality.includes("Covert")) {
         return "Covert";
-    } else if (grade.includes("Classified")) {
+    } else if (quality.includes("Classified")) {
         return "Classified";
-    } else if (grade.includes("Restricted")) {
+    } else if (quality.includes("Restricted")) {
         return "Restricted";
-    } else if (grade.includes("Mil-Spec")) {
+    } else if (quality.includes("Mil-Spec")) {
         return "Mil-Spec";
-    } else if (grade.includes("Industrial Grade")) {
+    } else if (quality.includes("Industrial Grade")) {
         return "Industrial Grade";
-    } else if (grade.includes("Consumer Grade")) {
+    } else if (quality.includes("Consumer Grade")) {
         return "Consumer Grade";
     } else {
-        throw new Error(`Grade: ${grade} does not exist!`);
+        throw new Error(`Quality: ${quality} does not exist!`);
     }
 }

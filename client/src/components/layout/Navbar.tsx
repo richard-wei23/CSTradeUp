@@ -9,7 +9,7 @@ const NavBar = (): React.JSX.Element => {
             <Container>
                 <Navbar.Brand as={Link} to="/"><img
                     alt=""
-                    src="/logo.svg"
+                    src="../../../public/logo.svg"
                     width="50"
                     height="50"
                     className="d-inline-block align-top" />

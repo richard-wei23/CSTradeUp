@@ -102,7 +102,13 @@ const findWriteSkinPrice = async (skinName, filePath, jsonData, skin) => {
 };
 
 const scrapeSavePrices = async () => {
+    // * Scrape cases only for testing
+    // await Promise.all([parseFiles(casesPath)]);
+
     await Promise.all([parseFiles(casesPath), parseFiles(collectionsPath)]);
 };
+
+// * Scrape without starting server
+// scrapeSavePrices();
 
 export default scrapeSavePrices;

@@ -1,19 +1,20 @@
-// import React, { useState } from "react";
 import React from "react";
 import { Col, Container, Row, Card } from "react-bootstrap";
-import "./TradeUp.css"
 import { SkinData, SkinsData } from "../../types/types";
+import LazyLoad from 'react-lazy-load';
+import "../../assets/styles/TradeUp.css"
 // import Decimal from "decimal.js-light";
 
 type TradeUpSearchProps = {
     skinsData: SkinsData | null;
+    filter: { quality: string, includesString: string };
     onSkinClick: (skin: SkinData) => void;
 }
 
 const itemsPerRow = 4; // Skins per row to display
 
-const TradeUpSearch = ({ skinsData, onSkinClick }: TradeUpSearchProps): React.JSX.Element => {
-    // const [filter, setFilter] = useState();
+const TradeUpSearch = ({ skinsData, filter, onSkinClick }: TradeUpSearchProps): React.JSX.Element => {
+    filter.includesString = filter.includesString.toLowerCase();
 
     /**
      * Renders the skins
@@ -29,15 +30,20 @@ const TradeUpSearch = ({ skinsData, onSkinClick }: TradeUpSearchProps): React.JS
 
             Object.keys(skinsData).forEach(category => {
                 const qualities = skinsData[category];
-                for (const [_grade, skinDataArr] of Object.entries(qualities)) {
-                    for(const skin of skinDataArr) {
-                        skinChunk.push(skin);
-                        if (skinChunk.length === itemsPerRow) {
-                            skinsRows.push(
-                                <SkinsRow key={i} skinsDisplay={skinChunk} onSkinClick={onSkinClick} />
-                            )
-                            skinChunk = [];
-                            i++;
+                for (const [quality, skinDataArr] of Object.entries(qualities).slice(1, 6)) {
+                    if (filter.quality === "" || quality.startsWith(filter.quality)) {
+                        for (const skin of skinDataArr) {
+                            if (skin.name.toLowerCase().includes(filter.includesString)) {
+                                skinChunk.push(skin);
+
+                                if (skinChunk.length === itemsPerRow) {
+                                    skinsRows.push(
+                                        <SkinsRow key={i} skinsDisplay={skinChunk} onSkinClick={onSkinClick} />
+                                    )
+                                    skinChunk = [];
+                                    i++;
+                                }
+                            }
                         }
                     }
                 }
@@ -53,7 +59,7 @@ const TradeUpSearch = ({ skinsData, onSkinClick }: TradeUpSearchProps): React.JS
     }
 
     return <>
-        <Container className="colored-container my-3 rounded-3" fluid>
+        <Container className="colored-container my-3 py-0 rounded-3" fluid>
             {renderSkins()}
         </Container>
     </>;
@@ -72,7 +78,7 @@ const SkinsRow = ({ skinsDisplay, onSkinClick }: SkinsRowProps): React.JSX.Eleme
     const numEmptySkins = (itemsPerRow - (numSkins % itemsPerRow)) % itemsPerRow;
 
     return <>
-        <Row className="skins-row">
+        <Row className="skins-row g-4">
             {skinsDisplay.map((skinDisplay, index) => (
                 <Col key={index} xs={12} sm={6} md={4} lg={3}>
                     <Skin skinDisplay={skinDisplay} onSkinClick={() => onSkinClick(skinDisplay)} />
@@ -96,16 +102,15 @@ type SkinProps = {
 
 const Skin = ({ skinDisplay, onSkinClick }: SkinProps): React.JSX.Element => {
     return <>
-        <Card className={"skin-card square-card " + skinDisplay.grade.split(" ").join("-").toLowerCase()} onClick={() => onSkinClick(skinDisplay)}>
-            <Card.Header>{skinDisplay.name}</Card.Header>
-            <Card.Img src={skinDisplay.img} alt="Card image" />
-            <Card.Body>
+        <Card className={"skin-card h-100 py-2 square-card " + skinDisplay.quality.split(" ").join("-").toLowerCase()} onClick={() => onSkinClick(skinDisplay)}>
+            <Card.Header className="py-1">{skinDisplay.name}</Card.Header>
+            <LazyLoad offset={300} >
+                <Card.Img src={skinDisplay.img} alt="Skin Image" />
+            </LazyLoad>
+            <Card.Body className="py-0">
                 <Card.Text className="text-center">
-                    $0 - ${skinDisplay.priceInput / 100}
-                    <br />
-                    Min Float:
-                    <br />
-                    Max Float:
+                    ${skinDisplay.priceInput / 100}
+
                 </Card.Text>
             </Card.Body>
         </Card>

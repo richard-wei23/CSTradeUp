@@ -1,4 +1,30 @@
 body {
   background-color: #3F1C60;
   color: #FEFCFD;
+  --sb-track-color: #ffffff00;
+  --sb-thumb-color: #ffffff;
+  --sb-size: 10px;
+}
+
+
+*::-webkit-scrollbar {
+  width: var(--sb-size)
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--sb-track-color);
+  border-radius: 3px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--sb-thumb-color);
+  border-radius: 3px;
+  
+}
+
+@supports not selector(::-webkit-scrollbar) {
+  * {
+    scrollbar-color: var(--sb-thumb-color)
+                     var(--sb-track-color);
+  }
 }

@@ -2,7 +2,8 @@
   background-color: rgb(125, 56, 201, 70%);
   padding: 0.5rem;
   overflow-x: hidden;
-  overflow-y: auto;
+  height: 86vh;
+  /* overflow-y: auto; */
 }
 
 .skin-card {
@@ -18,14 +19,15 @@
 }
 
 .skins-row {
-  margin: 1rem;
+  margin: 0px;
 }
 
 .card-header {
   background-color: transparent;
+  border-bottom: transparent;
 }
 
-/* Colors for skin grades */
+/* Colors for skin qualities */
 
 /* Covert */
 @property --covertColor {

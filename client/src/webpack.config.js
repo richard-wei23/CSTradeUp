@@ -51,7 +51,7 @@ const config = {
         ]
       },
       {
-        test: /\.(ico|png)$/i,
+        test: /\.(ico|png|svg|jpe?g|gif)$/i,
         use: ['file-loader'],
       },
     ]
@@ -83,7 +83,8 @@ const config = {
       title: info.TITLE,
       chunks: ['main'],
       template: './public/index.html',
-      templateParameters: { TITLE: info.TITLE }
+      templateParameters: { TITLE: info.TITLE },
+      favicon: './public/favicon.ico'
     }),
   ],
 }
