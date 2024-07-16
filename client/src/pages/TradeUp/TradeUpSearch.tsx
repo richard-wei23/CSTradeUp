@@ -1,8 +1,8 @@
 import React from "react";
-import { Col, Container, Row, Card } from "react-bootstrap";
+import { Container} from "react-bootstrap";
 import { SkinData, SkinsData } from "../../types/types";
-import LazyLoad from 'react-lazy-load';
 import "../../assets/styles/TradeUp.css"
+import SkinsRow from "./SkinsDisplay";
 // import Decimal from "decimal.js-light";
 
 type TradeUpSearchProps = {
@@ -32,26 +32,26 @@ const TradeUpSearch = ({ skinsData, filter, onSkinClick }: TradeUpSearchProps): 
                 const qualities = skinsData[category];
                 for (const [quality, skinDataArr] of Object.entries(qualities).slice(1, 6)) {
                     if (filter.quality === "" || quality.startsWith(filter.quality)) {
-                        for (const skin of skinDataArr) {
+                        skinDataArr.forEach((skin) => {
                             if (skin.name.toLowerCase().includes(filter.includesString)) {
                                 skinChunk.push(skin);
 
                                 if (skinChunk.length === itemsPerRow) {
                                     skinsRows.push(
-                                        <SkinsRow key={i} skinsDisplay={skinChunk} onSkinClick={onSkinClick} />
+                                        <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={onSkinClick} />
                                     )
                                     skinChunk = [];
                                     i++;
                                 }
                             }
-                        }
+                        });
                     }
                 }
             });
 
             if (skinChunk.length > 0) {
                 skinsRows.push(
-                    <SkinsRow key={i} skinsDisplay={skinChunk} onSkinClick={onSkinClick} />
+                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={onSkinClick} />
                 )
             }
             return <>{skinsRows}</>;
@@ -66,53 +66,3 @@ const TradeUpSearch = ({ skinsData, filter, onSkinClick }: TradeUpSearchProps): 
 }
 
 export default TradeUpSearch;
-
-type SkinsRowProps = {
-    skinsDisplay: SkinData[];
-    onSkinClick: (skin: SkinData) => void;
-}
-
-const SkinsRow = ({ skinsDisplay, onSkinClick }: SkinsRowProps): React.JSX.Element => {
-    // Calculate the number of items per row based on the column size
-    const numSkins = skinsDisplay.length;
-    const numEmptySkins = (itemsPerRow - (numSkins % itemsPerRow)) % itemsPerRow;
-
-    return <>
-        <Row className="skins-row g-4">
-            {skinsDisplay.map((skinDisplay, index) => (
-                <Col key={index} xs={12} sm={6} md={4} lg={3}>
-                    <Skin skinDisplay={skinDisplay} onSkinClick={() => onSkinClick(skinDisplay)} />
-                </Col>
-            ))}
-            {Array.from({ length: numEmptySkins }).map((_, index) => (
-                <Col key={`empty-${index}`} xs={12} sm={6} md={4} lg={3}>
-                    <div className="empty-skin"></div>
-                </Col>
-            ))}
-        </Row>
-    </>;
-}
-
-
-
-type SkinProps = {
-    skinDisplay: SkinData
-    onSkinClick: (skin: SkinData) => void;
-}
-
-const Skin = ({ skinDisplay, onSkinClick }: SkinProps): React.JSX.Element => {
-    return <>
-        <Card className={"skin-card h-100 py-2 square-card " + skinDisplay.quality.split(" ").join("-").toLowerCase()} onClick={() => onSkinClick(skinDisplay)}>
-            <Card.Header className="py-1">{skinDisplay.name}</Card.Header>
-            <LazyLoad offset={300} >
-                <Card.Img src={skinDisplay.img} alt="Skin Image" />
-            </LazyLoad>
-            <Card.Body className="py-0">
-                <Card.Text className="text-center">
-                    ${skinDisplay.priceInput / 100}
-
-                </Card.Text>
-            </Card.Body>
-        </Card>
-    </>
-}
