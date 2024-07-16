@@ -1,7 +1,7 @@
 {
   "name": "The Cobblestone Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AWP | Dragon Lore",
         "can_be_souvenir": true,
@@ -25,7 +25,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "M4A1-S | Knight",
         "can_be_souvenir": true,
@@ -43,7 +43,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "Desert Eagle | Hand Cannon",
         "can_be_souvenir": true,
@@ -83,7 +83,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MP9 | Dark Age",
         "can_be_souvenir": true,
@@ -121,7 +121,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "MAG-7 | Silver",
         "can_be_souvenir": true,
@@ -201,7 +201,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "Dual Berettas | Briar",
         "can_be_souvenir": true,

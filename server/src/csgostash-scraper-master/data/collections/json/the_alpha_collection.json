@@ -1,9 +1,9 @@
 {
   "name": "The Alpha Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "FAMAS | Spitfire",
         "can_be_souvenir": false,
@@ -36,7 +36,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MAG-7 | Hazard",
         "can_be_souvenir": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "SSG 08 | Mayan Dreams",
         "can_be_souvenir": false,
@@ -173,7 +173,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "XM1014 | Jungle",
         "can_be_souvenir": false,

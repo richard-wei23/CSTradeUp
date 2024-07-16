@@ -1,8 +1,8 @@
 {
   "name": "The Overpass Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [
+    "Covert": [],
+    "Classified": [
       {
         "name": "M4A1-S | Master Piece",
         "can_be_souvenir": true,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "USP-S | Road Rash",
         "can_be_souvenir": true,
@@ -72,7 +72,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "SSG 08 | Detour",
         "can_be_souvenir": true,
@@ -138,7 +138,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "Desert Eagle | Urban DDPAT",
         "can_be_souvenir": true,
@@ -228,7 +228,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "M249 | Contrast Spray",
         "can_be_souvenir": true,

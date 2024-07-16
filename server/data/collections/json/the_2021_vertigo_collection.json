@@ -1,7 +1,7 @@
 {
   "name": "The 2021 Vertigo Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "M4A1-S | Imminent Danger",
         "can_be_souvenir": true,
@@ -25,7 +25,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "SG 553 | Hazard Pay",
         "can_be_souvenir": true,
@@ -71,7 +71,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "P250 | Digital Architect",
         "can_be_souvenir": true,
@@ -135,7 +135,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "P90 | Schematic",
         "can_be_souvenir": true,
@@ -223,7 +223,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "SSG 08 | Carbon Fiber",
         "can_be_souvenir": true,
@@ -305,7 +305,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "CZ75-Auto | Framework",
         "can_be_souvenir": true,

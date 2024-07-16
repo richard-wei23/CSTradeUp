@@ -1,9 +1,9 @@
 {
   "name": "The Vertigo Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "Dual Berettas | Demolition",
         "can_be_souvenir": true,
@@ -23,7 +23,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "AK-47 | Black Laminate",
         "can_be_souvenir": true,
@@ -69,7 +69,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "PP-Bizon | Carbon Fiber",
         "can_be_souvenir": true,
@@ -87,7 +87,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "MAC-10 | Urban DDPAT",
         "can_be_souvenir": true,

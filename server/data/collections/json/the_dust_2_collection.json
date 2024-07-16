@@ -1,8 +1,8 @@
 {
   "name": "The Dust 2 Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [
+    "Covert": [],
+    "Classified": [
       {
         "name": "R8 Revolver | Amber Fade",
         "can_be_souvenir": true,
@@ -24,7 +24,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "P2000 | Amber Fade",
         "can_be_souvenir": true,
@@ -46,7 +46,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "M4A1-S | VariCamo",
         "can_be_souvenir": true,
@@ -114,7 +114,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "Tec-9 | VariCamo",
         "can_be_souvenir": true,
@@ -226,7 +226,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "P250 | Sand Dune",
         "can_be_souvenir": true,

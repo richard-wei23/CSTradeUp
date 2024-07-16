@@ -1,7 +1,7 @@
 {
   "name": "Recoil Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "USP-S | Printstream",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "P250 | Visions",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "SG 553 | Dragon Tech",
         "can_be_souvenir": false,
@@ -227,7 +227,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Galil AR | Destroyer",
         "can_be_souvenir": false,
@@ -383,7 +383,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

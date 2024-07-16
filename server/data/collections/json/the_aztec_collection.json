@@ -1,10 +1,10 @@
 {
   "name": "The Aztec Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [],
-    "Mil-Spec Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [],
+    "Mil-Spec": [
       {
         "name": "Tec-9 | Ossified",
         "can_be_souvenir": false,
@@ -20,7 +20,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "AK-47 | Jungle Spray",
         "can_be_souvenir": false,
@@ -56,7 +56,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "Five-SeveN | Jungle",
         "can_be_souvenir": false,

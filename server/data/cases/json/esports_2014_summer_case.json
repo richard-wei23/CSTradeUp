@@ -1,7 +1,7 @@
 {
   "name": "eSports 2014 Summer Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "M4A4 | Bullet Rain",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "AWP | Corticera",
         "can_be_souvenir": false,
@@ -129,7 +129,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "MP7 | Ocean Foam",
         "can_be_souvenir": false,
@@ -231,7 +231,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "CZ75-Auto | Hexane",
         "can_be_souvenir": false,
@@ -351,7 +351,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

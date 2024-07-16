@@ -1,7 +1,7 @@
 {
   "name": "Operation Phoenix Weapon Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AUG | Chameleon",
         "can_be_souvenir": false,
@@ -43,7 +43,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "P90 | Trigon",
         "can_be_souvenir": false,
@@ -103,7 +103,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "MAC-10 | Heat",
         "can_be_souvenir": false,
@@ -185,7 +185,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Tec-9 | Sandstorm",
         "can_be_souvenir": false,
@@ -269,7 +269,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

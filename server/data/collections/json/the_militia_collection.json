@@ -1,8 +1,8 @@
 {
   "name": "The Militia Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [
+    "Covert": [],
+    "Classified": [
       {
         "name": "SCAR-20 | Splash Jam",
         "can_be_souvenir": false,
@@ -21,7 +21,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "M4A4 | Modern Hunter",
         "can_be_souvenir": false,
@@ -40,7 +40,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Nova | Blaze Orange",
         "can_be_souvenir": false,
@@ -127,7 +127,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "P2000 | Grassland Leaves",
         "can_be_souvenir": false,
@@ -146,7 +146,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "PP-Bizon | Forest Leaves",
         "can_be_souvenir": false,

@@ -1,7 +1,7 @@
 {
   "name": "The 2021 Dust 2 Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AK-47 | Gold Arabesque",
         "can_be_souvenir": true,
@@ -25,7 +25,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "UMP-45 | Fade",
         "can_be_souvenir": true,
@@ -65,7 +65,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "MAC-10 | Case Hardened",
         "can_be_souvenir": true,
@@ -129,7 +129,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Nova | Quick Sand",
         "can_be_souvenir": true,
@@ -205,7 +205,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "Five-SeveN | Withered Vine",
         "can_be_souvenir": true,
@@ -295,7 +295,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "Sawed-Off | Parched",
         "can_be_souvenir": true,

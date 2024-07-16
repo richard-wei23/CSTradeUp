@@ -1,9 +1,9 @@
 {
   "name": "The Mirage Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "MAG-7 | Bulldozer",
         "can_be_souvenir": true,
@@ -27,7 +27,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "UMP-45 | Blaze",
         "can_be_souvenir": true,
@@ -81,7 +81,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "SSG 08 | Tropical Storm",
         "can_be_souvenir": true,
@@ -193,7 +193,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "G3SG1 | Safari Mesh",
         "can_be_souvenir": true,

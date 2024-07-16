@@ -1,8 +1,8 @@
 {
   "name": "The 2018 Nuke Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [
+    "Covert": [],
+    "Classified": [
       {
         "name": "M4A1-S | Control Panel",
         "can_be_souvenir": true,
@@ -48,7 +48,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "Glock-18 | Nuclear Garden",
         "can_be_souvenir": true,
@@ -116,7 +116,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MP5-SD | Co-Processor",
         "can_be_souvenir": true,
@@ -206,7 +206,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "Negev | Bulkhead",
         "can_be_souvenir": true,
@@ -296,7 +296,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "PP-Bizon | Facility Sketch",
         "can_be_souvenir": true,

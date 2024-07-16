@@ -1,7 +1,7 @@
 {
   "name": "CS:GO Weapon Case 2",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "SSG 08 | Blood in the Water",
         "can_be_souvenir": false,
@@ -21,7 +21,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "P90 | Cold Blooded",
         "can_be_souvenir": false,
@@ -57,7 +57,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "MP9 | Hypnotic",
         "can_be_souvenir": false,
@@ -131,7 +131,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "FAMAS | Hexane",
         "can_be_souvenir": false,
@@ -225,7 +225,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

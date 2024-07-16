@@ -1,7 +1,7 @@
 {
   "name": "Operation Riptide Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AK-47 | Leet Museo",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "SSG 08 | Turbo Peek",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "MAG-7 | BI83 Spectrum",
         "can_be_souvenir": false,
@@ -225,7 +225,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "PP-Bizon | Lumen",
         "can_be_souvenir": false,
@@ -381,7 +381,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

@@ -31,7 +31,7 @@ const TradeUpSearch = ({ skinsData, filter, onSkinClick }: TradeUpSearchProps): 
             Object.keys(skinsData).forEach(category => {
                 const qualities = skinsData[category];
                 for (const [quality, skinDataArr] of Object.entries(qualities).slice(1, 6)) {
-                    if (filter.quality === "" || quality.startsWith(filter.quality)) {
+                    if (quality.startsWith(filter.quality)) {
                         skinDataArr.forEach((skin) => {
                             if (skin.name.toLowerCase().includes(filter.includesString)) {
                                 skinChunk.push(skin);

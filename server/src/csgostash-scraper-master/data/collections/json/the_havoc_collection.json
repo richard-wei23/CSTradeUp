@@ -1,7 +1,7 @@
 {
   "name": "The Havoc Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AK-47 | X-Ray",
         "can_be_souvenir": false,
@@ -20,7 +20,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "AWP | Silk Tiger",
         "can_be_souvenir": false,
@@ -56,7 +56,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "SG 553 | Hypnotic",
         "can_be_souvenir": false,
@@ -105,7 +105,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "P250 | Bengal Tiger",
         "can_be_souvenir": false,
@@ -175,7 +175,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "UMP-45 | Houndstooth",
         "can_be_souvenir": false,
@@ -245,7 +245,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "Dual Berettas | Heist",
         "can_be_souvenir": false,

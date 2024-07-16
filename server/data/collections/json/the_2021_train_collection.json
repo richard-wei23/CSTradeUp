@@ -1,7 +1,7 @@
 {
   "name": "The 2021 Train Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "M4A4 | The Coalition",
         "can_be_souvenir": false,
@@ -37,7 +37,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "MAC-10 | Propaganda",
         "can_be_souvenir": false,
@@ -89,7 +89,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "CZ75-Auto | Syndicate",
         "can_be_souvenir": false,
@@ -174,7 +174,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "AUG | Amber Fade",
         "can_be_souvenir": false,
@@ -291,7 +291,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

@@ -1,9 +1,9 @@
 {
   "name": "The Nuke Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "Tec-9 | Nuclear Threat",
         "can_be_souvenir": true,
@@ -49,7 +49,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "M4A4 | Radiation Hazard",
         "can_be_souvenir": true,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "UMP-45 | Fallout Warning",
         "can_be_souvenir": true,
@@ -141,7 +141,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "Sawed-Off | Irradiated Alert",
         "can_be_souvenir": true,

@@ -1,8 +1,8 @@
 {
   "name": "The Baggage Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [
+    "Covert": [],
+    "Classified": [
       {
         "name": "AK-47 | Jet Set",
         "can_be_souvenir": false,
@@ -21,7 +21,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "Desert Eagle | Pilot",
         "can_be_souvenir": false,
@@ -57,7 +57,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Sawed-Off | First Class",
         "can_be_souvenir": false,
@@ -110,7 +110,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "P90 | Leather",
         "can_be_souvenir": false,
@@ -180,7 +180,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "MP9 | Green Plaid",
         "can_be_souvenir": false,

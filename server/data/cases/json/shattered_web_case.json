@@ -1,7 +1,7 @@
 {
   "name": "Shattered Web Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AWP | Containment Breach",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "SG 553 | Colony IV",
         "can_be_souvenir": false,
@@ -113,7 +113,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "PP-Bizon | Embargo",
         "can_be_souvenir": false,
@@ -225,7 +225,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Nova | Plume",
         "can_be_souvenir": false,
@@ -379,7 +379,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

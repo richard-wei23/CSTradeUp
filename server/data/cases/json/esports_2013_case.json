@@ -1,7 +1,7 @@
 {
   "name": "eSports 2013 Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "P90 | Death by Kitty",
         "can_be_souvenir": false,
@@ -19,7 +19,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "AK-47 | Red Laminate",
         "can_be_souvenir": false,
@@ -61,7 +61,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "Galil AR | Orange DDPAT",
         "can_be_souvenir": false,
@@ -125,7 +125,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "M4A4 | Faded Zebra",
         "can_be_souvenir": false,
@@ -183,7 +183,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

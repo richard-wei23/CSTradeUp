@@ -1,8 +1,8 @@
 {
   "name": "The Bank Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [
+    "Covert": [],
+    "Classified": [
       {
         "name": "P250 | Franklin",
         "can_be_souvenir": false,
@@ -20,7 +20,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "AK-47 | Emerald Pinstripe",
         "can_be_souvenir": false,
@@ -39,7 +39,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Galil AR | Tuxedo",
         "can_be_souvenir": false,
@@ -90,7 +90,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "MAC-10 | Silver",
         "can_be_souvenir": false,
@@ -166,7 +166,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "Sawed-Off | Forest DDPAT",
         "can_be_souvenir": false,

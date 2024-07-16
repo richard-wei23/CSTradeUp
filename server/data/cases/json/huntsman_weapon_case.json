@@ -1,7 +1,7 @@
 {
   "name": "Huntsman Weapon Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "M4A4 | Desert-Strike",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "SCAR-20 | Cyrex",
         "can_be_souvenir": false,
@@ -113,7 +113,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "AUG | Torque",
         "can_be_souvenir": false,
@@ -203,7 +203,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Tec-9 | Isaac",
         "can_be_souvenir": false,
@@ -329,7 +329,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

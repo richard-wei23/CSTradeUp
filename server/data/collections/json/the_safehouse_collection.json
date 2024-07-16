@@ -1,9 +1,9 @@
 {
   "name": "The Safehouse Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "M4A1-S | Nitro",
         "can_be_souvenir": true,
@@ -27,7 +27,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Five-SeveN | Silver Quartz",
         "can_be_souvenir": true,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "USP-S | Forest Leaves",
         "can_be_souvenir": true,
@@ -219,7 +219,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "SSG 08 | Blue Spruce",
         "can_be_souvenir": true,

@@ -1,7 +1,7 @@
 {
   "name": "The Canals Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AWP | The Prince",
         "can_be_souvenir": false,
@@ -20,7 +20,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "MAG-7 | Cinquedea",
         "can_be_souvenir": false,
@@ -39,7 +39,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "MAC-10 | Red Filigree",
         "can_be_souvenir": false,
@@ -92,7 +92,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "G3SG1 | Violet Murano",
         "can_be_souvenir": false,
@@ -159,7 +159,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "AK-47 | Baroque Purple",
         "can_be_souvenir": false,
@@ -229,7 +229,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "AUG | Navy Murano",
         "can_be_souvenir": false,

@@ -1,9 +1,9 @@
 {
   "name": "The Cache Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "FAMAS | Styx",
         "can_be_souvenir": true,
@@ -49,7 +49,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Glock-18 | Reactor",
         "can_be_souvenir": true,
@@ -161,7 +161,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "Negev | Nuclear Waste",
         "can_be_souvenir": true,
@@ -293,6 +293,6 @@
         }
       }
     ],
-    "Consumer Grade Skins": []
+    "Consumer Grade": []
   }
 }

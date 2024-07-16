@@ -70,7 +70,6 @@ def fmt_dict(container):
     for item in container:
         if "★" not in item.name:
             itemdict = {"name": item.name,
-                        "can_be_souvenir": item.can_be_souvenir,
                         "can_be_stattrak": item.can_be_stattrak,
                         "wears": item.wears}
             rar = { "Covert": covert,
@@ -82,12 +81,12 @@ def fmt_dict(container):
 
             rar[item.rarity].append(itemdict)
 
-    content = {"Covert Skins": covert,
-               "Classified Skins": classified,
-               "Restricted Skins": restricted,
-               "Mil-Spec Skins": milspec,
-               "Industrial Grade Skins": industrial,
-               "Consumer Grade Skins": consumer}
+    content = {"Covert": covert,
+               "Classified": classified,
+               "Restricted": restricted,
+               "Mil-Spec": milspec,
+               "Industrial Grade": industrial,
+               "Consumer Grade": consumer}
 
     fmt_dict = {"name": container.name,
                 "content": content}

@@ -1,7 +1,7 @@
 {
   "name": "Operation Wildfire Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AK-47 | Fuel Injector",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "Desert Eagle | Kumicho Dragon",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "Glock-18 | Royal Legion",
         "can_be_souvenir": false,
@@ -223,7 +223,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MAC-10 | Lapis Gator",
         "can_be_souvenir": false,
@@ -357,7 +357,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

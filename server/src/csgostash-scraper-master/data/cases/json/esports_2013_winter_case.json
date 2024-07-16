@@ -1,7 +1,7 @@
 {
   "name": "eSports 2013 Winter Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "M4A4 | X-Ray",
         "can_be_souvenir": false,
@@ -21,7 +21,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "Desert Eagle | Cobalt Disruption",
         "can_be_souvenir": false,
@@ -81,7 +81,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "P90 | Blind Spot",
         "can_be_souvenir": false,
@@ -125,7 +125,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Galil AR | Blue Titanium",
         "can_be_souvenir": false,
@@ -241,7 +241,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

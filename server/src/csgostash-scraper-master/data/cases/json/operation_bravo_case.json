@@ -1,7 +1,7 @@
 {
   "name": "Operation Bravo Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "Desert Eagle | Golden Koi",
         "can_be_souvenir": false,
@@ -41,7 +41,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "AWP | Graphite",
         "can_be_souvenir": false,
@@ -97,7 +97,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "MAC-10 | Graven",
         "can_be_souvenir": false,
@@ -179,7 +179,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Dual Berettas | Black Limba",
         "can_be_souvenir": false,
@@ -305,7 +305,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

@@ -1,9 +1,9 @@
 {
   "name": "The Assault Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "Glock-18 | Fade",
         "can_be_souvenir": false,
@@ -36,7 +36,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "AUG | Hot Rod",
         "can_be_souvenir": false,
@@ -66,7 +66,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "Five-SeveN | Candy Apple",
         "can_be_souvenir": false,
@@ -83,7 +83,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "SG 553 | Tornado",
         "can_be_souvenir": false,

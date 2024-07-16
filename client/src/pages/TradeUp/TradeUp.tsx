@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Contract, Outcome, SkinData, SkinsData } from "../../types/types";
+import { Contract, Outcome, SkinData, SkinsData, tohigherQuality } from "../../types/types";
 import TradeUpContract from "./TradeUpContract";
 import TradeUpSearch from "./TradeUpSearch";
 import { Container, Row, Col } from "react-bootstrap";
@@ -19,6 +19,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
     const [skinsData, setSkinsData] = useState<SkinsData | null>(null);
     const [filter, setFilter] = useState<{ quality: string, includesString: string }>({ quality: "", includesString: "" });
     const [contract, setContract] = useState<Contract>(loadContract);
+    const [outcome, setOutcome] = useState<Outcome | null>(loadOutcome);
 
     /**
      * Handles when a skin in search is clicked. Adds the given skin to the contract.
@@ -26,17 +27,74 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
      */
     function handleSkinClick(skin: SkinData): void {
         if (contract.skins.length < 10) {
-            setFilter({quality: skin.quality, includesString: filter.includesString});
+            setFilter({ quality: skin.quality, includesString: filter.includesString });
             const newContract = contract;
             newContract.skins.push(skin);
             newContract.cost += skin.priceInput;
             setContract(newContract);
-            console.log(contract)
+            calculateOutcome()
         } else {
             doAddError("Cannot add more than 10 skins!");
-            loadOutcome;
         }
     }
+
+    /**
+     * Calculates contract outcome if there are enough skins inputted
+     * @param {Contract} newContract - Contract to calculate the outcome of
+     * @returns {Outcome | null} - returns Outcome if enough skins are inputted, otherwise null
+     */
+    function calculateOutcome(): void {
+        console.log("Calculating outcome...");
+        if (loadContract.skins.length !== 10 || skinsData === null) {
+            setOutcome(null);
+            console.log("Insufficient skins or skins data not loaded.");
+        } else {
+            let contractOutcomes: Map<SkinData, number> = new Map<SkinData, number>();
+            let totalOutcomes = 0;
+
+            for (const skin of loadContract.skins) {
+                // Finds skin outcomes from collection of skin
+                let collection = skinsData[skin.collection];
+                const higherQuality = tohigherQuality(skin.quality);
+
+                if (higherQuality === null) {
+                    // TODO: Change to error
+                    console.error("Invalid Contract");
+                    break;
+                }
+
+                // Sets price and probability of skin outcomes
+                // TODO: Change so don't have to concat skins
+                const skinOutcomes = collection[higherQuality];
+
+                for (const skin of skinOutcomes) {
+                    if (!contractOutcomes.has(skin)) {
+                        contractOutcomes.set(skin, 0);
+                    }
+                    // Type Assertion because typescript thinks it may be undefined
+                    contractOutcomes.set(skin, contractOutcomes.get(skin)! + 1);
+                }
+                totalOutcomes += skinOutcomes.length;
+            }
+
+            let expectedValue: number = 0;
+            let variance: number = 0;
+            for (const [skin, amount] of contractOutcomes.entries()) {
+                const cost = skin.priceInput / 100;
+                expectedValue += cost * (amount / totalOutcomes);
+                variance += (cost ** 2) * (amount / totalOutcomes);
+            }
+            variance -= (expectedValue ** 2);
+            console.log("Var: " +  variance)
+
+            setOutcome({
+                contractOutcomes,
+                expectedValue,
+                variance
+            });
+        }
+    }
+
 
     /**
      * Gets the skins from the server
@@ -110,7 +168,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
         <Container fluid >
             <Row>
                 <Col>
-                    <TradeUpContract loadContract={loadContract} loadOutcome={loadOutcome} skinsData={skinsData} />
+                    <TradeUpContract contract={contract} outcome={outcome} />
                     {/* <Container className="colored-container my-3 rounded-3" fluid>
                         <Row className="justify-content-center align-items-center" >
                             <Col xs={12} md={8} style={{ backgroundColor: '#f0f0f0', padding: '20px', color: "black" }}>

@@ -1,7 +1,7 @@
 {
   "name": "Chroma 2 Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "MAC-10 | Neon Rider",
         "can_be_souvenir": false,
@@ -45,7 +45,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "Five-SeveN | Monkey Business",
         "can_be_souvenir": false,
@@ -109,7 +109,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "AWP | Worm God",
         "can_be_souvenir": false,
@@ -189,7 +189,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MP7 | Armor Core",
         "can_be_souvenir": false,
@@ -317,7 +317,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

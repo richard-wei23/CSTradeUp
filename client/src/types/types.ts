@@ -31,7 +31,7 @@ export type SkinData = {
         [float: string]: string;
     };
     floatInput: Decimal;
-    priceInput: number;
+    priceInput: Decimal;
 }
 
 export type Quality =

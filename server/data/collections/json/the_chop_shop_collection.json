@@ -1,8 +1,8 @@
 {
   "name": "The Chop Shop Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [
+    "Covert": [],
+    "Classified": [
       {
         "name": "M4A1-S | Hot Rod",
         "can_be_souvenir": false,
@@ -33,7 +33,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "SG 553 | Bulldozer",
         "can_be_souvenir": false,
@@ -69,7 +69,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MP7 | Full Stop",
         "can_be_souvenir": false,
@@ -150,7 +150,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "Galil AR | Urban Rubble",
         "can_be_souvenir": false,
@@ -203,7 +203,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "MAG-7 | Seabird",
         "can_be_souvenir": false,

@@ -1,7 +1,7 @@
 {
   "name": "The Norse Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AWP | Gungnir",
         "can_be_souvenir": false,
@@ -20,7 +20,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "Negev | Mjolnir",
         "can_be_souvenir": false,
@@ -39,7 +39,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "Desert Eagle | Emerald Jormungandr",
         "can_be_souvenir": false,
@@ -92,7 +92,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MAC-10 | Copper Borre",
         "can_be_souvenir": false,
@@ -162,7 +162,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "M4A1-S | Moss Quartz",
         "can_be_souvenir": false,
@@ -228,7 +228,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "SSG 08 | Red Stone",
         "can_be_souvenir": false,

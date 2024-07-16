@@ -1,7 +1,7 @@
 {
   "name": "The Control Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AWP | Fade",
         "can_be_souvenir": false,
@@ -17,7 +17,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "M4A1-S | Blue Phosphor",
         "can_be_souvenir": false,
@@ -50,7 +50,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "UMP-45 | Crime Scene",
         "can_be_souvenir": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "P2000 | Dispatch",
         "can_be_souvenir": false,
@@ -170,7 +170,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "Desert Eagle | The Bronze",
         "can_be_souvenir": false,
@@ -235,7 +235,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "MP9 | Army Sheen",
         "can_be_souvenir": false,

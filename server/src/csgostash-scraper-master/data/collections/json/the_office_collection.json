@@ -1,10 +1,10 @@
 {
   "name": "The Office Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [],
-    "Mil-Spec Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [],
+    "Mil-Spec": [
       {
         "name": "P2000 | Silver",
         "can_be_souvenir": false,
@@ -37,7 +37,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "G3SG1 | Arctic Camo",
         "can_be_souvenir": false,
@@ -90,7 +90,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "FAMAS | Contrast Spray",
         "can_be_souvenir": false,

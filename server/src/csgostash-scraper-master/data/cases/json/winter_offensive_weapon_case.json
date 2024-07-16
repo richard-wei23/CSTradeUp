@@ -1,7 +1,7 @@
 {
   "name": "Winter Offensive Weapon Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "M4A4 | Asiimov",
         "can_be_souvenir": false,
@@ -41,7 +41,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "M4A1-S | Guardian",
         "can_be_souvenir": false,
@@ -105,7 +105,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "Nova | Rising Skull",
         "can_be_souvenir": false,
@@ -189,7 +189,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Galil AR | Sandstorm",
         "can_be_souvenir": false,
@@ -271,7 +271,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

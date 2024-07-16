@@ -1,10 +1,10 @@
 {
   "name": "The Inferno Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [],
-    "Mil-Spec Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [],
+    "Mil-Spec": [
       {
         "name": "Dual Berettas | Anodized Navy",
         "can_be_souvenir": true,
@@ -44,7 +44,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "P250 | Gunsmoke",
         "can_be_souvenir": true,
@@ -90,7 +90,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "MAG-7 | Sand Dune",
         "can_be_souvenir": true,

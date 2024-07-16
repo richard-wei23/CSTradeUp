@@ -1,7 +1,7 @@
 {
   "name": "The Rising Sun Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AUG | Akihabara Accept",
         "can_be_souvenir": false,
@@ -20,7 +20,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "AK-47 | Hydroponic",
         "can_be_souvenir": false,
@@ -39,7 +39,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "M4A4 | Daybreak",
         "can_be_souvenir": false,
@@ -95,7 +95,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Tec-9 | Terrace",
         "can_be_souvenir": false,
@@ -148,7 +148,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "P250 | Crimson Kimono",
         "can_be_souvenir": false,
@@ -184,7 +184,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "PP-Bizon | Bamboo Print",
         "can_be_souvenir": false,

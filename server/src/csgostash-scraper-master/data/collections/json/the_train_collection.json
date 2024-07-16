@@ -1,9 +1,9 @@
 {
   "name": "The Train Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "Tec-9 | Red Quartz",
         "can_be_souvenir": true,
@@ -25,7 +25,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Desert Eagle | Urban Rubble",
         "can_be_souvenir": true,
@@ -69,7 +69,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "M4A4 | Urban DDPAT",
         "can_be_souvenir": true,
@@ -179,7 +179,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "G3SG1 | Polar Camo",
         "can_be_souvenir": true,

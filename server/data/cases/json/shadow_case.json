@@ -1,7 +1,7 @@
 {
   "name": "Shadow Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "USP-S | Kill Confirmed",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "SSG 08 | Big Iron",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "M249 | Nebula Crusader",
         "can_be_souvenir": false,
@@ -205,7 +205,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Glock-18 | Wraiths",
         "can_be_souvenir": false,
@@ -361,7 +361,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

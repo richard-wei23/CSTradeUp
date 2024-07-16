@@ -1,7 +1,7 @@
 {
   "name": "CS:GO Weapon Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AWP | Lightning Strike",
         "can_be_souvenir": false,
@@ -19,7 +19,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "AK-47 | Case Hardened",
         "can_be_souvenir": false,
@@ -59,7 +59,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "M4A1-S | Dark Water",
         "can_be_souvenir": false,
@@ -109,7 +109,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "SG 553 | Ultraviolet",
         "can_be_souvenir": false,
@@ -165,7 +165,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

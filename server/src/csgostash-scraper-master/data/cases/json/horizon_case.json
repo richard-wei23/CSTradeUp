@@ -1,7 +1,7 @@
 {
   "name": "Horizon Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "Desert Eagle | Code Red",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "Sawed-Off | Devourer",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "CZ75-Auto | Eco",
         "can_be_souvenir": false,
@@ -227,7 +227,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "R8 Revolver | Survivalist",
         "can_be_souvenir": false,
@@ -383,7 +383,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

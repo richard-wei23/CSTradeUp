@@ -1,7 +1,7 @@
 {
   "name": "Revolver Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "M4A4 | Royal Paladin",
         "can_be_souvenir": false,
@@ -45,7 +45,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "P90 | Shapewood",
         "can_be_souvenir": false,
@@ -111,7 +111,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "SG 553 | Tiger Moth",
         "can_be_souvenir": false,
@@ -245,7 +245,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "SCAR-20 | Outbreak",
         "can_be_souvenir": false,
@@ -373,7 +373,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "CS20 Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AWP | Wildfire",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "P90 | Nostalgia",
         "can_be_souvenir": false,
@@ -113,7 +113,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "MP5-SD | Agent",
         "can_be_souvenir": false,
@@ -225,7 +225,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Glock-18 | Sacrifice",
         "can_be_souvenir": false,
@@ -381,7 +381,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

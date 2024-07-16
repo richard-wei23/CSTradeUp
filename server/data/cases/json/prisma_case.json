@@ -1,7 +1,7 @@
 {
   "name": "Prisma Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "M4A4 | The Emperor",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "AUG | Momentum",
         "can_be_souvenir": false,
@@ -109,7 +109,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "Desert Eagle | Light Rail",
         "can_be_souvenir": false,
@@ -219,7 +219,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "FAMAS | Crypsis",
         "can_be_souvenir": false,
@@ -373,7 +373,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

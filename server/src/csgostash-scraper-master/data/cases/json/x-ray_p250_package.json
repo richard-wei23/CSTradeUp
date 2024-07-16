@@ -1,9 +1,9 @@
 {
   "name": "X-Ray P250 Package",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "P250 | X-Ray",
         "can_be_souvenir": false,
@@ -15,8 +15,8 @@
         }
       }
     ],
-    "Mil-Spec Skins": [],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Mil-Spec": [],
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

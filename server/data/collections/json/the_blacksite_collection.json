@@ -1,9 +1,9 @@
 {
   "name": "The Blacksite Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "MP5-SD | Lab Rats",
         "can_be_souvenir": true,
@@ -23,8 +23,8 @@
         }
       }
     ],
-    "Mil-Spec Skins": [],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Mil-Spec": [],
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

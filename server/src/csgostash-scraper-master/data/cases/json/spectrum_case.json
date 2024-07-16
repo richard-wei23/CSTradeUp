@@ -1,7 +1,7 @@
 {
   "name": "Spectrum Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AK-47 | Bloodsport",
         "can_be_souvenir": false,
@@ -45,7 +45,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "CZ75-Auto | Xiangliu",
         "can_be_souvenir": false,
@@ -113,7 +113,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "UMP-45 | Scaffold",
         "can_be_souvenir": false,
@@ -223,7 +223,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Desert Eagle | Oxide Blaze",
         "can_be_souvenir": false,
@@ -379,7 +379,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

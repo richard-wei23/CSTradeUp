@@ -1,7 +1,7 @@
 {
   "name": "Kilowatt Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AK-47 | Inheritance",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "M4A1-S | Black Lotus",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "M4A4 | Etch Lord",
         "can_be_souvenir": false,
@@ -227,7 +227,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Dual Berettas | Hideout",
         "can_be_souvenir": false,
@@ -383,7 +383,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

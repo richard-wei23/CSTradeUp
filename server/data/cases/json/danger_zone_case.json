@@ -1,7 +1,7 @@
 {
   "name": "Danger Zone Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "AWP | Neo-Noir",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "MP5-SD | Phosphor",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "P250 | Nevermore",
         "can_be_souvenir": false,
@@ -225,7 +225,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "M4A4 | Magnesium",
         "can_be_souvenir": false,
@@ -379,7 +379,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

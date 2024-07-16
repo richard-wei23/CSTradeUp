@@ -1,7 +1,7 @@
 {
   "name": "The Ancient Collection",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "M4A1-S | Welcome to the Jungle",
         "can_be_souvenir": true,
@@ -25,7 +25,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "AK-47 | Panthera onca",
         "can_be_souvenir": true,
@@ -71,7 +71,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "USP-S | Ancient Visions",
         "can_be_souvenir": true,
@@ -137,7 +137,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Galil AR | Dusk Ruins",
         "can_be_souvenir": true,
@@ -217,7 +217,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "CZ75-Auto | Silver",
         "can_be_souvenir": true,
@@ -301,7 +301,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "Nova | Army Sheen",
         "can_be_souvenir": true,

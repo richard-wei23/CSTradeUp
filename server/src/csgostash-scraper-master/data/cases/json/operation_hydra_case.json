@@ -1,7 +1,7 @@
 {
   "name": "Operation Hydra Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "Five-SeveN | Hyper Beast",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "Galil AR | Sugar Rush",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "P90 | Death Grip",
         "can_be_souvenir": false,
@@ -227,7 +227,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MAC-10 | Aloha",
         "can_be_souvenir": false,
@@ -381,7 +381,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

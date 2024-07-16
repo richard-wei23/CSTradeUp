@@ -1,7 +1,7 @@
 {
   "name": "Clutch Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "MP7 | Bloodsport",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "USP-S | Cortex",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "UMP-45 | Arctic Wolf",
         "can_be_souvenir": false,
@@ -227,7 +227,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MP9 | Black Sand",
         "can_be_souvenir": false,
@@ -383,7 +383,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

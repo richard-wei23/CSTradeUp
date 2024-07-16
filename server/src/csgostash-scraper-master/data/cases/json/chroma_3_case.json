@@ -1,7 +1,7 @@
 {
   "name": "Chroma 3 Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "PP-Bizon | Judgement of Anubis",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "P250 | Asiimov",
         "can_be_souvenir": false,
@@ -113,7 +113,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "Galil AR | Firefight",
         "can_be_souvenir": false,
@@ -223,7 +223,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "P2000 | Oceanic",
         "can_be_souvenir": false,
@@ -371,7 +371,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

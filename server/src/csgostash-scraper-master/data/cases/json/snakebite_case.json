@@ -1,7 +1,7 @@
 {
   "name": "Snakebite Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "USP-S | The Traitor",
         "can_be_souvenir": false,
@@ -47,7 +47,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "Galil AR | Chromatic Aberration",
         "can_be_souvenir": false,
@@ -115,7 +115,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "P250 | Cyber Shell",
         "can_be_souvenir": false,
@@ -215,7 +215,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "CZ75-Auto | Circaetus",
         "can_be_souvenir": false,
@@ -371,7 +371,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

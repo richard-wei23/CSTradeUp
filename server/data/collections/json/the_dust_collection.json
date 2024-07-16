@@ -1,9 +1,9 @@
 {
   "name": "The Dust Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "Desert Eagle | Blaze",
         "can_be_souvenir": false,
@@ -50,7 +50,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "AWP | Snake Camo",
         "can_be_souvenir": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "M4A4 | Desert Storm",
         "can_be_souvenir": false,
@@ -153,6 +153,6 @@
         }
       }
     ],
-    "Consumer Grade Skins": []
+    "Consumer Grade": []
   }
 }

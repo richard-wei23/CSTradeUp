@@ -1,7 +1,7 @@
 {
   "name": "Chroma Case",
   "content": {
-    "Covert Skins": [
+    "Covert": [
       {
         "name": "Galil AR | Chatterbox",
         "can_be_souvenir": false,
@@ -37,7 +37,7 @@
         }
       }
     ],
-    "Classified Skins": [
+    "Classified": [
       {
         "name": "P250 | Muertos",
         "can_be_souvenir": false,
@@ -105,7 +105,7 @@
         }
       }
     ],
-    "Restricted Skins": [
+    "Restricted": [
       {
         "name": "MAC-10 | Malachite",
         "can_be_souvenir": false,
@@ -195,7 +195,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "MP9 | Deadly Poison",
         "can_be_souvenir": false,
@@ -307,7 +307,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [],
-    "Consumer Grade Skins": []
+    "Industrial Grade": [],
+    "Consumer Grade": []
   }
 }

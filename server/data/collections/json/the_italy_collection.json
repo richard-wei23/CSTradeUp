@@ -1,9 +1,9 @@
 {
   "name": "The Italy Collection",
   "content": {
-    "Covert Skins": [],
-    "Classified Skins": [],
-    "Restricted Skins": [
+    "Covert": [],
+    "Classified": [],
+    "Restricted": [
       {
         "name": "AWP | Pit Viper",
         "can_be_souvenir": true,
@@ -25,7 +25,7 @@
         }
       }
     ],
-    "Mil-Spec Skins": [
+    "Mil-Spec": [
       {
         "name": "Sawed-Off | Full Stop",
         "can_be_souvenir": true,
@@ -83,7 +83,7 @@
         }
       }
     ],
-    "Industrial Grade Skins": [
+    "Industrial Grade": [
       {
         "name": "P2000 | Granite Marbleized",
         "can_be_souvenir": true,
@@ -213,7 +213,7 @@
         }
       }
     ],
-    "Consumer Grade Skins": [
+    "Consumer Grade": [
       {
         "name": "FAMAS | Colony",
         "can_be_souvenir": true,
