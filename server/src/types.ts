@@ -1,5 +1,3 @@
-import { Decimal } from 'decimal.js-light';
-
 export type SkinsData = {
     [collection: string]: {
         [quality in Quality]: SkinData[];
@@ -30,7 +28,7 @@ export type SkinData = {
     prices: {
         [float: string]: string;
     };
-    floatInput: Decimal;
+    floatInput: number;
     priceInput: number;
 }
 

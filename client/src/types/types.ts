@@ -8,13 +8,13 @@ export type SkinsData = {
 
 export type Contract = {
     skins: SkinData[];
-    cost: number;
+    cost: Decimal;
 }
 
 export type Outcome = {
     contractOutcomes: Map<SkinData, number>;
-    expectedValue: number;
-    variance: number;
+    expectedValue: Decimal;
+    variance: Decimal;
 }
 
 export type SkinData = {
@@ -30,8 +30,8 @@ export type SkinData = {
     prices: {
         [float: string]: string;
     };
-    floatInput: Decimal;
-    priceInput: Decimal;
+    floatInput: number;
+    priceInput: number;
 }
 
 export type Quality =

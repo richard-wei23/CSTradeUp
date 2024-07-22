@@ -61,13 +61,49 @@ const TradeUpContract = ({ contract, outcome }: TradeUpContractProps): React.JSX
         return <>{contractSkins}</>;
     }
 
+    function renderOutcome(): JSX.Element {
+        if(outcome == null) {
+            return <></>;
+        }
+
+        const outcomeSkins: JSX.Element[] = [];
+        let skinChunk: SkinData[] = [];
+        let i: number = 0;
+
+        outcome.contractOutcomes.forEach((_amount, skin) => {
+            skinChunk.push(skin);
+
+            if (skinChunk.length === itemsPerRow) {
+                outcomeSkins.push(
+                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={(Skin) => { Skin }} />
+                )
+                skinChunk = [];
+                i++;
+            }
+        })
+
+        if (skinChunk.length > 0) {
+            outcomeSkins.push(
+                <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={(Skin) => { Skin }} />
+            )
+        }
+        return <>{outcomeSkins}</>;
+    }
+
     return <>
         <Container className="colored-container my-3 py-0 rounded-3" fluid>
-            {renderContract()}
+            <div>
+                {renderContract()}
+                Cost = {contract.cost.div(100).toString()}
+                <br />
+                E[V] = {outcome?.expectedValue.todp(2).toString()}
+                <br />
+                Profit = {outcome?.expectedValue.sub(contract.cost.div(100)).todp(2).toString()}
+                <br />
+                Var(X) = {outcome?.variance.todp(2).toString()}
+                {renderOutcome()}
+            </div>
         </Container>
-        {outcome?.expectedValue}
-        <br />
-        {outcome?.variance}
     </>;
 }
 

@@ -3,6 +3,7 @@ import { Contract, Outcome, SkinData, SkinsData, tohigherQuality } from "../../t
 import TradeUpContract from "./TradeUpContract";
 import TradeUpSearch from "./TradeUpSearch";
 import { Container, Row, Col } from "react-bootstrap";
+import Decimal from "decimal.js-light";
 
 type TradeUpProps = {
     /** Contract to load, if any */
@@ -30,7 +31,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
             setFilter({ quality: skin.quality, includesString: filter.includesString });
             const newContract = contract;
             newContract.skins.push(skin);
-            newContract.cost += skin.priceInput;
+            newContract.cost = newContract.cost.add(skin.priceInput);
             setContract(newContract);
             calculateOutcome()
         } else {
@@ -44,10 +45,10 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
      * @returns {Outcome | null} - returns Outcome if enough skins are inputted, otherwise null
      */
     function calculateOutcome(): void {
-        console.log("Calculating outcome...");
+        // console.log("Calculating outcome...");
         if (loadContract.skins.length !== 10 || skinsData === null) {
             setOutcome(null);
-            console.log("Insufficient skins or skins data not loaded.");
+            // console.log("Insufficient skins or skins data not loaded.");
         } else {
             let contractOutcomes: Map<SkinData, number> = new Map<SkinData, number>();
             let totalOutcomes = 0;
@@ -77,15 +78,18 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
                 totalOutcomes += skinOutcomes.length;
             }
 
-            let expectedValue: number = 0;
-            let variance: number = 0;
+            let expectedValue: Decimal = new Decimal(0);
+            let variance: Decimal = new Decimal(0);
             for (const [skin, amount] of contractOutcomes.entries()) {
-                const cost = skin.priceInput / 100;
-                expectedValue += cost * (amount / totalOutcomes);
-                variance += (cost ** 2) * (amount / totalOutcomes);
+                const cost = new Decimal(skin.priceInput).div(100);
+                expectedValue = expectedValue.add(cost.mul(amount / totalOutcomes));
+                variance = variance.add(cost.pow(2).mul(amount / totalOutcomes));
             }
-            variance -= (expectedValue ** 2);
-            console.log("Var: " +  variance)
+            variance = variance.sub((expectedValue.pow(2)));
+
+            // * Debugging console log
+            console.log("E[V]: " + expectedValue);
+            console.log("Var: " + variance);
 
             setOutcome({
                 contractOutcomes,

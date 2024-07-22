@@ -17,7 +17,7 @@ const SkinsRow = ({ skinsToDisplay, itemsPerRow, onSkinClick }: SkinsRowProps): 
     return <>
         <Row className={`skins-row g-${itemsPerRow}`}>
             {skinsToDisplay.map((skinsToDisplay, index) => (
-                <Col key={index} xs={12} sm={6} md={4} lg={3}>
+                <Col key={index} style={{ "width": `${100/itemsPerRow}%` }} xs={12} sm={6} md={4} lg={3}>
                     <Skin skinDisplay={skinsToDisplay} onSkinClick={() => onSkinClick(skinsToDisplay)} />
                 </Col>
             ))}
@@ -46,7 +46,7 @@ const Skin = ({ skinDisplay, onSkinClick }: SkinProps): React.JSX.Element => {
             </LazyLoad>
             <Card.Body className="py-0">
                 <Card.Text className="text-center">
-                    ${skinDisplay.priceInput / 100}
+                    {/* ${Decimal.div(skinDisplay.priceInput.div, 100).toNumber()} */}
 
                 </Card.Text>
             </Card.Body>
