@@ -15,7 +15,7 @@ const SkinsRow = ({ skinsToDisplay, itemsPerRow, onSkinClick }: SkinsRowProps): 
     const numEmptySkins = (itemsPerRow - (numSkins % itemsPerRow)) % itemsPerRow;
 
     return <>
-        <Row className={`skins-row g-${itemsPerRow}`}>
+        <Row className={`skins-row g-3`}>
             {skinsToDisplay.map((skinsToDisplay, index) => (
                 <Col key={index} style={{ "width": `${100/itemsPerRow}%` }} xs={12} sm={6} md={4} lg={3}>
                     <Skin skinDisplay={skinsToDisplay} onSkinClick={() => onSkinClick(skinsToDisplay)} />

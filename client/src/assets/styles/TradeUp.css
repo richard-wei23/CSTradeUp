@@ -1,8 +1,8 @@
 .colored-container {
-  background-color: rgb(125, 56, 201, 70%);
+  background-color: rgb(102, 73, 190, 70%);
   padding: 0.5rem;
   overflow-x: hidden;
-  height: 86vh;
+  height: 86.5vh;
   /* overflow-y: auto; */
 }
 
