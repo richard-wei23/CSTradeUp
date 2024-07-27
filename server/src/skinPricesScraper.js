@@ -33,14 +33,12 @@ const parseFiles = async (jsonDirectoryPath) => {
             // Parse the JSON data
             const jsonData = JSON.parse(data);
 
-            let index = 0;
             for (const category in jsonData.content) {
                 for (const skin of jsonData.content[category]) {
                     // Delay processing each skin by 4 seconds * skin index
-                    await new Promise(resolve => setTimeout(resolve, index * 4000));
+                    await new Promise(resolve => setTimeout(resolve, 4000));
                     console.log(`Retrieving: ${skin.name}`);
                     await findWriteSkinPrice(skin.name, filePath, jsonData, skin);
-                    index++;
                 }
             }
         }
@@ -81,7 +79,8 @@ const findWriteSkinPrice = async (skinName, filePath, jsonData, skin) => {
             if (spanCount === 2) { // If there are only two spans: Non-Stattrak
                 grade = $(divs[1]).text().trim();
                 cost = $(divs[2]).text().trim().slice(1);
-            } else if (spanCount === 3 && skin["can_be_stattrack"]) { // If there are three spans: Stattrak
+            } else if (spanCount === 3 && skin["can_be_stattrak"]) { // If there are three spans: Stattrak
+       
                 stattrak = "StatTrak ";
                 grade = $(spans[1]).text().trim();
                 cost = $(spans[2]).text().trim().slice(1); // Find cost by bold class
