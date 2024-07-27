@@ -22,8 +22,8 @@
           "StatTrak Factory New": "24,999.99",
           "StatTrak Minimal Wear": "615.60",
           "StatTrak Field-Tested": "320.61",
-          "StatTrak Well-Worn": "o offers",
-          "StatTrak Battle-Scarred": "o offers"
+          "StatTrak Well-Worn": "0.00",
+          "StatTrak Battle-Scarred": "0.00"
         }
       }
     ],
@@ -60,7 +60,7 @@
           "StatTrak Factory New": "154.68",
           "StatTrak Minimal Wear": "83.58",
           "StatTrak Field-Tested": "40.90",
-          "StatTrak Well-Worn": "o offers",
+          "StatTrak Well-Worn": "0.00",
           "StatTrak Battle-Scarred": "1,000.00"
         }
       },
@@ -81,7 +81,7 @@
           "StatTrak Factory New": "140.44",
           "StatTrak Minimal Wear": "78.00",
           "StatTrak Field-Tested": "40.00",
-          "StatTrak Well-Worn": "o offers"
+          "StatTrak Well-Worn": "0.00"
         }
       }
     ],
@@ -101,7 +101,7 @@
           "Field-Tested": "0.03",
           "Well-Worn": "0.03",
           "Battle-Scarred": "0.03",
-          "StatTrak Factory New": "o offers",
+          "StatTrak Factory New": "0.00",
           "StatTrak Minimal Wear": "84.30",
           "StatTrak Field-Tested": "49.99",
           "StatTrak Well-Worn": "139.25",
@@ -123,7 +123,7 @@
           "Field-Tested": "0.02",
           "Well-Worn": "0.03",
           "Battle-Scarred": "0.03",
-          "StatTrak Factory New": "o offers",
+          "StatTrak Factory New": "0.00",
           "StatTrak Minimal Wear": "26.82",
           "StatTrak Field-Tested": "34.76",
           "StatTrak Well-Worn": "60.00",
@@ -189,7 +189,7 @@
           "Field-Tested": "0.03",
           "Well-Worn": "0.03",
           "Battle-Scarred": "0.03",
-          "StatTrak Factory New": "o offers",
+          "StatTrak Factory New": "0.00",
           "StatTrak Minimal Wear": "66.10",
           "StatTrak Field-Tested": "33.78",
           "StatTrak Well-Worn": "120.00",
@@ -214,7 +214,7 @@
           "StatTrak Factory New": "173.39",
           "StatTrak Minimal Wear": "39.00",
           "StatTrak Field-Tested": "30.73",
-          "StatTrak Well-Worn": "o offers",
+          "StatTrak Well-Worn": "0.00",
           "StatTrak Battle-Scarred": "133.74"
         }
       }
@@ -323,7 +323,7 @@
           "Field-Tested": "0.01",
           "Well-Worn": "0.01",
           "Battle-Scarred": "0.01",
-          "StatTrak Factory New": "o offers",
+          "StatTrak Factory New": "0.00",
           "StatTrak Minimal Wear": "10.50",
           "StatTrak Field-Tested": "5.41",
           "StatTrak Well-Worn": "14.99",

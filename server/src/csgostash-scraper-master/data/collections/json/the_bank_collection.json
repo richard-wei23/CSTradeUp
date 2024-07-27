@@ -229,11 +229,11 @@
           "Field-Tested": "0.01",
           "Well-Worn": "0.01",
           "Battle-Scarred": "0.01",
-          "StatTrak Factory New": "o offers",
-          "StatTrak Minimal Wear": "o offers",
+          "StatTrak Factory New": "0.00",
+          "StatTrak Minimal Wear": "0.00",
           "StatTrak Field-Tested": "19,999.99",
-          "StatTrak Well-Worn": "o offers",
-          "StatTrak Battle-Scarred": "o offers"
+          "StatTrak Well-Worn": "0.00",
+          "StatTrak Battle-Scarred": "0.00"
         }
       },
       {
