@@ -29,7 +29,7 @@ const parseFiles = async (jsonDirectoryPath) => {
                             "max_wear": skin.wears.max_wear
                         },
                         prices: skin.prices,
-                        floatInput: 0.001,
+                        floatInput: skin.wears.min_wear + 0.001,
                         priceInput: +Object.values(skin.prices)[0].replace(".", ""),
                     }));
  

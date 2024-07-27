@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Contract, Outcome, SkinData, SkinsData, tohigherQuality } from "../../types/types";
+import { Contract, Outcome, SkinData, SkinsData, toFloatCategory, tohigherQuality } from "../../types/types";
 import TradeUpContract from "./TradeUpContract";
 import TradeUpSearch from "./TradeUpSearch";
 import { Container, Row, Col } from "react-bootstrap";
@@ -31,7 +31,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
             setFilter({ quality: skin.quality, includesString: filter.includesString });
             const newContract = contract;
             newContract.skins.push(skin);
-            newContract.cost = newContract.cost.add(skin.priceInput);
+            newContract.cost = newContract.cost.add(skin.priceInput / 100);
             setContract(newContract);
             calculateOutcome()
         } else {
@@ -51,21 +51,24 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
             // console.log("Insufficient skins or skins data not loaded.");
         } else {
             let contractOutcomes: Map<SkinData, number> = new Map<SkinData, number>();
+            let averageFloat = new Decimal(0);
             let totalOutcomes = 0;
 
             for (const skin of loadContract.skins) {
+                // Add float to calculate average
+                averageFloat = averageFloat.add(skin.floatInput);
+
                 // Finds skin outcomes from collection of skin
                 let collection = skinsData[skin.collection];
                 const higherQuality = tohigherQuality(skin.quality);
 
                 if (higherQuality === null) {
-                    // TODO: Change to error
+                    // TODO: Change to display error
                     console.error("Invalid Contract");
                     break;
                 }
 
                 // Sets price and probability of skin outcomes
-                // TODO: Change so don't have to concat skins
                 const skinOutcomes = collection[higherQuality];
 
                 for (const skin of skinOutcomes) {
@@ -78,26 +81,34 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
                 totalOutcomes += skinOutcomes.length;
             }
 
+            // Calculate average float of skins
+            averageFloat = averageFloat.div(10);
+
             let expectedValue: Decimal = new Decimal(0);
             let variance: Decimal = new Decimal(0);
             for (const [skin, amount] of contractOutcomes.entries()) {
-                const cost = new Decimal(skin.priceInput).div(100);
+                // Calculating skin's float and price
+                const float = averageFloat.mul(skin.wears.max_wear - skin.wears.min_wear).add(skin.wears.min_wear);
+                const floatCategory = toFloatCategory(float);
+                const price = new Decimal(skin.prices[floatCategory]);
 
-                // TODO: Consider float outcome
+                // Setting skin's float and price
+                skin.priceInput = price.mul(100).toNumber();
+                skin.floatInput = float.toNumber();
 
-                expectedValue = expectedValue.add(cost.mul(amount / totalOutcomes));
-                variance = variance.add(cost.pow(2).mul(amount / totalOutcomes));
+                expectedValue = expectedValue.add(price.mul(amount / totalOutcomes));
+                variance = variance.add(price.pow(2).mul(amount / totalOutcomes));
             }
             variance = variance.sub((expectedValue.pow(2)));
 
-            // * Debugging console log
-            // console.log("E[V]: " + expectedValue);
-            // console.log("Var: " + variance);
+            // Calculate profit percentage
+            const expectedValuePercent = (expectedValue.sub(contract.cost).div(contract.cost).mul(100)).todp(2).toString() + "%";
             
             setOutcome({
                 contractOutcomes,
                 expectedValue,
-                variance
+                variance,
+                expectedValuePercent
             });
         }
     }

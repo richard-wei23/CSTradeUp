@@ -14,6 +14,7 @@ export type Contract = {
 export type Outcome = {
     contractOutcomes: Map<SkinData, number>;
     expectedValue: Decimal;
+    expectedValuePercent: string;
     variance: Decimal;
 }
 
@@ -60,7 +61,7 @@ export const tohigherQuality = (quality: Quality) : Quality | null => {
 }
 
 export const toFloatCategory = (float: Decimal): string => {
-    if (float.lte(0.7)) {
+    if (float.lte(0.07)) {
         return "Factory New";
     } else if (float.lte(0.15)) {
         return "Minimal Wear";

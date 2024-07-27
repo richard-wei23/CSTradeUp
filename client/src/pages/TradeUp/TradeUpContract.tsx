@@ -97,11 +97,11 @@ const TradeUpContract = ({ contract, outcome }: TradeUpContractProps): React.JSX
         <Container className="colored-container my-3 py-0 rounded-3" fluid>
             <div>
                 {renderContract()}
-                Cost = {contract.cost.div(100).toString()}
+                Cost = {contract.cost.toString()}
                 <br />
-                E[V] = {outcome?.expectedValue.todp(2).toString()}
+                E[V] = {outcome?.expectedValue.todp(2).toString() + ` (${outcome?.expectedValuePercent})`}
                 <br />
-                Profit = {outcome?.expectedValue.sub(contract.cost.div(100)).todp(2).toString()}
+                Profit = {outcome?.expectedValue.sub(contract.cost).todp(2).toString()}
                 <br />
                 Var(X) = {outcome?.variance.todp(2).toString()}
                 {renderOutcome()}
