@@ -82,15 +82,18 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
             let variance: Decimal = new Decimal(0);
             for (const [skin, amount] of contractOutcomes.entries()) {
                 const cost = new Decimal(skin.priceInput).div(100);
+
+                // TODO: Consider float outcome
+
                 expectedValue = expectedValue.add(cost.mul(amount / totalOutcomes));
                 variance = variance.add(cost.pow(2).mul(amount / totalOutcomes));
             }
             variance = variance.sub((expectedValue.pow(2)));
 
             // * Debugging console log
-            console.log("E[V]: " + expectedValue);
-            console.log("Var: " + variance);
-
+            // console.log("E[V]: " + expectedValue);
+            // console.log("Var: " + variance);
+            
             setOutcome({
                 contractOutcomes,
                 expectedValue,

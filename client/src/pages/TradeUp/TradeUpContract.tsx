@@ -46,7 +46,7 @@ const TradeUpContract = ({ contract, outcome }: TradeUpContractProps): React.JSX
 
             if (skinChunk.length === itemsPerRow) {
                 contractSkins.push(
-                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={(Skin) => { Skin }} />
+                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} />
                 )
                 skinChunk = [];
                 i++;
@@ -55,36 +55,39 @@ const TradeUpContract = ({ contract, outcome }: TradeUpContractProps): React.JSX
 
         if (skinChunk.length > 0) {
             contractSkins.push(
-                <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={(Skin) => { Skin }} />
+                <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} />
             )
         }
         return <>{contractSkins}</>;
     }
 
     function renderOutcome(): JSX.Element {
-        if(outcome == null) {
+        if (outcome === null) {
             return <></>;
         }
 
         const outcomeSkins: JSX.Element[] = [];
         let skinChunk: SkinData[] = [];
+        let percentageChunk: number[] = [];
         let i: number = 0;
 
         outcome.contractOutcomes.forEach((_amount, skin) => {
             skinChunk.push(skin);
+            percentageChunk.push(outcome.contractOutcomes.get(skin) ?? 0);
 
             if (skinChunk.length === itemsPerRow) {
                 outcomeSkins.push(
-                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={(Skin) => { Skin }} />
+                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} outcomePercentages={percentageChunk}/>
                 )
                 skinChunk = [];
+                percentageChunk = [];
                 i++;
             }
         })
 
         if (skinChunk.length > 0) {
             outcomeSkins.push(
-                <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={(Skin) => { Skin }} />
+                <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} outcomePercentages={percentageChunk}/>
             )
         }
         return <>{outcomeSkins}</>;
