@@ -78,12 +78,12 @@ const findWriteSkinPrice = async (skinName, filePath, jsonData, skin) => {
 
             if (spanCount === 2) { // If there are only two spans: Non-Stattrak
                 grade = $(divs[1]).text().trim();
-                cost = $(divs[2]).text().trim().slice(1);
+                cost = $(divs[2]).text().trim().slice(1).replace(",", "");
             } else if (spanCount === 3 && skin["can_be_stattrak"]) { // If there are three spans: Stattrak
        
                 stattrak = "StatTrak ";
                 grade = $(spans[1]).text().trim();
-                cost = $(spans[2]).text().trim().slice(1); // Find cost by bold class
+                cost = $(spans[2]).text().trim().slice(1).replace(",", ""); // Find cost by bold class
             }
 
             skinPrices[stattrak + grade] = cost;

@@ -30,7 +30,7 @@ const parseFiles = async (jsonDirectoryPath) => {
                         },
                         prices: skin.prices,
                         floatInput: skin.wears.min_wear + 0.001,
-                        priceInput: +Object.values(skin.prices)[0].replace(".", ""),
+                        priceInput: +Object.values(skin.prices)[0],
                     }));
  
                     collectionSkins[category] = skinsInCategory;

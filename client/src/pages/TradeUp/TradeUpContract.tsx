@@ -99,7 +99,7 @@ const TradeUpContract = ({ contract, outcome }: TradeUpContractProps): React.JSX
                 {renderContract()}
                 Cost = {contract.cost.toString()}
                 <br />
-                E[V] = {outcome?.expectedValue.todp(2).toString() + ` (${outcome?.expectedValuePercent})`}
+                E[V] = {outcome?.expectedValue.todp(2).toString() + ` (${outcome?.profitPercent})`}
                 <br />
                 Profit = {outcome?.expectedValue.sub(contract.cost).todp(2).toString()}
                 <br />

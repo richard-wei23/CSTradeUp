@@ -31,6 +31,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
             setFilter({ quality: skin.quality, includesString: filter.includesString });
             const newContract = contract;
             newContract.skins.push(skin);
+            console.log(skin)
             newContract.cost = newContract.cost.add(skin.priceInput / 100);
             setContract(newContract);
             calculateOutcome()
@@ -100,15 +101,23 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
                 variance = variance.add(price.pow(2).mul(amount / totalOutcomes));
             }
             variance = variance.sub((expectedValue.pow(2)));
+            
+
+            // Sort contractOutcomes by price of outcome skin
+            contractOutcomes = new Map([...contractOutcomes.entries()].sort((skin1, skin2) => {
+                return skin2[0].priceInput - skin1[0].priceInput;
+            }));
+
+            console.log(contractOutcomes)
 
             // Calculate profit percentage
-            const expectedValuePercent = (expectedValue.sub(contract.cost).div(contract.cost).mul(100)).todp(2).toString() + "%";
+            const profitPercent = (expectedValue.sub(contract.cost).div(contract.cost).mul(100)).todp(2).toString() + "%";
             
             setOutcome({
                 contractOutcomes,
                 expectedValue,
                 variance,
-                expectedValuePercent
+                profitPercent
             });
         }
     }

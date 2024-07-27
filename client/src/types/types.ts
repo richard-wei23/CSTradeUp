@@ -14,7 +14,7 @@ export type Contract = {
 export type Outcome = {
     contractOutcomes: Map<SkinData, number>;
     expectedValue: Decimal;
-    expectedValuePercent: string;
+    profitPercent: string;
     variance: Decimal;
 }
 
