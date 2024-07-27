@@ -73,6 +73,8 @@ const TradeUpContract = ({ contract, outcome }: TradeUpContractProps): React.JSX
 
         outcome.contractOutcomes.forEach((_amount, skin) => {
             skinChunk.push(skin);
+
+            // contractOutcomes will always have skin, typescript complains
             percentageChunk.push(outcome.contractOutcomes.get(skin) ?? 0);
 
             if (skinChunk.length === itemsPerRow) {
@@ -104,6 +106,8 @@ const TradeUpContract = ({ contract, outcome }: TradeUpContractProps): React.JSX
                 Profit = {outcome?.expectedValue.sub(contract.cost).todp(2).toString()}
                 <br />
                 Var(X) = {outcome?.variance.todp(2).toString()}
+                <br />
+                Average Float = {outcome?.averageFloat.toPrecision(11).toString()}
                 {renderOutcome()}
             </div>
         </Container>

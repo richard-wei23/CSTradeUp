@@ -80,10 +80,14 @@ const findWriteSkinPrice = async (skinName, filePath, jsonData, skin) => {
                 grade = $(divs[1]).text().trim();
                 cost = $(divs[2]).text().trim().slice(1).replace(",", "");
             } else if (spanCount === 3 && skin["can_be_stattrak"]) { // If there are three spans: Stattrak
-       
                 stattrak = "StatTrak ";
                 grade = $(spans[1]).text().trim();
                 cost = $(spans[2]).text().trim().slice(1).replace(",", ""); // Find cost by bold class
+            }
+
+            // Handle case where there are 0 offers
+            if(cost.equals("o offers")) {
+                cost = "0.00";
             }
 
             skinPrices[stattrak + grade] = cost;

@@ -7,6 +7,7 @@ type SkinsRowProps = {
     skinsToDisplay: SkinData[];
     itemsPerRow: number;
     onSkinClick?: (skin: SkinData) => void;
+    // TODO: Add outcome details prop: boolean and number[]
     outcomePercentages?: number[];
 }
 
@@ -37,6 +38,7 @@ const SkinsRow = ({ skinsToDisplay, itemsPerRow, onSkinClick, outcomePercentages
 
 export default SkinsRow;
 
+
 type SkinProps = {
     skinDisplay: SkinData
     onSkinClick?: (skin: SkinData) => void;
@@ -49,13 +51,15 @@ const Skin = ({ skinDisplay, onSkinClick, outcomePercentage }: SkinProps): React
             onClick={onSkinClick ? () => onSkinClick(skinDisplay) : undefined}>
             <Card.Header className="py-1">{skinDisplay.name}</Card.Header>
             <LazyLoad offset={300} >
-                <Card.Img src={skinDisplay.img} alt="Skin Image" />
+                <Card.Img src={skinDisplay.img} alt="Skin Image" draggable="false"/>
             </LazyLoad>
             <Card.Body className="py-0">
                 <Card.Text className="text-center">
-                    {skinDisplay.priceInput / 100}
+                    {skinDisplay.priceInput ? skinDisplay.priceInput.toFixed(2) : "Price not available"}
                     <br />
-                    {outcomePercentage ? outcomePercentage + "%" : <></>}
+                    {outcomePercentage ? skinDisplay.floatInput.toFixed(11) : ""}
+                    <br />
+                    {outcomePercentage ? (outcomePercentage * 100).toFixed(2) + "%" : ""}
                 </Card.Text>
             </Card.Body>
         </Card>

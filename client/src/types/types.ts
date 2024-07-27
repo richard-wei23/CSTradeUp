@@ -16,6 +16,7 @@ export type Outcome = {
     expectedValue: Decimal;
     profitPercent: string;
     variance: Decimal;
+    averageFloat: Decimal;
 }
 
 export type SkinData = {

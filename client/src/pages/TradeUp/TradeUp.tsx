@@ -31,8 +31,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
             setFilter({ quality: skin.quality, includesString: filter.includesString });
             const newContract = contract;
             newContract.skins.push(skin);
-            console.log(skin)
-            newContract.cost = newContract.cost.add(skin.priceInput / 100);
+            newContract.cost = newContract.cost.add(skin.priceInput);
             setContract(newContract);
             calculateOutcome()
         } else {
@@ -94,11 +93,14 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
                 const price = new Decimal(skin.prices[floatCategory]);
 
                 // Setting skin's float and price
-                skin.priceInput = price.mul(100).toNumber();
+                skin.priceInput = price.toNumber();
                 skin.floatInput = float.toNumber();
 
                 expectedValue = expectedValue.add(price.mul(amount / totalOutcomes));
                 variance = variance.add(price.pow(2).mul(amount / totalOutcomes));
+
+                // Sets contractOutcomes value as the percentage of getting skin
+                contractOutcomes.set(skin, amount / totalOutcomes);
             }
             variance = variance.sub((expectedValue.pow(2)));
             
@@ -108,8 +110,6 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
                 return skin2[0].priceInput - skin1[0].priceInput;
             }));
 
-            console.log(contractOutcomes)
-
             // Calculate profit percentage
             const profitPercent = (expectedValue.sub(contract.cost).div(contract.cost).mul(100)).todp(2).toString() + "%";
             
@@ -117,7 +117,8 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
                 contractOutcomes,
                 expectedValue,
                 variance,
-                profitPercent
+                profitPercent,
+                averageFloat
             });
         }
     }
@@ -196,13 +197,6 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
             <Row>
                 <Col>
                     <TradeUpContract contract={contract} outcome={outcome} />
-                    {/* <Container className="colored-container my-3 rounded-3" fluid>
-                        <Row className="justify-content-center align-items-center" >
-                            <Col xs={12} md={8} style={{ backgroundColor: '#f0f0f0', padding: '20px', color: "black" }}>
-                                Contract Here
-                            </Col>
-                        </Row>
-                    </Container> */}
                 </Col>
                 <Col>
                     <TradeUpSearch skinsData={skinsData} filter={filter} onSkinClick={(skin: SkinData) => handleSkinClick(skin)} />
