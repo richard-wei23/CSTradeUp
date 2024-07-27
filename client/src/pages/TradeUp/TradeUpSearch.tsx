@@ -31,8 +31,13 @@ const TradeUpSearch = ({ skinsData, filter, onSkinClick }: TradeUpSearchProps): 
             Object.keys(skinsData).forEach(category => {
                 const qualities = skinsData[category];
 
-                // TODO: Consider when there aren't skins in higher quality (eg. Bank Collection w/o covert skins)
-                for (const [quality, skinDataArr] of Object.entries(qualities).slice(1, 6)) {
+                let sliceToQuality = 0;
+                const qualitiesArr = Object.values(qualities);
+                while(qualitiesArr[sliceToQuality].length === 0) {
+                    sliceToQuality++;
+                }
+
+                for (const [quality, skinDataArr] of Object.entries(qualities).slice(sliceToQuality + 1, 6)) {
                     if (quality.startsWith(filter.quality)) {
                         skinDataArr.forEach((skin) => {
                             if (skin.name.toLowerCase().includes(filter.includesString)) {
