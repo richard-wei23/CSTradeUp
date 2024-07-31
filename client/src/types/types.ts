@@ -1,11 +1,12 @@
 import Decimal from "decimal.js-light";
 
 export type SkinsData = {
-    [collection: string]: {
+    readonly [collection: string]: {
         [quality in Quality]: SkinData[];
     }
 }
 
+// TODO: change skins to an object instead?
 export type Contract = {
     skins: SkinData[];
     cost: Decimal;
@@ -13,10 +14,10 @@ export type Contract = {
 
 export type Outcome = {
     contractOutcomes: Map<SkinData, number>;
-    expectedValue: Decimal;
-    profitPercent: string;
-    variance: Decimal;
-    averageFloat: Decimal;
+    readonly expectedValue: Decimal;
+    readonly profitPercent: string;
+    readonly variance: Decimal;
+    readonly averageFloat: Decimal;
 }
 
 export type SkinData = {
@@ -24,17 +25,19 @@ export type SkinData = {
     readonly quality: Quality;
     readonly collection: string;
     readonly img: string;
-    stattrak: boolean;
-    wears: {
+    readonly stattrak: boolean;
+    readonly wears: {
         min_wear: number;
         max_wear: number;
     };
-    prices: {
+    readonly prices: {
         [float: string]: string;
     };
     floatInput: number;
     priceInput: number;
 }
+
+export type SkinCardType = {kind: "display"} | {kind: "contract"} | {kind: "outcome"}
 
 export type Quality =
     "Covert" |
@@ -44,7 +47,7 @@ export type Quality =
     "Industrial Grade" |
     "Consumer Grade"
 
-export const tohigherQuality = (quality: Quality) : Quality | null => {
+export const tohigherQuality = (quality: Quality): Quality | null => {
     if (quality == "Consumer Grade") {
         return "Industrial Grade";
     } else if (quality == "Industrial Grade") {

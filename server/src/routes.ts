@@ -66,7 +66,7 @@ export const save = (req: SafeRequest, res: SafeResponse): void => {
 };
 
 export const skins = (_req: SafeRequest, res: SafeResponse): void => {
-  console.log("Sent skinsData");
+  console.log("Sent skins data");
   res.send({ skinsData: skinsData });
 };
 

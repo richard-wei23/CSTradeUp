@@ -2,7 +2,7 @@ import React from "react";
 import { Container} from "react-bootstrap";
 import { SkinData, SkinsData } from "../../types/types";
 import "../../assets/styles/TradeUp.css"
-import SkinsRow from "./SkinsDisplay";
+import SkinsRow from "./SkinsRow";
 // import Decimal from "decimal.js-light";
 
 type TradeUpSearchProps = {
@@ -45,7 +45,7 @@ const TradeUpSearch = ({ skinsData, filter, onSkinClick }: TradeUpSearchProps): 
 
                                 if (skinChunk.length === itemsPerRow) {
                                     skinsRows.push(
-                                        <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={onSkinClick} />
+                                        <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} skinCardType={{kind: "display"}} onSkinClick={onSkinClick} />
                                     )
                                     skinChunk = [];
                                     i++;
@@ -58,7 +58,7 @@ const TradeUpSearch = ({ skinsData, filter, onSkinClick }: TradeUpSearchProps): 
 
             if (skinChunk.length > 0) {
                 skinsRows.push(
-                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} onSkinClick={onSkinClick} />
+                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} skinCardType={{kind: "display"}} onSkinClick={onSkinClick} />
                 )
             }
             return <>{skinsRows}</>;

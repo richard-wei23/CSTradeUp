@@ -5,37 +5,51 @@ import TradeUpSearch from "./TradeUpSearch";
 import { Container, Row, Col } from "react-bootstrap";
 import Decimal from "decimal.js-light";
 
-type TradeUpProps = {
-    /** Contract to load, if any */
-    loadContract: Contract;
-
-    /** Outcome to load, if any */
-    loadOutcome: Outcome | null;
-}
-
-
-const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.Element => {
+const TradeUpEditor = (): React.JSX.Element => {
     // const [loading, setLoading] = useState(false);
     const [error, setError] = useState<string>("");
     const [skinsData, setSkinsData] = useState<SkinsData | null>(null);
     const [filter, setFilter] = useState<{ quality: string, includesString: string }>({ quality: "", includesString: "" });
-    const [contract, setContract] = useState<Contract>(loadContract);
-    const [outcome, setOutcome] = useState<Outcome | null>(loadOutcome);
+    const [contract, setContract] = useState<Contract | null>(null);
+    const [outcome, setOutcome] = useState<Outcome | null>(null);
 
     /**
      * Handles when a skin in search is clicked. Adds the given skin to the contract.
-     * @param skin - the skin that was clicked on
+     * @param {SkinData} skin  - the skin that was clicked on
      */
     function handleSkinClick(skin: SkinData): void {
-        if (contract.skins.length < 10) {
-            setFilter({ quality: skin.quality, includesString: filter.includesString });
-            const newContract = contract;
+        let newContract = contract ?? { skins: [], cost: new Decimal(0) };
+
+        if (newContract.skins.length < 10) {
             newContract.skins.push(skin);
             newContract.cost = newContract.cost.add(skin.priceInput);
+
+            // Sets new contract and filter
             setContract(newContract);
+            setFilter({ ...filter, quality: skin.quality });
+
+            console.log(contract)
+
             calculateOutcome()
         } else {
             doAddError("Cannot add more than 10 skins!");
+        }
+    }
+
+    /**
+     * Changes price of skin at given skinIndex to the given newPrice
+     * @param {number} skinIndex -  index of skin to have price changed
+     * @param {number} newPrice - price to change to
+     */
+    function doPriceChange(skinIndex: number, newPrice: number): void {
+        if (contract && contract.skins.length > skinIndex && newPrice >= 0) {
+            let newContract = contract;
+            newContract.skins[skinIndex].priceInput = newPrice;
+
+            setContract(newContract);
+            calculateOutcome()
+        } else {
+            doAddError("Invalid price change!");
         }
     }
 
@@ -46,15 +60,14 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
      */
     function calculateOutcome(): void {
         // console.log("Calculating outcome...");
-        if (loadContract.skins.length !== 10 || skinsData === null) {
-            setOutcome(null);
+        if (!contract || (contract.skins.length !== 10 || skinsData === null)) {
             // console.log("Insufficient skins or skins data not loaded.");
         } else {
             let contractOutcomes: Map<SkinData, number> = new Map<SkinData, number>();
             let averageFloat = new Decimal(0);
             let totalOutcomes = 0;
 
-            for (const skin of loadContract.skins) {
+            for (const skin of contract.skins) {
                 // Add float to calculate average
                 averageFloat = averageFloat.add(skin.floatInput);
 
@@ -103,7 +116,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
                 contractOutcomes.set(skin, amount / totalOutcomes);
             }
             variance = variance.sub((expectedValue.pow(2)));
-            
+
 
             // Sort contractOutcomes by price of outcome skin
             contractOutcomes = new Map([...contractOutcomes.entries()].sort((skin1, skin2) => {
@@ -112,7 +125,7 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
 
             // Calculate profit percentage
             const profitPercent = (expectedValue.sub(contract.cost).div(contract.cost).mul(100)).todp(2).toString() + "%";
-            
+
             setOutcome({
                 contractOutcomes,
                 expectedValue,
@@ -169,15 +182,8 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
      * @param errorMessage The error message
      */
     function doSkinsError(errorMessage: string): void {
-        setError(errorMessage);
+        doAddError(errorMessage);
     };
-
-    /**
-     * Use useEffect to call getSkins when the component mounts
-     */
-    useEffect(() => {
-        getSkins();
-    }, []);
 
     /**
      * Adds error message and clears it after 5 seconds
@@ -192,11 +198,29 @@ const TradeUpEditor = ({ loadContract, loadOutcome }: TradeUpProps): React.JSX.E
         }, 5000);
     }
 
+    /**
+     * Use useEffect to call getSkins when the component mounts
+     */
+    useEffect(() => {
+        getSkins();
+    }, []);
+
+    // TODO: use useContext instead of prop drilling
     return <>
         <Container fluid >
             <Row>
                 <Col>
-                    <TradeUpContract contract={contract} outcome={outcome} />
+                    {contract ?
+                        <TradeUpContract contract={contract} outcome={outcome}
+                            doPriceChange={(skinIndex: number, newPrice: number) => doPriceChange(skinIndex, newPrice)} /> :
+                        <Container className="colored-container my-3 py-0 rounded-3" fluid>
+                            <Row className="justify-content-center align-items-center" >
+                                <Col xs={12} sm={6} md={4} lg={3}>
+                                    Add skins
+                                </Col>
+                            </Row>
+                        </Container>
+                    }
                 </Col>
                 <Col>
                     <TradeUpSearch skinsData={skinsData} filter={filter} onSkinClick={(skin: SkinData) => handleSkinClick(skin)} />
