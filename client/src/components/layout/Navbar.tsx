@@ -17,7 +17,7 @@ const NavBar = (): React.JSX.Element => {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto container-fluid">
-                        <Nav.Link as={Link} to="/trade-up">Trade Up Calculator</Nav.Link>
+                        <Nav.Link as={Link} to="/trade-up">Calculator</Nav.Link>
                         <Nav.Link as={Link} to="/top">Top Trade Ups</Nav.Link>
                         <Nav.Link className="ms-auto disabled" as={Link} to="/register">Register</Nav.Link>
                         <Nav.Link className="disabled" as={Link} to="/login">Login</Nav.Link>

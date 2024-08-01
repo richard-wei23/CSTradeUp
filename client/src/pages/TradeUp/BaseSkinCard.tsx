@@ -20,10 +20,9 @@ const BaseSkinCard = ({ skinDisplay, headerContent, bodyContent, onSkinClick }: 
             <Card.Img src={skinDisplay.img} alt="Skin Image" draggable="false" />
             <Card.Body className="py-0">
                 <Card.Text className="text-center">
-                    {skinDisplay.priceInput ? skinDisplay.priceInput.toFixed(2) : "Price not available"}
-                    <br />
-                    {bodyContent}
+                    {skinDisplay.priceInput.toFixed(2)}
                 </Card.Text>
+                {bodyContent}
             </Card.Body>
         </Card>
     );

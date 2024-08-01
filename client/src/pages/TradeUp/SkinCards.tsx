@@ -1,6 +1,7 @@
+import { Form, InputGroup } from "react-bootstrap";
 import { SkinData } from "../../types/types";
 import BaseSkinCard from "./BaseSkinCard";
-import React from "react";
+import React, { ChangeEvent } from "react";
 
 type SkinDisplayProps = {
     skinDisplay: SkinData
@@ -17,7 +18,7 @@ const SkinDisplay = ({ skinDisplay, onSkinClick }: SkinDisplayProps): JSX.Elemen
 type SkinOutcomeProps = {
     skinDisplay: SkinData
     outcomePercentage: number;
-    doPriceChange: (skinIndex: number, newPrice: number) => void;
+    handlePriceChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
 }
 
 const SkinOutcome = ({ skinDisplay, outcomePercentage }: SkinOutcomeProps): JSX.Element => {
@@ -36,7 +37,8 @@ const SkinOutcome = ({ skinDisplay, outcomePercentage }: SkinOutcomeProps): JSX.
 
 type SkinContractProps = {
     skinDisplay: SkinData;
-    doPriceChange: (skinIndex: number, newPrice: number) => void;
+    handlePriceChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
+    index: number;
     contractFunctions: {
         doFloatChange: () => void;
         doRemoveClick: () => void;
@@ -45,11 +47,20 @@ type SkinContractProps = {
 
 }
 
-const SkinContract = ({ skinDisplay }: SkinContractProps): JSX.Element => {
+const SkinContract = ({ skinDisplay, index, handlePriceChange }: SkinContractProps): JSX.Element => {
     return <>
         <BaseSkinCard skinDisplay={skinDisplay}
             bodyContent={<div>
                 {skinDisplay.floatInput.toFixed(11)}
+                <InputGroup size="sm" className="mb-3">
+                    <InputGroup.Text id={`price-${index}`}>$</InputGroup.Text>
+                    <Form.Control
+                        defaultValue={skinDisplay.priceInput.toString()}
+                        aria-label="Price"
+                        aria-describedby={`price-${index}`}
+                        onChange={(e: ChangeEvent<HTMLInputElement>) => handlePriceChange(e, skinDisplay)}
+                    />
+                </InputGroup>
             </div>}
         />
     </>

@@ -1,6 +1,6 @@
 import { Col, Row } from "react-bootstrap";
 import { SkinCardType, SkinData } from "../../types/types";
-import React from "react";
+import React, { ChangeEvent } from "react";
 import { SkinContract, SkinDisplay, SkinOutcome } from "./SkinCards";
 // import LazyLoad from 'react-lazy-load';
 
@@ -10,7 +10,7 @@ type SkinsRowProps = {
     skinCardType: SkinCardType;
     onSkinClick?: (skin: SkinData) => void;
     outcomePercentages?: number[];
-    doPriceChange?: (skinIndex: number, newPrice: number) => void;
+    handlePriceChange?: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
     contractFunctions?: {
         doFloatChange: () => void;
         doRemoveClick: () => void;
@@ -18,7 +18,7 @@ type SkinsRowProps = {
     };
 }
 
-const SkinsRow = ({ skinsToDisplay, itemsPerRow, skinCardType, onSkinClick, outcomePercentages, doPriceChange, contractFunctions }: SkinsRowProps): React.JSX.Element => {
+const SkinsRow = ({ skinsToDisplay, itemsPerRow, skinCardType, onSkinClick, outcomePercentages, handlePriceChange, contractFunctions }: SkinsRowProps): React.JSX.Element => {
     // Calculates the number of items per row based on the column size
     const numSkins = skinsToDisplay.length;
     const numEmptySkins = (itemsPerRow - (numSkins % itemsPerRow)) % itemsPerRow;
@@ -28,18 +28,19 @@ const SkinsRow = ({ skinsToDisplay, itemsPerRow, skinCardType, onSkinClick, outc
             case "display":
                 return onSkinClick ? <SkinDisplay skinDisplay={skin} onSkinClick={() => onSkinClick(skin)} /> : <></>;
             case "outcome":
-                return outcomePercentages && doPriceChange ?
+                return outcomePercentages && handlePriceChange ?
                     <SkinOutcome
                         skinDisplay={skin}
                         outcomePercentage={outcomePercentages[index]}
-                        doPriceChange={(skinIndex: number, newPrice: number) => doPriceChange(skinIndex, newPrice)} />
+                        {...{handlePriceChange}} />
                     : <></>;
             case "contract":
-                return contractFunctions && doPriceChange ?
+                return contractFunctions && handlePriceChange ?
                     <SkinContract
                         skinDisplay={skin}
-                        doPriceChange={(skinIndex: number, newPrice: number) => doPriceChange(skinIndex, newPrice)}
-                        contractFunctions={contractFunctions}
+                        index={index}
+                        {...{handlePriceChange}}
+                        {...{contractFunctions}}
                     />
                     : <></>;
             default:

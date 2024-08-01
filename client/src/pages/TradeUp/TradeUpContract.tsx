@@ -1,4 +1,4 @@
-import React from "react";//, { ChangeEvent } from "react";
+import React, { ChangeEvent } from "react";//, { ChangeEvent } from "react";
 import { Contract, Outcome, SkinData } from "../../types/types";
 import { Container } from "react-bootstrap";
 import SkinsRow from "./SkinsRow";
@@ -10,30 +10,13 @@ type TradeUpContractProps = {
     /** Outcome to load, if any */
     outcome: Outcome | null;
 
-    doPriceChange: (skinIndex: number, newPrice: number) => void;
+    handlePriceChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
 }
 
 // * Temporary
 const itemsPerRow = 5;
 
-const TradeUpContract = ({ contract, outcome, doPriceChange }: TradeUpContractProps): React.JSX.Element => {
-    // function handleSkinClick(skinIndex: MouseEvent) {
-    //     const newContract = contract;
-    //     calculateContract(newContract);
-    // }
-
-    // function handleSkinCopyClick(skinIndex: number) {
-    //     if (contract.skins.length < 10) {
-    //         handleSkinClick
-    //     } else {
-
-    //     }
-    // }
-
-    // function handleSkinPriceFloatChange(evt: ChangeEvent) {
-
-    // }
-
+const TradeUpContract = ({ contract, outcome, handlePriceChange }: TradeUpContractProps): React.JSX.Element => {
     /**
      * Renders the skins
      * @returns JSX.Element that represents the contract skins
@@ -52,11 +35,11 @@ const TradeUpContract = ({ contract, outcome, doPriceChange }: TradeUpContractPr
                         skinsToDisplay={skinChunk}
                         itemsPerRow={itemsPerRow}
                         skinCardType={{ kind: "contract" }}
-                        doPriceChange={(skinIndex: number, newPrice: number) => doPriceChange(skinIndex, newPrice)}
+                        {...{ handlePriceChange }}
                         contractFunctions={{
-                            doFloatChange: () => {},
-                            doRemoveClick: () => {},
-                            doCopyClick: () => {}
+                            doFloatChange: () => { },
+                            doRemoveClick: () => { },
+                            doCopyClick: () => { }
                         }}
                     />
                 )
@@ -71,11 +54,11 @@ const TradeUpContract = ({ contract, outcome, doPriceChange }: TradeUpContractPr
                     skinsToDisplay={skinChunk}
                     itemsPerRow={itemsPerRow}
                     skinCardType={{ kind: "contract" }}
-                    doPriceChange={(skinIndex: number, newPrice: number) => doPriceChange(skinIndex, newPrice)}
+                    {...{ handlePriceChange }}
                     contractFunctions={{
-                        doFloatChange: () => {},
-                        doRemoveClick: () => {},
-                        doCopyClick: () => {}
+                        doFloatChange: () => { },
+                        doRemoveClick: () => { },
+                        doCopyClick: () => { }
                     }}
                 />
             )
@@ -110,7 +93,7 @@ const TradeUpContract = ({ contract, outcome, doPriceChange }: TradeUpContractPr
                         itemsPerRow={itemsPerRow}
                         skinCardType={{ kind: "outcome" }}
                         outcomePercentages={percentageChunk}
-                        doPriceChange={(skinIndex: number, newPrice: number) => doPriceChange(skinIndex, newPrice)}
+                        {...{ handlePriceChange }}
                     />
                 )
                 skinChunk = [];
@@ -126,11 +109,31 @@ const TradeUpContract = ({ contract, outcome, doPriceChange }: TradeUpContractPr
                     itemsPerRow={itemsPerRow}
                     skinCardType={{ kind: "outcome" }}
                     outcomePercentages={percentageChunk}
-                    doPriceChange={(skinIndex: number, newPrice: number) => doPriceChange(skinIndex, newPrice)}
+                    {...{ handlePriceChange }}
                 />
             )
         }
         return <>{outcomeSkins}</>;
+    }
+
+    function renderOutcomeDetails(): JSX.Element {
+        if (!outcome) {
+            return <></>;
+        }
+
+        const { expectedValue, profitPercent, variance, averageFloat, profitOdds } = { ...outcome };
+
+        return <>
+            E[V] = {expectedValue.todp(2).toString() + ` (${profitPercent})`}
+            <br />
+            Profit = {expectedValue.sub(contract.cost).todp(2).toString()}
+            <br />
+            Var(X) = {variance.todp(2).toString()}
+            <br />
+            Average Float = {averageFloat.toPrecision(11).toString()}
+            <br />
+            Profit Odds = {profitOdds * 100 + "%"}
+        </>;
     }
 
     return <>
@@ -139,16 +142,8 @@ const TradeUpContract = ({ contract, outcome, doPriceChange }: TradeUpContractPr
                 {renderContract()}
                 Cost = {contract.cost.toString()}
                 <br />
-                E[V] = {outcome?.expectedValue.todp(2).toString() + ` (${outcome?.profitPercent})`}
-                <br />
-                Profit = {outcome?.expectedValue.sub(contract.cost).todp(2).toString()}
-                <br />
-                Var(X) = {outcome?.variance.todp(2).toString()}
-                <br />
-                Average Float = {outcome?.averageFloat.toPrecision(11).toString()}
+                {renderOutcomeDetails()}
                 {renderOutcome()}
-                <br />
-                Profit Odds =
             </div>
         </Container>
     </>;

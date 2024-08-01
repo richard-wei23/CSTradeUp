@@ -6,18 +6,19 @@ export type SkinsData = {
     }
 }
 
-// TODO: change skins to an object instead?
 export type Contract = {
     skins: SkinData[];
     cost: Decimal;
 }
 
+// TODO: Change contract outcomes to use the skin's name instead for custom pricing
 export type Outcome = {
     contractOutcomes: Map<SkinData, number>;
     readonly expectedValue: Decimal;
     readonly profitPercent: string;
     readonly variance: Decimal;
     readonly averageFloat: Decimal;
+    readonly profitOdds: number;
 }
 
 export type SkinData = {
