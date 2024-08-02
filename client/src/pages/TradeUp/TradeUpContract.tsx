@@ -11,12 +11,14 @@ type TradeUpContractProps = {
     outcome: Outcome | null;
 
     handlePriceChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
+
+    handleFloatChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
 }
 
 // * Temporary
 const itemsPerRow = 5;
 
-const TradeUpContract = ({ contract, outcome, handlePriceChange }: TradeUpContractProps): React.JSX.Element => {
+const TradeUpContract = ({ contract, outcome, handlePriceChange, handleFloatChange }: TradeUpContractProps): React.JSX.Element => {
     /**
      * Renders the skins
      * @returns JSX.Element that represents the contract skins
@@ -37,7 +39,7 @@ const TradeUpContract = ({ contract, outcome, handlePriceChange }: TradeUpContra
                         skinCardType={{ kind: "contract" }}
                         {...{ handlePriceChange }}
                         contractFunctions={{
-                            doFloatChange: () => { },
+                            handleFloatChange,
                             doRemoveClick: () => { },
                             doCopyClick: () => { }
                         }}
@@ -56,7 +58,7 @@ const TradeUpContract = ({ contract, outcome, handlePriceChange }: TradeUpContra
                     skinCardType={{ kind: "contract" }}
                     {...{ handlePriceChange }}
                     contractFunctions={{
-                        doFloatChange: () => { },
+                        handleFloatChange,
                         doRemoveClick: () => { },
                         doCopyClick: () => { }
                     }}
@@ -124,6 +126,8 @@ const TradeUpContract = ({ contract, outcome, handlePriceChange }: TradeUpContra
         const { expectedValue, profitPercent, variance, averageFloat, profitOdds } = { ...outcome };
 
         return <>
+            Cost = {contract.cost.todp(2).toString()}
+            <br />
             E[V] = {expectedValue.todp(2).toString() + ` (${profitPercent})`}
             <br />
             Profit = {expectedValue.sub(contract.cost).todp(2).toString()}
@@ -140,8 +144,6 @@ const TradeUpContract = ({ contract, outcome, handlePriceChange }: TradeUpContra
         <Container className="colored-container my-3 py-0 rounded-3" fluid>
             <div>
                 {renderContract()}
-                Cost = {contract.cost.toString()}
-                <br />
                 {renderOutcomeDetails()}
                 {renderOutcome()}
             </div>

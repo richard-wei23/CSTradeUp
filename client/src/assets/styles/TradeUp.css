@@ -27,6 +27,24 @@
   border-bottom: transparent;
 }
 
+.form-control {
+  padding: 0.25rem 0.25rem !important;
+}
+
+
+/* Remove Input Arrows */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
 /* Colors for skin qualities */
 
 /* Covert */
@@ -109,7 +127,7 @@
 }
 
 .industrial-grade:hover {
-  --industrial-gradeColor: rgb(94, 152, 217)  ;
+  --industrial-gradeColor: rgb(94, 152, 217);
 }
 
 /* Consumer-Grade */

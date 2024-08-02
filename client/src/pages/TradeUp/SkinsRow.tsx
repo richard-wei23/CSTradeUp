@@ -12,7 +12,7 @@ type SkinsRowProps = {
     outcomePercentages?: number[];
     handlePriceChange?: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
     contractFunctions?: {
-        doFloatChange: () => void;
+        handleFloatChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
         doRemoveClick: () => void;
         doCopyClick: () => void;
     };

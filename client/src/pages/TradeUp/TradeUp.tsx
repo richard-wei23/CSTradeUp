@@ -36,7 +36,7 @@ const TradeUpEditor = (): React.JSX.Element => {
     }
 
     /**
-     * Changes price of given skin to the given newPrice
+     * Changes price of given skin to the given event target value
      * @param {ChangeEvent} e - change event
      * @param {SkinData} skin - skin to have price changed
      */
@@ -55,6 +55,42 @@ const TradeUpEditor = (): React.JSX.Element => {
                 calculateOutcome();
             }
         } else {
+            e.target.value = "0";
+            doAddError("Invalid price change!");
+        }
+    }
+
+    /**
+     * Changes float of given skin to the given event target value
+     * @param {ChangeEvent} e - change event
+     * @param {SkinData} skin - skin to have float changed
+     */
+    function handleFloatChange(e: ChangeEvent<HTMLInputElement>, skin: SkinData): void {
+        const newFloat = Number(e.target.value);
+
+        if (contract && !isNaN(newFloat) && newFloat >= skin.wears.min_wear && newFloat <= skin.wears.max_wear) {
+            const skinIndex: number = contract.skins.indexOf(skin);
+
+            if (skinIndex !== -1) {
+                const newContract: Contract = contract;
+
+                // Change price to default float price when float category changes
+                const prevFloatCategory = toFloatCategory(new Decimal(skin.floatInput));
+                newContract.skins[skinIndex].floatInput = newFloat;
+                const newFloatCategory = toFloatCategory(new Decimal(skin.floatInput));
+
+                if(prevFloatCategory !== newFloatCategory) {
+                    newContract.cost = newContract.cost.sub(skin.priceInput - Number(newContract.skins[skinIndex].prices[newFloatCategory]));
+                    // TODO: Does not properly update? ** USE Object.assign({}, skin); to make a copy of the skin for both float and price change so that state updates correctly
+                    newContract.skins[skinIndex].priceInput = Number(newContract.skins[skinIndex].prices[newFloatCategory]);
+                }
+
+                setContract(newContract);
+                calculateOutcome();
+            }
+        } else {
+            // TODO: Add error under skin, don't calculate outcome
+            setOutcome(null);
             doAddError("Invalid price change!");
         }
     }
@@ -116,7 +152,7 @@ const TradeUpEditor = (): React.JSX.Element => {
                 skin.priceInput = price.toNumber();
                 skin.floatInput = float.toNumber();
 
-                if(contract.cost.lt(skin.priceInput )) {
+                if (contract.cost.lt(skin.priceInput)) {
                     profitOdds += amount / totalOutcomes;
                 }
 
@@ -225,7 +261,7 @@ const TradeUpEditor = (): React.JSX.Element => {
                 <Col>
                     {contract ?
                         <TradeUpContract contract={contract} outcome={outcome}
-                            {...{ handlePriceChange }} /> :
+                            {...{ handlePriceChange }} {...{handleFloatChange}}/> :
                         <Container className="colored-container my-3 py-0 rounded-3" fluid>
                             <Row className="justify-content-center align-items-center" >
                                 <Col xs={12} sm={6} md={4} lg={3}>
