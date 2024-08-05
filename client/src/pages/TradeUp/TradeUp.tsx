@@ -44,15 +44,31 @@ const TradeUpEditor = (): React.JSX.Element => {
         const newPrice = Number(e.target.value);
 
         if (contract && !isNaN(newPrice) && newPrice >= 0) {
-            const skinIndex: number = contract.skins.indexOf(skin);
+            if (outcome?.contractOutcomes.has(skin.name)) {
+                const { contractOutcomes, averageFloat } = outcome;
 
-            if (skinIndex !== -1) {
-                const newContract: Contract = contract;
-                newContract.cost = newContract.cost.sub(skin.priceInput - newPrice);
-                newContract.skins[skinIndex].priceInput = newPrice;
+                const newContractOutcomes = new Map(contractOutcomes);
 
-                setContract(newContract);
-                calculateOutcome();
+                const [existingSkin, percent] = newContractOutcomes.get(skin.name) ?? [null, 0];
+
+                if (existingSkin) {
+                    existingSkin.priceInput = newPrice;
+
+                    newContractOutcomes.set(skin.name, [existingSkin, percent]);
+
+                    calculateOutcomeStats(newContractOutcomes, averageFloat, true);
+                }
+            } else {
+                const skinIndex: number = contract.skins.indexOf(skin);
+
+                if (skinIndex !== -1) {
+                    const newContract: Contract = contract;
+                    newContract.cost = newContract.cost.sub(skin.priceInput - newPrice);
+                    newContract.skins[skinIndex].priceInput = newPrice;
+
+                    setContract(newContract);
+                    calculateOutcome();
+                }
             }
         } else {
             e.target.value = "0";
@@ -72,16 +88,15 @@ const TradeUpEditor = (): React.JSX.Element => {
             const skinIndex: number = contract.skins.indexOf(skin);
 
             if (skinIndex !== -1) {
-                const newContract: Contract = contract;
+                const newContract = contract;
 
                 // Change price to default float price when float category changes
                 const prevFloatCategory = toFloatCategory(new Decimal(skin.floatInput));
                 newContract.skins[skinIndex].floatInput = newFloat;
                 const newFloatCategory = toFloatCategory(new Decimal(skin.floatInput));
 
-                if(prevFloatCategory !== newFloatCategory) {
+                if (prevFloatCategory !== newFloatCategory) {
                     newContract.cost = newContract.cost.sub(skin.priceInput - Number(newContract.skins[skinIndex].prices[newFloatCategory]));
-                    // TODO: Does not properly update? ** USE Object.assign({}, skin); to make a copy of the skin for both float and price change so that state updates correctly
                     newContract.skins[skinIndex].priceInput = Number(newContract.skins[skinIndex].prices[newFloatCategory]);
                 }
 
@@ -105,7 +120,7 @@ const TradeUpEditor = (): React.JSX.Element => {
         if (!contract || (contract.skins.length !== 10 || skinsData === null)) {
             console.log("Insufficient skins or skins data not loaded.");
         } else {
-            let contractOutcomes: Map<SkinData, number> = new Map<SkinData, number>();
+            let contractOutcomes = new Map<string, [SkinData, number]>();
             let averageFloat = new Decimal(0);
             let totalOutcomes = 0;
 
@@ -127,48 +142,61 @@ const TradeUpEditor = (): React.JSX.Element => {
                 const skinOutcomes = collection[higherQuality];
 
                 for (const skin of skinOutcomes) {
-                    if (!contractOutcomes.has(skin)) {
-                        contractOutcomes.set(skin, 0);
+                    if (!contractOutcomes.has(skin.name)) {
+                        contractOutcomes.set(skin.name, [skin, 0]);
                     }
                     // Type Assertion because typescript thinks it may be undefined
-                    contractOutcomes.set(skin, contractOutcomes.get(skin)! + 1);
+                    const [data, amount] = contractOutcomes.get(skin.name)!;
+
+                    contractOutcomes.set(skin.name, [data, amount + 1]);
                 }
                 totalOutcomes += skinOutcomes.length;
+            }
+
+            for (const [skinName, [skin, amount]] of contractOutcomes.entries()) {
+                // Sets contractOutcomes value as the percentage of getting skin
+                contractOutcomes.set(skinName, [skin, amount / totalOutcomes]);
             }
 
             // Calculate average float of skins
             averageFloat = averageFloat.div(10);
 
+            calculateOutcomeStats(contractOutcomes, averageFloat, false);
+        }
+    }
+
+
+    function calculateOutcomeStats(contractOutcomes: Map<string, [SkinData, number]>, averageFloat: Decimal, isPriceChange: boolean): void {
+        if (contract) {
             let expectedValue: Decimal = new Decimal(0);
             let variance: Decimal = new Decimal(0);
             let profitOdds: number = 0;
-            for (const [skin, amount] of contractOutcomes.entries()) {
+            for (const [_skinName, [skin, percentage]] of contractOutcomes.entries()) {
                 // Calculating skin's float and price
                 const float = averageFloat.mul(skin.wears.max_wear - skin.wears.min_wear).add(skin.wears.min_wear);
                 const floatCategory = toFloatCategory(float);
-                const price = new Decimal(skin.prices[floatCategory]);
+                const price = isPriceChange ? new Decimal(skin.priceInput) : new Decimal(skin.prices[floatCategory]);
 
                 // Setting skin's float and price
                 skin.priceInput = price.toNumber();
                 skin.floatInput = float.toNumber();
 
                 if (contract.cost.lt(skin.priceInput)) {
-                    profitOdds += amount / totalOutcomes;
+                    profitOdds += percentage;
                 }
 
-                expectedValue = expectedValue.add(price.mul(amount / totalOutcomes));
-                variance = variance.add(price.pow(2).mul(amount / totalOutcomes));
-
-                // Sets contractOutcomes value as the percentage of getting skin
-                contractOutcomes.set(skin, amount / totalOutcomes);
+                expectedValue = expectedValue.add(price.mul(percentage));
+                variance = variance.add(price.pow(2).mul(percentage));
             }
             variance = variance.sub((expectedValue.pow(2)));
 
-
+            // TODO: Fix sorting? When changing prices, the inputs don't change place
             // Sort contractOutcomes by price of outcome skin
-            contractOutcomes = new Map([...contractOutcomes.entries()].sort((skin1, skin2) => {
-                return skin2[0].priceInput - skin1[0].priceInput;
-            }));
+            // contractOutcomes = new Map([...contractOutcomes.entries()].sort(
+            //     ([_skin1Name, [skin1, _percentage1]], [_skin2Name, [skin2, _percentage2]]) => {
+            //         return skin2.priceInput - skin1.priceInput;
+            //     })
+            // );
 
             const profitPercent = !contract.cost.equals(0) ?
                 (expectedValue.sub(contract.cost).div(contract.cost).mul(100)).todp(2).toString() + "%" :
@@ -261,7 +289,7 @@ const TradeUpEditor = (): React.JSX.Element => {
                 <Col>
                     {contract ?
                         <TradeUpContract contract={contract} outcome={outcome}
-                            {...{ handlePriceChange }} {...{handleFloatChange}}/> :
+                            {...{ handlePriceChange }} {...{ handleFloatChange }} /> :
                         <Container className="colored-container my-3 py-0 rounded-3" fluid>
                             <Row className="justify-content-center align-items-center" >
                                 <Col xs={12} sm={6} md={4} lg={3}>

@@ -11,9 +11,9 @@ export type Contract = {
     cost: Decimal;
 }
 
-// TODO: Change contract outcomes to use the skin's name instead for custom pricing
+// TODO: Change contractOutcomes to have string based keys, and holding array of the skin data and number
 export type Outcome = {
-    contractOutcomes: Map<SkinData, number>;
+    contractOutcomes: Map<string, [SkinData, number]>;
     readonly expectedValue: Decimal;
     readonly profitPercent: string;
     readonly variance: Decimal;

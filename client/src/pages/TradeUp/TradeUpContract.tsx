@@ -82,11 +82,11 @@ const TradeUpContract = ({ contract, outcome, handlePriceChange, handleFloatChan
         let percentageChunk: number[] = [];
         let i: number = 0;
 
-        outcome.contractOutcomes.forEach((_amount, skin) => {
+        outcome.contractOutcomes.forEach(([skin, percentage], _skinName) => {
             skinChunk.push(skin);
 
             // contractOutcomes will always have skin, typescript complains
-            percentageChunk.push(outcome.contractOutcomes.get(skin) ?? 0);
+            percentageChunk.push(percentage);
 
             if (skinChunk.length === itemsPerRow) {
                 outcomeSkins.push(

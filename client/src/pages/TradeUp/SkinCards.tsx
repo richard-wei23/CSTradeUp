@@ -1,7 +1,8 @@
 import { Card, Form, InputGroup } from "react-bootstrap";
-import { SkinData } from "../../types/types";
+import { SkinData, toFloatCategory } from "../../types/types";
 import BaseSkinCard from "./BaseSkinCard";
 import React, { ChangeEvent } from "react";
+import Decimal from "decimal.js-light";
 
 type SkinDisplayProps = {
     skinDisplay: SkinData
@@ -28,14 +29,24 @@ type SkinOutcomeProps = {
     handlePriceChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
 }
 
-const SkinOutcome = ({ skinDisplay, outcomePercentage }: SkinOutcomeProps): JSX.Element => {
+const SkinOutcome = ({ skinDisplay, outcomePercentage, handlePriceChange }: SkinOutcomeProps): JSX.Element => {
     return <>
         <BaseSkinCard
             skinDisplay={skinDisplay}
+            headerContent={
+                <p>({toFloatCategory(new Decimal(skinDisplay.floatInput))})</p>
+            }
             bodyContent={<div>
-                <Card.Text className="text-center">
-                    {skinDisplay.priceInput.toFixed(2)}
-                </Card.Text>
+                <InputGroup size="sm" className="mb-3">
+                    <InputGroup.Text id={`price`}>$</InputGroup.Text>
+                    <Form.Control
+                        defaultValue={skinDisplay.priceInput.toFixed(2)}
+                        type="number"
+                        aria-label="Price"
+                        aria-describedby={`price`}
+                        onChange={(e: ChangeEvent<HTMLInputElement>) => handlePriceChange(e, skinDisplay)}
+                    />
+                </InputGroup>
                 {skinDisplay.floatInput.toFixed(11)}
                 <br />
                 {(outcomePercentage * 100).toFixed(2) + "%"}
@@ -64,15 +75,18 @@ const SkinContract = ({ skinDisplay, index, handlePriceChange, contractFunctions
 
     return <>
         <BaseSkinCard skinDisplay={skinDisplay}
+            headerContent={
+                <p>({toFloatCategory(new Decimal(skinDisplay.floatInput))})</p>
+            }
             bodyContent={<div>
                 <InputGroup size="sm" className="mb-3">
-                    <InputGroup.Text id={`price-${index}`}>$</InputGroup.Text>
+                    <InputGroup.Text id={`price`}>$</InputGroup.Text>
                     <Form.Control
-                        defaultValue={skinDisplay.priceInput.toString()}
+                        key={`price-${index}-${skinDisplay.floatInput}`}
+                        defaultValue={skinDisplay.priceInput.toFixed(2)}
                         type="number"
                         aria-label="Price"
-                        aria-describedby={`price-${index}`}
-                        min="0"
+                        aria-describedby={`price`}
                         onChange={(e: ChangeEvent<HTMLInputElement>) => handlePriceChange(e, skinDisplay)}
                     />
                 </InputGroup>
@@ -81,8 +95,6 @@ const SkinContract = ({ skinDisplay, index, handlePriceChange, contractFunctions
                         defaultValue={skinDisplay.floatInput.toFixed(11)}
                         type="number"
                         aria-label="Float"
-                        min={skinDisplay.wears.min_wear.toString()}
-                        max={skinDisplay.wears.max_wear.toString()}
                         onChange={(e: ChangeEvent<HTMLInputElement>) => handleFloatChange(e, skinDisplay)}
                     />
                 </InputGroup>
