@@ -11,7 +11,6 @@ export type Contract = {
     cost: Decimal;
 }
 
-// TODO: Change contractOutcomes to have string based keys, and holding array of the skin data and number
 export type Outcome = {
     contractOutcomes: Map<string, [SkinData, number]>;
     readonly expectedValue: Decimal;
