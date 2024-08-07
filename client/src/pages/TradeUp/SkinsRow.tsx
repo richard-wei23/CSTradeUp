@@ -13,8 +13,8 @@ type SkinsRowProps = {
     handlePriceChange?: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
     contractFunctions?: {
         handleFloatChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
-        doRemoveClick: () => void;
-        doCopyClick: () => void;
+        handleDeleteClick: (skin: SkinData) => void;
+        handleCopyClick: (skin: SkinData) => void;
     };
 }
 

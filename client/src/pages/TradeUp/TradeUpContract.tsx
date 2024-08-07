@@ -12,13 +12,17 @@ type TradeUpContractProps = {
 
     handlePriceChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
 
-    handleFloatChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
+    contractFunctions: {
+        handleFloatChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
+        handleDeleteClick: (skin: SkinData) => void;
+        handleCopyClick: (skin: SkinData) => void;
+    };
 }
 
 // * Temporary
 const itemsPerRow = 5;
 
-const TradeUpContract = ({ contract, outcome, handlePriceChange, handleFloatChange }: TradeUpContractProps): React.JSX.Element => {
+const TradeUpContract = ({ contract, outcome, handlePriceChange, contractFunctions }: TradeUpContractProps): React.JSX.Element => {
 
     /**
      * Transforms outcome data into skin and percentage arrays
@@ -56,11 +60,7 @@ const TradeUpContract = ({ contract, outcome, handlePriceChange, handleFloatChan
                 skinCardType={{ kind: isOutcome ? "outcome" : "contract" }}
                 outcomePercentages={percentages}
                 {...{ handlePriceChange }}
-                contractFunctions={{
-                    handleFloatChange,
-                    doRemoveClick: () => { },
-                    doCopyClick: () => { }
-                }}
+                {...{ contractFunctions }}
             />
         );
     };

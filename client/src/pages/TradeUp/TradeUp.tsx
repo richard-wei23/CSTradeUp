@@ -5,8 +5,7 @@ import TradeUpSearch from "./TradeUpSearch";
 import { Container, Row, Col } from "react-bootstrap";
 import Decimal from "decimal.js-light";
 
-const TradeUp= (): React.JSX.Element => {
-    // const [loading, setLoading] = useState(false);
+const TradeUp = (): React.JSX.Element => {
     const [error, setError] = useState<string>("");
     const [skinsData, setSkinsData] = useState<SkinsData | null>(null);
     const [filter, setFilter] = useState<{ quality: string, includesString: string }>({ quality: "", includesString: "" });
@@ -125,12 +124,55 @@ const TradeUp= (): React.JSX.Element => {
     }
 
     /**
+     * Handles when contract skin is deleted
+     * @param skin - skin to be deleted
+     */
+    function handleDeleteClick(skin: SkinData): void {
+        if (contract && contract.skins.length > 0) {
+            const skinIndex: number = contract.skins.indexOf(skin);
+
+            if (skinIndex !== -1) {
+                let { skins, cost } = contract;
+
+                skins.splice(skinIndex, 1);
+
+                setContract({ skins, cost });
+                calculateOutcome();
+            }
+        } else {
+            doAddError("Invalid skin deletion!");
+        }
+    }
+    
+    /**
+     * Handles when contract skin is copied
+     * @param skin - skin to be copied
+     */
+    function handleCopyClick(skin: SkinData): void {
+        if (contract && contract.skins.length < 10) {
+            const skinIndex: number = contract.skins.indexOf(skin);
+
+            if (skinIndex !== -1) {
+                let { skins, cost } = contract;
+
+                skins.push(skin);
+
+                setContract({ skins, cost });
+                calculateOutcome();
+            }
+        } else {
+            doAddError("Invalid skin copy!");
+        }
+    }
+
+    /**
      * Calculates contract outcome if there are enough skins inputted
      * @param newContract - Contract to calculate the outcome of
      */
     function calculateOutcome(): void {
         console.log("Calculating outcome...");
         if (!contract || (contract.skins.length !== 10 || skinsData === null)) {
+            setOutcome(null);
             console.log("Insufficient skins or skins data not loaded.");
         } else {
             let contractOutcomes = new Map<string, [SkinData, number]>();
@@ -309,7 +351,7 @@ const TradeUp= (): React.JSX.Element => {
                 <Col>
                     {contract ?
                         <TradeUpContract contract={contract} outcome={outcome}
-                            {...{ handlePriceChange }} {...{ handleFloatChange }} /> :
+                            {...{ handlePriceChange }} contractFunctions={{ handleFloatChange, handleDeleteClick, handleCopyClick }} /> :
                         <Container className="colored-container my-3 py-0 rounded-3" fluid>
                             <Row className="justify-content-center align-items-center" >
                                 <Col xs={12} sm={6} md={4} lg={3}>

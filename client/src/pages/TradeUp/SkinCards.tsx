@@ -1,4 +1,4 @@
-import { Card, Form, InputGroup } from "react-bootstrap";
+import { Button, Card, Form, InputGroup } from "react-bootstrap";
 import { SkinData, toFloatCategory } from "../../types/types";
 import BaseSkinCard from "./BaseSkinCard";
 import React, { ChangeEvent } from "react";
@@ -62,23 +62,28 @@ type SkinContractProps = {
     index: number;
     contractFunctions: {
         handleFloatChange: (e: ChangeEvent<HTMLInputElement>, skin: SkinData) => void;
-        doRemoveClick: () => void;
-        doCopyClick: () => void;
+        handleDeleteClick: (skin: SkinData) => void;
+        handleCopyClick: (skin: SkinData) => void;
     }
 
 }
 
 const SkinContract = ({ skinDisplay, index, handlePriceChange, contractFunctions }: SkinContractProps): JSX.Element => {
-    const { handleFloatChange, doRemoveClick, doCopyClick } = contractFunctions;
-    doRemoveClick;
-    doCopyClick;
+    const { handleFloatChange, handleDeleteClick, handleCopyClick } = contractFunctions;
 
     return <>
         <BaseSkinCard skinDisplay={skinDisplay}
             headerContent={
-                <p>({toFloatCategory(new Decimal(skinDisplay.floatInput))})</p>
+                <>
+                    <p>({toFloatCategory(new Decimal(skinDisplay.floatInput))})</p>
+                    <>
+                        <Button onClick={() => handleCopyClick(skinDisplay)} variant="primary" size="sm">Copy</Button>{" "}
+                        <Button onClick={() => handleDeleteClick(skinDisplay)} variant="primary" size="sm">Delete</Button>
+                    </>
+                </>
+
             }
-            bodyContent={<div>
+            bodyContent={<>
                 <InputGroup size="sm" className="mb-3">
                     <InputGroup.Text id={`price`}>$</InputGroup.Text>
                     <Form.Control
@@ -98,7 +103,7 @@ const SkinContract = ({ skinDisplay, index, handlePriceChange, contractFunctions
                         onChange={(e: ChangeEvent<HTMLInputElement>) => handleFloatChange(e, skinDisplay)}
                     />
                 </InputGroup>
-            </div>}
+            </>}
         />
     </>
 }
