@@ -1,5 +1,5 @@
 import React from "react";
-import { Container} from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import { SkinData, SkinsData } from "../../types/types";
 import "../../assets/styles/TradeUp.css"
 import SkinsRow from "./SkinsRow";
@@ -33,23 +33,29 @@ const TradeUpSearch = ({ skinsData, filter, onSkinClick }: TradeUpSearchProps): 
 
                 let sliceToQuality = 0;
                 const qualitiesArr = Object.values(qualities);
-                while(qualitiesArr[sliceToQuality].length === 0) {
+                while (qualitiesArr[sliceToQuality].length === 0) {
                     sliceToQuality++;
                 }
 
                 for (const [quality, skinDataArr] of Object.entries(qualities).slice(sliceToQuality + 1, 6)) {
                     if (quality.startsWith(filter.quality)) {
-                        skinDataArr.forEach((skin) => {
-                            if (skin.name.toLowerCase().includes(filter.includesString)) {
-                                skinChunk.push(skin);
+                        const filteredSkinData = skinDataArr.filter((skin) =>
+                            skin.name.toLowerCase().includes(filter.includesString)
+                        );
+                        filteredSkinData.forEach((skin) => {
+                            skinChunk.push(skin);
 
-                                if (skinChunk.length === itemsPerRow) {
-                                    skinsRows.push(
-                                        <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} skinCardType={{kind: "display"}} onSkinClick={onSkinClick} />
-                                    )
-                                    skinChunk = [];
-                                    i++;
-                                }
+                            if (skinChunk.length === itemsPerRow) {
+                                skinsRows.push(
+                                    <SkinsRow key={i}
+                                        skinsToDisplay={skinChunk}
+                                        itemsPerRow={itemsPerRow}
+                                        skinCardType={{ kind: "display" }}
+                                        onSkinClick={onSkinClick}
+                                    />
+                                )
+                                skinChunk = [];
+                                i++;
                             }
                         });
                     }
@@ -58,7 +64,7 @@ const TradeUpSearch = ({ skinsData, filter, onSkinClick }: TradeUpSearchProps): 
 
             if (skinChunk.length > 0) {
                 skinsRows.push(
-                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} skinCardType={{kind: "display"}} onSkinClick={onSkinClick} />
+                    <SkinsRow key={i} skinsToDisplay={skinChunk} itemsPerRow={itemsPerRow} skinCardType={{ kind: "display" }} onSkinClick={onSkinClick} />
                 )
             }
             return <>{skinsRows}</>;

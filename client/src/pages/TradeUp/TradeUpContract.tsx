@@ -19,111 +19,93 @@ type TradeUpContractProps = {
 const itemsPerRow = 5;
 
 const TradeUpContract = ({ contract, outcome, handlePriceChange, handleFloatChange }: TradeUpContractProps): React.JSX.Element => {
-    /**
-     * Renders the skins
-     * @returns JSX.Element that represents the contract skins
-     */
-    function renderContract(): JSX.Element {
-        const contractSkins: JSX.Element[] = [];
-        let skinChunk: SkinData[] = [];
-        let i: number = 0;
-
-        contract.skins.forEach((skin) => {
-            skinChunk.push(skin);
-
-            if (skinChunk.length === itemsPerRow) {
-                contractSkins.push(
-                    <SkinsRow key={i}
-                        skinsToDisplay={skinChunk}
-                        itemsPerRow={itemsPerRow}
-                        skinCardType={{ kind: "contract" }}
-                        {...{ handlePriceChange }}
-                        contractFunctions={{
-                            handleFloatChange,
-                            doRemoveClick: () => { },
-                            doCopyClick: () => { }
-                        }}
-                    />
-                )
-                skinChunk = [];
-                i++;
-            }
-        })
-
-        if (skinChunk.length > 0) {
-            contractSkins.push(
-                <SkinsRow key={i}
-                    skinsToDisplay={skinChunk}
-                    itemsPerRow={itemsPerRow}
-                    skinCardType={{ kind: "contract" }}
-                    {...{ handlePriceChange }}
-                    contractFunctions={{
-                        handleFloatChange,
-                        doRemoveClick: () => { },
-                        doCopyClick: () => { }
-                    }}
-                />
-            )
-        }
-        return <>{contractSkins}</>;
-    }
 
     /**
-     * Renders the outcome skins
-     * @returns JSX.Element that represents the outcome skins
+     * Transforms outcome data into skin and percentage arrays
+     * @param contractOutcomes - outcomes of the contract
+     * @returns skin and percentage arrays
      */
-    function renderOutcome(): JSX.Element {
-        if (outcome === null) {
-            return <></>;
-        }
+    function transformOutcomeData(contractOutcomes: Map<string, [SkinData, number]>): { outcomeSkins: SkinData[], outcomePercentages: number[] } {
+        const outcomeSkins: SkinData[] = [];
+        const outcomePercentages: number[] = [];
 
-        const outcomeSkins: JSX.Element[] = [];
+        contractOutcomes.forEach(([skin, percentage]) => {
+            outcomeSkins.push(skin);
+            outcomePercentages.push(percentage);
+        });
+
+        return { outcomeSkins, outcomePercentages };
+    };
+
+    const { outcomeSkins, outcomePercentages } = outcome ? transformOutcomeData(outcome.contractOutcomes) : { outcomeSkins: [], outcomePercentages: [] };
+
+    /**
+     * Creates a SkinsRow instance of given skins
+     * @param skins - skins to render
+     * @param key - key in row
+     * @param isOutcome - true if skins are for the outcome, false otherwise
+     * @param percentages - likelihood of getting outcome skins
+     * @returns SkinsRow instance
+     */
+    function createSkinsRow(skins: SkinData[], key: number, isOutcome: boolean, percentages?: number[]): JSX.Element {
+        return (
+            <SkinsRow
+                key={key}
+                skinsToDisplay={skins}
+                itemsPerRow={itemsPerRow}
+                skinCardType={{ kind: isOutcome ? "outcome" : "contract" }}
+                outcomePercentages={percentages}
+                {...{ handlePriceChange }}
+                contractFunctions={{
+                    handleFloatChange,
+                    doRemoveClick: () => { },
+                    doCopyClick: () => { }
+                }}
+            />
+        );
+    };
+
+    /**
+     * Renders the skins for contract and outcome
+     * @returns JSX.Element that represents the skins to render
+     */
+    function renderSkinsRows(skins: SkinData[], isOutcome: boolean, percentages?: number[]): JSX.Element[] {
+        const rows: JSX.Element[] = [];
         let skinChunk: SkinData[] = [];
         let percentageChunk: number[] = [];
-        let i: number = 0;
+        let i = 0;
 
-        outcome.contractOutcomes.forEach(([skin, percentage], _skinName) => {
+        skins.forEach((skin, index) => {
             skinChunk.push(skin);
-
-            // contractOutcomes will always have skin, typescript complains
-            percentageChunk.push(percentage);
+            if (isOutcome && percentages) {
+                percentageChunk.push(percentages[index]);
+            }
 
             if (skinChunk.length === itemsPerRow) {
-                outcomeSkins.push(
-                    <SkinsRow key={i}
-                        skinsToDisplay={skinChunk}
-                        itemsPerRow={itemsPerRow}
-                        skinCardType={{ kind: "outcome" }}
-                        outcomePercentages={percentageChunk}
-                        {...{ handlePriceChange }}
-                    />
-                )
+                rows.push(createSkinsRow(skinChunk, i, isOutcome, percentageChunk));
                 skinChunk = [];
                 percentageChunk = [];
                 i++;
             }
-        })
+        });
 
         if (skinChunk.length > 0) {
-            outcomeSkins.push(
-                <SkinsRow key={i}
-                    skinsToDisplay={skinChunk}
-                    itemsPerRow={itemsPerRow}
-                    skinCardType={{ kind: "outcome" }}
-                    outcomePercentages={percentageChunk}
-                    {...{ handlePriceChange }}
-                />
-            )
+            rows.push(createSkinsRow(skinChunk, i, isOutcome, percentageChunk));
         }
-        return <>{outcomeSkins}</>;
-    }
 
+        return rows;
+    };
+
+    /**
+     * Renders outcome details
+     * @returns element of outcome statistics
+     */
     function renderOutcomeDetails(): JSX.Element {
         if (!outcome) {
             return <></>;
         }
 
-        const { expectedValue, profitPercent, variance, averageFloat, profitOdds } = { ...outcome };
+        const { expectedValue, profitPercent, variance, averageFloat, profitOdds } = outcome;
 
         return <>
             Cost = {contract.cost.todp(2).toString()}
@@ -143,9 +125,9 @@ const TradeUpContract = ({ contract, outcome, handlePriceChange, handleFloatChan
     return <>
         <Container className="colored-container my-3 py-0 rounded-3" fluid>
             <div>
-                {renderContract()}
+                {renderSkinsRows(contract.skins, false)}
                 {renderOutcomeDetails()}
-                {renderOutcome()}
+                {outcome && renderSkinsRows(outcomeSkins, true, outcomePercentages)}
             </div>
         </Container>
     </>;
